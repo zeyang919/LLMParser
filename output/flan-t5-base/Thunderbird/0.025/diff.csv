@@ -1,0 +1,54 @@
+START: tftp pid=16563 from=10.100.4.251,START: tftp pid=<*> from=<*>.,START: tftp pid=<*> from=<*>
+time reset +0.182379 s,time reset <*> s,time reset +<*> s
+(supports S0 S4 S5),(supports <*> <*> ),(supports <*>)
+FADT (v001 DELL PE BKC 0x00000001 MSFT 0x0100000a) @ 0x00000000000fd6b0,FADT (v001 DELL PE BKC <*> MSFT <*> ) @ <*>,<*> (v001 DELL PE BKC <*> MSFT <*>) @ <*>
+HPET (v001 DELL PE BKC 0x00000001 MSFT 0x0100000a) @ 0x00000000000fd81c,HPET (v001 DELL PE BKC <*> MSFT <*> ) @ <*>,<*> (v001 DELL PE BKC <*> MSFT <*>) @ <*>
+INT_SRC_OVR (bus 0 bus_irq 0 global_irq 2 dfl dfl),<*> (bus <*> bus_irq <*> global_irq <*> ),INT_SRC_OVR (bus <*> bus_irq <*> global_irq <*> dfl dfl)
+INT_SRC_OVR (bus 0 bus_irq 9 global_irq 9 high level),<*> (bus <*> bus_irq <*> global_irq <*> high level),INT_SRC_OVR (bus <*> bus_irq <*> global_irq <*> high level)
+MADT (v001 DELL PE BKC 0x00000001 MSFT 0x0100000a) @ 0x00000000000fd724,MADT (v001 DELL PE BKC <*> MSFT <*> ) @ <*>,<*> (v001 DELL PE BKC <*> MSFT <*>) @ <*>
+PCI Interrupt Link [LNKB] (IRQs 3 4 5 6 7 10 *11 12),PCI Interrupt Link [<*> ] (IRQs <*> <*> <*> <*> <*> <*> <*> <*> <*> ),PCI Interrupt Link [<*>] (IRQs <*> <*> <*> <*> <*> <*> <*> <*>)
+"PCI Interrupt Link [LNKD] (IRQs 3 4 5 6 7 10 11 12) *0, disabled.","PCI Interrupt Link [<*> ] (IRQs <*> <*> <*> <*> <*> <*> <*> ) <*>, disabled.","PCI Interrupt Link [<*>] (IRQs <*> <*> <*> <*> <*> <*> <*> <*>) <*>, disabled."
+"PCI Interrupt Link [LNKE] (IRQs 3 4 5 6 7 10 11 12) *0, disabled.","PCI Interrupt Link [<*> ] (IRQs <*> <*> <*> <*> <*> <*> <*> ) <*>, disabled.","PCI Interrupt Link [<*>] (IRQs <*> <*> <*> <*> <*> <*> <*> <*>) <*>, disabled."
+"PCI Interrupt Link [LNKF] (IRQs 3 4 5 6 7 10 11 12) *0, disabled.","PCI Interrupt Link [<*> ] (IRQs <*> <*> <*> <*> <*> <*> <*> ) <*>, disabled.","PCI Interrupt Link [<*>] (IRQs <*> <*> <*> <*> <*> <*> <*> <*>) <*>, disabled."
+"PCI Interrupt Link [LNKG] (IRQs 3 4 5 6 7 10 11 12) *0, disabled.","PCI Interrupt Link [<*> ] (IRQs <*> <*> <*> <*> <*> <*> <*> ) <*>, disabled.","PCI Interrupt Link [<*>] (IRQs <*> <*> <*> <*> <*> <*> <*> <*>) <*>, disabled."
+"PCI Interrupt Link [LNKH] (IRQs 3 4 5 6 7 10 11 12) *0, disabled.","PCI Interrupt Link [<*> ] (IRQs <*> <*> <*> <*> <*> <*> <*> ) <*>, disabled.","PCI Interrupt Link [<*>] (IRQs <*> <*> <*> <*> <*> <*> <*> <*>) <*>, disabled."
+PCI Root Bridge [PCI0] (00:00),PCI Root Bridge [<*> ] (00:00),PCI <*> Bridge [PCI0] (<*>)
+Power Button (FF) [PWRF],Power Button (<*> ) [<*> ],Power Button (FF) [PWRF]
+RSDP (v000 DELL ) @ 0x00000000000fd650,RSDP (v000 DELL ) @ <*>,RSDP (<*> DELL ) @ <*>
+SPCR (v001 DELL PE BKC 0x00000001 MSFT 0x0100000a) @ 0x00000000000fd7cc,SPCR (v001 DELL PE BKC <*> MSFT <*> ) @ <*>,<*> (v001 DELL PE BKC <*> MSFT <*>) @ <*>
+Intel(R) Xeon(TM) CPU 3.60GHz stepping 03,Intel(R) <*> (TM) CPU <*> stepping <*>,Intel(R) Xeon(TM) CPU <*> stepping <*>
+"sys_ia32.c,v 1.32 2002/03/24 13:02:28 ak Exp $","sys_ia32.c,v <*> <*> <*> <*> <*> <*> Exp $",<*> <*> <*> ak Exp $
+"root=LABEL=/ initrd=/x86_64/initrd-2.6.9-5.0.5.EL-lustre-1.4.2-perfctr-admin console=tty0 console=ttyS0,19200 fastboot BOOT_IMAGE=/x86_64/vmlinuz-2.6.9-5.0.5.EL-lustre-1.4.2-perfctr",root=<*>=<*> / initrd=<*> /initrd=<*> / console=<*> /fastboot BOOT_IMAGE=<*> /vmlinuz-<*> -perfctr,"<*>=LABEL=/ initrd=<*> console=<*> console=<*>,<*> fastboot BOOT_IMAGE=<*>"
+Using software bounce buffering for IO (SWIOTLB),Using software bounce buffering for <*> (<*> ),Using software bounce buffering for IO (SWIOTLB)
+Transparent bridge - 0000:00:1e.0,Transparent bridge <*> -<*>.,Transparent bridge - <*>
+Direct-Access ANSI SCSI revision: 02,Direct-Access <*> sCSI revision: <*>,Direct-Access ANSI SCSI revision: <*>
+Processor ANSI SCSI revision: 02,Processor <*> SCSI revision: <*>,Processor ANSI SCSI revision: <*>
+Mounted root (ext2 filesystem).,Mounted root (<*> filesystem).,Mounted <*> (ext2 filesystem).
+MegaRAID Model: LD 0 RAID1 139G Rev: 516A,MegaRAID Model: <*> <*> RAID1 <*> Rev: <*>,MegaRAID Model: LD <*> RAID1 <*> Rev: <*>
+4.1.0-ioctl (2003-12-10) initialised: #36#@#37#,<*> (<*> ) initialised: <*> @ <*>,<*>-ioctl (<*>) initialised: <*>
+not allocating divert_blk for non-ethernet device lo,not allocating divert_blk for non-ethernet device lo,not allocating divert_blk for non-ethernet device <*>
+eth0: e1000_watchdog: NIC Link is Up 1000 Mbps Full Duplex,<*> : <*> : NIC Link is Up <*> Mbps Full Duplex,eth0: <*>: NIC Link is Up <*> Mbps Full Duplex
+Assuming 33MHz system bus speed for PIO modes; override with idebus=xx,Assuming <*> system bus speed for PIO modes; override with idebus=<*>,Assuming <*> system bus speed for PIO modes; override with idebus=xx
+Unknown cmd fd(5) cmd(80081272){ 00} arg(ffffda44) on /dev/sda,Unknown cmd <*> (<*> ) cmd(<*> ) while <*> ) on <*>,Unknown cmd fd(<*>) cmd(<*>){<*>} arg(<*>) on <*>
+"md driver 0.90.0 MAX_MD_DEVS=256, MD_SB_DISKS=27","md driver <*>, MAX_MD_DEVS=<*>, MD_SB_DISKS=<*>","md driver <*> MAX_MD_DEVS=<*>, MD_SB_DISKS=<*>"
+probe new device 0x1028:0x0013:0x1028:0x016c: bus 2:slot 14:func 0,probe new device <*> : bus <*> : bus <*> :func <*>,probe new device <*>: bus <*>:slot <*>:func <*>
+PS/2 mouse device common for all mice,PS/2 mouse device common for all mice,PS/<*> mouse device common for all mice
+sda1 sda2 sda3 sda4,<*> <*> <*> <*>.,sda1 sda2 sda3 sda4
+"i8042 AUX port at 0x60,0x64 irq 12",<*> AUX port at <*> irq <*>,"<*> AUX port at <*>,<*> irq <*>"
+"i8042 KBD port at 0x60,0x64 irq 1",<*> KBD port at <*> irq <*>,"<*> KBD port at <*>,<*> irq <*>"
+registered new driver hiddev,registered new driver <*>,registered new driver hiddev
+probe of vesafb0 failed with error -6,probe of <*> failed with error <*>,probe of vesafb0 failed with error <*>
+"connection from ""#28#""","connection from ""<*> """,connection from <*>
+Warning: we failed to resolve data source name an142 an143 an144 an145 an146 an147 an148 an149 an150 an151 an152 an153 an154 an155 an156 an157 an158 an159 an160 an161 an162 an163 an164 an165 an166 an167 an168 an169 an170 an171 an172 an173 an174 an175 an176 an177 an178 an179 an180 an181 an182 an183 an184 an185 an186 an187 an188 an189 an190 an191 an192 an193 an194 an195 an196 an197 an198 an199 an200 an201 an202 an203 an204 an205 an206 an207 an208 an209 an210 an211 an212 an213 an214 an215 an216 an217 an218 an219 an220 an221 an222 an223 an224 an225 an226 an227 an228 an229 an230 an231 an232 an233 an234 an235 an236 an237 an238 an239 an240 an241 an242,Warning: we failed to resolve data source name an<*>,Warning: we failed to resolve data source name <*>
+"connection from ""#28#""","connection from ""<*> """,connection from <*>
+xinetd startup succeeded,<*> startup succeeded,xinetd startup succeeded
+Started working: 1 available service,Started working: 1 available service,Started working: <*> available service
+removing daytime,removing daytime,removing <*>
+removing daytime,removing daytime,removing <*>
+removing echo,removing echo,removing <*>
+removing echo,removing echo,removing <*>
+removing printer,removing printer,removing <*>
+removing time,removing time,removing <*>
+removing time,removing time,removing <*>
+xinetd Version 2.3.13 started with libwrap loadavg options compiled in.,<*> <*> compiled with libwrap loadavg options compiled in.,xinetd Version <*> started with libwrap loadavg options compiled in.
+"Device: /dev/sda, Temperature changed -2 Celsius to 26 Celsius since last report","Device: <*>, Temperature changed <*> to <*> since last report","Device: <*>, Temperature changed <*> Celsius to <*> Celsius since last report"

@@ -1,0 +1,401 @@
+,instruction,Content,EventTemplate
+751,Parse the input log to log template.,1365301360 double-hummer alignment exceptions,<*> double-hummer alignment exceptions
+1545,Parse the input log to log template.,iar 001061dc dear 0244c25c,iar <*> dear <*>
+881,Parse the input log to log template.,generating core.27051,generating core.<*>
+396,Parse the input log to log template.,generating core.50230,generating core.<*>
+509,Parse the input log to log template.,generating core.28084,generating core.<*>
+1217,Parse the input log to log template.,"Node card VPD check: U01 node in processor card slot J14 do not match. VPD ecid 074C04C10F7BFFFF08051AE08ED2, found 04C180A5D12FFFFF05081BD088E2","Node card VPD check: <*> node in processor card slot <*> do not match. VPD ecid <*>, found <*>"
+416,Parse the input log to log template.,generating core.22421,generating core.<*>
+1701,Parse the input log to log template.,iar 00106200 dear 0247016c,iar <*> dear <*>
+1447,Parse the input log to log template.,rts: bad message header: expecting type 57 instead of type 3 (softheader=00131db8 81aa0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007,rts: bad message header: expecting type <*> instead of type <*> (softheader=<*> <*> <*> <*>) PSR0=<*> PSR1=<*> PRXF=<*> PIXF=<*>
+9,Parse the input log to log template.,ciod: failed to read message prefix on control stream (CioStream socket to 172.16.96.116:33370,ciod: failed to read message prefix on control stream (CioStream socket to <*>
+1371,Parse the input log to log template.,"NFS Mount failed on bglio91, slept 15 seconds, retrying (1)","NFS Mount failed on <*>, slept <*> seconds, retrying (<*>)"
+335,Parse the input log to log template.,generating core.8531,generating core.<*>
+541,Parse the input log to log template.,1146800 double-hummer alignment exceptions,<*> double-hummer alignment exceptions
+1023,Parse the input log to log template.,generating core.11244,generating core.<*>
+60,Parse the input log to log template.,instruction cache parity error corrected,instruction cache parity error corrected
+1610,Parse the input log to log template.,2354412 floating point alignment exceptions,<*> floating point alignment exceptions
+1878,Parse the input log to log template.,"10738 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.","<*> total interrupts. <*> critical input interrupts. <*> microseconds total spent on critical input interrupts, <*> microseconds max time in a critical input interrupt."
+314,Parse the input log to log template.,total of 1 ddr error(s) detected and corrected,total of <*> ddr error(s) detected and corrected
+619,Parse the input log to log template.,generating core.1807,generating core.<*>
+296,Parse the input log to log template.,floating pt ex mode 0 enable......0,floating pt ex mode <*> enable......<*>
+1199,Parse the input log to log template.,New ido chip inserted into the database: FF:F2:9F:15:1F:72:00:0D:60:EA:E0:8D ip=10.7.0.13 v=9 t=2,New ido chip inserted into the database: <*> ip=<*> v=<*> t=<*>
+1339,Parse the input log to log template.,23768676 double-hummer alignment exceptions,<*> double-hummer alignment exceptions
+907,Parse the input log to log template.,generating core.17851,generating core.<*>
+598,Parse the input log to log template.,generating core.631,generating core.<*>
+1205,Parse the input log to log template.,New ido chip inserted into the database: FF:F2:9F:16:C4:C2:00:0D:60:E9:3B:3D ip=10.2.1.37 v=13 t=4,New ido chip inserted into the database: <*> ip=<*> v=<*> t=<*>
+364,Parse the input log to log template.,generating core.8089,generating core.<*>
+1419,Parse the input log to log template.,"idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)","idoproxydb hit ASSERT condition: ASSERT expression=<*> Source file=idotransportmgr.cpp Source line=<*> Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)"
+846,Parse the input log to log template.,114059360 double-hummer alignment exceptions,<*> double-hummer alignment exceptions
+642,Parse the input log to log template.,generating core.6682,generating core.<*>
+1148,Parse the input log to log template.,1005 floating point alignment exceptions,<*> floating point alignment exceptions
+1727,Parse the input log to log template.,"CE sym 25, at 0x10e1bce0, mask 0x40","CE sym <*>, at <*>, mask <*>"
+1283,Parse the input log to log template.,iar 003a90dc dear 00b35148,iar <*> dear <*>
+760,Parse the input log to log template.,generating core.13753,generating core.<*>
+134,Parse the input log to log template.,data TLB error interrupt,data TLB error interrupt
+260,Parse the input log to log template.,machine check enable..............0,machine check enable..............<*>
+556,Parse the input log to log template.,1146800 double-hummer alignment exceptions,<*> double-hummer alignment exceptions
+1992,Parse the input log to log template.,instruction cache parity error corrected,instruction cache parity error corrected
+1906,Parse the input log to log template.,"10722 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.","<*> total interrupts. <*> critical input interrupts. <*> microseconds total spent on critical input interrupts, <*> microseconds max time in a critical input interrupt."
+1944,Parse the input log to log template.,total of 1 ddr error(s) detected and corrected over 2487 seconds,total of <*> ddr error(s) detected and corrected over <*> seconds
+1896,Parse the input log to log template.,"CE sym 4, at 0x0589f8e0, mask 0x10","CE sym <*>, at <*>, mask <*>"
+1454,Parse the input log to log template.,ciod: LOGIN chdir(/bgl/apps/SWL/performance/MINIBEN///2005.09.20-18.06.01) failed: No such file or directory,ciod: LOGIN chdir(<*>) failed: No such file or directory
+649,Parse the input log to log template.,generating core.56320,generating core.<*>
+1375,Parse the input log to log template.,"CE sym 35, at 0x1317cee0, mask 0x10","CE sym <*>, at <*>, mask <*>"
+1500,Parse the input log to log template.,ciod: generated 58 core files for program /home/spelce1/HPCC_IBM/Urgent/COP/64K/opt_co_dc.rts,ciod: generated <*> core files for program <*>
+1670,Parse the input log to log template.,iar 001007b8 dear 065b4c7c,iar <*> dear <*>
+1761,Parse the input log to log template.,"ciod: Received signal 15, code=0, errno=0, address=0x000001b0","ciod: Received signal <*>, code=<*>, errno=<*>, address=<*>"
+1017,Parse the input log to log template.,generating core.30886,generating core.<*>
+1560,Parse the input log to log template.,iar 00106228 dear 0244c21c,iar <*> dear <*>
+285,Parse the input log to log template.,icache prefetch threshold................0,icache prefetch threshold................<*>
+1731,Parse the input log to log template.,iar 00113898 dear 0fee9c4c,iar <*> dear <*>
+492,Parse the input log to log template.,generating core.5512,generating core.<*>
+1413,Parse the input log to log template.,"Node card VPD check: U01 node in processor card slot J15 do not match. VPD ecid 04DE7DB80D7BFFFF04051B70D8D9, found 04DE7DF2D37BFFFF09081B6088D9","Node card VPD check: <*> node in processor card slot <*> do not match. VPD ecid <*>, found <*>"
+50,Parse the input log to log template.,generating core.4368,generating core.<*>
+1938,Parse the input log to log template.,"CE sym 12, at 0x18e33e80, mask 0x04","CE sym <*>, at <*>, mask <*>"
+1789,Parse the input log to log template.,"ciod: Error reading message prefix on CioStream socket to 172.16.96.116:54780, Link has been severed","ciod: Error reading message prefix on CioStream socket to <*>, Link has been severed"
+1424,Parse the input log to log template.,"idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)","idoproxydb hit ASSERT condition: ASSERT expression=<*> Source file=idotransportmgr.cpp Source line=<*> Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)"
+215,Parse the input log to log template.,data storage interrupt,data storage interrupt
+956,Parse the input log to log template.,generating core.41718,generating core.<*>
+1975,Parse the input log to log template.,"2 ddr error(s) detected and corrected on rank 0, symbol 28 over 3365 seconds","<*> ddr error(s) detected and corrected on rank <*>, symbol <*> over <*> seconds"
+1428,Parse the input log to log template.,"idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)","idoproxydb hit ASSERT condition: ASSERT expression=<*> Source file=idotransportmgr.cpp Source line=<*> Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)"
+1654,Parse the input log to log template.,iar 001061cc dear 02f6667c,iar <*> dear <*>
+616,Parse the input log to log template.,generating core.4592,generating core.<*>
+408,Parse the input log to log template.,generating core.14856,generating core.<*>
+1446,Parse the input log to log template.,"ciod: Error loading /home/yates//broadcast.rts: invalid or missing program image, No such file or directory","ciod: Error loading <*>: invalid or missing program image, No such file or directory"
+547,Parse the input log to log template.,458720 double-hummer alignment exceptions,<*> double-hummer alignment exceptions
+1957,Parse the input log to log template.,"Kernel detected 3945740 integer alignment exceptions (3945733) iar 0x00544ea8, dear 0x01ef7960 (3945734) iar 0x00544eb8, dear 0x01ef7980 (3945735) iar 0x00544ea8, dear 0x01ef79a0 (3945736) iar 0x00544eb8, dear 0x01ef79c0 (3945737) iar 0x00544ee0, dear 0x01ef79e0 (3945738) iar 0x00544ef0, dear 0x01ef7a00 (3945739) iar 0x00544ee0, dear 0x01ef7a20 (3945740) iar 0x00544ef0, dear 0x01ef7a40","Kernel detected <*> integer alignment exceptions (<*>) iar <*>, dear <*> (<*>) iar <*>, dear <*> (<*>) iar <*>, dear <*> (<*>) iar <*>, dear <*> (<*>) iar <*>, dear <*> (<*>) iar <*>, dear <*> (<*>) iar <*>, dear <*> (<*>) iar <*>, dear <*>"
+1216,Parse the input log to log template.,Node card status: no ALERTs are active. Clock Mode is Low. Clock Select is Midplane. Phy JTAG Reset is asserted. ASIC JTAG Reset is asserted. Temperature Mask is not active. No temperature error. Temperature Limit Error Latch is clear. PGOOD IS NOT ASSERTED. PGOOD ERROR LATCH IS ACTIVE. MPGOOD IS NOT OK. MPGOOD ERROR LATCH IS ACTIVE. The 2.5 volt rail is OK. The 1.5 volt rail is OK.,Node card status: no ALERTs are active. Clock Mode is Low. Clock Select is Midplane. Phy JTAG Reset is asserted. ASIC JTAG Reset is asserted. Temperature Mask is not active. No temperature error. Temperature Limit Error Latch is clear. PGOOD IS NOT ASSERTED. PGOOD ERROR LATCH IS ACTIVE. MPGOOD IS NOT OK. MPGOOD ERROR LATCH IS ACTIVE. The <*> volt rail is OK. The <*> volt rail is OK.
+1379,Parse the input log to log template.,ciod: LOGIN chdir(/bglscratch/bwallen/SWL/SYS-CALLS/testcases/kernel/syscalls/truncate) failed: No such file or directory,ciod: LOGIN chdir(<*>) failed: No such file or directory
+1299,Parse the input log to log template.,iar 003a9254 dear 00f07a88,iar <*> dear <*>
+1273,Parse the input log to log template.,ciod: generated 128 core files for program /home/germann2/BGL-demo/SPaSM_mpi,ciod: generated <*> core files for program <*>
+1181,Parse the input log to log template.,generating core.64072,generating core.<*>
+1700,Parse the input log to log template.,iar 001061e8 dear 0247015c,iar <*> dear <*>
+1902,Parse the input log to log template.,"10676 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.","<*> total interrupts. <*> critical input interrupts. <*> microseconds total spent on critical input interrupts, <*> microseconds max time in a critical input interrupt."
+993,Parse the input log to log template.,generating core.47256,generating core.<*>
+781,Parse the input log to log template.,generating core.12643,generating core.<*>
+286,Parse the input log to log template.,icache prefetch threshold................0,icache prefetch threshold................<*>
+1469,Parse the input log to log template.,"CE sym 5, at 0x0e37bbe0, mask 0x40","CE sym <*>, at <*>, mask <*>"
+280,Parse the input log to log template.,program interrupt: fp cr field .............0,program interrupt: fp cr field .............<*>
+852,Parse the input log to log template.,111990296 double-hummer alignment exceptions,<*> double-hummer alignment exceptions
+833,Parse the input log to log template.,generating core.1715,generating core.<*>
+798,Parse the input log to log template.,generating core.3249,generating core.<*>
+1571,Parse the input log to log template.,iar 00106228 dear 0244c27c,iar <*> dear <*>
+1012,Parse the input log to log template.,generating core.7682,generating core.<*>
+1252,Parse the input log to log template.,"ciod: Error loading /bgl/apps/scaletest/performance/MINIBEN/mb_243_0810/allreduce.rts: invalid or missing program image, Exec format error","ciod: Error loading <*>: invalid or missing program image, Exec format error"
+1449,Parse the input log to log template.,"ciod: Error loading /bgl/apps/SWL/performance/MINIBEN//torus-latency.rts: invalid or missing program image, No such file or directory","ciod: Error loading <*>: invalid or missing program image, No such file or directory"
+1566,Parse the input log to log template.,iar 001061dc dear 0244c28c,iar <*> dear <*>
+520,Parse the input log to log template.,generating core.3389,generating core.<*>
+937,Parse the input log to log template.,generating core.13043,generating core.<*>
+365,Parse the input log to log template.,generating core.4660,generating core.<*>
+1923,Parse the input log to log template.,"10736 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.","<*> total interrupts. <*> critical input interrupts. <*> microseconds total spent on critical input interrupts, <*> microseconds max time in a critical input interrupt."
+1130,Parse the input log to log template.,generating core.11357,generating core.<*>
+915,Parse the input log to log template.,generating core.4505,generating core.<*>
+1460,Parse the input log to log template.,"CE sym 27, at 0x166a9f20, mask 0x02","CE sym <*>, at <*>, mask <*>"
+916,Parse the input log to log template.,generating core.27577,generating core.<*>
+377,Parse the input log to log template.,6182400 double-hummer alignment exceptions,<*> double-hummer alignment exceptions
+1383,Parse the input log to log template.,"Node card VPD check: U11 node in processor card slot J18 do not match. VPD ecid 04CC81389C2FFFFF03071B7048DF, found 04D780871F2FFFFF08031BD046E2","Node card VPD check: <*> node in processor card slot <*> do not match. VPD ecid <*>, found <*>"
+905,Parse the input log to log template.,generating core.18324,generating core.<*>
+591,Parse the input log to log template.,generating core.226,generating core.<*>
+922,Parse the input log to log template.,generating core.15967,generating core.<*>
+733,Parse the input log to log template.,generating core.11879,generating core.<*>
+1421,Parse the input log to log template.,"idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)","idoproxydb hit ASSERT condition: ASSERT expression=<*> Source file=idotransportmgr.cpp Source line=<*> Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)"
+310,Parse the input log to log template.,disable store gathering..................0,disable store gathering..................<*>
+1647,Parse the input log to log template.,iar 00106390 dear 02f67cfc,iar <*> dear <*>
+1328,Parse the input log to log template.,"CE sym 23, at 0x03f89c00, mask 0x10","CE sym <*>, at <*>, mask <*>"
+1917,Parse the input log to log template.,"10664 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.","<*> total interrupts. <*> critical input interrupts. <*> microseconds total spent on critical input interrupts, <*> microseconds max time in a critical input interrupt."
+415,Parse the input log to log template.,generating core.54486,generating core.<*>
+669,Parse the input log to log template.,generating core.57863,generating core.<*>
+817,Parse the input log to log template.,generating core.10429,generating core.<*>
+1452,Parse the input log to log template.,ciod: LOGIN chdir(/bgl/apps/SWL/performance/MINIBEN///2005.09.20-18.06.01) failed: No such file or directory,ciod: LOGIN chdir(<*>) failed: No such file or directory
+351,Parse the input log to log template.,generating core.2808,generating core.<*>
+1229,Parse the input log to log template.,Node card is not fully functional,Node card is not fully functional
+1286,Parse the input log to log template.,2201500 double-hummer alignment exceptions,<*> double-hummer alignment exceptions
+1030,Parse the input log to log template.,debug wait enable.................0,debug wait enable.................<*>
+1005,Parse the input log to log template.,generating core.58120,generating core.<*>
+491,Parse the input log to log template.,generating core.8691,generating core.<*>
+664,Parse the input log to log template.,generating core.30603,generating core.<*>
+112,Parse the input log to log template.,data TLB error interrupt,data TLB error interrupt
+539,Parse the input log to log template.,1146800 double-hummer alignment exceptions,<*> double-hummer alignment exceptions
+522,Parse the input log to log template.,Can not get assembly information for node card,Can not get assembly information for node card
+1997,Parse the input log to log template.,instruction cache parity error corrected,instruction cache parity error corrected
+1215,Parse the input log to log template.,"idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)","idoproxydb hit ASSERT condition: ASSERT expression=<*> Source file=idotransportmgr.cpp Source line=<*> Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)"
+208,Parse the input log to log template.,program interrupt: illegal instruction......0,program interrupt: illegal instruction......<*>
+85,Parse the input log to log template.,generating core.4984,generating core.<*>
+1563,Parse the input log to log template.,iar 001061dc dear 0244c22c,iar <*> dear <*>
+609,Parse the input log to log template.,634368144 double-hummer alignment exceptions,<*> double-hummer alignment exceptions
+1214,Parse the input log to log template.,"idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)","idoproxydb hit ASSERT condition: ASSERT expression=<*> Source file=idotransportmgr.cpp Source line=<*> Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)"
+1728,Parse the input log to log template.,iar 00106288 dear 02f7a0fc,iar <*> dear <*>
+1660,Parse the input log to log template.,74350836 floating point alignment exceptions,<*> floating point alignment exceptions
+1703,Parse the input log to log template.,iar 001061e8 dear 0247015c,iar <*> dear <*>
+1662,Parse the input log to log template.,iar 00106988 dear 02f7bd6c,iar <*> dear <*>
+206,Parse the input log to log template.,machine check: i-fetch......................0,machine check: i-fetch......................<*>
+914,Parse the input log to log template.,generating core.5785,generating core.<*>
+241,Parse the input log to log template.,machine check: i-fetch......................0,machine check: i-fetch......................<*>
+1864,Parse the input log to log template.,"10738 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.","<*> total interrupts. <*> critical input interrupts. <*> microseconds total spent on critical input interrupts, <*> microseconds max time in a critical input interrupt."
+1532,Parse the input log to log template.,640404 floating point alignment exceptions,<*> floating point alignment exceptions
+127,Parse the input log to log template.,data TLB error interrupt,data TLB error interrupt
+1096,Parse the input log to log template.,generating core.2767,generating core.<*>
+758,Parse the input log to log template.,generating core.18514,generating core.<*>
+653,Parse the input log to log template.,generating core.38077,generating core.<*>
+340,Parse the input log to log template.,generating core.2605,generating core.<*>
+979,Parse the input log to log template.,generating core.46536,generating core.<*>
+1515,Parse the input log to log template.,"1 ddr errors(s) detected and corrected on rank 0, symbol 17, bit 7","<*> ddr errors(s) detected and corrected on rank <*>, symbol <*>, bit <*>"
+1895,Parse the input log to log template.,"10684 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.","<*> total interrupts. <*> critical input interrupts. <*> microseconds total spent on critical input interrupts, <*> microseconds max time in a critical input interrupt."
+31,Parse the input log to log template.,force load/store alignment...............0,force load/store alignment...............<*>
+1946,Parse the input log to log template.,Lustre mount FAILED : bglio617 : block_id : location,Lustre mount FAILED : <*> : block_id : location
+1534,Parse the input log to log template.,iar 00106210 dear 0244c1dc,iar <*> dear <*>
+566,Parse the input log to log template.,generating core.20088,generating core.<*>
+1691,Parse the input log to log template.,"2 ddr errors(s) detected and corrected on rank 0, symbol 18, bit 6","<*> ddr errors(s) detected and corrected on rank <*>, symbol <*>, bit <*>"
+1933,Parse the input log to log template.,"PrepareForService shutting down Node card(mLctn(R10-M1-N2), mCardSernum(203231503833343000000000594c31304b34323934303257), mLp(FF:F2:9F:16:E0:DA:00:0D:60:E9:1F:25), mIp(10.1.1.164), mType(4)) as part of Service Action 648","PrepareForService shutting down Node card(mLctn(<*>), mCardSernum(<*>), mLp(<*>), mIp(<*>), mType(<*>)) as part of Service Action <*>"
+647,Parse the input log to log template.,generating core.19296,generating core.<*>
+1929,Parse the input log to log template.,"CE sym 27, at 0x00284720, mask 0x11","CE sym <*>, at <*>, mask <*>"
+1590,Parse the input log to log template.,iar 00106580 dear 02494c2c,iar <*> dear <*>
+1366,Parse the input log to log template.,iar 0014a150 dear 009829b8,iar <*> dear <*>
+953,Parse the input log to log template.,"1 ddr errors(s) detected and corrected on rank 0, symbol 33, bit 7","<*> ddr errors(s) detected and corrected on rank <*>, symbol <*>, bit <*>"
+25,Parse the input log to log template.,generating core.5570,generating core.<*>
+808,Parse the input log to log template.,generating core.3851,generating core.<*>
+505,Parse the input log to log template.,generating core.18540,generating core.<*>
+728,Parse the input log to log template.,generating core.15753,generating core.<*>
+838,Parse the input log to log template.,118661512 double-hummer alignment exceptions,<*> double-hummer alignment exceptions
+494,Parse the input log to log template.,generating core.1641,generating core.<*>
+1972,Parse the input log to log template.,ciod: LOGIN chdir(/p/gb1/stella/RAPTOR/2183) failed: Input/output error,ciod: LOGIN chdir(<*>) failed: Input/output error
+944,Parse the input log to log template.,generating core.23998,generating core.<*>
+1198,Parse the input log to log template.,"1 ddr errors(s) detected and corrected on rank 0, symbol 11, bit 6","<*> ddr errors(s) detected and corrected on rank <*>, symbol <*>, bit <*>"
+643,Parse the input log to log template.,generating core.7672,generating core.<*>
+940,Parse the input log to log template.,generating core.27704,generating core.<*>
+1682,Parse the input log to log template.,407736 floating point alignment exceptions,<*> floating point alignment exceptions
+1687,Parse the input log to log template.,iar 00106204 dear 02f75edc,iar <*> dear <*>
+1967,Parse the input log to log template.,"ciod: Error loading /p/gb1/stella/UMT2K/1325/umt2k_DD: invalid or missing program image, Permission denied","ciod: Error loading <*>: invalid or missing program image, Permission denied"
+1021,Parse the input log to log template.,generating core.31197,generating core.<*>
+427,Parse the input log to log template.,generating core.323,generating core.<*>
+1681,Parse the input log to log template.,iar 0010653c dear 0245a63c,iar <*> dear <*>
+1010,Parse the input log to log template.,generating core.43008,generating core.<*>
+1588,Parse the input log to log template.,iar 00106534 dear 02494c3c,iar <*> dear <*>
+1078,Parse the input log to log template.,generating core.3455,generating core.<*>
+1336,Parse the input log to log template.,iar 0014a150 dear 0072b9f8,iar <*> dear <*>
+1930,Parse the input log to log template.,"CE sym 9, at 0x0021d9c0, mask 0x20","CE sym <*>, at <*>, mask <*>"
+1,Parse the input log to log template.,instruction cache parity error corrected,instruction cache parity error corrected
+482,Parse the input log to log template.,generating core.18751,generating core.<*>
+1737,Parse the input log to log template.,"2 ddr errors(s) detected and corrected on rank 0, symbol 4, bit 4","<*> ddr errors(s) detected and corrected on rank <*>, symbol <*>, bit <*>"
+793,Parse the input log to log template.,generating core.23838,generating core.<*>
+442,Parse the input log to log template.,auxiliary processor.........................0,auxiliary processor.........................<*>
+1831,Parse the input log to log template.,"10676 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.","<*> total interrupts. <*> critical input interrupts. <*> microseconds total spent on critical input interrupts, <*> microseconds max time in a critical input interrupt."
+878,Parse the input log to log template.,generating core.22807,generating core.<*>
+1863,Parse the input log to log template.,0 microseconds spent in the rbs signal handler during 0 calls. 0 microseconds was the maximum time for a single instance of a correctable ddr.,<*> microseconds spent in the rbs signal handler during <*> calls. <*> microseconds was the maximum time for a single instance of a correctable ddr.
+900,Parse the input log to log template.,generating core.26646,generating core.<*>
+608,Parse the input log to log template.,632431728 double-hummer alignment exceptions,<*> double-hummer alignment exceptions
+1263,Parse the input log to log template.,ciod: generated 64 core files for program /bgl/apps/swl-prep/ibm-swl/functional/sppm_chkpt/run/sppm,ciod: generated <*> core files for program <*>
+859,Parse the input log to log template.,generating core.12883,generating core.<*>
+868,Parse the input log to log template.,generating core.18363,generating core.<*>
+1200,Parse the input log to log template.,New ido chip inserted into the database: FF:F2:9F:16:BF:6C:00:0D:60:E9:40:93 ip=10.5.0.46 v=13 t=4,New ido chip inserted into the database: <*> ip=<*> v=<*> t=<*>
+1899,Parse the input log to log template.,"10754 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.","<*> total interrupts. <*> critical input interrupts. <*> microseconds total spent on critical input interrupts, <*> microseconds max time in a critical input interrupt."
+8,Parse the input log to log template.,ciod: failed to read message prefix on control stream (CioStream socket to 172.16.96.116:33569,ciod: failed to read message prefix on control stream (CioStream socket to <*>
+912,Parse the input log to log template.,generating core.10645,generating core.<*>
+1317,Parse the input log to log template.,iar 003a9260 dear 012979b8,iar <*> dear <*>
+1640,Parse the input log to log template.,iar 00106704 dear 0245b83c,iar <*> dear <*>
+1561,Parse the input log to log template.,iar 00106210 dear 0244c1dc,iar <*> dear <*>
+1866,Parse the input log to log template.,"10714 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.","<*> total interrupts. <*> critical input interrupts. <*> microseconds total spent on critical input interrupts, <*> microseconds max time in a critical input interrupt."
+1920,Parse the input log to log template.,"10722 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.","<*> total interrupts. <*> critical input interrupts. <*> microseconds total spent on critical input interrupts, <*> microseconds max time in a critical input interrupt."
+1472,Parse the input log to log template.,"CE sym 9, at 0x11b9cc60, mask 0x04","CE sym <*>, at <*>, mask <*>"
+22,Parse the input log to log template.,generating core.1125,generating core.<*>
+632,Parse the input log to log template.,generating core.9949,generating core.<*>
+1271,Parse the input log to log template.,ciod: LOGIN chdir(/home/germann2/SPaSM_static) failed: No such file or directory,ciod: LOGIN chdir(<*>) failed: No such file or directory
+662,Parse the input log to log template.,generating core.245,generating core.<*>
+1583,Parse the input log to log template.,iar 00106568 dear 02494bec,iar <*> dear <*>
+1711,Parse the input log to log template.,iar 001061b4 dear 0247017c,iar <*> dear <*>
+79,Parse the input log to log template.,generating core.7836,generating core.<*>
+319,Parse the input log to log template.,instruction cache parity error corrected,instruction cache parity error corrected
+1274,Parse the input log to log template.,ciod: generated 128 core files for program /home/germann2/BGL-demo/SPaSM_mpi,ciod: generated <*> core files for program <*>
+1178,Parse the input log to log template.,generating core.29755,generating core.<*>
+559,Parse the input log to log template.,generating core.848,generating core.<*>
+717,Parse the input log to log template.,generating core.24314,generating core.<*>
+1536,Parse the input log to log template.,iar 00106228 dear 0244c1ec,iar <*> dear <*>
+697,Parse the input log to log template.,generating core.58351,generating core.<*>
+29,Parse the input log to log template.,generating core.4245,generating core.<*>
+242,Parse the input log to log template.,data store interrupt caused by dcbf.........0,data store interrupt caused by dcbf.........<*>
+1476,Parse the input log to log template.,"CE sym 9, at 0x11f82720, mask 0x02","CE sym <*>, at <*>, mask <*>"
+930,Parse the input log to log template.,generating core.23119,generating core.<*>
+483,Parse the input log to log template.,generating core.22783,generating core.<*>
+48,Parse the input log to log template.,generating core.4937,generating core.<*>
+1282,Parse the input log to log template.,iar 003a90fc dear 00b360e8,iar <*> dear <*>
+1492,Parse the input log to log template.,"ciod: Error loading /bgl/apps/followup/MINIBEN/MB_254_051007/torus-latency.rts: invalid or missing program image, No such file or directory","ciod: Error loading <*>: invalid or missing program image, No such file or directory"
+1359,Parse the input log to log template.,iar 00149f88 dear 0099be48,iar <*> dear <*>
+15,Parse the input log to log template.,generating core.3276,generating core.<*>
+259,Parse the input log to log template.,auxiliary processor.........................0,auxiliary processor.........................<*>
+1556,Parse the input log to log template.,640404 floating point alignment exceptions,<*> floating point alignment exceptions
+982,Parse the input log to log template.,generating core.46157,generating core.<*>
+1499,Parse the input log to log template.,ciod: generated 64 core files for program /home/spelce1/HPCC_IBM/Urgent/COP/64K/opt_co_dc.rts,ciod: generated <*> core files for program <*>
+1395,Parse the input log to log template.,"1 ddr errors(s) detected and corrected on rank 0, symbol 3, bit 6","<*> ddr errors(s) detected and corrected on rank <*>, symbol <*>, bit <*>"
+737,Parse the input log to log template.,generating core.8544,generating core.<*>
+923,Parse the input log to log template.,generating core.24172,generating core.<*>
+730,Parse the input log to log template.,generating core.8575,generating core.<*>
+424,Parse the input log to log template.,generating core.2109,generating core.<*>
+1622,Parse the input log to log template.,iar 00106bd8 dear 0245cd8c,iar <*> dear <*>
+35,Parse the input log to log template.,generating core.6990,generating core.<*>
+945,Parse the input log to log template.,ciod: Error creating node map from file /home/pakin1/sweep3d-2.2b/results/random1-8x32x32x2.map: Permission denied,ciod: Error creating node map from file <*>: Permission denied
+1100,Parse the input log to log template.,"1 ddr errors(s) detected and corrected on rank 0, symbol 20, bit 3","<*> ddr errors(s) detected and corrected on rank <*>, symbol <*>, bit <*>"
+1301,Parse the input log to log template.,iar 003a9260 dear 012924f8,iar <*> dear <*>
+1771,Parse the input log to log template.,MACHINE CHECK DCR read timeout (mc=e08x iar 0x00000000 lr 0xc00045a4),MACHINE CHECK DCR read timeout (mc=<*> iar <*> lr <*>)
+193,Parse the input log to log template.,instruction address: 0x00004ed8,instruction address: <*>
+146,Parse the input log to log template.,data TLB error interrupt,data TLB error interrupt
+1231,Parse the input log to log template.,rts tree/torus link training failed: wanted: B C X+ X- Y+ Y- Z+ Z- got: B C X- Y- Z+ Z-,rts tree/torus link training failed: wanted: <*> got: <*>
+126,Parse the input log to log template.,data TLB error interrupt,data TLB error interrupt
+879,Parse the input log to log template.,generating core.284,generating core.<*>
+1004,Parse the input log to log template.,generating core.47690,generating core.<*>
+1908,Parse the input log to log template.,"10684 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.","<*> total interrupts. <*> critical input interrupts. <*> microseconds total spent on critical input interrupts, <*> microseconds max time in a critical input interrupt."
+1294,Parse the input log to log template.,iar 003a929c dear 00efd448,iar <*> dear <*>
+1581,Parse the input log to log template.,iar 00106534 dear 02494c0c,iar <*> dear <*>
+343,Parse the input log to log template.,generating core.3053,generating core.<*>
+190,Parse the input log to log template.,data storage interrupt,data storage interrupt
+1706,Parse the input log to log template.,iar 00106200 dear 0247019c,iar <*> dear <*>
+387,Parse the input log to log template.,259966605 double-hummer alignment exceptions,<*> double-hummer alignment exceptions
+1964,Parse the input log to log template.,"ciod: Error loading /bgl/apps/SWL/stability/MDCASK/WORK/1383/inferno: invalid or missing program image, Permission denied","ciod: Error loading <*>: invalid or missing program image, Permission denied"
+19,Parse the input log to log template.,generating core.1414,generating core.<*>
+1811,Parse the input log to log template.,"10744 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.","<*> total interrupts. <*> critical input interrupts. <*> microseconds total spent on critical input interrupts, <*> microseconds max time in a critical input interrupt."
+925,Parse the input log to log template.,generating core.17526,generating core.<*>
+1579,Parse the input log to log template.,iar 00106580 dear 02494bcc,iar <*> dear <*>
+1159,Parse the input log to log template.,generating core.37807,generating core.<*>
+667,Parse the input log to log template.,generating core.50240,generating core.<*>
+1127,Parse the input log to log template.,5 floating point alignment exceptions,<*> floating point alignment exceptions
+109,Parse the input log to log template.,data TLB error interrupt,data TLB error interrupt
+1802,Parse the input log to log template.,"ciod: Received signal 15, code=0, errno=0, address=0x000001f5","ciod: Received signal <*>, code=<*>, errno=<*>, address=<*>"
+540,Parse the input log to log template.,1146800 double-hummer alignment exceptions,<*> double-hummer alignment exceptions
+1147,Parse the input log to log template.,1005 floating point alignment exceptions,<*> floating point alignment exceptions
+1049,Parse the input log to log template.,8 floating point alignment exceptions,<*> floating point alignment exceptions
+1477,Parse the input log to log template.,"CE sym 6, at 0x0148b640, mask 0x10","CE sym <*>, at <*>, mask <*>"
+770,Parse the input log to log template.,generating core.7193,generating core.<*>
+1820,Parse the input log to log template.,0 microseconds spent in the rbs signal handler during 0 calls. 0 microseconds was the maximum time for a single instance of a correctable ddr.,<*> microseconds spent in the rbs signal handler during <*> calls. <*> microseconds was the maximum time for a single instance of a correctable ddr.
+1593,Parse the input log to log template.,iar 00106580 dear 045e141c,iar <*> dear <*>
+1213,Parse the input log to log template.,"idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)","idoproxydb hit ASSERT condition: ASSERT expression=<*> Source file=idotransportmgr.cpp Source line=<*> Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)"
+1868,Parse the input log to log template.,"10718 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.","<*> total interrupts. <*> critical input interrupts. <*> microseconds total spent on critical input interrupts, <*> microseconds max time in a critical input interrupt."
+1600,Parse the input log to log template.,2354412 floating point alignment exceptions,<*> floating point alignment exceptions
+81,Parse the input log to log template.,generating core.2921,generating core.<*>
+1540,Parse the input log to log template.,iar 00106228 dear 0244c1ec,iar <*> dear <*>
+908,Parse the input log to log template.,generating core.30632,generating core.<*>
+552,Parse the input log to log template.,1146800 double-hummer alignment exceptions,<*> double-hummer alignment exceptions
+10,Parse the input log to log template.,"CE sym 20, at 0x1438f9e0, mask 0x40","CE sym <*>, at <*>, mask <*>"
+378,Parse the input log to log template.,6182400 double-hummer alignment exceptions,<*> double-hummer alignment exceptions
+830,Parse the input log to log template.,generating core.4061,generating core.<*>
+1798,Parse the input log to log template.,13 tree receiver 1 in re-synch state event(s) (dcr 0x0185) detected over 4562 seconds,<*> tree receiver <*> in re-synch state event(s) (dcr <*>) detected over <*> seconds
+1000,Parse the input log to log template.,generating core.46425,generating core.<*>
+11,Parse the input log to log template.,generating core.2275,generating core.<*>
+1361,Parse the input log to log template.,iar 0014a150 dear 009b9288,iar <*> dear <*>
+1882,Parse the input log to log template.,0 microseconds spent in the rbs signal handler during 0 calls. 0 microseconds was the maximum time for a single instance of a correctable ddr.,<*> microseconds spent in the rbs signal handler during <*> calls. <*> microseconds was the maximum time for a single instance of a correctable ddr.
+532,Parse the input log to log template.,1146800 double-hummer alignment exceptions,<*> double-hummer alignment exceptions
+37,Parse the input log to log template.,generating core.2218,generating core.<*>
+1482,Parse the input log to log template.,"CE sym 25, at 0x06c27c60, mask 0x40","CE sym <*>, at <*>, mask <*>"
+524,Parse the input log to log template.,1146800 double-hummer alignment exceptions,<*> double-hummer alignment exceptions
+1462,Parse the input log to log template.,"CE sym 15, at 0x0bde77e0, mask 0x04","CE sym <*>, at <*>, mask <*>"
+1889,Parse the input log to log template.,0 microseconds spent in the rbs signal handler during 0 calls. 0 microseconds was the maximum time for a single instance of a correctable ddr.,<*> microseconds spent in the rbs signal handler during <*> calls. <*> microseconds was the maximum time for a single instance of a correctable ddr.
+1425,Parse the input log to log template.,"idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)","idoproxydb hit ASSERT condition: ASSERT expression=<*> Source file=idotransportmgr.cpp Source line=<*> Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)"
+1245,Parse the input log to log template.,"ciod: Error loading /bgl/apps/scaletest/performance/MINIBEN/mb_243_0810/allreduce.rts: invalid or missing program image, Exec format error","ciod: Error loading <*>: invalid or missing program image, Exec format error"
+56,Parse the input log to log template.,"CE sym 20, at 0x01228120, mask 0x10","CE sym <*>, at <*>, mask <*>"
+1978,Parse the input log to log template.,"2 ddr error(s) detected and corrected on rank 0, symbol 34 over 2738 seconds","<*> ddr error(s) detected and corrected on rank <*>, symbol <*> over <*> seconds"
+1655,Parse the input log to log template.,iar 00105fd4 dear 0245a09c,iar <*> dear <*>
+726,Parse the input log to log template.,generating core.33163,generating core.<*>
+1362,Parse the input log to log template.,iar 0014a150 dear 009a50f8,iar <*> dear <*>
+862,Parse the input log to log template.,generating core.17150,generating core.<*>
+1672,Parse the input log to log template.,ciod: generated 128 core files for program /g/g20/valone1/SPaSM-shock/SPaSM_mpi,ciod: generated <*> core files for program <*>
+388,Parse the input log to log template.,255244071 double-hummer alignment exceptions,<*> double-hummer alignment exceptions
+1988,Parse the input log to log template.,"ciod: Error loading /g/g24/buber/Yunsic/BlueGene/partad.develf/taddriver.32.exe: program image too big, 361544528 > 266076160","ciod: Error loading <*>: program image too big, <*> > <*>"
+149,Parse the input log to log template.,data TLB error interrupt,data TLB error interrupt
+1976,Parse the input log to log template.,"ciod: Error loading /g/g0/spelce1/Tuned/SPaSM-base/rundir/SPaSM.baseline: invalid or missing program image, Permission denied","ciod: Error loading <*>: invalid or missing program image, Permission denied"
+573,Parse the input log to log template.,generating core.15557,generating core.<*>
+399,Parse the input log to log template.,generating core.16830,generating core.<*>
+987,Parse the input log to log template.,generating core.30256,generating core.<*>
+1893,Parse the input log to log template.,0 microseconds spent in the rbs signal handler during 0 calls. 0 microseconds was the maximum time for a single instance of a correctable ddr.,<*> microseconds spent in the rbs signal handler during <*> calls. <*> microseconds was the maximum time for a single instance of a correctable ddr.
+1309,Parse the input log to log template.,iar 003a92a0 dear 012902f8,iar <*> dear <*>
+1714,Parse the input log to log template.,iar 00106200 dear 0247019c,iar <*> dear <*>
+1320,Parse the input log to log template.,iar 003a929c dear 0136b2d8,iar <*> dear <*>
+457,Parse the input log to log template.,Node card is not fully functional,Node card is not fully functional
+1870,Parse the input log to log template.,"10698 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.","<*> total interrupts. <*> critical input interrupts. <*> microseconds total spent on critical input interrupts, <*> microseconds max time in a critical input interrupt."
+1704,Parse the input log to log template.,iar 00106200 dear 0247019c,iar <*> dear <*>
+214,Parse the input log to log template.,instruction address: 0x00004ed8,instruction address: <*>
+1163,Parse the input log to log template.,generating core.4012,generating core.<*>
+732,Parse the input log to log template.,generating core.11921,generating core.<*>
+106,Parse the input log to log template.,data TLB error interrupt,data TLB error interrupt
+1721,Parse the input log to log template.,iar 00106b98 dear 0246dd9c,iar <*> dear <*>
+1388,Parse the input log to log template.,"CE sym 26, at 0x146ad540, mask 0x10","CE sym <*>, at <*>, mask <*>"
+764,Parse the input log to log template.,generating core.8832,generating core.<*>
+1106,Parse the input log to log template.,15 floating point alignment exceptions,<*> floating point alignment exceptions
+1673,Parse the input log to log template.,iar 001066ac dear 0252523c,iar <*> dear <*>
+1847,Parse the input log to log template.,0 microseconds spent in the rbs signal handler during 0 calls. 0 microseconds was the maximum time for a single instance of a correctable ddr.,<*> microseconds spent in the rbs signal handler during <*> calls. <*> microseconds was the maximum time for a single instance of a correctable ddr.
+1751,Parse the input log to log template.,ciod: generated 128 core files for program /bgl/apps/followup/SPaSM_static/SPaSM_mpi.rel2,ciod: generated <*> core files for program <*>
+354,Parse the input log to log template.,generating core.5401,generating core.<*>
+555,Parse the input log to log template.,1146800 double-hummer alignment exceptions,<*> double-hummer alignment exceptions
+1520,Parse the input log to log template.,"Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=0064588e 8aff0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007","Error receiving packet on tree network, expecting type <*> instead of type <*> (softheader=<*> <*> <*> <*>) PSR0=<*> PSR1=<*> PRXF=<*> PIXF=<*>"
+801,Parse the input log to log template.,generating core.3959,generating core.<*>
+225,Parse the input log to log template.,data storage interrupt,data storage interrupt
+1140,Parse the input log to log template.,5 floating point alignment exceptions,<*> floating point alignment exceptions
+1179,Parse the input log to log template.,generating core.50579,generating core.<*>
+172,Parse the input log to log template.,data storage interrupt,data storage interrupt
+1529,Parse the input log to log template.,"ciod: Error loading /home.old/glosli/src/ddcMD/ddcMD1.1.17/bin/ddcMDGbglV: invalid or missing program image, No such file or directory","ciod: Error loading <*>: invalid or missing program image, No such file or directory"
+201,Parse the input log to log template.,data storage interrupt,data storage interrupt
+1210,Parse the input log to log template.,"idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)","idoproxydb hit ASSERT condition: ASSERT expression=<*> Source file=idotransportmgr.cpp Source line=<*> Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)"
+612,Parse the input log to log template.,generating core.841,generating core.<*>
+1817,Parse the input log to log template.,"10650 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.","<*> total interrupts. <*> critical input interrupts. <*> microseconds total spent on critical input interrupts, <*> microseconds max time in a critical input interrupt."
+1881,Parse the input log to log template.,0 microseconds spent in the rbs signal handler during 0 calls. 0 microseconds was the maximum time for a single instance of a correctable ddr.,<*> microseconds spent in the rbs signal handler during <*> calls. <*> microseconds was the maximum time for a single instance of a correctable ddr.
+1432,Parse the input log to log template.,"idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)","idoproxydb hit ASSERT condition: ASSERT expression=<*> Source file=idotransportmgr.cpp Source line=<*> Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)"
+404,Parse the input log to log template.,generating core.56155,generating core.<*>
+978,Parse the input log to log template.,generating core.29899,generating core.<*>
+1367,Parse the input log to log template.,iar 00149f88 dear 00996f88,iar <*> dear <*>
+1342,Parse the input log to log template.,35418742 double-hummer alignment exceptions,<*> double-hummer alignment exceptions
+187,Parse the input log to log template.,data storage interrupt,data storage interrupt
+1750,Parse the input log to log template.,"critical input interrupt (unit=0x0b bit=0x0a): warning for torus z+ wire, suppressing further interrupts of same type","critical input interrupt (unit=<*> bit=<*>): warning for torus z+ wire, suppressing further interrupts of same type"
+1803,Parse the input log to log template.,"CE sym 1, at 0x01d7eaa0, mask 0x02","CE sym <*>, at <*>, mask <*>"
+1028,Parse the input log to log template.,generating core.7663,generating core.<*>
+1911,Parse the input log to log template.,0 microseconds spent in the rbs signal handler during 0 calls. 0 microseconds was the maximum time for a single instance of a correctable ddr.,<*> microseconds spent in the rbs signal handler during <*> calls. <*> microseconds was the maximum time for a single instance of a correctable ddr.
+1991,Parse the input log to log template.,instruction cache parity error corrected,instruction cache parity error corrected
+333,Parse the input log to log template.,instruction cache parity error corrected,instruction cache parity error corrected
+1102,Parse the input log to log template.,5 floating point alignment exceptions,<*> floating point alignment exceptions
+557,Parse the input log to log template.,1146800 double-hummer alignment exceptions,<*> double-hummer alignment exceptions
+1797,Parse the input log to log template.,"ciod: Received signal 15, code=0, errno=0, address=0x000001f5","ciod: Received signal <*>, code=<*>, errno=<*>, address=<*>"
+348,Parse the input log to log template.,"CE sym 2, at 0x0b85f680, mask 0x0e","CE sym <*>, at <*>, mask <*>"
+203,Parse the input log to log template.,instruction address: 0x00004ed8,instruction address: <*>
+1291,Parse the input log to log template.,iar 003a9260 dear 00efe838,iar <*> dear <*>
+825,Parse the input log to log template.,generating core.6425,generating core.<*>
+845,Parse the input log to log template.,113622512 double-hummer alignment exceptions,<*> double-hummer alignment exceptions
+1880,Parse the input log to log template.,"10744 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.","<*> total interrupts. <*> critical input interrupts. <*> microseconds total spent on critical input interrupts, <*> microseconds max time in a critical input interrupt."
+973,Parse the input log to log template.,generating core.36787,generating core.<*>
+1083,Parse the input log to log template.,15 floating point alignment exceptions,<*> floating point alignment exceptions
+866,Parse the input log to log template.,generating core.34898,generating core.<*>
+1916,Parse the input log to log template.,"10636 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.","<*> total interrupts. <*> critical input interrupts. <*> microseconds total spent on critical input interrupts, <*> microseconds max time in a critical input interrupt."
+1234,Parse the input log to log template.,total of 1 ddr error(s) detected and corrected,total of <*> ddr error(s) detected and corrected
+604,Parse the input log to log template.,generating core.2950,generating core.<*>
+1121,Parse the input log to log template.,5 floating point alignment exceptions,<*> floating point alignment exceptions
+288,Parse the input log to log template.,wait state enable.................0,wait state enable.................<*>
+1517,Parse the input log to log template.,critical input interrupt (unit=0x0b bit=0x0b): warning for torus z- wire,critical input interrupt (unit=<*> bit=<*>): warning for torus z- wire
+1987,Parse the input log to log template.,ciod: generated 128 core files for program /g/g24/germann2/SPaSM_static/SPaSM_mpi,ciod: generated <*> core files for program <*>
+840,Parse the input log to log template.,113170696 double-hummer alignment exceptions,<*> double-hummer alignment exceptions
+70,Parse the input log to log template.,generating core.1990,generating core.<*>
+749,Parse the input log to log template.,generating core.10842,generating core.<*>
+1064,Parse the input log to log template.,8 floating point alignment exceptions,<*> floating point alignment exceptions
+985,Parse the input log to log template.,generating core.22119,generating core.<*>
+1766,Parse the input log to log template.,ciod: generated 128 core files for program /g/g90/glosli/src/ddcMD/ddcMD1.1.18a/bin/ddcMDbglV,ciod: generated <*> core files for program <*>
+1713,Parse the input log to log template.,iar 001061b4 dear 0247017c,iar <*> dear <*>
+1207,Parse the input log to log template.,"idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)","idoproxydb hit ASSERT condition: ASSERT expression=<*> Source file=idotransportmgr.cpp Source line=<*> Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)"
+1488,Parse the input log to log template.,"ciod: Error loading /home/spelce1/HPCC_IBM/Urgent/COP/64K/vnm.rts: invalid or missing program image, Permission denied","ciod: Error loading <*>: invalid or missing program image, Permission denied"
+1275,Parse the input log to log template.,ciod: generated 128 core files for program /home/germann2/BGL-demo/SPaSM_mpi,ciod: generated <*> core files for program <*>
+1038,Parse the input log to log template.,8 floating point alignment exceptions,<*> floating point alignment exceptions
+1898,Parse the input log to log template.,"10616 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.","<*> total interrupts. <*> critical input interrupts. <*> microseconds total spent on critical input interrupts, <*> microseconds max time in a critical input interrupt."
+1679,Parse the input log to log template.,iar 00106570 dear 0245a5bc,iar <*> dear <*>
+21,Parse the input log to log template.,generating core.201,generating core.<*>
+1237,Parse the input log to log template.,"CE sym 25, at 0x10e1b8a0, mask 0x10","CE sym <*>, at <*>, mask <*>"
+284,Parse the input log to log template.,machine state register: 0x00002000,machine state register: <*>
+1788,Parse the input log to log template.,"ciod: Received signal 15, code=0, errno=0, address=0x00001a12","ciod: Received signal <*>, code=<*>, errno=<*>, address=<*>"
+1743,Parse the input log to log template.,488205 floating point alignment exceptions,<*> floating point alignment exceptions
+295,Parse the input log to log template.,rts internal error,rts internal error
+1115,Parse the input log to log template.,generating core.15063,generating core.<*>
+222,Parse the input log to log template.,data storage interrupt,data storage interrupt
+1609,Parse the input log to log template.,2354412 floating point alignment exceptions,<*> floating point alignment exceptions
+581,Parse the input log to log template.,generating core.23080,generating core.<*>
+1850,Parse the input log to log template.,0 microseconds spent in the rbs signal handler during 0 calls. 0 microseconds was the maximum time for a single instance of a correctable ddr.,<*> microseconds spent in the rbs signal handler during <*> calls. <*> microseconds was the maximum time for a single instance of a correctable ddr.
+1745,Parse the input log to log template.,"1 ddr errors(s) detected and corrected on rank 0, symbol 8, bit 7","<*> ddr errors(s) detected and corrected on rank <*>, symbol <*>, bit <*>"
+1415,Parse the input log to log template.,"idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)","idoproxydb hit ASSERT condition: ASSERT expression=<*> Source file=idotransportmgr.cpp Source line=<*> Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)"
+1218,Parse the input log to log template.,Node card is not fully functional,Node card is not fully functional
+1518,Parse the input log to log template.,16 tree receiver 2 in re-synch state event(s) (dcr 0x019a) detected,<*> tree receiver <*> in re-synch state event(s) (dcr <*>) detected
+1398,Parse the input log to log template.,ciod: Error reading message prefix after LOAD_MESSAGE on CioStream socket to 172.16.96.116:45713: Link has been severed,ciod: Error reading message prefix after LOAD_MESSAGE on CioStream socket to <*>: Link has been severed
+1091,Parse the input log to log template.,generating core.28529,generating core.<*>
+1390,Parse the input log to log template.,"CE sym 21, at 0x04d64dc0, mask 0x80","CE sym <*>, at <*>, mask <*>"
+783,Parse the input log to log template.,generating core.6917,generating core.<*>

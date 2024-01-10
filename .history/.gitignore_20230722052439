@@ -1,0 +1,5 @@
+output/*
+!output/.gitkeep
+
+fine_tuned_model/*
+!fine_tuned_model/.gitkeep

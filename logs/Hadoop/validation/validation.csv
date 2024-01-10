@@ -1,0 +1,401 @@
+,instruction,Content,EventTemplate
+751,Parse the input log to log template.,Progress of TaskAttempt attempt_1445144423722_0020_m_000007_0 is : 0.25511068,Progress of TaskAttempt <*> is : <*>
+1545,Parse the input log to log template.,Failed to renew lease for [DFSClient_NONMAPREDUCE_1537864556_1] for 227 seconds.  Will retry shortly ...,Failed to renew lease for [<*>] for <*> seconds. Will retry shortly ...
+881,Parse the input log to log template.,Address change detected. Old: msra-sa-41/10.190.173.170:9000 New: msra-sa-41:9000,Address change detected. Old: <*>/<*>:<*> New: <*>:<*>
+396,Parse the input log to log template.,Progress of TaskAttempt attempt_1445144423722_0020_m_000003_0 is : 0.20639901,Progress of TaskAttempt <*> is : <*>
+509,Parse the input log to log template.,Reduce slow start threshold not met. completedMapsForReduceSlowstart 1,Reduce slow start threshold not met. completedMapsForReduceSlowstart <*>
+1217,Parse the input log to log template.,Address change detected. Old: msra-sa-41/10.190.173.170:8030 New: msra-sa-41:8030,Address change detected. Old: <*>/<*>:<*> New: <*>:<*>
+416,Parse the input log to log template.,Reduce slow start threshold not met. completedMapsForReduceSlowstart 1,Reduce slow start threshold not met. completedMapsForReduceSlowstart <*>
+1701,Parse the input log to log template.,Address change detected. Old: msra-sa-41/10.190.173.170:9000 New: msra-sa-41:9000,Address change detected. Old: <*>/<*>:<*> New: <*>:<*>
+1447,Parse the input log to log template.,Failed to renew lease for [DFSClient_NONMAPREDUCE_1537864556_1] for 199 seconds.  Will retry shortly ...,Failed to renew lease for [<*>] for <*> seconds. Will retry shortly ...
+9,Parse the input log to log template.,Registering class org.apache.hadoop.mapreduce.v2.app.job.event.TaskAttemptEventType for class org.apache.hadoop.mapreduce.v2.app.MRAppMaster$TaskAttemptEventDispatcher,Registering class org.apache.hadoop.mapreduce.<*> for class org.apache.hadoop.mapreduce.<*>
+1371,Parse the input log to log template.,Address change detected. Old: msra-sa-41/10.190.173.170:8030 New: msra-sa-41:8030,Address change detected. Old: <*>/<*>:<*> New: <*>:<*>
+335,Parse the input log to log template.,"Recalculating schedule, headroom=<memory:0, vCores:-27>","Recalculating schedule, headroom=<memory:<*>, vCores:<*>"
+541,Parse the input log to log template.,"getResources() for application_1445144423722_0020: ask=4 release= 0 newContainers=1 finishedContainers=0 resourcelimit=<memory:0, vCores:-27> knownNMs=4","getResources() for <*>: ask=<*> release= <*> newContainers=<*> finishedContainers=<*> resourcelimit=<memory:<*>, vCores:<*> knownNMs=<*>"
+1023,Parse the input log to log template.,Processing the event EventType: CONTAINER_REMOTE_CLEANUP for container container_1445144423722_0020_01_000004 taskAttempt attempt_1445144423722_0020_m_000002_0,Processing the event EventType: <*> for container <*> taskAttempt <*>
+60,Parse the input log to log template.,job_1445144423722_0020Job Transitioned from INITED to SETUP,<*> Transitioned from INITED to SETUP
+1610,Parse the input log to log template.,Address change detected. Old: msra-sa-41/10.190.173.170:9000 New: msra-sa-41:9000,Address change detected. Old: <*>/<*>:<*> New: <*>:<*>
+1878,Parse the input log to log template.,"Retrying connect to server: msra-sa-41:8030. Already tried 0 time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=10, sleepTime=1000 MILLISECONDS)","Retrying connect to server: <*>:<*>. Already tried <*> time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=<*>, sleepTime=<*> MILLISECONDS)"
+314,Parse the input log to log template.,Progress of TaskAttempt attempt_1445144423722_0020_m_000001_0 is : 0.1066108,Progress of TaskAttempt <*> is : <*>
+619,Parse the input log to log template.,Progress of TaskAttempt attempt_1445144423722_0020_m_000000_0 is : 0.27696857,Progress of TaskAttempt <*> is : <*>
+296,Parse the input log to log template.,Reduce slow start threshold not met. completedMapsForReduceSlowstart 1,Reduce slow start threshold not met. completedMapsForReduceSlowstart <*>
+1199,Parse the input log to log template.,"Retrying connect to server: msra-sa-41:8030. Already tried 0 time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=10, sleepTime=1000 MILLISECONDS)","Retrying connect to server: <*>:<*>. Already tried <*> time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=<*>, sleepTime=<*> MILLISECONDS)"
+1339,Parse the input log to log template.,"Retrying connect to server: msra-sa-41:8030. Already tried 0 time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=10, sleepTime=1000 MILLISECONDS)","Retrying connect to server: <*>:<*>. Already tried <*> time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=<*>, sleepTime=<*> MILLISECONDS)"
+907,Parse the input log to log template.,"Slow ReadProcessor read fields took 65020ms (threshold=30000ms); ack: seqno: -2 status: SUCCESS status: ERROR downstreamAckTimeNanos: 0, targets: [10.86.169.121:50010, 10.190.173.170:50010]","Slow ReadProcessor read fields took <*> (threshold=<*>); ack: seqno: <*> status: SUCCESS status: ERROR downstreamAckTimeNanos: <*>, targets: [<*>:<*>, <*>:<*>]"
+598,Parse the input log to log template.,Progress of TaskAttempt attempt_1445144423722_0020_m_000004_0 is : 0.10680563,Progress of TaskAttempt <*> is : <*>
+1205,Parse the input log to log template.,Failed to renew lease for [DFSClient_NONMAPREDUCE_1537864556_1] for 129 seconds.  Will retry shortly ...,Failed to renew lease for [<*>] for <*> seconds. Will retry shortly ...
+364,Parse the input log to log template.,"Recalculating schedule, headroom=<memory:0, vCores:-27>","Recalculating schedule, headroom=<memory:<*>, vCores:<*>"
+1419,Parse the input log to log template.,Failed to renew lease for [DFSClient_NONMAPREDUCE_1537864556_1] for 191 seconds.  Will retry shortly ...,Failed to renew lease for [<*>] for <*> seconds. Will retry shortly ...
+846,Parse the input log to log template.,Progress of TaskAttempt attempt_1445144423722_0020_m_000002_0 is : 0.38137424,Progress of TaskAttempt <*> is : <*>
+642,Parse the input log to log template.,"Recalculating schedule, headroom=<memory:0, vCores:-27>","Recalculating schedule, headroom=<memory:<*>, vCores:<*>"
+1148,Parse the input log to log template.,Address change detected. Old: msra-sa-41/10.190.173.170:9000 New: msra-sa-41:9000,Address change detected. Old: <*>/<*>:<*> New: <*>:<*>
+1727,Parse the input log to log template.,Failed to renew lease for [DFSClient_NONMAPREDUCE_1537864556_1] for 279 seconds.  Will retry shortly ...,Failed to renew lease for [<*>] for <*> seconds. Will retry shortly ...
+1283,Parse the input log to log template.,"Retrying connect to server: msra-sa-41:8030. Already tried 0 time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=10, sleepTime=1000 MILLISECONDS)","Retrying connect to server: <*>:<*>. Already tried <*> time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=<*>, sleepTime=<*> MILLISECONDS)"
+760,Parse the input log to log template.,Progress of TaskAttempt attempt_1445144423722_0020_m_000005_0 is : 0.36390656,Progress of TaskAttempt <*> is : <*>
+134,Parse the input log to log template.,task_1445144423722_0020_m_000000 Task Transitioned from SCHEDULED to RUNNING,<*> Task Transitioned from SCHEDULED to RUNNING
+260,Parse the input log to log template.,Progress of TaskAttempt attempt_1445144423722_0020_m_000001_0 is : 0.1066108,Progress of TaskAttempt <*> is : <*>
+556,Parse the input log to log template.,ATTEMPT_START task_1445144423722_0020_m_000006,ATTEMPT_START <*>
+1992,Parse the input log to log template.,Address change detected. Old: msra-sa-41/10.190.173.170:9000 New: msra-sa-41:9000,Address change detected. Old: <*>/<*>:<*> New: <*>:<*>
+1906,Parse the input log to log template.,"Retrying connect to server: msra-sa-41:8030. Already tried 0 time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=10, sleepTime=1000 MILLISECONDS)","Retrying connect to server: <*>:<*>. Already tried <*> time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=<*>, sleepTime=<*> MILLISECONDS)"
+1944,Parse the input log to log template.,Failed to renew lease for [DFSClient_NONMAPREDUCE_1537864556_1] for 341 seconds.  Will retry shortly ...,Failed to renew lease for [<*>] for <*> seconds. Will retry shortly ...
+1896,Parse the input log to log template.,Address change detected. Old: msra-sa-41/10.190.173.170:8030 New: msra-sa-41:8030,Address change detected. Old: <*>/<*>:<*> New: <*>:<*>
+1454,Parse the input log to log template.,Failed to renew lease for [DFSClient_NONMAPREDUCE_1537864556_1] for 201 seconds.  Will retry shortly ...,Failed to renew lease for [<*>] for <*> seconds. Will retry shortly ...
+649,Parse the input log to log template.,Opening proxy : MSRA-SA-39.fareast.corp.microsoft.com:28345,Opening proxy : <*>:<*>
+1375,Parse the input log to log template.,ERROR IN CONTACTING RM.,ERROR IN CONTACTING RM.
+1500,Parse the input log to log template.,"Retrying connect to server: msra-sa-41:8030. Already tried 0 time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=10, sleepTime=1000 MILLISECONDS)","Retrying connect to server: <*>:<*>. Already tried <*> time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=<*>, sleepTime=<*> MILLISECONDS)"
+1670,Parse the input log to log template.,Address change detected. Old: msra-sa-41/10.190.173.170:9000 New: msra-sa-41:9000,Address change detected. Old: <*>/<*>:<*> New: <*>:<*>
+1761,Parse the input log to log template.,Address change detected. Old: msra-sa-41/10.190.173.170:9000 New: msra-sa-41:9000,Address change detected. Old: <*>/<*>:<*> New: <*>:<*>
+1017,Parse the input log to log template.,Progress of TaskAttempt attempt_1445144423722_0020_m_000002_0 is : 0.38137424,Progress of TaskAttempt <*> is : <*>
+1560,Parse the input log to log template.,Address change detected. Old: msra-sa-41/10.190.173.170:8030 New: msra-sa-41:8030,Address change detected. Old: <*>/<*>:<*> New: <*>:<*>
+285,Parse the input log to log template.,Reduce slow start threshold not met. completedMapsForReduceSlowstart 1,Reduce slow start threshold not met. completedMapsForReduceSlowstart <*>
+1731,Parse the input log to log template.,"Retrying connect to server: msra-sa-41:8030. Already tried 0 time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=10, sleepTime=1000 MILLISECONDS)","Retrying connect to server: <*>:<*>. Already tried <*> time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=<*>, sleepTime=<*> MILLISECONDS)"
+492,Parse the input log to log template.,Progress of TaskAttempt attempt_1445144423722_0020_m_000001_0 is : 0.27776006,Progress of TaskAttempt <*> is : <*>
+1413,Parse the input log to log template.,Address change detected. Old: msra-sa-41/10.190.173.170:8030 New: msra-sa-41:8030,Address change detected. Old: <*>/<*>:<*> New: <*>:<*>
+50,Parse the input log to log template.,maxTaskFailuresPerNode is 3,maxTaskFailuresPerNode is <*>
+1938,Parse the input log to log template.,Address change detected. Old: msra-sa-41/10.190.173.170:8030 New: msra-sa-41:8030,Address change detected. Old: <*>/<*>:<*> New: <*>:<*>
+1789,Parse the input log to log template.,Address change detected. Old: msra-sa-41/10.190.173.170:9000 New: msra-sa-41:9000,Address change detected. Old: <*>/<*>:<*> New: <*>:<*>
+1424,Parse the input log to log template.,ERROR IN CONTACTING RM.,ERROR IN CONTACTING RM.
+215,Parse the input log to log template.,Reduce slow start threshold not met. completedMapsForReduceSlowstart 1,Reduce slow start threshold not met. completedMapsForReduceSlowstart <*>
+956,Parse the input log to log template.,Address change detected. Old: msra-sa-41/10.190.173.170:9000 New: msra-sa-41:9000,Address change detected. Old: <*>/<*>:<*> New: <*>:<*>
+1975,Parse the input log to log template.,Failed to renew lease for [DFSClient_NONMAPREDUCE_1537864556_1] for 350 seconds.  Will retry shortly ...,Failed to renew lease for [<*>] for <*> seconds. Will retry shortly ...
+1428,Parse the input log to log template.,Address change detected. Old: msra-sa-41/10.190.173.170:9000 New: msra-sa-41:9000,Address change detected. Old: <*>/<*>:<*> New: <*>:<*>
+1654,Parse the input log to log template.,"Retrying connect to server: msra-sa-41:8030. Already tried 0 time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=10, sleepTime=1000 MILLISECONDS)","Retrying connect to server: <*>:<*>. Already tried <*> time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=<*>, sleepTime=<*> MILLISECONDS)"
+616,Parse the input log to log template.,Auth successful for job_1445144423722_0020 (auth:SIMPLE),Auth successful for <*> (auth:SIMPLE)
+408,Parse the input log to log template.,Reduce slow start threshold not met. completedMapsForReduceSlowstart 1,Reduce slow start threshold not met. completedMapsForReduceSlowstart <*>
+1446,Parse the input log to log template.,Address change detected. Old: msra-sa-41/10.190.173.170:9000 New: msra-sa-41:9000,Address change detected. Old: <*>/<*>:<*> New: <*>:<*>
+547,Parse the input log to log template.,Resolved MSRA-SA-41.fareast.corp.microsoft.com to /default-rack,Resolved <*> to <*>
+1957,Parse the input log to log template.,Address change detected. Old: msra-sa-41/10.190.173.170:9000 New: msra-sa-41:9000,Address change detected. Old: <*>/<*>:<*> New: <*>:<*>
+1216,Parse the input log to log template.,Failed to renew lease for [DFSClient_NONMAPREDUCE_1537864556_1] for 132 seconds.  Will retry shortly ...,Failed to renew lease for [<*>] for <*> seconds. Will retry shortly ...
+1379,Parse the input log to log template.,Address change detected. Old: msra-sa-41/10.190.173.170:9000 New: msra-sa-41:9000,Address change detected. Old: <*>/<*>:<*> New: <*>:<*>
+1299,Parse the input log to log template.,Address change detected. Old: msra-sa-41/10.190.173.170:9000 New: msra-sa-41:9000,Address change detected. Old: <*>/<*>:<*> New: <*>:<*>
+1273,Parse the input log to log template.,Address change detected. Old: msra-sa-41/10.190.173.170:8030 New: msra-sa-41:8030,Address change detected. Old: <*>/<*>:<*> New: <*>:<*>
+1181,Parse the input log to log template.,Failed to renew lease for [DFSClient_NONMAPREDUCE_1537864556_1] for 122 seconds.  Will retry shortly ...,Failed to renew lease for [<*>] for <*> seconds. Will retry shortly ...
+1700,Parse the input log to log template.,Address change detected. Old: msra-sa-41/10.190.173.170:8030 New: msra-sa-41:8030,Address change detected. Old: <*>/<*>:<*> New: <*>:<*>
+1902,Parse the input log to log template.,Failed to renew lease for [DFSClient_NONMAPREDUCE_1537864556_1] for 329 seconds.  Will retry shortly ...,Failed to renew lease for [<*>] for <*> seconds. Will retry shortly ...
+993,Parse the input log to log template.,Address change detected. Old: msra-sa-41/10.190.173.170:9000 New: msra-sa-41:9000,Address change detected. Old: <*>/<*>:<*> New: <*>:<*>
+781,Parse the input log to log template.,Progress of TaskAttempt attempt_1445144423722_0020_m_000002_0 is : 0.36317363,Progress of TaskAttempt <*> is : <*>
+286,Parse the input log to log template.,"Recalculating schedule, headroom=<memory:0, vCores:-27>","Recalculating schedule, headroom=<memory:<*>, vCores:<*>"
+1469,Parse the input log to log template.,Address change detected. Old: msra-sa-41/10.190.173.170:8030 New: msra-sa-41:8030,Address change detected. Old: <*>/<*>:<*> New: <*>:<*>
+280,Parse the input log to log template.,Progress of TaskAttempt attempt_1445144423722_0020_m_000001_0 is : 0.1066108,Progress of TaskAttempt <*> is : <*>
+852,Parse the input log to log template.,Failed to renew lease for [DFSClient_NONMAPREDUCE_1537864556_1] for 32 seconds.  Will retry shortly ...,Failed to renew lease for [<*>] for <*> seconds. Will retry shortly ...
+833,Parse the input log to log template.,Progress of TaskAttempt attempt_1445144423722_0020_m_000007_0 is : 0.3638923,Progress of TaskAttempt <*> is : <*>
+798,Parse the input log to log template.,attempt_1445144423722_0020_m_000003_0 TaskAttempt Transitioned from RUNNING to SUCCESS_CONTAINER_CLEANUP,<*> TaskAttempt Transitioned from RUNNING to SUCCESS_CONTAINER_CLEANUP
+1571,Parse the input log to log template.,ERROR IN CONTACTING RM.,ERROR IN CONTACTING RM.
+1012,Parse the input log to log template.,ERROR IN CONTACTING RM.,ERROR IN CONTACTING RM.
+1252,Parse the input log to log template.,Address change detected. Old: msra-sa-41/10.190.173.170:8030 New: msra-sa-41:8030,Address change detected. Old: <*>/<*>:<*> New: <*>:<*>
+1449,Parse the input log to log template.,Address change detected. Old: msra-sa-41/10.190.173.170:9000 New: msra-sa-41:9000,Address change detected. Old: <*>/<*>:<*> New: <*>:<*>
+1566,Parse the input log to log template.,Failed to renew lease for [DFSClient_NONMAPREDUCE_1537864556_1] for 233 seconds.  Will retry shortly ...,Failed to renew lease for [<*>] for <*> seconds. Will retry shortly ...
+520,Parse the input log to log template.,Resolved MSRA-SA-41.fareast.corp.microsoft.com to /default-rack,Resolved <*> to <*>
+937,Parse the input log to log template.,ERROR IN CONTACTING RM.,ERROR IN CONTACTING RM.
+365,Parse the input log to log template.,Reduce slow start threshold not met. completedMapsForReduceSlowstart 1,Reduce slow start threshold not met. completedMapsForReduceSlowstart <*>
+1923,Parse the input log to log template.,Failed to renew lease for [DFSClient_NONMAPREDUCE_1537864556_1] for 335 seconds.  Will retry shortly ...,Failed to renew lease for [<*>] for <*> seconds. Will retry shortly ...
+1130,Parse the input log to log template.,ERROR IN CONTACTING RM.,ERROR IN CONTACTING RM.
+915,Parse the input log to log template.,Failed to renew lease for [DFSClient_NONMAPREDUCE_1537864556_1] for 61 seconds.  Will retry shortly ...,Failed to renew lease for [<*>] for <*> seconds. Will retry shortly ...
+1460,Parse the input log to log template.,Address change detected. Old: msra-sa-41/10.190.173.170:9000 New: msra-sa-41:9000,Address change detected. Old: <*>/<*>:<*> New: <*>:<*>
+916,Parse the input log to log template.,Address change detected. Old: msra-sa-41/10.190.173.170:9000 New: msra-sa-41:9000,Address change detected. Old: <*>/<*>:<*> New: <*>:<*>
+377,Parse the input log to log template.,Progress of TaskAttempt attempt_1445144423722_0020_m_000000_0 is : 0.19158794,Progress of TaskAttempt <*> is : <*>
+1383,Parse the input log to log template.,Address change detected. Old: msra-sa-41/10.190.173.170:9000 New: msra-sa-41:9000,Address change detected. Old: <*>/<*>:<*> New: <*>:<*>
+905,Parse the input log to log template.,Address change detected. Old: msra-sa-41/10.190.173.170:9000 New: msra-sa-41:9000,Address change detected. Old: <*>/<*>:<*> New: <*>:<*>
+591,Parse the input log to log template.,Got allocated containers 1,Got allocated containers <*>
+922,Parse the input log to log template.,ERROR IN CONTACTING RM.,ERROR IN CONTACTING RM.
+733,Parse the input log to log template.,Progress of TaskAttempt attempt_1445144423722_0020_m_000003_0 is : 0.7607953,Progress of TaskAttempt <*> is : <*>
+1421,Parse the input log to log template.,Address change detected. Old: msra-sa-41/10.190.173.170:9000 New: msra-sa-41:9000,Address change detected. Old: <*>/<*>:<*> New: <*>:<*>
+310,Parse the input log to log template.,Reduce slow start threshold not met. completedMapsForReduceSlowstart 1,Reduce slow start threshold not met. completedMapsForReduceSlowstart <*>
+1647,Parse the input log to log template.,"Retrying connect to server: msra-sa-41:8030. Already tried 0 time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=10, sleepTime=1000 MILLISECONDS)","Retrying connect to server: <*>:<*>. Already tried <*> time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=<*>, sleepTime=<*> MILLISECONDS)"
+1328,Parse the input log to log template.,Failed to renew lease for [DFSClient_NONMAPREDUCE_1537864556_1] for 164 seconds.  Will retry shortly ...,Failed to renew lease for [<*>] for <*> seconds. Will retry shortly ...
+1917,Parse the input log to log template.,Address change detected. Old: msra-sa-41/10.190.173.170:8030 New: msra-sa-41:8030,Address change detected. Old: <*>/<*>:<*> New: <*>:<*>
+415,Parse the input log to log template.,"Recalculating schedule, headroom=<memory:0, vCores:-27>","Recalculating schedule, headroom=<memory:<*>, vCores:<*>"
+669,Parse the input log to log template.,Reduce slow start threshold not met. completedMapsForReduceSlowstart 1,Reduce slow start threshold not met. completedMapsForReduceSlowstart <*>
+817,Parse the input log to log template.,We launched 1 speculations.  Sleeping 15000 milliseconds.,We launched <*> speculations. Sleeping <*> milliseconds.
+1452,Parse the input log to log template.,ERROR IN CONTACTING RM.,ERROR IN CONTACTING RM.
+351,Parse the input log to log template.,Reduce slow start threshold not met. completedMapsForReduceSlowstart 1,Reduce slow start threshold not met. completedMapsForReduceSlowstart <*>
+1229,Parse the input log to log template.,Address change detected. Old: msra-sa-41/10.190.173.170:9000 New: msra-sa-41:9000,Address change detected. Old: <*>/<*>:<*> New: <*>:<*>
+1286,Parse the input log to log template.,Failed to renew lease for [DFSClient_NONMAPREDUCE_1537864556_1] for 152 seconds.  Will retry shortly ...,Failed to renew lease for [<*>] for <*> seconds. Will retry shortly ...
+1030,Parse the input log to log template.,attempt_1445144423722_0020_m_000002_0 TaskAttempt Transitioned from FAIL_CONTAINER_CLEANUP to FAIL_TASK_CLEANUP,<*> TaskAttempt Transitioned from FAIL_CONTAINER_CLEANUP to FAIL_TASK_CLEANUP
+1005,Parse the input log to log template.,ERROR IN CONTACTING RM.,ERROR IN CONTACTING RM.
+491,Parse the input log to log template.,Reduce slow start threshold not met. completedMapsForReduceSlowstart 1,Reduce slow start threshold not met. completedMapsForReduceSlowstart <*>
+664,Parse the input log to log template.,Progress of TaskAttempt attempt_1445144423722_0020_m_000005_0 is : 0.10685723,Progress of TaskAttempt <*> is : <*>
+112,Parse the input log to log template.,"Recalculating schedule, headroom=<memory:10240, vCores:-17>","Recalculating schedule, headroom=<memory:<*>, vCores:<*>"
+539,Parse the input log to log template.,Progress of TaskAttempt attempt_1445144423722_0020_m_000001_0 is : 0.27776006,Progress of TaskAttempt <*> is : <*>
+522,Parse the input log to log template.,Processing the event EventType: CONTAINER_REMOTE_LAUNCH for container container_1445144423722_0020_01_000006 taskAttempt attempt_1445144423722_0020_m_000004_0,Processing the event EventType: <*> for container <*> taskAttempt <*>
+1997,Parse the input log to log template.,"Retrying connect to server: msra-sa-41:8030. Already tried 0 time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=10, sleepTime=1000 MILLISECONDS)","Retrying connect to server: <*>:<*>. Already tried <*> time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=<*>, sleepTime=<*> MILLISECONDS)"
+1215,Parse the input log to log template.,Address change detected. Old: msra-sa-41/10.190.173.170:9000 New: msra-sa-41:9000,Address change detected. Old: <*>/<*>:<*> New: <*>:<*>
+208,Parse the input log to log template.,Reduce slow start threshold not met. completedMapsForReduceSlowstart 1,Reduce slow start threshold not met. completedMapsForReduceSlowstart <*>
+85,Parse the input log to log template.,Resolved MSRA-SA-41.fareast.corp.microsoft.com to /default-rack,Resolved <*> to <*>
+1563,Parse the input log to log template.,"Retrying connect to server: msra-sa-41:8030. Already tried 0 time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=10, sleepTime=1000 MILLISECONDS)","Retrying connect to server: <*>:<*>. Already tried <*> time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=<*>, sleepTime=<*> MILLISECONDS)"
+609,Parse the input log to log template.,"getResources() for application_1445144423722_0020: ask=4 release= 0 newContainers=0 finishedContainers=0 resourcelimit=<memory:0, vCores:-27> knownNMs=4","getResources() for <*>: ask=<*> release= <*> newContainers=<*> finishedContainers=<*> resourcelimit=<memory:<*>, vCores:<*> knownNMs=<*>"
+1214,Parse the input log to log template.,ERROR IN CONTACTING RM.,ERROR IN CONTACTING RM.
+1728,Parse the input log to log template.,Address change detected. Old: msra-sa-41/10.190.173.170:8030 New: msra-sa-41:8030,Address change detected. Old: <*>/<*>:<*> New: <*>:<*>
+1660,Parse the input log to log template.,Failed to renew lease for [DFSClient_NONMAPREDUCE_1537864556_1] for 260 seconds.  Will retry shortly ...,Failed to renew lease for [<*>] for <*> seconds. Will retry shortly ...
+1703,Parse the input log to log template.,"Retrying connect to server: msra-sa-41:8030. Already tried 0 time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=10, sleepTime=1000 MILLISECONDS)","Retrying connect to server: <*>:<*>. Already tried <*> time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=<*>, sleepTime=<*> MILLISECONDS)"
+1662,Parse the input log to log template.,ERROR IN CONTACTING RM.,ERROR IN CONTACTING RM.
+206,Parse the input log to log template.,Reduce slow start threshold not met. completedMapsForReduceSlowstart 1,Reduce slow start threshold not met. completedMapsForReduceSlowstart <*>
+914,Parse the input log to log template.,Address change detected. Old: msra-sa-41/10.190.173.170:9000 New: msra-sa-41:9000,Address change detected. Old: <*>/<*>:<*> New: <*>:<*>
+241,Parse the input log to log template.,Reduce slow start threshold not met. completedMapsForReduceSlowstart 1,Reduce slow start threshold not met. completedMapsForReduceSlowstart <*>
+1864,Parse the input log to log template.,"Retrying connect to server: msra-sa-41:8030. Already tried 0 time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=10, sleepTime=1000 MILLISECONDS)","Retrying connect to server: <*>:<*>. Already tried <*> time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=<*>, sleepTime=<*> MILLISECONDS)"
+1532,Parse the input log to log template.,Address change detected. Old: msra-sa-41/10.190.173.170:8030 New: msra-sa-41:8030,Address change detected. Old: <*>/<*>:<*> New: <*>:<*>
+127,Parse the input log to log template.,Processing the event EventType: CONTAINER_REMOTE_LAUNCH for container container_1445144423722_0020_01_000002 taskAttempt attempt_1445144423722_0020_m_000000_0,Processing the event EventType: <*> for container <*> taskAttempt <*>
+1096,Parse the input log to log template.,"Retrying connect to server: msra-sa-41:8030. Already tried 0 time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=10, sleepTime=1000 MILLISECONDS)","Retrying connect to server: <*>:<*>. Already tried <*> time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=<*>, sleepTime=<*> MILLISECONDS)"
+758,Parse the input log to log template.,Progress of TaskAttempt attempt_1445144423722_0020_m_000002_0 is : 0.36317363,Progress of TaskAttempt <*> is : <*>
+653,Parse the input log to log template.,ATTEMPT_START task_1445144423722_0020_m_000009,ATTEMPT_START <*>
+340,Parse the input log to log template.,"Recalculating schedule, headroom=<memory:0, vCores:-27>","Recalculating schedule, headroom=<memory:<*>, vCores:<*>"
+979,Parse the input log to log template.,"Retrying connect to server: msra-sa-41:8030. Already tried 0 time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=10, sleepTime=1000 MILLISECONDS)","Retrying connect to server: <*>:<*>. Already tried <*> time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=<*>, sleepTime=<*> MILLISECONDS)"
+1515,Parse the input log to log template.,ERROR IN CONTACTING RM.,ERROR IN CONTACTING RM.
+1895,Parse the input log to log template.,Failed to renew lease for [DFSClient_NONMAPREDUCE_1537864556_1] for 327 seconds.  Will retry shortly ...,Failed to renew lease for [<*>] for <*> seconds. Will retry shortly ...
+31,Parse the input log to log template.,Instantiated MRClientService at MININT-FNANLI5.fareast.corp.microsoft.com/10.86.169.121:62260,Instantiated MRClientService at MININT-<*>/<*>:<*>
+1946,Parse the input log to log template.,Address change detected. Old: msra-sa-41/10.190.173.170:9000 New: msra-sa-41:9000,Address change detected. Old: <*>/<*>:<*> New: <*>:<*>
+1534,Parse the input log to log template.,Failed to renew lease for [DFSClient_NONMAPREDUCE_1537864556_1] for 224 seconds.  Will retry shortly ...,Failed to renew lease for [<*>] for <*> seconds. Will retry shortly ...
+566,Parse the input log to log template.,Reduce slow start threshold not met. completedMapsForReduceSlowstart 1,Reduce slow start threshold not met. completedMapsForReduceSlowstart <*>
+1691,Parse the input log to log template.,Address change detected. Old: msra-sa-41/10.190.173.170:9000 New: msra-sa-41:9000,Address change detected. Old: <*>/<*>:<*> New: <*>:<*>
+1933,Parse the input log to log template.,Failed to renew lease for [DFSClient_NONMAPREDUCE_1537864556_1] for 338 seconds.  Will retry shortly ...,Failed to renew lease for [<*>] for <*> seconds. Will retry shortly ...
+647,Parse the input log to log template.,Processing the event EventType: CONTAINER_REMOTE_LAUNCH for container container_1445144423722_0020_01_000011 taskAttempt attempt_1445144423722_0020_m_000009_0,Processing the event EventType: <*> for container <*> taskAttempt <*>
+1929,Parse the input log to log template.,Address change detected. Old: msra-sa-41/10.190.173.170:9000 New: msra-sa-41:9000,Address change detected. Old: <*>/<*>:<*> New: <*>:<*>
+1590,Parse the input log to log template.,Failed to renew lease for [DFSClient_NONMAPREDUCE_1537864556_1] for 240 seconds.  Will retry shortly ...,Failed to renew lease for [<*>] for <*> seconds. Will retry shortly ...
+1366,Parse the input log to log template.,Failed to renew lease for [DFSClient_NONMAPREDUCE_1537864556_1] for 176 seconds.  Will retry shortly ...,Failed to renew lease for [<*>] for <*> seconds. Will retry shortly ...
+953,Parse the input log to log template.,Failed to renew lease for [DFSClient_NONMAPREDUCE_1537864556_1] for 72 seconds.  Will retry shortly ...,Failed to renew lease for [<*>] for <*> seconds. Will retry shortly ...
+25,Parse the input log to log template.,Number of reduces for job job_1445144423722_0020 = 1,Number of reduces for job <*> = <*>
+808,Parse the input log to log template.,Before Scheduling: PendingReds:1 ScheduledMaps:0 ScheduledReds:0 AssignedMaps:10 AssignedReds:0 CompletedMaps:1 CompletedReds:0 ContAlloc:11 ContRel:1 HostLocal:7 RackLocal:3,Before Scheduling: PendingReds:<*> ScheduledMaps:<*> ScheduledReds:<*> AssignedMaps:<*> AssignedReds:<*> CompletedMaps:<*> CompletedReds:<*> ContAlloc:<*> ContRel:<*> HostLocal:<*> RackLocal:<*>
+505,Parse the input log to log template.,Progress of TaskAttempt attempt_1445144423722_0020_m_000000_0 is : 0.27696857,Progress of TaskAttempt <*> is : <*>
+728,Parse the input log to log template.,Progress of TaskAttempt attempt_1445144423722_0020_m_000008_0 is : 0.106881365,Progress of TaskAttempt <*> is : <*>
+838,Parse the input log to log template.,Progress of TaskAttempt attempt_1445144423722_0020_m_000002_0 is : 0.38007197,Progress of TaskAttempt <*> is : <*>
+494,Parse the input log to log template.,Reduce slow start threshold not met. completedMapsForReduceSlowstart 1,Reduce slow start threshold not met. completedMapsForReduceSlowstart <*>
+1972,Parse the input log to log template.,Failed to renew lease for [DFSClient_NONMAPREDUCE_1537864556_1] for 349 seconds.  Will retry shortly ...,Failed to renew lease for [<*>] for <*> seconds. Will retry shortly ...
+944,Parse the input log to log template.,Failed to renew lease for [DFSClient_NONMAPREDUCE_1537864556_1] for 70 seconds.  Will retry shortly ...,Failed to renew lease for [<*>] for <*> seconds. Will retry shortly ...
+1198,Parse the input log to log template.,Failed to renew lease for [DFSClient_NONMAPREDUCE_1537864556_1] for 127 seconds.  Will retry shortly ...,Failed to renew lease for [<*>] for <*> seconds. Will retry shortly ...
+643,Parse the input log to log template.,Reduce slow start threshold not met. completedMapsForReduceSlowstart 1,Reduce slow start threshold not met. completedMapsForReduceSlowstart <*>
+940,Parse the input log to log template.,Address change detected. Old: msra-sa-41/10.190.173.170:9000 New: msra-sa-41:9000,Address change detected. Old: <*>/<*>:<*> New: <*>:<*>
+1682,Parse the input log to log template.,"Retrying connect to server: msra-sa-41:8030. Already tried 0 time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=10, sleepTime=1000 MILLISECONDS)","Retrying connect to server: <*>:<*>. Already tried <*> time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=<*>, sleepTime=<*> MILLISECONDS)"
+1687,Parse the input log to log template.,Address change detected. Old: msra-sa-41/10.190.173.170:9000 New: msra-sa-41:9000,Address change detected. Old: <*>/<*>:<*> New: <*>:<*>
+1967,Parse the input log to log template.,Address change detected. Old: msra-sa-41/10.190.173.170:9000 New: msra-sa-41:9000,Address change detected. Old: <*>/<*>:<*> New: <*>:<*>
+1021,Parse the input log to log template.,Diagnostics report from attempt_1445144423722_0020_m_000002_0: Error: java.net.NoRouteToHostException: No Route to Host from  MININT-FNANLI5/127.0.0.1 to msra-sa-41:9000 failed on socket timeout exception: java.net.NoRouteToHostException: No route to host: no further information; For more details see:  http://wiki.apache.org/hadoop/NoRouteToHost,Diagnostics report from <*>: Error: java.net.NoRouteToHostException: No Route to Host from MININT-<*>/<*> to <*>:<*> failed on socket timeout exception: java.net.NoRouteToHostException: No route to host: no further information; For more details see: http://wiki.apache.org/hadoop/NoRouteToHost
+427,Parse the input log to log template.,"Recalculating schedule, headroom=<memory:0, vCores:-27>","Recalculating schedule, headroom=<memory:<*>, vCores:<*>"
+1681,Parse the input log to log template.,Failed to renew lease for [DFSClient_NONMAPREDUCE_1537864556_1] for 266 seconds.  Will retry shortly ...,Failed to renew lease for [<*>] for <*> seconds. Will retry shortly ...
+1010,Parse the input log to log template.,Failed to renew lease for [DFSClient_NONMAPREDUCE_1537864556_1] for 86 seconds.  Will retry shortly ...,Failed to renew lease for [<*>] for <*> seconds. Will retry shortly ...
+1588,Parse the input log to log template.,Address change detected. Old: msra-sa-41/10.190.173.170:8030 New: msra-sa-41:8030,Address change detected. Old: <*>/<*>:<*> New: <*>:<*>
+1078,Parse the input log to log template.,Failed to renew lease for [DFSClient_NONMAPREDUCE_1537864556_1] for 93 seconds.  Will retry shortly ...,Failed to renew lease for [<*>] for <*> seconds. Will retry shortly ...
+1336,Parse the input log to log template.,Address change detected. Old: msra-sa-41/10.190.173.170:8030 New: msra-sa-41:8030,Address change detected. Old: <*>/<*>:<*> New: <*>:<*>
+1930,Parse the input log to log template.,Failed to renew lease for [DFSClient_NONMAPREDUCE_1537864556_1] for 337 seconds.  Will retry shortly ...,Failed to renew lease for [<*>] for <*> seconds. Will retry shortly ...
+1,Parse the input log to log template.,Executing with tokens:,Executing with tokens:
+482,Parse the input log to log template.,Progress of TaskAttempt attempt_1445144423722_0020_m_000000_0 is : 0.23859076,Progress of TaskAttempt <*> is : <*>
+1737,Parse the input log to log template.,Failed to renew lease for [DFSClient_NONMAPREDUCE_1537864556_1] for 282 seconds.  Will retry shortly ...,Failed to renew lease for [<*>] for <*> seconds. Will retry shortly ...
+793,Parse the input log to log template.,Progress of TaskAttempt attempt_1445144423722_0020_m_000000_0 is : 0.3624012,Progress of TaskAttempt <*> is : <*>
+442,Parse the input log to log template.,Reduce slow start threshold not met. completedMapsForReduceSlowstart 1,Reduce slow start threshold not met. completedMapsForReduceSlowstart <*>
+1831,Parse the input log to log template.,Address change detected. Old: msra-sa-41/10.190.173.170:9000 New: msra-sa-41:9000,Address change detected. Old: <*>/<*>:<*> New: <*>:<*>
+878,Parse the input log to log template.,Failed to renew lease for [DFSClient_NONMAPREDUCE_1537864556_1] for 45 seconds.  Will retry shortly ...,Failed to renew lease for [<*>] for <*> seconds. Will retry shortly ...
+1863,Parse the input log to log template.,Failed to renew lease for [DFSClient_NONMAPREDUCE_1537864556_1] for 318 seconds.  Will retry shortly ...,Failed to renew lease for [<*>] for <*> seconds. Will retry shortly ...
+900,Parse the input log to log template.,Failed to renew lease for [DFSClient_NONMAPREDUCE_1537864556_1] for 56 seconds.  Will retry shortly ...,Failed to renew lease for [<*>] for <*> seconds. Will retry shortly ...
+608,Parse the input log to log template.,Progress of TaskAttempt attempt_1445144423722_0020_m_000006_0 is : 0.106964506,Progress of TaskAttempt <*> is : <*>
+1263,Parse the input log to log template.,ERROR IN CONTACTING RM.,ERROR IN CONTACTING RM.
+859,Parse the input log to log template.,Address change detected. Old: msra-sa-41/10.190.173.170:9000 New: msra-sa-41:9000,Address change detected. Old: <*>/<*>:<*> New: <*>:<*>
+868,Parse the input log to log template.,Failed to renew lease for [DFSClient_NONMAPREDUCE_1537864556_1] for 40 seconds.  Will retry shortly ...,Failed to renew lease for [<*>] for <*> seconds. Will retry shortly ...
+1200,Parse the input log to log template.,ERROR IN CONTACTING RM.,ERROR IN CONTACTING RM.
+1899,Parse the input log to log template.,"Retrying connect to server: msra-sa-41:8030. Already tried 0 time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=10, sleepTime=1000 MILLISECONDS)","Retrying connect to server: <*>:<*>. Already tried <*> time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=<*>, sleepTime=<*> MILLISECONDS)"
+8,Parse the input log to log template.,Registering class org.apache.hadoop.mapreduce.v2.app.job.event.TaskEventType for class org.apache.hadoop.mapreduce.v2.app.MRAppMaster$TaskEventDispatcher,Registering class org.apache.hadoop.mapreduce.<*> for class org.apache.hadoop.mapreduce.<*>
+912,Parse the input log to log template.,Address change detected. Old: msra-sa-41/10.190.173.170:9000 New: msra-sa-41:9000,Address change detected. Old: <*>/<*>:<*> New: <*>:<*>
+1317,Parse the input log to log template.,Failed to renew lease for [DFSClient_NONMAPREDUCE_1537864556_1] for 161 seconds.  Will retry shortly ...,Failed to renew lease for [<*>] for <*> seconds. Will retry shortly ...
+1640,Parse the input log to log template.,"Retrying connect to server: msra-sa-41:8030. Already tried 0 time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=10, sleepTime=1000 MILLISECONDS)","Retrying connect to server: <*>:<*>. Already tried <*> time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=<*>, sleepTime=<*> MILLISECONDS)"
+1561,Parse the input log to log template.,Address change detected. Old: msra-sa-41/10.190.173.170:9000 New: msra-sa-41:9000,Address change detected. Old: <*>/<*>:<*> New: <*>:<*>
+1866,Parse the input log to log template.,Address change detected. Old: msra-sa-41/10.190.173.170:9000 New: msra-sa-41:9000,Address change detected. Old: <*>/<*>:<*> New: <*>:<*>
+1920,Parse the input log to log template.,"Retrying connect to server: msra-sa-41:8030. Already tried 0 time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=10, sleepTime=1000 MILLISECONDS)","Retrying connect to server: <*>:<*>. Already tried <*> time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=<*>, sleepTime=<*> MILLISECONDS)"
+1472,Parse the input log to log template.,"Retrying connect to server: msra-sa-41:8030. Already tried 0 time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=10, sleepTime=1000 MILLISECONDS)","Retrying connect to server: <*>:<*>. Already tried <*> time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=<*>, sleepTime=<*> MILLISECONDS)"
+22,Parse the input log to log template.,Adding job token for job_1445144423722_0020 to jobTokenSecretManager,Adding job token for <*> to jobTokenSecretManager
+632,Parse the input log to log template.,Progress of TaskAttempt attempt_1445144423722_0020_m_000003_0 is : 0.6199081,Progress of TaskAttempt <*> is : <*>
+1271,Parse the input log to log template.,Address change detected. Old: msra-sa-41/10.190.173.170:9000 New: msra-sa-41:9000,Address change detected. Old: <*>/<*>:<*> New: <*>:<*>
+662,Parse the input log to log template.,Progress of TaskAttempt attempt_1445144423722_0020_m_000002_0 is : 0.27772525,Progress of TaskAttempt <*> is : <*>
+1583,Parse the input log to log template.,Failed to renew lease for [DFSClient_NONMAPREDUCE_1537864556_1] for 238 seconds.  Will retry shortly ...,Failed to renew lease for [<*>] for <*> seconds. Will retry shortly ...
+1711,Parse the input log to log template.,ERROR IN CONTACTING RM.,ERROR IN CONTACTING RM.
+79,Parse the input log to log template.,Resolved MSRA-SA-41.fareast.corp.microsoft.com to /default-rack,Resolved <*> to <*>
+319,Parse the input log to log template.,"Recalculating schedule, headroom=<memory:0, vCores:-27>","Recalculating schedule, headroom=<memory:<*>, vCores:<*>"
+1274,Parse the input log to log template.,Address change detected. Old: msra-sa-41/10.190.173.170:9000 New: msra-sa-41:9000,Address change detected. Old: <*>/<*>:<*> New: <*>:<*>
+1178,Parse the input log to log template.,"Retrying connect to server: msra-sa-41:8030. Already tried 0 time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=10, sleepTime=1000 MILLISECONDS)","Retrying connect to server: <*>:<*>. Already tried <*> time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=<*>, sleepTime=<*> MILLISECONDS)"
+559,Parse the input log to log template.,Auth successful for job_1445144423722_0020 (auth:SIMPLE),Auth successful for <*> (auth:SIMPLE)
+717,Parse the input log to log template.,Progress of TaskAttempt attempt_1445144423722_0020_m_000006_0 is : 0.19266446,Progress of TaskAttempt <*> is : <*>
+1536,Parse the input log to log template.,ERROR IN CONTACTING RM.,ERROR IN CONTACTING RM.
+697,Parse the input log to log template.,Progress of TaskAttempt attempt_1445144423722_0020_m_000006_0 is : 0.19266446,Progress of TaskAttempt <*> is : <*>
+29,Parse the input log to log template.,Starting Socket Reader #1 for port 62260,Starting Socket Reader #<*> for port <*>
+242,Parse the input log to log template.,Progress of TaskAttempt attempt_1445144423722_0020_m_000001_0 is : 0.10501281,Progress of TaskAttempt <*> is : <*>
+1476,Parse the input log to log template.,Address change detected. Old: msra-sa-41/10.190.173.170:8030 New: msra-sa-41:8030,Address change detected. Old: <*>/<*>:<*> New: <*>:<*>
+930,Parse the input log to log template.,ERROR IN CONTACTING RM.,ERROR IN CONTACTING RM.
+483,Parse the input log to log template.,Progress of TaskAttempt attempt_1445144423722_0020_m_000001_0 is : 0.27776006,Progress of TaskAttempt <*> is : <*>
+48,Parse the input log to log template.,JOB_CREATE job_1445144423722_0020,JOB_CREATE <*>
+1282,Parse the input log to log template.,Failed to renew lease for [DFSClient_NONMAPREDUCE_1537864556_1] for 151 seconds.  Will retry shortly ...,Failed to renew lease for [<*>] for <*> seconds. Will retry shortly ...
+1492,Parse the input log to log template.,Failed to renew lease for [DFSClient_NONMAPREDUCE_1537864556_1] for 212 seconds.  Will retry shortly ...,Failed to renew lease for [<*>] for <*> seconds. Will retry shortly ...
+1359,Parse the input log to log template.,Failed to renew lease for [DFSClient_NONMAPREDUCE_1537864556_1] for 174 seconds.  Will retry shortly ...,Failed to renew lease for [<*>] for <*> seconds. Will retry shortly ...
+15,Parse the input log to log template.,Default file system [hdfs://msra-sa-41:9000],Default file system [hdfs://<*>:<*>]
+259,Parse the input log to log template.,Progress of TaskAttempt attempt_1445144423722_0020_m_000000_0 is : 0.10635664,Progress of TaskAttempt <*> is : <*>
+1556,Parse the input log to log template.,"Retrying connect to server: msra-sa-41:8030. Already tried 0 time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=10, sleepTime=1000 MILLISECONDS)","Retrying connect to server: <*>:<*>. Already tried <*> time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=<*>, sleepTime=<*> MILLISECONDS)"
+982,Parse the input log to log template.,Failed to renew lease for [DFSClient_NONMAPREDUCE_1537864556_1] for 79 seconds.  Will retry shortly ...,Failed to renew lease for [<*>] for <*> seconds. Will retry shortly ...
+1499,Parse the input log to log template.,Failed to renew lease for [DFSClient_NONMAPREDUCE_1537864556_1] for 214 seconds.  Will retry shortly ...,Failed to renew lease for [<*>] for <*> seconds. Will retry shortly ...
+1395,Parse the input log to log template.,"Retrying connect to server: msra-sa-41:8030. Already tried 0 time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=10, sleepTime=1000 MILLISECONDS)","Retrying connect to server: <*>:<*>. Already tried <*> time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=<*>, sleepTime=<*> MILLISECONDS)"
+737,Parse the input log to log template.,Progress of TaskAttempt attempt_1445144423722_0020_m_000008_0 is : 0.106881365,Progress of TaskAttempt <*> is : <*>
+923,Parse the input log to log template.,Address change detected. Old: msra-sa-41/10.190.173.170:9000 New: msra-sa-41:9000,Address change detected. Old: <*>/<*>:<*> New: <*>:<*>
+730,Parse the input log to log template.,Progress of TaskAttempt attempt_1445144423722_0020_m_000005_0 is : 0.27813601,Progress of TaskAttempt <*> is : <*>
+424,Parse the input log to log template.,Progress of TaskAttempt attempt_1445144423722_0020_m_000002_0 is : 0.19212553,Progress of TaskAttempt <*> is : <*>
+1622,Parse the input log to log template.,Failed to renew lease for [DFSClient_NONMAPREDUCE_1537864556_1] for 249 seconds.  Will retry shortly ...,Failed to renew lease for [<*>] for <*> seconds. Will retry shortly ...
+35,Parse the input log to log template.,Http request log for http.requests.mapreduce is not defined,Http request log for http.requests.mapreduce is not defined
+945,Parse the input log to log template.,"Retrying connect to server: msra-sa-41:8030. Already tried 0 time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=10, sleepTime=1000 MILLISECONDS)","Retrying connect to server: <*>:<*>. Already tried <*> time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=<*>, sleepTime=<*> MILLISECONDS)"
+1100,Parse the input log to log template.,Failed to renew lease for [DFSClient_NONMAPREDUCE_1537864556_1] for 99 seconds.  Will retry shortly ...,Failed to renew lease for [<*>] for <*> seconds. Will retry shortly ...
+1301,Parse the input log to log template.,Address change detected. Old: msra-sa-41/10.190.173.170:8030 New: msra-sa-41:8030,Address change detected. Old: <*>/<*>:<*> New: <*>:<*>
+1771,Parse the input log to log template.,Address change detected. Old: msra-sa-41/10.190.173.170:9000 New: msra-sa-41:9000,Address change detected. Old: <*>/<*>:<*> New: <*>:<*>
+193,Parse the input log to log template.,Reduce slow start threshold not met. completedMapsForReduceSlowstart 1,Reduce slow start threshold not met. completedMapsForReduceSlowstart <*>
+146,Parse the input log to log template.,Processing the event EventType: CONTAINER_REMOTE_LAUNCH for container container_1445144423722_0020_01_000003 taskAttempt attempt_1445144423722_0020_m_000001_0,Processing the event EventType: <*> for container <*> taskAttempt <*>
+1231,Parse the input log to log template.,Address change detected. Old: msra-sa-41/10.190.173.170:8030 New: msra-sa-41:8030,Address change detected. Old: <*>/<*>:<*> New: <*>:<*>
+126,Parse the input log to log template.,attempt_1445144423722_0020_m_000000_0 TaskAttempt Transitioned from UNASSIGNED to ASSIGNED,<*> TaskAttempt Transitioned from UNASSIGNED to ASSIGNED
+879,Parse the input log to log template.,Address change detected. Old: msra-sa-41/10.190.173.170:9000 New: msra-sa-41:9000,Address change detected. Old: <*>/<*>:<*> New: <*>:<*>
+1004,Parse the input log to log template.,"Retrying connect to server: msra-sa-41:8030. Already tried 0 time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=10, sleepTime=1000 MILLISECONDS)","Retrying connect to server: <*>:<*>. Already tried <*> time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=<*>, sleepTime=<*> MILLISECONDS)"
+1908,Parse the input log to log template.,Address change detected. Old: msra-sa-41/10.190.173.170:9000 New: msra-sa-41:9000,Address change detected. Old: <*>/<*>:<*> New: <*>:<*>
+1294,Parse the input log to log template.,Address change detected. Old: msra-sa-41/10.190.173.170:8030 New: msra-sa-41:8030,Address change detected. Old: <*>/<*>:<*> New: <*>:<*>
+1581,Parse the input log to log template.,Address change detected. Old: msra-sa-41/10.190.173.170:8030 New: msra-sa-41:8030,Address change detected. Old: <*>/<*>:<*> New: <*>:<*>
+343,Parse the input log to log template.,Reduce slow start threshold not met. completedMapsForReduceSlowstart 1,Reduce slow start threshold not met. completedMapsForReduceSlowstart <*>
+190,Parse the input log to log template.,"Recalculating schedule, headroom=<memory:0, vCores:-27>","Recalculating schedule, headroom=<memory:<*>, vCores:<*>"
+1706,Parse the input log to log template.,Failed to renew lease for [DFSClient_NONMAPREDUCE_1537864556_1] for 273 seconds.  Will retry shortly ...,Failed to renew lease for [<*>] for <*> seconds. Will retry shortly ...
+387,Parse the input log to log template.,Progress of TaskAttempt attempt_1445144423722_0020_m_000000_0 is : 0.19158794,Progress of TaskAttempt <*> is : <*>
+1964,Parse the input log to log template.,Address change detected. Old: msra-sa-41/10.190.173.170:9000 New: msra-sa-41:9000,Address change detected. Old: <*>/<*>:<*> New: <*>:<*>
+19,Parse the input log to log template.,loaded properties from hadoop-metrics2.properties,loaded properties from hadoop-metrics2.properties
+1811,Parse the input log to log template.,Failed to renew lease for [DFSClient_NONMAPREDUCE_1537864556_1] for 303 seconds.  Will retry shortly ...,Failed to renew lease for [<*>] for <*> seconds. Will retry shortly ...
+925,Parse the input log to log template.,Address change detected. Old: msra-sa-41/10.190.173.170:8030 New: msra-sa-41:8030,Address change detected. Old: <*>/<*>:<*> New: <*>:<*>
+1579,Parse the input log to log template.,Address change detected. Old: msra-sa-41/10.190.173.170:9000 New: msra-sa-41:9000,Address change detected. Old: <*>/<*>:<*> New: <*>:<*>
+1159,Parse the input log to log template.,Address change detected. Old: msra-sa-41/10.190.173.170:9000 New: msra-sa-41:9000,Address change detected. Old: <*>/<*>:<*> New: <*>:<*>
+667,Parse the input log to log template.,Container complete event for unknown container id container_1445144423722_0020_01_000012,Container complete event for unknown container id <*>
+1127,Parse the input log to log template.,Address change detected. Old: msra-sa-41/10.190.173.170:9000 New: msra-sa-41:9000,Address change detected. Old: <*>/<*>:<*> New: <*>:<*>
+109,Parse the input log to log template.,"getResources() for application_1445144423722_0020: ask=4 release= 0 newContainers=0 finishedContainers=0 resourcelimit=<memory:10240, vCores:-17> knownNMs=4","getResources() for <*>: ask=<*> release= <*> newContainers=<*> finishedContainers=<*> resourcelimit=<memory:<*>, vCores:<*> knownNMs=<*>"
+1802,Parse the input log to log template.,ERROR IN CONTACTING RM.,ERROR IN CONTACTING RM.
+540,Parse the input log to log template.,Progress of TaskAttempt attempt_1445144423722_0020_m_000000_0 is : 0.27696857,Progress of TaskAttempt <*> is : <*>
+1147,Parse the input log to log template.,Address change detected. Old: msra-sa-41/10.190.173.170:8030 New: msra-sa-41:8030,Address change detected. Old: <*>/<*>:<*> New: <*>:<*>
+1049,Parse the input log to log template.,ERROR IN CONTACTING RM.,ERROR IN CONTACTING RM.
+1477,Parse the input log to log template.,Address change detected. Old: msra-sa-41/10.190.173.170:9000 New: msra-sa-41:9000,Address change detected. Old: <*>/<*>:<*> New: <*>:<*>
+770,Parse the input log to log template.,Progress of TaskAttempt attempt_1445144423722_0020_m_000004_0 is : 0.36388028,Progress of TaskAttempt <*> is : <*>
+1820,Parse the input log to log template.,Address change detected. Old: msra-sa-41/10.190.173.170:9000 New: msra-sa-41:9000,Address change detected. Old: <*>/<*>:<*> New: <*>:<*>
+1593,Parse the input log to log template.,Address change detected. Old: msra-sa-41/10.190.173.170:9000 New: msra-sa-41:9000,Address change detected. Old: <*>/<*>:<*> New: <*>:<*>
+1213,Parse the input log to log template.,"Retrying connect to server: msra-sa-41:8030. Already tried 0 time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=10, sleepTime=1000 MILLISECONDS)","Retrying connect to server: <*>:<*>. Already tried <*> time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=<*>, sleepTime=<*> MILLISECONDS)"
+1868,Parse the input log to log template.,Address change detected. Old: msra-sa-41/10.190.173.170:8030 New: msra-sa-41:8030,Address change detected. Old: <*>/<*>:<*> New: <*>:<*>
+1600,Parse the input log to log template.,Address change detected. Old: msra-sa-41/10.190.173.170:9000 New: msra-sa-41:9000,Address change detected. Old: <*>/<*>:<*> New: <*>:<*>
+81,Parse the input log to log template.,Resolved MSRA-SA-39.fareast.corp.microsoft.com to /default-rack,Resolved <*> to <*>
+1540,Parse the input log to log template.,Address change detected. Old: msra-sa-41/10.190.173.170:9000 New: msra-sa-41:9000,Address change detected. Old: <*>/<*>:<*> New: <*>:<*>
+908,Parse the input log to log template.,DFSOutputStream ResponseProcessor exception  for block BP-1347369012-10.190.173.170-1444972147527:blk_1073743512_2731,DFSOutputStream ResponseProcessor exception for block BP-<*>:<*>
+552,Parse the input log to log template.,Opening proxy : MSRA-SA-41.fareast.corp.microsoft.com:7109,Opening proxy : <*>:<*>
+10,Parse the input log to log template.,Registering class org.apache.hadoop.mapreduce.v2.app.commit.CommitterEventType for class org.apache.hadoop.mapreduce.v2.app.commit.CommitterEventHandler,Registering class org.apache.hadoop.mapreduce.<*> for class org.apache.hadoop.mapreduce.<*>
+378,Parse the input log to log template.,Progress of TaskAttempt attempt_1445144423722_0020_m_000001_0 is : 0.19211523,Progress of TaskAttempt <*> is : <*>
+830,Parse the input log to log template.,Progress of TaskAttempt attempt_1445144423722_0020_m_000002_0 is : 0.3787692,Progress of TaskAttempt <*> is : <*>
+1798,Parse the input log to log template.,Address change detected. Old: msra-sa-41/10.190.173.170:8030 New: msra-sa-41:8030,Address change detected. Old: <*>/<*>:<*> New: <*>:<*>
+1000,Parse the input log to log template.,Progress of TaskAttempt attempt_1445144423722_0020_m_000001_0 is : 0.37551183,Progress of TaskAttempt <*> is : <*>
+11,Parse the input log to log template.,Registering class org.apache.hadoop.mapreduce.v2.app.speculate.Speculator$EventType for class org.apache.hadoop.mapreduce.v2.app.MRAppMaster$SpeculatorEventDispatcher,Registering class org.apache.hadoop.mapreduce.<*> for class org.apache.hadoop.mapreduce.<*>
+1361,Parse the input log to log template.,ERROR IN CONTACTING RM.,ERROR IN CONTACTING RM.
+1882,Parse the input log to log template.,Address change detected. Old: msra-sa-41/10.190.173.170:8030 New: msra-sa-41:8030,Address change detected. Old: <*>/<*>:<*> New: <*>:<*>
+532,Parse the input log to log template.,task_1445144423722_0020_m_000004 Task Transitioned from SCHEDULED to RUNNING,<*> Task Transitioned from SCHEDULED to RUNNING
+37,Parse the input log to log template.,Added filter AM_PROXY_FILTER (class=org.apache.hadoop.yarn.server.webproxy.amfilter.AmIpFilter) to context mapreduce,Added filter AM_PROXY_FILTER (class=org.apache.hadoop.yarn.server.webproxy.amfilter.AmIpFilter) to context mapreduce
+1482,Parse the input log to log template.,Failed to renew lease for [DFSClient_NONMAPREDUCE_1537864556_1] for 209 seconds.  Will retry shortly ...,Failed to renew lease for [<*>] for <*> seconds. Will retry shortly ...
+524,Parse the input log to log template.,Opening proxy : MSRA-SA-41.fareast.corp.microsoft.com:7109,Opening proxy : <*>:<*>
+1462,Parse the input log to log template.,Address change detected. Old: msra-sa-41/10.190.173.170:8030 New: msra-sa-41:8030,Address change detected. Old: <*>/<*>:<*> New: <*>:<*>
+1889,Parse the input log to log template.,Address change detected. Old: msra-sa-41/10.190.173.170:8030 New: msra-sa-41:8030,Address change detected. Old: <*>/<*>:<*> New: <*>:<*>
+1425,Parse the input log to log template.,Address change detected. Old: msra-sa-41/10.190.173.170:9000 New: msra-sa-41:9000,Address change detected. Old: <*>/<*>:<*> New: <*>:<*>
+1245,Parse the input log to log template.,Address change detected. Old: msra-sa-41/10.190.173.170:8030 New: msra-sa-41:8030,Address change detected. Old: <*>/<*>:<*> New: <*>:<*>
+56,Parse the input log to log template.,"maxContainerCapability: <memory:8192, vCores:32>","maxContainerCapability: <memory:<*>, vCores:<*>"
+1978,Parse the input log to log template.,Address change detected. Old: msra-sa-41/10.190.173.170:9000 New: msra-sa-41:9000,Address change detected. Old: <*>/<*>:<*> New: <*>:<*>
+1655,Parse the input log to log template.,ERROR IN CONTACTING RM.,ERROR IN CONTACTING RM.
+726,Parse the input log to log template.,Progress of TaskAttempt attempt_1445144423722_0020_m_000006_0 is : 0.27613032,Progress of TaskAttempt <*> is : <*>
+1362,Parse the input log to log template.,Address change detected. Old: msra-sa-41/10.190.173.170:9000 New: msra-sa-41:9000,Address change detected. Old: <*>/<*>:<*> New: <*>:<*>
+862,Parse the input log to log template.,Failed to renew lease for [DFSClient_NONMAPREDUCE_1537864556_1] for 37 seconds.  Will retry shortly ...,Failed to renew lease for [<*>] for <*> seconds. Will retry shortly ...
+1672,Parse the input log to log template.,Address change detected. Old: msra-sa-41/10.190.173.170:8030 New: msra-sa-41:8030,Address change detected. Old: <*>/<*>:<*> New: <*>:<*>
+388,Parse the input log to log template.,"Recalculating schedule, headroom=<memory:0, vCores:-27>","Recalculating schedule, headroom=<memory:<*>, vCores:<*>"
+1988,Parse the input log to log template.,Address change detected. Old: msra-sa-41/10.190.173.170:9000 New: msra-sa-41:9000,Address change detected. Old: <*>/<*>:<*> New: <*>:<*>
+149,Parse the input log to log template.,Shuffle port returned by ContainerManager for attempt_1445144423722_0020_m_000001_0 : 13562,Shuffle port returned by ContainerManager for <*> : <*>
+1976,Parse the input log to log template.,"Retrying connect to server: msra-sa-41:8030. Already tried 0 time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=10, sleepTime=1000 MILLISECONDS)","Retrying connect to server: <*>:<*>. Already tried <*> time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=<*>, sleepTime=<*> MILLISECONDS)"
+573,Parse the input log to log template.,Progress of TaskAttempt attempt_1445144423722_0020_m_000001_0 is : 0.27776006,Progress of TaskAttempt <*> is : <*>
+399,Parse the input log to log template.,Progress of TaskAttempt attempt_1445144423722_0020_m_000000_0 is : 0.19158794,Progress of TaskAttempt <*> is : <*>
+987,Parse the input log to log template.,ERROR IN CONTACTING RM.,ERROR IN CONTACTING RM.
+1893,Parse the input log to log template.,ERROR IN CONTACTING RM.,ERROR IN CONTACTING RM.
+1309,Parse the input log to log template.,Address change detected. Old: msra-sa-41/10.190.173.170:9000 New: msra-sa-41:9000,Address change detected. Old: <*>/<*>:<*> New: <*>:<*>
+1714,Parse the input log to log template.,Address change detected. Old: msra-sa-41/10.190.173.170:8030 New: msra-sa-41:8030,Address change detected. Old: <*>/<*>:<*> New: <*>:<*>
+1320,Parse the input log to log template.,Address change detected. Old: msra-sa-41/10.190.173.170:9000 New: msra-sa-41:9000,Address change detected. Old: <*>/<*>:<*> New: <*>:<*>
+457,Parse the input log to log template.,"Recalculating schedule, headroom=<memory:0, vCores:-27>","Recalculating schedule, headroom=<memory:<*>, vCores:<*>"
+1870,Parse the input log to log template.,Failed to renew lease for [DFSClient_NONMAPREDUCE_1537864556_1] for 320 seconds.  Will retry shortly ...,Failed to renew lease for [<*>] for <*> seconds. Will retry shortly ...
+1704,Parse the input log to log template.,ERROR IN CONTACTING RM.,ERROR IN CONTACTING RM.
+214,Parse the input log to log template.,"Recalculating schedule, headroom=<memory:0, vCores:-27>","Recalculating schedule, headroom=<memory:<*>, vCores:<*>"
+1163,Parse the input log to log template.,Failed to renew lease for [DFSClient_NONMAPREDUCE_1537864556_1] for 117 seconds.  Will retry shortly ...,Failed to renew lease for [<*>] for <*> seconds. Will retry shortly ...
+732,Parse the input log to log template.,Progress of TaskAttempt attempt_1445144423722_0020_m_000007_0 is : 0.19255035,Progress of TaskAttempt <*> is : <*>
+106,Parse the input log to log template.,"Event Writer setup for JobId: job_1445144423722_0020, File: hdfs://msra-sa-41:9000/tmp/hadoop-yarn/staging/msrabi/.staging/job_1445144423722_0020/job_1445144423722_0020_1.jhist","Event Writer setup for JobId: <*>, File: hdfs://<*>"
+1721,Parse the input log to log template.,Address change detected. Old: msra-sa-41/10.190.173.170:8030 New: msra-sa-41:8030,Address change detected. Old: <*>/<*>:<*> New: <*>:<*>
+1388,Parse the input log to log template.,"Retrying connect to server: msra-sa-41:8030. Already tried 0 time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=10, sleepTime=1000 MILLISECONDS)","Retrying connect to server: <*>:<*>. Already tried <*> time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=<*>, sleepTime=<*> MILLISECONDS)"
+764,Parse the input log to log template.,Progress of TaskAttempt attempt_1445144423722_0020_m_000006_0 is : 0.36404583,Progress of TaskAttempt <*> is : <*>
+1106,Parse the input log to log template.,Address change detected. Old: msra-sa-41/10.190.173.170:9000 New: msra-sa-41:9000,Address change detected. Old: <*>/<*>:<*> New: <*>:<*>
+1673,Parse the input log to log template.,Address change detected. Old: msra-sa-41/10.190.173.170:9000 New: msra-sa-41:9000,Address change detected. Old: <*>/<*>:<*> New: <*>:<*>
+1847,Parse the input log to log template.,Address change detected. Old: msra-sa-41/10.190.173.170:8030 New: msra-sa-41:8030,Address change detected. Old: <*>/<*>:<*> New: <*>:<*>
+1751,Parse the input log to log template.,Failed to renew lease for [DFSClient_NONMAPREDUCE_1537864556_1] for 286 seconds.  Will retry shortly ...,Failed to renew lease for [<*>] for <*> seconds. Will retry shortly ...
+354,Parse the input log to log template.,Progress of TaskAttempt attempt_1445144423722_0020_m_000000_0 is : 0.1430594,Progress of TaskAttempt <*> is : <*>
+555,Parse the input log to log template.,attempt_1445144423722_0020_m_000006_0 TaskAttempt Transitioned from ASSIGNED to RUNNING,<*> TaskAttempt Transitioned from ASSIGNED to RUNNING
+1520,Parse the input log to log template.,Failed to renew lease for [DFSClient_NONMAPREDUCE_1537864556_1] for 220 seconds.  Will retry shortly ...,Failed to renew lease for [<*>] for <*> seconds. Will retry shortly ...
+801,Parse the input log to log template.,Opening proxy : MSRA-SA-41.fareast.corp.microsoft.com:7109,Opening proxy : <*>:<*>
+225,Parse the input log to log template.,Reduce slow start threshold not met. completedMapsForReduceSlowstart 1,Reduce slow start threshold not met. completedMapsForReduceSlowstart <*>
+1140,Parse the input log to log template.,Address change detected. Old: msra-sa-41/10.190.173.170:8030 New: msra-sa-41:8030,Address change detected. Old: <*>/<*>:<*> New: <*>:<*>
+1179,Parse the input log to log template.,ERROR IN CONTACTING RM.,ERROR IN CONTACTING RM.
+172,Parse the input log to log template.,task_1445144423722_0020_m_000002 Task Transitioned from SCHEDULED to RUNNING,<*> Task Transitioned from SCHEDULED to RUNNING
+1529,Parse the input log to log template.,ERROR IN CONTACTING RM.,ERROR IN CONTACTING RM.
+201,Parse the input log to log template.,Reduce slow start threshold not met. completedMapsForReduceSlowstart 1,Reduce slow start threshold not met. completedMapsForReduceSlowstart <*>
+1210,Parse the input log to log template.,Address change detected. Old: msra-sa-41/10.190.173.170:8030 New: msra-sa-41:8030,Address change detected. Old: <*>/<*>:<*> New: <*>:<*>
+612,Parse the input log to log template.,Progress of TaskAttempt attempt_1445144423722_0020_m_000001_0 is : 0.27776006,Progress of TaskAttempt <*> is : <*>
+1817,Parse the input log to log template.,Address change detected. Old: msra-sa-41/10.190.173.170:9000 New: msra-sa-41:9000,Address change detected. Old: <*>/<*>:<*> New: <*>:<*>
+1881,Parse the input log to log template.,Failed to renew lease for [DFSClient_NONMAPREDUCE_1537864556_1] for 323 seconds.  Will retry shortly ...,Failed to renew lease for [<*>] for <*> seconds. Will retry shortly ...
+1432,Parse the input log to log template.,Address change detected. Old: msra-sa-41/10.190.173.170:9000 New: msra-sa-41:9000,Address change detected. Old: <*>/<*>:<*> New: <*>:<*>
+404,Parse the input log to log template.,Progress of TaskAttempt attempt_1445144423722_0020_m_000003_0 is : 0.27765483,Progress of TaskAttempt <*> is : <*>
+978,Parse the input log to log template.,Failed to renew lease for [DFSClient_NONMAPREDUCE_1537864556_1] for 78 seconds.  Will retry shortly ...,Failed to renew lease for [<*>] for <*> seconds. Will retry shortly ...
+1367,Parse the input log to log template.,"Retrying connect to server: msra-sa-41:8030. Already tried 0 time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=10, sleepTime=1000 MILLISECONDS)","Retrying connect to server: <*>:<*>. Already tried <*> time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=<*>, sleepTime=<*> MILLISECONDS)"
+1342,Parse the input log to log template.,Failed to renew lease for [DFSClient_NONMAPREDUCE_1537864556_1] for 168 seconds.  Will retry shortly ...,Failed to renew lease for [<*>] for <*> seconds. Will retry shortly ...
+187,Parse the input log to log template.,JVM with ID: jvm_1445144423722_0020_m_000003 given task: attempt_1445144423722_0020_m_000001_0,JVM with ID: <*> given task: <*>
+1750,Parse the input log to log template.,Address change detected. Old: msra-sa-41/10.190.173.170:9000 New: msra-sa-41:9000,Address change detected. Old: <*>/<*>:<*> New: <*>:<*>
+1803,Parse the input log to log template.,Address change detected. Old: msra-sa-41/10.190.173.170:9000 New: msra-sa-41:9000,Address change detected. Old: <*>/<*>:<*> New: <*>:<*>
+1028,Parse the input log to log template.,"Retrying connect to server: msra-sa-41:8030. Already tried 0 time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=10, sleepTime=1000 MILLISECONDS)","Retrying connect to server: <*>:<*>. Already tried <*> time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=<*>, sleepTime=<*> MILLISECONDS)"
+1911,Parse the input log to log template.,Address change detected. Old: msra-sa-41/10.190.173.170:9000 New: msra-sa-41:9000,Address change detected. Old: <*>/<*>:<*> New: <*>:<*>
+1991,Parse the input log to log template.,ERROR IN CONTACTING RM.,ERROR IN CONTACTING RM.
+333,Parse the input log to log template.,Reduce slow start threshold not met. completedMapsForReduceSlowstart 1,Reduce slow start threshold not met. completedMapsForReduceSlowstart <*>
+1102,Parse the input log to log template.,ERROR IN CONTACTING RM.,ERROR IN CONTACTING RM.
+557,Parse the input log to log template.,task_1445144423722_0020_m_000006 Task Transitioned from SCHEDULED to RUNNING,<*> Task Transitioned from SCHEDULED to RUNNING
+1797,Parse the input log to log template.,Failed to renew lease for [DFSClient_NONMAPREDUCE_1537864556_1] for 299 seconds.  Will retry shortly ...,Failed to renew lease for [<*>] for <*> seconds. Will retry shortly ...
+348,Parse the input log to log template.,Progress of TaskAttempt attempt_1445144423722_0020_m_000002_0 is : 0.13841225,Progress of TaskAttempt <*> is : <*>
+203,Parse the input log to log template.,JVM with ID : jvm_1445144423722_0020_m_000004 asked for a task,JVM with ID : <*> asked for a task
+1291,Parse the input log to log template.,ERROR IN CONTACTING RM.,ERROR IN CONTACTING RM.
+825,Parse the input log to log template.,Received completed container container_1445144423722_0020_01_000005,Received completed container <*>
+845,Parse the input log to log template.,Progress of TaskAttempt attempt_1445144423722_0020_m_000001_0 is : 0.37551183,Progress of TaskAttempt <*> is : <*>
+1880,Parse the input log to log template.,Address change detected. Old: msra-sa-41/10.190.173.170:9000 New: msra-sa-41:9000,Address change detected. Old: <*>/<*>:<*> New: <*>:<*>
+973,Parse the input log to log template.,Failed to renew lease for [DFSClient_NONMAPREDUCE_1537864556_1] for 77 seconds.  Will retry shortly ...,Failed to renew lease for [<*>] for <*> seconds. Will retry shortly ...
+1083,Parse the input log to log template.,ERROR IN CONTACTING RM.,ERROR IN CONTACTING RM.
+866,Parse the input log to log template.,Failed to renew lease for [DFSClient_NONMAPREDUCE_1537864556_1] for 39 seconds.  Will retry shortly ...,Failed to renew lease for [<*>] for <*> seconds. Will retry shortly ...
+1916,Parse the input log to log template.,Failed to renew lease for [DFSClient_NONMAPREDUCE_1537864556_1] for 333 seconds.  Will retry shortly ...,Failed to renew lease for [<*>] for <*> seconds. Will retry shortly ...
+1234,Parse the input log to log template.,"Retrying connect to server: msra-sa-41:8030. Already tried 0 time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=10, sleepTime=1000 MILLISECONDS)","Retrying connect to server: <*>:<*>. Already tried <*> time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=<*>, sleepTime=<*> MILLISECONDS)"
+604,Parse the input log to log template.,TaskAttempt: [attempt_1445144423722_0020_m_000007_0] using containerId: [container_1445144423722_0020_01_000009 on NM: [MSRA-SA-41.fareast.corp.microsoft.com:7109],TaskAttempt: [<*>] using containerId: [<*> on NM: [<*>:<*>]
+1121,Parse the input log to log template.,Failed to renew lease for [DFSClient_NONMAPREDUCE_1537864556_1] for 105 seconds.  Will retry shortly ...,Failed to renew lease for [<*>] for <*> seconds. Will retry shortly ...
+288,Parse the input log to log template.,Progress of TaskAttempt attempt_1445144423722_0020_m_000000_0 is : 0.10635664,Progress of TaskAttempt <*> is : <*>
+1517,Parse the input log to log template.,Failed to renew lease for [DFSClient_NONMAPREDUCE_1537864556_1] for 219 seconds.  Will retry shortly ...,Failed to renew lease for [<*>] for <*> seconds. Will retry shortly ...
+1987,Parse the input log to log template.,Address change detected. Old: msra-sa-41/10.190.173.170:8030 New: msra-sa-41:8030,Address change detected. Old: <*>/<*>:<*> New: <*>:<*>
+840,Parse the input log to log template.,Progress of TaskAttempt attempt_1445144423722_0020_m_000009_0 is : 0.76133776,Progress of TaskAttempt <*> is : <*>
+70,Parse the input log to log template.,Resolved MSRA-SA-41.fareast.corp.microsoft.com to /default-rack,Resolved <*> to <*>
+749,Parse the input log to log template.,Progress of TaskAttempt attempt_1445144423722_0020_m_000009_0 is : 0.4956123,Progress of TaskAttempt <*> is : <*>
+1064,Parse the input log to log template.,Resolved MSRA-SA-39.fareast.corp.microsoft.com to /default-rack,Resolved <*> to <*>
+985,Parse the input log to log template.,Failed to renew lease for [DFSClient_NONMAPREDUCE_1537864556_1] for 80 seconds.  Will retry shortly ...,Failed to renew lease for [<*>] for <*> seconds. Will retry shortly ...
+1766,Parse the input log to log template.,"Retrying connect to server: msra-sa-41:8030. Already tried 0 time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=10, sleepTime=1000 MILLISECONDS)","Retrying connect to server: <*>:<*>. Already tried <*> time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=<*>, sleepTime=<*> MILLISECONDS)"
+1713,Parse the input log to log template.,Failed to renew lease for [DFSClient_NONMAPREDUCE_1537864556_1] for 275 seconds.  Will retry shortly ...,Failed to renew lease for [<*>] for <*> seconds. Will retry shortly ...
+1207,Parse the input log to log template.,ERROR IN CONTACTING RM.,ERROR IN CONTACTING RM.
+1488,Parse the input log to log template.,Address change detected. Old: msra-sa-41/10.190.173.170:9000 New: msra-sa-41:9000,Address change detected. Old: <*>/<*>:<*> New: <*>:<*>
+1275,Parse the input log to log template.,Failed to renew lease for [DFSClient_NONMAPREDUCE_1537864556_1] for 149 seconds.  Will retry shortly ...,Failed to renew lease for [<*>] for <*> seconds. Will retry shortly ...
+1038,Parse the input log to log template.,Error writing History Event: org.apache.hadoop.mapreduce.jobhistory.TaskAttemptUnsuccessfulCompletionEvent@7317849d,Error writing History Event: org.apache.hadoop.mapreduce.jobhistory.TaskAttemptUnsuccessfulCompletionEvent@<*>
+1898,Parse the input log to log template.,Failed to renew lease for [DFSClient_NONMAPREDUCE_1537864556_1] for 328 seconds.  Will retry shortly ...,Failed to renew lease for [<*>] for <*> seconds. Will retry shortly ...
+1679,Parse the input log to log template.,Address change detected. Old: msra-sa-41/10.190.173.170:8030 New: msra-sa-41:8030,Address change detected. Old: <*>/<*>:<*> New: <*>:<*>
+21,Parse the input log to log template.,MRAppMaster metrics system started,MRAppMaster metrics system started
+1237,Parse the input log to log template.,Failed to renew lease for [DFSClient_NONMAPREDUCE_1537864556_1] for 138 seconds.  Will retry shortly ...,Failed to renew lease for [<*>] for <*> seconds. Will retry shortly ...
+284,Parse the input log to log template.,"Recalculating schedule, headroom=<memory:0, vCores:-27>","Recalculating schedule, headroom=<memory:<*>, vCores:<*>"
+1788,Parse the input log to log template.,ERROR IN CONTACTING RM.,ERROR IN CONTACTING RM.
+1743,Parse the input log to log template.,Address change detected. Old: msra-sa-41/10.190.173.170:9000 New: msra-sa-41:9000,Address change detected. Old: <*>/<*>:<*> New: <*>:<*>
+295,Parse the input log to log template.,"Recalculating schedule, headroom=<memory:0, vCores:-27>","Recalculating schedule, headroom=<memory:<*>, vCores:<*>"
+1115,Parse the input log to log template.,"Retrying connect to server: msra-sa-41:8030. Already tried 0 time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=10, sleepTime=1000 MILLISECONDS)","Retrying connect to server: <*>:<*>. Already tried <*> time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=<*>, sleepTime=<*> MILLISECONDS)"
+222,Parse the input log to log template.,Reduce slow start threshold not met. completedMapsForReduceSlowstart 1,Reduce slow start threshold not met. completedMapsForReduceSlowstart <*>
+1609,Parse the input log to log template.,Address change detected. Old: msra-sa-41/10.190.173.170:8030 New: msra-sa-41:8030,Address change detected. Old: <*>/<*>:<*> New: <*>:<*>
+581,Parse the input log to log template.,Reduce slow start threshold not met. completedMapsForReduceSlowstart 1,Reduce slow start threshold not met. completedMapsForReduceSlowstart <*>
+1850,Parse the input log to log template.,"Retrying connect to server: msra-sa-41:8030. Already tried 0 time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=10, sleepTime=1000 MILLISECONDS)","Retrying connect to server: <*>:<*>. Already tried <*> time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=<*>, sleepTime=<*> MILLISECONDS)"
+1745,Parse the input log to log template.,"Retrying connect to server: msra-sa-41:8030. Already tried 0 time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=10, sleepTime=1000 MILLISECONDS)","Retrying connect to server: <*>:<*>. Already tried <*> time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=<*>, sleepTime=<*> MILLISECONDS)"
+1415,Parse the input log to log template.,Failed to renew lease for [DFSClient_NONMAPREDUCE_1537864556_1] for 190 seconds.  Will retry shortly ...,Failed to renew lease for [<*>] for <*> seconds. Will retry shortly ...
+1218,Parse the input log to log template.,Address change detected. Old: msra-sa-41/10.190.173.170:9000 New: msra-sa-41:9000,Address change detected. Old: <*>/<*>:<*> New: <*>:<*>
+1518,Parse the input log to log template.,Address change detected. Old: msra-sa-41/10.190.173.170:8030 New: msra-sa-41:8030,Address change detected. Old: <*>/<*>:<*> New: <*>:<*>
+1398,Parse the input log to log template.,Failed to renew lease for [DFSClient_NONMAPREDUCE_1537864556_1] for 185 seconds.  Will retry shortly ...,Failed to renew lease for [<*>] for <*> seconds. Will retry shortly ...
+1091,Parse the input log to log template.,Address change detected. Old: msra-sa-41/10.190.173.170:9000 New: msra-sa-41:9000,Address change detected. Old: <*>/<*>:<*> New: <*>:<*>
+1390,Parse the input log to log template.,Address change detected. Old: msra-sa-41/10.190.173.170:9000 New: msra-sa-41:9000,Address change detected. Old: <*>/<*>:<*> New: <*>:<*>
+783,Parse the input log to log template.,Progress of TaskAttempt attempt_1445144423722_0020_m_000006_0 is : 0.36404583,Progress of TaskAttempt <*> is : <*>

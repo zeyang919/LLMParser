@@ -1,0 +1,297 @@
+session opened for user cyrus by (uid=0),session opened for user cyrus by (uid=<*> ),session opened for user <*> by (uid=<*>)
+session closed for user cyrus,session closed for user cyrus,session closed for user <*>
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=d211-116-254-214.rev.krline.net,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> tty=NODEVssh ruser= rhost=<*>,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*>
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=d211-116-254-214.rev.krline.net,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> tty=NODEVssh ruser= rhost=<*>,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*>
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=d211-116-254-214.rev.krline.net,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> tty=NODEVssh ruser= rhost=<*>,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*>
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=d211-116-254-214.rev.krline.net,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> tty=NODEVssh ruser= rhost=<*>,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*>
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=d211-116-254-214.rev.krline.net,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> tty=NODEVssh ruser= rhost=<*>,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*>
+session opened for user cyrus by (uid=0),session opened for user cyrus by (uid=<*> ),session opened for user <*> by (uid=<*>)
+session closed for user cyrus,session closed for user cyrus,session closed for user <*>
+session opened for user cyrus by (uid=0),session opened for user cyrus by (uid=<*> ),session opened for user <*> by (uid=<*>)
+session closed for user cyrus,session closed for user cyrus,session closed for user <*>
+session opened for user test by (uid=509),session opened for user test by (uid=<*> ),session opened for user <*> by (uid=<*>)
+session closed for user test,session closed for user test,session closed for user <*>
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=adsl-70-242-75-179.dsl.ksc2mo.swbell.net,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> euid=,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*>
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=adsl-70-242-75-179.dsl.ksc2mo.swbell.net,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> euid=,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*>
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=adsl-70-242-75-179.dsl.ksc2mo.swbell.net,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> euid=,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*>
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=adsl-70-242-75-179.dsl.ksc2mo.swbell.net,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> euid=,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*>
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=adsl-70-242-75-179.dsl.ksc2mo.swbell.net,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> euid=,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*>
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=adsl-70-242-75-179.dsl.ksc2mo.swbell.net,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> euid=,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*>
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=adsl-70-242-75-179.dsl.ksc2mo.swbell.net,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> euid=,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*>
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=adsl-70-242-75-179.dsl.ksc2mo.swbell.net,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> euid=,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*>
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=adsl-70-242-75-179.dsl.ksc2mo.swbell.net,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> euid=,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*>
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=adsl-70-242-75-179.dsl.ksc2mo.swbell.net,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> euid=,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*>
+User unknown timed out after 900 seconds at Sat Jun 18 02:23:10 2005,User unknown timed out after <*> at Sat Jun <*>,User unknown timed out after <*> seconds at <*>
+session opened for user cyrus by (uid=0),session opened for user cyrus by (uid=<*> ),session opened for user <*> by (uid=<*>)
+session closed for user cyrus,session closed for user cyrus,session closed for user <*>
+session opened for user cyrus by (uid=0),session opened for user cyrus by (uid=<*> ),session opened for user <*> by (uid=<*>)
+session closed for user cyrus,session closed for user cyrus,session closed for user <*>
+session opened for user cyrus by (uid=0),session opened for user cyrus by (uid=<*> ),session opened for user <*> by (uid=<*>)
+session closed for user cyrus,session closed for user cyrus,session closed for user <*>
+Received SNMP packet(s) from 67.170.148.126,Received SNMP packet( footsteps) from <*>,Received SNMP packet(s) from <*>
+session opened for user cyrus by (uid=0),session opened for user cyrus by (uid=<*> ),session opened for user <*> by (uid=<*>)
+session closed for user cyrus,session closed for user cyrus,session closed for user <*>
+session opened for user cyrus by (uid=0),session opened for user cyrus by (uid=<*> ),session opened for user <*> by (uid=<*>)
+session closed for user cyrus,session closed for user cyrus,session closed for user <*>
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=ip-216-69-169-168.ip.secureserver.net,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> euid=<*> tty=NODEVssh ruser= rhost=<*>,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*>
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=ip-216-69-169-168.ip.secureserver.net,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> euid=<*> tty=NODEVssh ruser= rhost=<*>,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*>
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=ip-216-69-169-168.ip.secureserver.net,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> euid=<*> tty=NODEVssh ruser= rhost=<*>,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*>
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=ip-216-69-169-168.ip.secureserver.net,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> euid=<*> tty=NODEVssh ruser= rhost=<*>,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*>
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=ip-216-69-169-168.ip.secureserver.net,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> euid=<*> tty=NODEVssh ruser= rhost=<*>,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*>
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=ip-216-69-169-168.ip.secureserver.net,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> euid=<*> tty=NODEVssh ruser= rhost=<*>,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*>
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=ip-216-69-169-168.ip.secureserver.net,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> euid=<*> tty=NODEVssh ruser= rhost=<*>,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*>
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=ip-216-69-169-168.ip.secureserver.net,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> euid=<*> tty=NODEVssh ruser= rhost=<*>,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*>
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=ip-216-69-169-168.ip.secureserver.net,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> euid=<*> tty=NODEVssh ruser= rhost=<*>,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*>
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=ip-216-69-169-168.ip.secureserver.net,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> euid=<*> tty=NODEVssh ruser= rhost=<*>,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*>
+session opened for user cyrus by (uid=0),session opened for user cyrus by (uid=<*> ),session opened for user <*> by (uid=<*>)
+session closed for user cyrus,session closed for user cyrus,session closed for user <*>
+session opened for user cyrus by (uid=0),session opened for user cyrus by (uid=<*> ),session opened for user <*> by (uid=<*>)
+session closed for user cyrus,session closed for user cyrus,session closed for user <*>
+session opened for user cyrus by (uid=0),session opened for user cyrus by (uid=<*> ),session opened for user <*> by (uid=<*>)
+session closed for user cyrus,session closed for user cyrus,session closed for user <*>
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=massive.merukuru.org,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> tty=NODEVssh ruser= rhost=<*>,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*>
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=massive.merukuru.org,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> tty=NODEVssh ruser= rhost=<*>,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*>
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=massive.merukuru.org,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> tty=NODEVssh ruser= rhost=<*>,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*>
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=massive.merukuru.org,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> tty=NODEVssh ruser= rhost=<*>,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*>
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=massive.merukuru.org,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> tty=NODEVssh ruser= rhost=<*>,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*>
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=massive.merukuru.org,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> tty=NODEVssh ruser= rhost=<*>,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*>
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=massive.merukuru.org,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> tty=NODEVssh ruser= rhost=<*>,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*>
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=massive.merukuru.org,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> tty=NODEVssh ruser= rhost=<*>,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*>
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=massive.merukuru.org,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> tty=NODEVssh ruser= rhost=<*>,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*>
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=massive.merukuru.org,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> tty=NODEVssh ruser= rhost=<*>,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*>
+session opened for user cyrus by (uid=0),session opened for user cyrus by (uid=<*> ),session opened for user <*> by (uid=<*>)
+session closed for user cyrus,session closed for user cyrus,session closed for user <*>
+session opened for user cyrus by (uid=0),session opened for user cyrus by (uid=<*> ),session opened for user <*> by (uid=<*>)
+session closed for user cyrus,session closed for user cyrus,session closed for user <*>
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=troi.bluesky-technologies.com user=root,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> tty=NODEVssh ruser= rhost=<*> tty=NODEVssh ruser= rhost=<*> tty=NODEVssh ruser= rhost=<*> tty=NODEVssh ruser= rhost=<*> tty=NOD,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=troi.bluesky-technologies.com user=root,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> tty=NODEVssh ruser= rhost=<*> tty=NODEVssh ruser= rhost=<*> tty=NODEVssh ruser= rhost=<*> tty=NODEVssh ruser= rhost=<*> tty=NOD,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=troi.bluesky-technologies.com user=root,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> tty=NODEVssh ruser= rhost=<*> tty=NODEVssh ruser= rhost=<*> tty=NODEVssh ruser= rhost=<*> tty=NODEVssh ruser= rhost=<*> tty=NOD,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=troi.bluesky-technologies.com user=root,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> tty=NODEVssh ruser= rhost=<*> tty=NODEVssh ruser= rhost=<*> tty=NODEVssh ruser= rhost=<*> tty=NODEVssh ruser= rhost=<*> tty=NOD,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=troi.bluesky-technologies.com user=root,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> tty=NODEVssh ruser= rhost=<*> tty=NODEVssh ruser= rhost=<*> tty=NODEVssh ruser= rhost=<*> tty=NODEVssh ruser= rhost=<*> tty=NOD,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+session opened for user cyrus by (uid=0),session opened for user cyrus by (uid=<*> ),session opened for user <*> by (uid=<*>)
+session closed for user cyrus,session closed for user cyrus,session closed for user <*>
+session opened for user cyrus by (uid=0),session opened for user cyrus by (uid=<*> ),session opened for user <*> by (uid=<*>)
+session closed for user cyrus,session closed for user cyrus,session closed for user <*>
+connection from 208.62.55.75 () at Wed Jun 29 10:48:01 2005,connection from <*> at Wed Jun <*>,connection from <*> at <*>
+connection from 208.62.55.75 () at Wed Jun 29 10:48:01 2005,connection from <*> at Wed Jun <*>,connection from <*> at <*>
+connection from 208.62.55.75 () at Wed Jun 29 10:48:01 2005,connection from <*> at Wed Jun <*>,connection from <*> at <*>
+connection from 208.62.55.75 () at Wed Jun 29 10:48:01 2005,connection from <*> at Wed Jun <*>,connection from <*> at <*>
+connection from 208.62.55.75 () at Wed Jun 29 10:48:01 2005,connection from <*> at Wed Jun <*>,connection from <*> at <*>
+connection from 208.62.55.75 () at Wed Jun 29 10:48:01 2005,connection from <*> at Wed Jun <*>,connection from <*> at <*>
+connection from 208.62.55.75 () at Wed Jun 29 10:48:05 2005,connection from <*> at Wed Jun <*>,connection from <*> at <*>
+connection from 208.62.55.75 () at Wed Jun 29 10:48:06 2005,connection from <*> at Wed Jun <*>,connection from <*> at <*>
+connection from 208.62.55.75 () at Wed Jun 29 10:48:06 2005,connection from <*> at Wed Jun <*>,connection from <*> at <*>
+connection from 208.62.55.75 () at Wed Jun 29 10:48:06 2005,connection from <*> at Wed Jun <*>,connection from <*> at <*>
+connection from 208.62.55.75 () at Wed Jun 29 10:48:08 2005,connection from <*> at Wed Jun <*>,connection from <*> at <*>
+connection from 208.62.55.75 () at Wed Jun 29 10:48:08 2005,connection from <*> at Wed Jun <*>,connection from <*> at <*>
+connection from 208.62.55.75 () at Wed Jun 29 10:48:08 2005,connection from <*> at Wed Jun <*>,connection from <*> at <*>
+connection from 208.62.55.75 () at Wed Jun 29 10:48:10 2005,connection from <*> at Wed Jun <*>,connection from <*> at <*>
+connection from 208.62.55.75 () at Wed Jun 29 10:48:12 2005,connection from <*> at Wed Jun <*>,connection from <*> at <*>
+connection from 208.62.55.75 () at Wed Jun 29 10:48:12 2005,connection from <*> at Wed Jun <*>,connection from <*> at <*>
+connection from 208.62.55.75 () at Wed Jun 29 10:48:13 2005,connection from <*> at Wed Jun <*>,connection from <*> at <*>
+connection from 208.62.55.75 () at Wed Jun 29 10:48:15 2005,connection from <*> at Wed Jun <*>,connection from <*> at <*>
+connection from 208.62.55.75 () at Wed Jun 29 10:48:17 2005,connection from <*> at Wed Jun <*>,connection from <*> at <*>
+connection from 208.62.55.75 () at Wed Jun 29 10:48:17 2005,connection from <*> at Wed Jun <*>,connection from <*> at <*>
+connection from 208.62.55.75 () at Wed Jun 29 10:48:18 2005,connection from <*> at Wed Jun <*>,connection from <*> at <*>
+connection from 208.62.55.75 () at Wed Jun 29 10:48:20 2005,connection from <*> at Wed Jun <*>,connection from <*> at <*>
+connection from 208.62.55.75 () at Wed Jun 29 10:48:21 2005,connection from <*> at Wed Jun <*>,connection from <*> at <*>
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=h64-187-1-131.gtconnect.net user=root,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=h64-187-1-131.gtconnect.net user=root,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=h64-187-1-131.gtconnect.net user=root,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=h64-187-1-131.gtconnect.net user=root,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=h64-187-1-131.gtconnect.net user=root,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=h64-187-1-131.gtconnect.net user=root,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=h64-187-1-131.gtconnect.net user=root,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=h64-187-1-131.gtconnect.net user=root,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=h64-187-1-131.gtconnect.net user=root,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=h64-187-1-131.gtconnect.net user=root,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=h64-187-1-131.gtconnect.net user=root,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=h64-187-1-131.gtconnect.net user=root,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=h64-187-1-131.gtconnect.net user=root,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+session opened for user cyrus by (uid=0),session opened for user cyrus by (uid=<*> ),session opened for user <*> by (uid=<*>)
+session closed for user cyrus,session closed for user cyrus,session closed for user <*>
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=biblioteka.wsi.edu.pl,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> tty=NODEVssh ruser= rhost=<*>,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*>
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=biblioteka.wsi.edu.pl,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> tty=NODEVssh ruser= rhost=<*>,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*>
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=biblioteka.wsi.edu.pl,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> tty=NODEVssh ruser= rhost=<*>,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*>
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=biblioteka.wsi.edu.pl,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> tty=NODEVssh ruser= rhost=<*>,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*>
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=biblioteka.wsi.edu.pl,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> tty=NODEVssh ruser= rhost=<*>,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*>
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=biblioteka.wsi.edu.pl,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> tty=NODEVssh ruser= rhost=<*>,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*>
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=biblioteka.wsi.edu.pl,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> tty=NODEVssh ruser= rhost=<*>,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*>
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=biblioteka.wsi.edu.pl,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> tty=NODEVssh ruser= rhost=<*>,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*>
+session opened for user test by (uid=509),session opened for user test by (uid=<*> ),session opened for user <*> by (uid=<*>)
+session opened for user test by (uid=509),session opened for user test by (uid=<*> ),session opened for user <*> by (uid=<*>)
+session opened for user test by (uid=509),session opened for user test by (uid=<*> ),session opened for user <*> by (uid=<*>)
+session opened for user test by (uid=509),session opened for user test by (uid=<*> ),session opened for user <*> by (uid=<*>)
+session opened for user test by (uid=509),session opened for user test by (uid=<*> ),session opened for user <*> by (uid=<*>)
+session opened for user test by (uid=509),session opened for user test by (uid=<*> ),session opened for user <*> by (uid=<*>)
+session opened for user test by (uid=509),session opened for user test by (uid=<*> ),session opened for user <*> by (uid=<*>)
+session opened for user test by (uid=509),session opened for user test by (uid=<*> ),session opened for user <*> by (uid=<*>)
+session closed for user test,session closed for user test,session closed for user <*>
+session closed for user test,session closed for user test,session closed for user <*>
+session opened for user test by (uid=509),session opened for user test by (uid=<*> ),session opened for user <*> by (uid=<*>)
+session opened for user test by (uid=509),session opened for user test by (uid=<*> ),session opened for user <*> by (uid=<*>)
+session closed for user test,session closed for user test,session closed for user <*>
+session closed for user test,session closed for user test,session closed for user <*>
+session closed for user test,session closed for user test,session closed for user <*>
+session closed for user test,session closed for user test,session closed for user <*>
+session closed for user test,session closed for user test,session closed for user <*>
+session closed for user test,session closed for user test,session closed for user <*>
+session closed for user test,session closed for user test,session closed for user <*>
+session closed for user test,session closed for user test,session closed for user <*>
+session opened for user cyrus by (uid=0),session opened for user cyrus by (uid=<*> ),session opened for user <*> by (uid=<*>)
+session closed for user cyrus,session closed for user cyrus,session closed for user <*>
+session opened for user test by (uid=509),session opened for user test by (uid=<*> ),session opened for user <*> by (uid=<*>)
+session closed for user test,session closed for user test,session closed for user <*>
+session opened for user test by (uid=509),session opened for user test by (uid=<*> ),session opened for user <*> by (uid=<*>)
+session closed for user test,session closed for user test,session closed for user <*>
+session opened for user test by (uid=509),session opened for user test by (uid=<*> ),session opened for user <*> by (uid=<*>)
+session closed for user test,session closed for user test,session closed for user <*>
+session opened for user test by (uid=509),session opened for user test by (uid=<*> ),session opened for user <*> by (uid=<*>)
+session closed for user test,session closed for user test,session closed for user <*>
+session opened for user test by (uid=509),session opened for user test by (uid=<*> ),session opened for user <*> by (uid=<*>)
+session opened for user test by (uid=509),session opened for user test by (uid=<*> ),session opened for user <*> by (uid=<*>)
+session closed for user test,session closed for user test,session closed for user <*>
+session opened for user test by (uid=509),session opened for user test by (uid=<*> ),session opened for user <*> by (uid=<*>)
+session closed for user test,session closed for user test,session closed for user <*>
+session opened for user test by (uid=509),session opened for user test by (uid=<*> ),session opened for user <*> by (uid=<*>)
+session closed for user test,session closed for user test,session closed for user <*>
+session closed for user test,session closed for user test,session closed for user <*>
+session opened for user test by (uid=509),session opened for user test by (uid=<*> ),session opened for user <*> by (uid=<*>)
+session opened for user test by (uid=509),session opened for user test by (uid=<*> ),session opened for user <*> by (uid=<*>)
+session opened for user test by (uid=509),session opened for user test by (uid=<*> ),session opened for user <*> by (uid=<*>)
+session opened for user test by (uid=509),session opened for user test by (uid=<*> ),session opened for user <*> by (uid=<*>)
+session closed for user test,session closed for user test,session closed for user <*>
+session closed for user test,session closed for user test,session closed for user <*>
+session closed for user test,session closed for user test,session closed for user <*>
+session closed for user test,session closed for user test,session closed for user <*>
+session opened for user test by (uid=509),session opened for user test by (uid=<*> ),session opened for user <*> by (uid=<*>)
+session closed for user test,session closed for user test,session closed for user <*>
+session opened for user test by (uid=509),session opened for user test by (uid=<*> ),session opened for user <*> by (uid=<*>)
+session opened for user test by (uid=509),session opened for user test by (uid=<*> ),session opened for user <*> by (uid=<*>)
+session opened for user test by (uid=509),session opened for user test by (uid=<*> ),session opened for user <*> by (uid=<*>)
+session closed for user test,session closed for user test,session closed for user <*>
+session closed for user test,session closed for user test,session closed for user <*>
+session closed for user test,session closed for user test,session closed for user <*>
+session opened for user cyrus by (uid=0),session opened for user cyrus by (uid=<*> ),session opened for user <*> by (uid=<*>)
+session closed for user cyrus,session closed for user cyrus,session closed for user <*>
+session opened for user cyrus by (uid=0),session opened for user cyrus by (uid=<*> ),session opened for user <*> by (uid=<*>)
+session closed for user cyrus,session closed for user cyrus,session closed for user <*>
+session opened for user cyrus by (uid=0),session opened for user cyrus by (uid=<*> ),session opened for user <*> by (uid=<*>)
+session closed for user cyrus,session closed for user cyrus,session closed for user <*>
+session opened for user cyrus by (uid=0),session opened for user cyrus by (uid=<*> ),session opened for user <*> by (uid=<*>)
+session closed for user cyrus,session closed for user cyrus,session closed for user <*>
+session opened for user cyrus by (uid=0),session opened for user cyrus by (uid=<*> ),session opened for user <*> by (uid=<*>)
+session closed for user cyrus,session closed for user cyrus,session closed for user <*>
+session opened for user cyrus by (uid=0),session opened for user cyrus by (uid=<*> ),session opened for user <*> by (uid=<*>)
+session closed for user cyrus,session closed for user cyrus,session closed for user <*>
+session opened for user test by (uid=509),session opened for user test by (uid=<*> ),session opened for user <*> by (uid=<*>)
+session opened for user test by (uid=509),session opened for user test by (uid=<*> ),session opened for user <*> by (uid=<*>)
+session closed for user test,session closed for user test,session closed for user <*>
+session opened for user test by (uid=509),session opened for user test by (uid=<*> ),session opened for user <*> by (uid=<*>)
+session closed for user test,session closed for user test,session closed for user <*>
+session closed for user test,session closed for user test,session closed for user <*>
+session opened for user test by (uid=509),session opened for user test by (uid=<*> ),session opened for user <*> by (uid=<*>)
+session opened for user test by (uid=509),session opened for user test by (uid=<*> ),session opened for user <*> by (uid=<*>)
+session closed for user test,session closed for user test,session closed for user <*>
+session opened for user test by (uid=509),session opened for user test by (uid=<*> ),session opened for user <*> by (uid=<*>)
+session closed for user test,session closed for user test,session closed for user <*>
+session closed for user test,session closed for user test,session closed for user <*>
+*** info [mice.c(1766)]:,*** info [mice.c(<*> ]:,*** info [mice.c(<*>)]:
+imps2: Auto-detected intellimouse PS/2,imps2: Auto-detected intellimouse PS/2,imps2: Auto-detected intellimouse PS/<*>
+session opened for user root by LOGIN(uid=0),session opened for user root by LOGIN(uid=<*> ),session opened for user <*> by LOGIN(uid=<*>)
+ROOT LOGIN ON tty2,ROOT LOGIN ON tty2,<*> LOGIN ON tty2
+session closed for user root,session closed for user root,session closed for user <*>
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=c9063558.virtua.com.br,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> tty=NODEVssh ruser= rhost=<*>,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*>
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=c9063558.virtua.com.br,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> tty=NODEVssh ruser= rhost=<*>,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*>
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=c9063558.virtua.com.br,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> tty=NODEVssh ruser= rhost=<*>,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*>
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=c9063558.virtua.com.br,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> tty=NODEVssh ruser= rhost=<*>,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*>
+session opened for user cyrus by (uid=0),session opened for user cyrus by (uid=<*> ),session opened for user <*> by (uid=<*>)
+session closed for user cyrus,session closed for user cyrus,session closed for user <*>
+session opened for user cyrus by (uid=0),session opened for user cyrus by (uid=<*> ),session opened for user <*> by (uid=<*>)
+session closed for user cyrus,session closed for user cyrus,session closed for user <*>
+session opened for user cyrus by (uid=0),session opened for user cyrus by (uid=<*> ),session opened for user <*> by (uid=<*>)
+session closed for user cyrus,session closed for user cyrus,session closed for user <*>
+session opened for user cyrus by (uid=0),session opened for user cyrus by (uid=<*> ),session opened for user <*> by (uid=<*>)
+session closed for user cyrus,session closed for user cyrus,session closed for user <*>
+authentication failure; logname= uid=0 euid=0 tty=:0 ruser= rhost=,authentication failure; logname= uid=<*> euid=<*> tty= russeer= rhost=<*>,authentication failure; logname= uid=<*> euid=<*> tty=:<*> ruser= rhost=
+session opened for user cyrus by (uid=0),session opened for user cyrus by (uid=<*> ),session opened for user <*> by (uid=<*>)
+session closed for user cyrus,session closed for user cyrus,session closed for user <*>
+session opened for user cyrus by (uid=0),session opened for user cyrus by (uid=<*> ),session opened for user <*> by (uid=<*>)
+session closed for user cyrus,session closed for user cyrus,session closed for user <*>
+session opened for user test by (uid=509),session opened for user test by (uid=<*> ),session opened for user <*> by (uid=<*>)
+session opened for user test by (uid=509),session opened for user test by (uid=<*> ),session opened for user <*> by (uid=<*>)
+session closed for user test,session closed for user test,session closed for user <*>
+session closed for user test,session closed for user test,session closed for user <*>
+session opened for user test by (uid=509),session opened for user test by (uid=<*> ),session opened for user <*> by (uid=<*>)
+session closed for user test,session closed for user test,session closed for user <*>
+session opened for user cyrus by (uid=0),session opened for user cyrus by (uid=<*> ),session opened for user <*> by (uid=<*>)
+session closed for user cyrus,session closed for user cyrus,session closed for user <*>
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=202-132-40-29.adsl.ttn.net user=root,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> tty=NODEVssh ruser= rhost=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> euid=<*>,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=202-132-40-29.adsl.ttn.net user=root,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> tty=NODEVssh ruser= rhost=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> euid=<*>,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=202-132-40-29.adsl.ttn.net user=root,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> tty=NODEVssh ruser= rhost=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> euid=<*>,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=202-132-40-29.adsl.ttn.net user=root,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> tty=NODEVssh ruser= rhost=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> euid=<*>,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=202-132-40-29.adsl.ttn.net user=root,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> tty=NODEVssh ruser= rhost=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> euid=<*>,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=202-132-40-29.adsl.ttn.net user=root,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> tty=NODEVssh ruser= rhost=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> euid=<*>,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=202-132-40-29.adsl.ttn.net user=root,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> tty=NODEVssh ruser= rhost=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> euid=<*>,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=202-132-40-29.adsl.ttn.net user=root,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> tty=NODEVssh ruser= rhost=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> euid=<*>,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+session opened for user cyrus by (uid=0),session opened for user cyrus by (uid=<*> ),session opened for user <*> by (uid=<*>)
+session closed for user cyrus,session closed for user cyrus,session closed for user <*>
+session opened for user cyrus by (uid=0),session opened for user cyrus by (uid=<*> ),session opened for user <*> by (uid=<*>)
+session closed for user cyrus,session closed for user cyrus,session closed for user <*>
+session opened for user cyrus by (uid=0),session opened for user cyrus by (uid=<*> ),session opened for user <*> by (uid=<*>)
+session closed for user cyrus,session closed for user cyrus,session closed for user <*>
+session opened for user cyrus by (uid=0),session opened for user cyrus by (uid=<*> ),session opened for user <*> by (uid=<*>)
+session closed for user cyrus,session closed for user cyrus,session closed for user <*>
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211-76-104-65.ebix.net.tw,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> tty=NODEVssh ruser= rhost=<*>,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*>
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211-76-104-65.ebix.net.tw,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> tty=NODEVssh ruser= rhost=<*>,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*>
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211-76-104-65.ebix.net.tw,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> tty=NODEVssh ruser= rhost=<*>,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*>
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211-76-104-65.ebix.net.tw,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> tty=NODEVssh ruser= rhost=<*>,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*>
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211-76-104-65.ebix.net.tw,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> tty=NODEVssh ruser= rhost=<*>,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*>
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211-76-104-65.ebix.net.tw,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> tty=NODEVssh ruser= rhost=<*>,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*>
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211-76-104-65.ebix.net.tw,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> tty=NODEVssh ruser= rhost=<*>,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*>
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211-76-104-65.ebix.net.tw,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> tty=NODEVssh ruser= rhost=<*>,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*>
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211-76-104-65.ebix.net.tw,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> tty=NODEVssh ruser= rhost=<*>,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*>
+authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211-76-104-65.ebix.net.tw,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> tty=NODEVssh ruser= rhost=<*>,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*>
+session opened for user cyrus by (uid=0),session opened for user cyrus by (uid=<*> ),session opened for user <*> by (uid=<*>)
+session closed for user cyrus,session closed for user cyrus,session closed for user <*>
+session opened for user cyrus by (uid=0),session opened for user cyrus by (uid=<*> ),session opened for user <*> by (uid=<*>)
+session closed for user cyrus,session closed for user cyrus,session closed for user <*>
+session opened for user cyrus by (uid=0),session opened for user cyrus by (uid=<*> ),session opened for user <*> by (uid=<*>)
+session closed for user cyrus,session closed for user cyrus,session closed for user <*>
+session opened for user cyrus by (uid=0),session opened for user cyrus by (uid=<*> ),session opened for user <*> by (uid=<*>)
+session closed for user cyrus,session closed for user cyrus,session closed for user <*>
+session opened for user cyrus by (uid=0),session opened for user cyrus by (uid=<*> ),session opened for user <*> by (uid=<*>)
+session closed for user cyrus,session closed for user cyrus,session closed for user <*>
+session opened for user cyrus by (uid=0),session opened for user cyrus by (uid=<*> ),session opened for user <*> by (uid=<*>)
+session closed for user cyrus,session closed for user cyrus,session closed for user <*>
+session opened for user cyrus by (uid=0),session opened for user cyrus by (uid=<*> ),session opened for user <*> by (uid=<*>)
+session closed for user cyrus,session closed for user cyrus,session closed for user <*>
+session opened for user cyrus by (uid=0),session opened for user cyrus by (uid=<*> ),session opened for user <*> by (uid=<*>)
+session closed for user cyrus,session closed for user cyrus,session closed for user <*>
+session opened for user cyrus by (uid=0),session opened for user cyrus by (uid=<*> ),session opened for user <*> by (uid=<*>)
+session closed for user cyrus,session closed for user cyrus,session closed for user <*>
+"klogd 1.4.1, log source = /proc/kmsg started.","klogd 1.4.1, log source = /proc/kmsg started.","klogd <*>, log source = <*> started."
+Linux version 2.6.5-1.358 (bhcompile@bugs.build.redhat.com) (gcc version 3.3.3 20040412 (Red Hat Linux 3.3.3-7)) #1 Sat May 8 09:04:50 EDT 2004,Linux version <*> (bhcompile@bugs.build.redhat.com) (gcc version <*> ) #1 Sat May <*> EDT,Linux version <*> (bhcompile@bugs.build.redhat.com) (gcc version <*> (Red Hat Linux <*>)) <*>
+0MB HIGHMEM available.,Clickfunnel HIGHMEM available.,<*> HIGHMEM available.
+126MB LOWMEM available.,126MB LOWMEM available.,<*> LOWMEM available.
+On node 0 totalpages: 32430,On node 0 totalpages: <*>,On node <*> totalpages: <*>
+"DMA zone: 4096 pages, LIFO batch:1","DMA zone: <*>, LIFO batch:<*>","DMA zone: <*> pages, LIFO batch:<*>"
+"Normal zone: 28334 pages, LIFO batch:6","Normal zone: <*>, LIFO batch:<*>","Normal zone: <*> pages, LIFO batch:<*>"
+DMI 2.3 present.,DMI 2.3 present.,DMI <*> present.
+Built 1 zonelists,Built 1 zonelists,Built <*> zonelists
+Kernel command line: ro root=LABEL=/ rhgb quiet,Kernel command line: ro root=LABEL=/ rhgb quiet,Kernel command line: ro <*>=LABEL=/ rhgb quiet
+mapped 4G/4G trampoline to ffff3000.,mapped 4G/4G trampoline to fff3000.,mapped 4G/4G trampoline to <*>.
+"CPU 0 irqstacks, hard=02345000 soft=02344000","CPU 0.1 irqstacks, hard=<*> soft=<*>","CPU <*> irqstacks, hard=<*> soft=<*>"
+PID hash table entries: 512 (order 9: 4096 bytes),PID hash table entries: <*> (order 9: <*> bytes),PID hash table entries: <*> (order <*>: <*> bytes)
+Version 1.0.6 Starting,Version 1.0.6 Starting,Version <*> Starting
+Console: colour VGA+ 80x25,Console: colour VGA+ LCD+,Console: colour VGA+ <*>
+"Memory: 125312k/129720k available (1540k kernel code, 3860k reserved, 599k data, 144k init, 0k highmem)","Memory: <*> /<*> obtainable (1540k kernel code, <*>, <*>, <*> )","Memory: <*> available (<*> kernel code, <*> reserved, <*> data, <*> init, <*> highmem)"
+"Dentry cache hash table entries: 16384 (order: 4, 65536 bytes)",Dentry cache hash table entries: <*> (order: <*> ),"Dentry cache hash table entries: <*> (order: <*>, <*> bytes)"
+"Inode-cache hash table entries: 8192 (order: 3, 32768 bytes)",Inode-cache hash table entries: <*> (order: <*> ),"Inode-cache hash table entries: <*> (order: <*>, <*> bytes)"
+"Mount-cache hash table entries: 512 (order: 0, 4096 bytes)",Mount-cache hash table entries: <*> (order: <*> ),"Mount-cache hash table entries: <*> (order: <*>, <*> bytes)"
+Transparent bridge - 0000:00:1e.0,Transparent bridge - <*> - <*>,Transparent bridge - <*>
+PCI: Using IRQ router PIIX/ICH [8086/2410] at 0000:00:1f.0,PCI: Using IRQ router PIIX/ICH [<*> ] at <*> :<*>,PCI: Using IRQ router PIIX/ICH [<*>/<*>] at <*>
+apm: BIOS version 1.2 Flags 0x03 (Driver version 1.16ac),apm: BIOS version <*> (Driver version <*> ),apm: BIOS version <*> Flags <*> (Driver version <*>)
+HCI daemon ver 2.4 started,HCI daemon ver 2.4 started,HCI daemon ver <*> started
+VFS: Disk quotas dquot_6.5.1,VFS: Disk quotas dquot_<*>,VFS: Disk quotas <*>
+"Dquot-cache hash table entries: 1024 (order 0, 4096 bytes)",Dquot-cache hash table entries: <*> (order <*> ),"Dquot-cache hash table entries: <*> (order <*>, <*> bytes)"

@@ -1,0 +1,2001 @@
+,instruction,Content,EventTemplate
+751,Parse the input log to log template.,ambient=30,ambient=<*>
+1545,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+881,Parse the input log to log template.,warning,warning
+396,Parse the input log to log template.,running,running
+509,Parse the input log to log template.,running,running
+1217,Parse the input log to log template.,ambient=27,ambient=<*>
+416,Parse the input log to log template.,configured out,configured out
+1701,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1447,Parse the input log to log template.,Link ok,Link ok
+9,Parse the input log to log template.,Component State Change: Component \042alt0\042 is in the unavailable state (HWID=2969),Component State Change: Component <*> is in the unavailable state (HWID=<*>)
+1371,Parse the input log to log template.,ambient=27,ambient=<*>
+335,Parse the input log to log template.,ClusterFileSystem: ServerFileSystem domain root_domain is no longer served by node node-160,ClusterFileSystem: ServerFileSystem domain <*> is no longer served by node node-<*>
+541,Parse the input log to log template.,running,running
+1023,Parse the input log to log template.,normal,normal
+60,Parse the input log to log template.,wait  (command 2511),wait (command <*>)
+1610,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1878,Parse the input log to log template.,link errors remain current,link errors remain current
+314,Parse the input log to log template.,Link error,Link error
+619,Parse the input log to log template.,not responding,not responding
+296,Parse the input log to log template.,Fan speeds ( 3534 3534 3375 **** 3497 3479 ),Fan speeds ( <*> <*> <*> **** <*> <*> )
+1199,Parse the input log to log template.,warning,warning
+1339,Parse the input log to log template.,warning,warning
+907,Parse the input log to log template.,warning,warning
+598,Parse the input log to log template.,running,running
+1205,Parse the input log to log template.,ambient=24,ambient=<*>
+364,Parse the input log to log template.,ClusterFileSystem: ServerFileSystem domain sc_cluster_backup is no longer served by node node-0,ClusterFileSystem: ServerFileSystem domain <*> is no longer served by node node-<*>
+1419,Parse the input log to log template.,critical,critical
+846,Parse the input log to log template.,ambient=28,ambient=<*>
+642,Parse the input log to log template.,configured out,configured out
+1148,Parse the input log to log template.,warning,warning
+1727,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1283,Parse the input log to log template.,normal,normal
+760,Parse the input log to log template.,ambient=31,ambient=<*>
+134,Parse the input log to log template.,wait  (command 3973),wait (command <*>)
+260,Parse the input log to log template.,Fan speeds ( 3552 3534 3375 **** 3515 3479 ),Fan speeds ( <*> <*> <*> **** <*> <*> )
+556,Parse the input log to log template.,configured out,configured out
+1992,Parse the input log to log template.,NIFF: node node-248 has detected an available network connection on network 10.128.0.0 via interface ee0,NIFF: node node-<*> has detected an available network connection on network <*> via interface ee0
+1906,Parse the input log to log template.,link errors remain current,link errors remain current
+1944,Parse the input log to log template.,NIFF: node node-151 has detected an available network connection on network 5.5.224.0 via interface alt0,NIFF: node node-<*> has detected an available network connection on network <*> via interface alt0
+1896,Parse the input log to log template.,link errors remain current,link errors remain current
+1454,Parse the input log to log template.,Link in reset,Link in reset
+649,Parse the input log to log template.,running,running
+1375,Parse the input log to log template.,ambient=33,ambient=<*>
+1500,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1670,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1761,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1017,Parse the input log to log template.,normal,normal
+1560,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+285,Parse the input log to log template.,Fan speeds ( 3552 3534 3391 4299 3515 3479 ),Fan speeds ( <*> <*> <*> <*> <*> <*> )
+1731,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+492,Parse the input log to log template.,configured out,configured out
+1413,Parse the input log to log template.,normal,normal
+50,Parse the input log to log template.,boot  (command 2406),boot (command <*>)
+1938,Parse the input log to log template.,NIFF: node node-234 has detected an available network connection on network 10.128.0.0 via interface ee0,NIFF: node node-<*> has detected an available network connection on network <*> via interface ee0
+1789,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1424,Parse the input log to log template.,normal,normal
+215,Parse the input log to log template.,Fan speeds ( 3552 3534 3375 **** 3515 3479 ),Fan speeds ( <*> <*> <*> **** <*> <*> )
+956,Parse the input log to log template.,normal,normal
+1975,Parse the input log to log template.,NIFF: node node-26 has detected an available network connection on network 10.128.0.0 via interface ee0,NIFF: node node-<*> has detected an available network connection on network <*> via interface ee0
+1428,Parse the input log to log template.,ambient=34,ambient=<*>
+1654,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+616,Parse the input log to log template.,running,running
+408,Parse the input log to log template.,running,running
+1446,Parse the input log to log template.,Link ok,Link ok
+547,Parse the input log to log template.,running,running
+1957,Parse the input log to log template.,NIFF: node node-143 has detected an available network connection on network 5.5.224.0 via interface alt0,NIFF: node node-<*> has detected an available network connection on network <*> via interface alt0
+1216,Parse the input log to log template.,warning,warning
+1379,Parse the input log to log template.,ambient=33,ambient=<*>
+1299,Parse the input log to log template.,normal,normal
+1273,Parse the input log to log template.,normal,normal
+1181,Parse the input log to log template.,warning,warning
+1700,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1902,Parse the input log to log template.,link errors remain current,link errors remain current
+993,Parse the input log to log template.,normal,normal
+781,Parse the input log to log template.,normal,normal
+286,Parse the input log to log template.,Fan speeds ( 3552 3534 3391 **** 3515 3479 ),Fan speeds ( <*> <*> <*> **** <*> <*> )
+1469,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+280,Parse the input log to log template.,Fan speeds ( 3552 3534 3391 **** 3515 3479 ),Fan speeds ( <*> <*> <*> **** <*> <*> )
+852,Parse the input log to log template.,normal,normal
+833,Parse the input log to log template.,normal,normal
+798,Parse the input log to log template.,warning,warning
+1571,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1012,Parse the input log to log template.,normal,normal
+1252,Parse the input log to log template.,ambient=30,ambient=<*>
+1449,Parse the input log to log template.,Link in reset,Link in reset
+1566,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+520,Parse the input log to log template.,running,running
+937,Parse the input log to log template.,normal,normal
+365,Parse the input log to log template.,ClusterFileSystem: ServerFileSystem domain cluster_usr_backup is no longer served by node node-192,ClusterFileSystem: ServerFileSystem domain <*> is no longer served by node node-<*>
+1923,Parse the input log to log template.,NIFF: node node-186 has detected an available network connection on network 5.5.226.0 via interface alt0,NIFF: node node-<*> has detected an available network connection on network <*> via interface alt0
+1130,Parse the input log to log template.,warning,warning
+915,Parse the input log to log template.,ambient=29,ambient=<*>
+1460,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+916,Parse the input log to log template.,ambient=30,ambient=<*>
+377,Parse the input log to log template.,blocked,blocked
+1383,Parse the input log to log template.,ambient=27,ambient=<*>
+905,Parse the input log to log template.,warning,warning
+591,Parse the input log to log template.,configured out,configured out
+922,Parse the input log to log template.,ambient=32,ambient=<*>
+733,Parse the input log to log template.,ambient=30,ambient=<*>
+1421,Parse the input log to log template.,warning,warning
+310,Parse the input log to log template.,Link in reset,Link in reset
+1647,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1328,Parse the input log to log template.,ambient=33,ambient=<*>
+1917,Parse the input log to log template.,NIFF: node node-142 has detected an available network connection on network 0.0.0.0 via interface alt0,NIFF: node node-<*> has detected an available network connection on network <*> via interface alt0
+415,Parse the input log to log template.,configured out,configured out
+669,Parse the input log to log template.,not responding,not responding
+817,Parse the input log to log template.,ambient=26,ambient=<*>
+1452,Parse the input log to log template.,Link in reset,Link in reset
+351,Parse the input log to log template.,ClusterFileSystem: ServerFileSystem domain root6_domain is no longer served by node node-37,ClusterFileSystem: ServerFileSystem domain <*> is no longer served by node node-<*>
+1229,Parse the input log to log template.,normal,normal
+1286,Parse the input log to log template.,warning,warning
+1030,Parse the input log to log template.,warning,warning
+1005,Parse the input log to log template.,normal,normal
+491,Parse the input log to log template.,configured out,configured out
+664,Parse the input log to log template.,running,running
+112,Parse the input log to log template.,wait  (command 3519),wait (command <*>)
+539,Parse the input log to log template.,configured out,configured out
+522,Parse the input log to log template.,configured out,configured out
+1997,Parse the input log to log template.,NIFF: node node-161 has detected an available network connection on network 0.0.0.0 via interface alt0,NIFF: node node-<*> has detected an available network connection on network <*> via interface alt0
+1215,Parse the input log to log template.,warning,warning
+208,Parse the input log to log template.,ClusterFileSystem: There is no server for ServerFileSystem domain storage832,ClusterFileSystem: There is no server for ServerFileSystem domain <*>
+85,Parse the input log to log template.,wait  (command 2817),wait (command <*>)
+1563,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+609,Parse the input log to log template.,blocked,blocked
+1214,Parse the input log to log template.,warning,warning
+1728,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1660,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1703,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1662,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+206,Parse the input log to log template.,ClusterFileSystem: There is no server for ServerFileSystem domain storage411,ClusterFileSystem: There is no server for ServerFileSystem domain <*>
+914,Parse the input log to log template.,ambient=36,ambient=<*>
+241,Parse the input log to log template.,Fan speeds ( 3552 3534 3375 **** 3515 3479 ),Fan speeds ( <*> <*> <*> **** <*> <*> )
+1864,Parse the input log to log template.,link errors remain current,link errors remain current
+1532,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+127,Parse the input log to log template.,wait  (command 3709),wait (command <*>)
+1096,Parse the input log to log template.,warning,warning
+758,Parse the input log to log template.,warning,warning
+653,Parse the input log to log template.,running,running
+340,Parse the input log to log template.,ClusterFileSystem: ServerFileSystem domain root30_domain is no longer served by node node-0,ClusterFileSystem: ServerFileSystem domain <*> is no longer served by node node-<*>
+979,Parse the input log to log template.,normal,normal
+1515,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1895,Parse the input log to log template.,link errors remain current,link errors remain current
+31,Parse the input log to log template.,boot  (command 2160),boot (command <*>)
+1946,Parse the input log to log template.,NIFF: node node-188 has detected an available network connection on network 10.128.0.0 via interface ee0,NIFF: node node-<*> has detected an available network connection on network <*> via interface ee0
+1534,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+566,Parse the input log to log template.,running,running
+1691,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1933,Parse the input log to log template.,NIFF: node node-84 has detected an available network connection on network 10.128.0.0 via interface ee0,NIFF: node node-<*> has detected an available network connection on network <*> via interface ee0
+647,Parse the input log to log template.,running,running
+1929,Parse the input log to log template.,NIFF: node node-237 has detected an available network connection on network 5.5.226.0 via interface alt0,NIFF: node node-<*> has detected an available network connection on network <*> via interface alt0
+1590,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1366,Parse the input log to log template.,ambient=30,ambient=<*>
+953,Parse the input log to log template.,warning,warning
+25,Parse the input log to log template.,wait  (command 1973),wait (command <*>)
+808,Parse the input log to log template.,ambient=35,ambient=<*>
+505,Parse the input log to log template.,running,running
+728,Parse the input log to log template.,normal,normal
+838,Parse the input log to log template.,warning,warning
+494,Parse the input log to log template.,running,running
+1972,Parse the input log to log template.,NIFF: node node-150 has detected an available network connection on network 5.5.224.0 via interface alt0,NIFF: node node-<*> has detected an available network connection on network <*> via interface alt0
+944,Parse the input log to log template.,ambient=29,ambient=<*>
+1198,Parse the input log to log template.,warning,warning
+643,Parse the input log to log template.,running,running
+940,Parse the input log to log template.,warning,warning
+1682,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1687,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1967,Parse the input log to log template.,NIFF: node node-29 has detected an available network connection on network 10.128.0.0 via interface ee0,NIFF: node node-<*> has detected an available network connection on network <*> via interface ee0
+1021,Parse the input log to log template.,ambient=26,ambient=<*>
+427,Parse the input log to log template.,not responding,not responding
+1681,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1010,Parse the input log to log template.,warning,warning
+1588,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1078,Parse the input log to log template.,ambient=30,ambient=<*>
+1336,Parse the input log to log template.,normal,normal
+1930,Parse the input log to log template.,NIFF: node node-208 has detected an available network connection on network 10.128.0.0 via interface ee0,NIFF: node node-<*> has detected an available network connection on network <*> via interface ee0
+1,Parse the input log to log template.,Component State Change: Component \042alt0\042 is in the unavailable state (HWID=3180),Component State Change: Component <*> is in the unavailable state (HWID=<*>)
+482,Parse the input log to log template.,configured out,configured out
+1737,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+793,Parse the input log to log template.,warning,warning
+442,Parse the input log to log template.,configured out,configured out
+1831,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+878,Parse the input log to log template.,warning,warning
+1863,Parse the input log to log template.,link errors remain current,link errors remain current
+900,Parse the input log to log template.,ambient=33,ambient=<*>
+608,Parse the input log to log template.,running,running
+1263,Parse the input log to log template.,ambient=26,ambient=<*>
+859,Parse the input log to log template.,normal,normal
+868,Parse the input log to log template.,warning,warning
+1200,Parse the input log to log template.,normal,normal
+1899,Parse the input log to log template.,link errors remain current,link errors remain current
+8,Parse the input log to log template.,Component State Change: Component \042alt0\042 is in the unavailable state (HWID=2478),Component State Change: Component <*> is in the unavailable state (HWID=<*>)
+912,Parse the input log to log template.,ambient=29,ambient=<*>
+1317,Parse the input log to log template.,warning,warning
+1640,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1561,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1866,Parse the input log to log template.,link errors remain current,link errors remain current
+1920,Parse the input log to log template.,NIFF: node node-173 has detected an available network connection on network 10.128.0.0 via interface ee0,NIFF: node node-<*> has detected an available network connection on network <*> via interface ee0
+1472,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+22,Parse the input log to log template.,halt  (command 1982),halt (command <*>)
+632,Parse the input log to log template.,running,running
+1271,Parse the input log to log template.,ambient=29,ambient=<*>
+662,Parse the input log to log template.,running,running
+1583,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1711,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+79,Parse the input log to log template.,wait  (command 2682),wait (command <*>)
+319,Parse the input log to log template.,Link error on broadcast tree Interconnect-1T00:00:3:6,Link error on broadcast tree Interconnect-<*>:<*>:<*>:<*>
+1274,Parse the input log to log template.,ambient=30,ambient=<*>
+1178,Parse the input log to log template.,ambient=35,ambient=<*>
+559,Parse the input log to log template.,running,running
+717,Parse the input log to log template.,normal,normal
+1536,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+697,Parse the input log to log template.,running,running
+29,Parse the input log to log template.,boot  (command 2141),boot (command <*>)
+242,Parse the input log to log template.,Fan speeds ( 3552 3534 3375 **** 3515 3479 ),Fan speeds ( <*> <*> <*> **** <*> <*> )
+1476,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+930,Parse the input log to log template.,ambient=31,ambient=<*>
+483,Parse the input log to log template.,configured out,configured out
+48,Parse the input log to log template.,boot  (command 2368),boot (command <*>)
+1282,Parse the input log to log template.,normal,normal
+1492,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1359,Parse the input log to log template.,ambient=27,ambient=<*>
+15,Parse the input log to log template.,bootGenvmunix  (command 1903),bootGenvmunix (command <*>)
+259,Parse the input log to log template.,Fan speeds ( 3552 3534 3375 **** 3515 3479 ),Fan speeds ( <*> <*> <*> **** <*> <*> )
+1556,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+982,Parse the input log to log template.,ambient=27,ambient=<*>
+1499,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1395,Parse the input log to log template.,ambient=26,ambient=<*>
+737,Parse the input log to log template.,ambient=32,ambient=<*>
+923,Parse the input log to log template.,ambient=30,ambient=<*>
+730,Parse the input log to log template.,ambient=29,ambient=<*>
+424,Parse the input log to log template.,not responding,not responding
+1622,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+35,Parse the input log to log template.,wait  (command 2201),wait (command <*>)
+945,Parse the input log to log template.,ambient=33,ambient=<*>
+1100,Parse the input log to log template.,ambient=28,ambient=<*>
+1301,Parse the input log to log template.,ambient=30,ambient=<*>
+1771,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+193,Parse the input log to log template.,ClusterFileSystem: There is no server for ServerFileSystem domain storage1644,ClusterFileSystem: There is no server for ServerFileSystem domain <*>
+146,Parse the input log to log template.,boot  (command 4170),boot (command <*>)
+1231,Parse the input log to log template.,ambient=30,ambient=<*>
+126,Parse the input log to log template.,wait  (command 3698),wait (command <*>)
+879,Parse the input log to log template.,normal,normal
+1004,Parse the input log to log template.,warning,warning
+1908,Parse the input log to log template.,link errors remain current,link errors remain current
+1294,Parse the input log to log template.,warning,warning
+1581,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+343,Parse the input log to log template.,ClusterFileSystem: ServerFileSystem domain root12_domain is no longer served by node node-11,ClusterFileSystem: ServerFileSystem domain <*> is no longer served by node node-<*>
+190,Parse the input log to log template.,ClusterFileSystem: There is no server for ServerFileSystem domain storage1612,ClusterFileSystem: There is no server for ServerFileSystem domain <*>
+1706,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+387,Parse the input log to log template.,not responding,not responding
+1964,Parse the input log to log template.,NIFF: node node-84 has detected an available network connection on network 10.128.0.0 via interface ee0,NIFF: node node-<*> has detected an available network connection on network <*> via interface ee0
+19,Parse the input log to log template.,boot  (command 1967),boot (command <*>)
+1811,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+925,Parse the input log to log template.,ambient=31,ambient=<*>
+1579,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1159,Parse the input log to log template.,ambient=36,ambient=<*>
+667,Parse the input log to log template.,configured out,configured out
+1127,Parse the input log to log template.,normal,normal
+109,Parse the input log to log template.,boot  (command 3473),boot (command <*>)
+1802,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+540,Parse the input log to log template.,not-responding,not-responding
+1147,Parse the input log to log template.,critical,critical
+1049,Parse the input log to log template.,normal,normal
+1477,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+770,Parse the input log to log template.,warning,warning
+1820,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1593,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1213,Parse the input log to log template.,normal,normal
+1868,Parse the input log to log template.,link errors remain current,link errors remain current
+1600,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+81,Parse the input log to log template.,wait  (command 2800),wait (command <*>)
+1540,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+908,Parse the input log to log template.,warning,warning
+552,Parse the input log to log template.,configured out,configured out
+10,Parse the input log to log template.,Component State Change: Component \042alt0\042 is in the unavailable state (HWID=4159),Component State Change: Component <*> is in the unavailable state (HWID=<*>)
+378,Parse the input log to log template.,blocked,blocked
+830,Parse the input log to log template.,ambient=35,ambient=<*>
+1798,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1000,Parse the input log to log template.,warning,warning
+11,Parse the input log to log template.,Component State Change: Component \042alt0\042 is in the unavailable state (HWID=2608),Component State Change: Component <*> is in the unavailable state (HWID=<*>)
+1361,Parse the input log to log template.,ambient=28,ambient=<*>
+1882,Parse the input log to log template.,link errors remain current,link errors remain current
+532,Parse the input log to log template.,configured out,configured out
+37,Parse the input log to log template.,boot  (command 2183),boot (command <*>)
+1482,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+524,Parse the input log to log template.,running,running
+1462,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1889,Parse the input log to log template.,link errors remain current,link errors remain current
+1425,Parse the input log to log template.,warning,warning
+1245,Parse the input log to log template.,warning,warning
+56,Parse the input log to log template.,wait  (command 2468),wait (command <*>)
+1978,Parse the input log to log template.,NIFF: node node-182 has detected an available network connection on network 10.128.0.0 via interface ee0,NIFF: node node-<*> has detected an available network connection on network <*> via interface ee0
+1655,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+726,Parse the input log to log template.,ambient=31,ambient=<*>
+1362,Parse the input log to log template.,ambient=28,ambient=<*>
+862,Parse the input log to log template.,warning,warning
+1672,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+388,Parse the input log to log template.,not responding,not responding
+1988,Parse the input log to log template.,NIFF: node node-221 has detected an available network connection on network 5.5.224.0 via interface alt0,NIFF: node node-<*> has detected an available network connection on network <*> via interface alt0
+149,Parse the input log to log template.,bootGenvmunix  (command 4185),bootGenvmunix (command <*>)
+1976,Parse the input log to log template.,NIFF: node node-44 has detected an available network connection on network 5.5.224.0 via interface alt0,NIFF: node node-<*> has detected an available network connection on network <*> via interface alt0
+573,Parse the input log to log template.,running,running
+399,Parse the input log to log template.,not responding,not responding
+987,Parse the input log to log template.,ambient=30,ambient=<*>
+1893,Parse the input log to log template.,link errors remain current,link errors remain current
+1309,Parse the input log to log template.,ambient=28,ambient=<*>
+1714,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1320,Parse the input log to log template.,ambient=31,ambient=<*>
+457,Parse the input log to log template.,running,running
+1870,Parse the input log to log template.,link errors remain current,link errors remain current
+1704,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+214,Parse the input log to log template.,Fan speeds ( 3552 3534 3375 **** 3515 3479 ),Fan speeds ( <*> <*> <*> **** <*> <*> )
+1163,Parse the input log to log template.,ambient=35,ambient=<*>
+732,Parse the input log to log template.,ambient=26,ambient=<*>
+106,Parse the input log to log template.,boot  (command 3334),boot (command <*>)
+1721,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1388,Parse the input log to log template.,normal,normal
+764,Parse the input log to log template.,normal,normal
+1106,Parse the input log to log template.,warning,warning
+1673,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1847,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1751,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+354,Parse the input log to log template.,ClusterFileSystem: ServerFileSystem domain root23_local is no longer served by node node-182,ClusterFileSystem: ServerFileSystem domain <*> is no longer served by node node-<*>
+555,Parse the input log to log template.,running,running
+1520,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+801,Parse the input log to log template.,ambient=32,ambient=<*>
+225,Parse the input log to log template.,Fan speeds ( 3552 3534 3375 **** 3515 3479 ),Fan speeds ( <*> <*> <*> **** <*> <*> )
+1140,Parse the input log to log template.,normal,normal
+1179,Parse the input log to log template.,warning,warning
+172,Parse the input log to log template.,psu failure\ ambient=28,psu failure\ ambient=<*>
+1529,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+201,Parse the input log to log template.,ClusterFileSystem: There is no server for ServerFileSystem domain storage1432,ClusterFileSystem: There is no server for ServerFileSystem domain <*>
+1210,Parse the input log to log template.,ambient=31,ambient=<*>
+612,Parse the input log to log template.,not responding,not responding
+1817,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1881,Parse the input log to log template.,link errors remain current,link errors remain current
+1432,Parse the input log to log template.,warning,warning
+404,Parse the input log to log template.,running,running
+978,Parse the input log to log template.,warning,warning
+1367,Parse the input log to log template.,ambient=28,ambient=<*>
+1342,Parse the input log to log template.,ambient=35,ambient=<*>
+187,Parse the input log to log template.,ClusterFileSystem: There is no server for ServerFileSystem domain storage444,ClusterFileSystem: There is no server for ServerFileSystem domain <*>
+1750,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1803,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1028,Parse the input log to log template.,critical,critical
+1911,Parse the input log to log template.,NIFF: node node-24 has detected an available network connection on network 10.128.0.0 via interface ee0,NIFF: node node-<*> has detected an available network connection on network <*> via interface ee0
+1991,Parse the input log to log template.,NIFF: node node-94 has detected an available network connection on network 5.5.224.0 via interface alt0,NIFF: node node-<*> has detected an available network connection on network <*> via interface alt0
+333,Parse the input log to log template.,ServerFileSystem: ServerFileSystem domain root22_local is full,ServerFileSystem: ServerFileSystem domain <*> is full
+1102,Parse the input log to log template.,normal,normal
+557,Parse the input log to log template.,configured out,configured out
+1797,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+348,Parse the input log to log template.,ClusterFileSystem: ServerFileSystem domain storage343 is no longer served by node node-11,ClusterFileSystem: ServerFileSystem domain <*> is no longer served by node node-<*>
+203,Parse the input log to log template.,ClusterFileSystem: There is no server for ServerFileSystem domain storage742,ClusterFileSystem: There is no server for ServerFileSystem domain <*>
+1291,Parse the input log to log template.,ambient=26,ambient=<*>
+825,Parse the input log to log template.,critical,critical
+845,Parse the input log to log template.,ambient=32,ambient=<*>
+1880,Parse the input log to log template.,link errors remain current,link errors remain current
+973,Parse the input log to log template.,warning,warning
+1083,Parse the input log to log template.,normal,normal
+866,Parse the input log to log template.,normal,normal
+1916,Parse the input log to log template.,NIFF: node node-120 has detected an available network connection on network 5.5.226.0 via interface alt0,NIFF: node node-<*> has detected an available network connection on network <*> via interface alt0
+1234,Parse the input log to log template.,ambient=34,ambient=<*>
+604,Parse the input log to log template.,configured out,configured out
+1121,Parse the input log to log template.,critical,critical
+288,Parse the input log to log template.,Fan speeds ( 3552 3534 3391 **** 3515 3479 ),Fan speeds ( <*> <*> <*> **** <*> <*> )
+1517,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1987,Parse the input log to log template.,NIFF: node node-187 has detected an available network connection on network 5.5.224.0 via interface alt0,NIFF: node node-<*> has detected an available network connection on network <*> via interface alt0
+840,Parse the input log to log template.,normal,normal
+70,Parse the input log to log template.,boot  (command 2602),boot (command <*>)
+749,Parse the input log to log template.,warning,warning
+1064,Parse the input log to log template.,warning,warning
+985,Parse the input log to log template.,ambient=27,ambient=<*>
+1766,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1713,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1207,Parse the input log to log template.,ambient=30,ambient=<*>
+1488,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1275,Parse the input log to log template.,ambient=30,ambient=<*>
+1038,Parse the input log to log template.,normal,normal
+1898,Parse the input log to log template.,link errors remain current,link errors remain current
+1679,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+21,Parse the input log to log template.,boot  (command 1999),boot (command <*>)
+1237,Parse the input log to log template.,ambient=25,ambient=<*>
+284,Parse the input log to log template.,Fan speeds ( 3552 3534 3391 **** 3515 3479 ),Fan speeds ( <*> <*> <*> **** <*> <*> )
+1788,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1743,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+295,Parse the input log to log template.,Fan speeds ( 3534 3534 3375 **** 3497 3479 ),Fan speeds ( <*> <*> <*> **** <*> <*> )
+1115,Parse the input log to log template.,ambient=31,ambient=<*>
+222,Parse the input log to log template.,Fan speeds ( 3552 3534 3375 **** 3515 3479 ),Fan speeds ( <*> <*> <*> **** <*> <*> )
+1609,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+581,Parse the input log to log template.,not responding,not responding
+1850,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1745,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1415,Parse the input log to log template.,warning,warning
+1218,Parse the input log to log template.,normal,normal
+1518,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1398,Parse the input log to log template.,ambient=31,ambient=<*>
+1091,Parse the input log to log template.,ambient=27,ambient=<*>
+1390,Parse the input log to log template.,warning,warning
+783,Parse the input log to log template.,warning,warning
+1519,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1068,Parse the input log to log template.,warning,warning
+631,Parse the input log to log template.,configured out,configured out
+508,Parse the input log to log template.,configured out,configured out
+1006,Parse the input log to log template.,warning,warning
+1338,Parse the input log to log template.,ambient=37,ambient=<*>
+1842,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+534,Parse the input log to log template.,running,running
+525,Parse the input log to log template.,running,running
+1327,Parse the input log to log template.,ambient=36,ambient=<*>
+308,Parse the input log to log template.,Link error,Link error
+842,Parse the input log to log template.,ambient=32,ambient=<*>
+489,Parse the input log to log template.,running,running
+1900,Parse the input log to log template.,link errors remain current,link errors remain current
+1585,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+52,Parse the input log to log template.,boot  (command 2423),boot (command <*>)
+932,Parse the input log to log template.,critical,critical
+1337,Parse the input log to log template.,ambient=33,ambient=<*>
+652,Parse the input log to log template.,running,running
+1134,Parse the input log to log template.,normal,normal
+1427,Parse the input log to log template.,ambient=26,ambient=<*>
+315,Parse the input log to log template.,Link error,Link error
+350,Parse the input log to log template.,ClusterFileSystem: ServerFileSystem domain root14_local is no longer served by node node-77,ClusterFileSystem: ServerFileSystem domain <*> is no longer served by node node-<*>
+1277,Parse the input log to log template.,normal,normal
+897,Parse the input log to log template.,ambient=32,ambient=<*>
+518,Parse the input log to log template.,configured out,configured out
+1530,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+710,Parse the input log to log template.,normal,normal
+962,Parse the input log to log template.,warning,warning
+1435,Parse the input log to log template.,Link ok,Link ok
+1616,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1854,Parse the input log to log template.,link errors remain current,link errors remain current
+811,Parse the input log to log template.,ambient=31,ambient=<*>
+1573,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1076,Parse the input log to log template.,ambient=32,ambient=<*>
+708,Parse the input log to log template.,running,running
+293,Parse the input log to log template.,Fan speeds ( 3534 3534 3375 4272 3497 3479 ),Fan speeds ( <*> <*> <*> <*> <*> <*> )
+1960,Parse the input log to log template.,NIFF: node node-7 has detected an available network connection on network 5.5.224.0 via interface alt0,NIFF: node node-<*> has detected an available network connection on network <*> via interface alt0
+731,Parse the input log to log template.,normal,normal
+1281,Parse the input log to log template.,ambient=30,ambient=<*>
+313,Parse the input log to log template.,Link error,Link error
+261,Parse the input log to log template.,Fan speeds ( 3552 3534 3375 **** 3515 3479 ),Fan speeds ( <*> <*> <*> **** <*> <*> )
+1220,Parse the input log to log template.,ambient=31,ambient=<*>
+345,Parse the input log to log template.,ClusterFileSystem: ServerFileSystem domain root28_domain is no longer served by node node-187,ClusterFileSystem: ServerFileSystem domain <*> is no longer served by node node-<*>
+1974,Parse the input log to log template.,NIFF: node node-91 has detected an available network connection on network 5.5.224.0 via interface alt0,NIFF: node node-<*> has detected an available network connection on network <*> via interface alt0
+639,Parse the input log to log template.,configured out,configured out
+1782,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1272,Parse the input log to log template.,ambient=28,ambient=<*>
+1243,Parse the input log to log template.,ambient=31,ambient=<*>
+1154,Parse the input log to log template.,warning,warning
+1931,Parse the input log to log template.,NIFF: node node-157 has detected an available network connection on network 5.5.226.0 via interface alt0,NIFF: node node-<*> has detected an available network connection on network <*> via interface alt0
+780,Parse the input log to log template.,normal,normal
+861,Parse the input log to log template.,warning,warning
+600,Parse the input log to log template.,configured out,configured out
+1839,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1542,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+650,Parse the input log to log template.,blocked,blocked
+535,Parse the input log to log template.,running,running
+1756,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1145,Parse the input log to log template.,warning,warning
+414,Parse the input log to log template.,running,running
+1180,Parse the input log to log template.,warning,warning
+778,Parse the input log to log template.,normal,normal
+1825,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1266,Parse the input log to log template.,warning,warning
+1768,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1924,Parse the input log to log template.,NIFF: node node-205 has detected an available network connection on network 10.128.0.0 via interface ee0,NIFF: node node-<*> has detected an available network connection on network <*> via interface ee0
+1740,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+141,Parse the input log to log template.,wait  (command 4116),wait (command <*>)
+1760,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1607,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1852,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+268,Parse the input log to log template.,Fan speeds ( 3552 3534 3375 **** 3515 3479 ),Fan speeds ( <*> <*> <*> **** <*> <*> )
+1504,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+528,Parse the input log to log template.,blocked,blocked
+283,Parse the input log to log template.,Fan speeds ( 3552 3534 3391 **** 3515 3479 ),Fan speeds ( <*> <*> <*> **** <*> <*> )
+1434,Parse the input log to log template.,Link ok,Link ok
+425,Parse the input log to log template.,running,running
+1572,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1781,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1429,Parse the input log to log template.,warning,warning
+1615,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+432,Parse the input log to log template.,configured out,configured out
+553,Parse the input log to log template.,not responding,not responding
+599,Parse the input log to log template.,running,running
+1015,Parse the input log to log template.,warning,warning
+605,Parse the input log to log template.,running,running
+575,Parse the input log to log template.,not responding,not responding
+299,Parse the input log to log template.,Fan speeds ( 3534 3534 3375 **** 3497 3479 ),Fan speeds ( <*> <*> <*> **** <*> <*> )
+711,Parse the input log to log template.,normal,normal
+266,Parse the input log to log template.,Fan speeds ( 3552 3534 3375 4530 3515 3479 ),Fan speeds ( <*> <*> <*> <*> <*> <*> )
+1458,Parse the input log to log template.,risBoot (command 1903) Error: Timed out while waiting for SRM prompt: <ABORT code completed>,risBoot (command <*>) Error: Timed out while waiting for SRM prompt: <ABORT code completed>
+16,Parse the input log to log template.,boot  (command 1911),boot (command <*>)
+788,Parse the input log to log template.,normal,normal
+57,Parse the input log to log template.,boot  (command 2520),boot (command <*>)
+297,Parse the input log to log template.,Fan speeds ( 3534 3534 3375 **** 3497 3479 ),Fan speeds ( <*> <*> <*> **** <*> <*> )
+1922,Parse the input log to log template.,NIFF: node node-163 has detected an available network connection on network 0.0.0.0 via interface alt0,NIFF: node node-<*> has detected an available network connection on network <*> via interface alt0
+578,Parse the input log to log template.,running,running
+1197,Parse the input log to log template.,warning,warning
+920,Parse the input log to log template.,ambient=32,ambient=<*>
+1541,Parse the input log to log template.,boot (command 2092) Error: HALT asserted\  cannot continue,boot (command <*>) Error: HALT asserted\ cannot continue
+1221,Parse the input log to log template.,normal,normal
+376,Parse the input log to log template.,running,running
+1652,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1968,Parse the input log to log template.,NIFF: node node-240 has detected an available network connection on network 5.5.224.0 via interface alt0,NIFF: node node-<*> has detected an available network connection on network <*> via interface alt0
+80,Parse the input log to log template.,wait  (command 2763),wait (command <*>)
+39,Parse the input log to log template.,wait  (command 2302),wait (command <*>)
+1224,Parse the input log to log template.,warning,warning
+537,Parse the input log to log template.,running,running
+1475,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+445,Parse the input log to log template.,configured out,configured out
+1284,Parse the input log to log template.,ambient=30,ambient=<*>
+863,Parse the input log to log template.,warning,warning
+1058,Parse the input log to log template.,ambient=33,ambient=<*>
+1730,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+580,Parse the input log to log template.,configured out,configured out
+1288,Parse the input log to log template.,ambient=27,ambient=<*>
+152,Parse the input log to log template.,wait  (command 4219),wait (command <*>)
+712,Parse the input log to log template.,warning,warning
+1925,Parse the input log to log template.,NIFF: node node-155 has detected an available network connection on network 10.128.0.0 via interface ee0,NIFF: node node-<*> has detected an available network connection on network <*> via interface ee0
+1345,Parse the input log to log template.,warning,warning
+1764,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+586,Parse the input log to log template.,configured out,configured out
+636,Parse the input log to log template.,configured out,configured out
+497,Parse the input log to log template.,running,running
+332,Parse the input log to log template.,ServerFileSystem: ServerFileSystem domain root26_local is full,ServerFileSystem: ServerFileSystem domain <*> is full
+1804,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1349,Parse the input log to log template.,ambient=28,ambient=<*>
+870,Parse the input log to log template.,normal,normal
+1674,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1042,Parse the input log to log template.,ambient=28,ambient=<*>
+1658,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+707,Parse the input log to log template.,running,running
+1632,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1479,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1393,Parse the input log to log template.,ambient=33,ambient=<*>
+45,Parse the input log to log template.,wait  (command 2322),wait (command <*>)
+789,Parse the input log to log template.,ambient=34,ambient=<*>
+1473,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1174,Parse the input log to log template.,normal,normal
+679,Parse the input log to log template.,running,running
+1391,Parse the input log to log template.,normal,normal
+1094,Parse the input log to log template.,ambient=23,ambient=<*>
+26,Parse the input log to log template.,wait  (command 2057),wait (command <*>)
+582,Parse the input log to log template.,running,running
+621,Parse the input log to log template.,running,running
+961,Parse the input log to log template.,warning,warning
+964,Parse the input log to log template.,normal,normal
+622,Parse the input log to log template.,running,running
+919,Parse the input log to log template.,normal,normal
+1238,Parse the input log to log template.,ambient=25,ambient=<*>
+1867,Parse the input log to log template.,link errors remain current,link errors remain current
+1322,Parse the input log to log template.,ambient=34,ambient=<*>
+1644,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+499,Parse the input log to log template.,not responding,not responding
+1907,Parse the input log to log template.,link errors remain current,link errors remain current
+1956,Parse the input log to log template.,NIFF: node node-139 has detected an available network connection on network 5.5.224.0 via interface alt0,NIFF: node node-<*> has detected an available network connection on network <*> via interface alt0
+1596,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+452,Parse the input log to log template.,running,running
+334,Parse the input log to log template.,ClusterFileSystem: ServerFileSystem domain cluster_root_backup is no longer served by node node-96,ClusterFileSystem: ServerFileSystem domain <*> is no longer served by node node-<*>
+105,Parse the input log to log template.,wait  (command 3334),wait (command <*>)
+495,Parse the input log to log template.,running,running
+1710,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+385,Parse the input log to log template.,running,running
+271,Parse the input log to log template.,Fan speeds ( 3552 3534 3375 4192 3515 3479 ),Fan speeds ( <*> <*> <*> <*> <*> <*> )
+1203,Parse the input log to log template.,normal,normal
+166,Parse the input log to log template.,Targeting domains:node-D4 and nodes:node-[128-135] child of command 2401,Targeting domains:node-<*> and nodes:node-[<*>-<*>] child of command <*>
+1790,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+154,Parse the input log to log template.,Command has completed successfully,Command has completed successfully
+824,Parse the input log to log template.,warning,warning
+1738,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+44,Parse the input log to log template.,boot  (command 2316),boot (command <*>)
+1357,Parse the input log to log template.,ambient=35,ambient=<*>
+819,Parse the input log to log template.,warning,warning
+1708,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+120,Parse the input log to log template.,wait  (command 3609),wait (command <*>)
+474,Parse the input log to log template.,running,running
+1370,Parse the input log to log template.,normal,normal
+1826,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1296,Parse the input log to log template.,ambient=29,ambient=<*>
+1851,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1155,Parse the input log to log template.,ambient=28,ambient=<*>
+1142,Parse the input log to log template.,critical,critical
+185,Parse the input log to log template.,ClusterFileSystem: There is no server for ServerFileSystem domain storage131,ClusterFileSystem: There is no server for ServerFileSystem domain <*>
+1495,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1732,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+719,Parse the input log to log template.,normal,normal
+748,Parse the input log to log template.,ambient=31,ambient=<*>
+1251,Parse the input log to log template.,ambient=25,ambient=<*>
+896,Parse the input log to log template.,normal,normal
+1733,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1191,Parse the input log to log template.,warning,warning
+1250,Parse the input log to log template.,normal,normal
+1079,Parse the input log to log template.,normal,normal
+1019,Parse the input log to log template.,normal,normal
+1188,Parse the input log to log template.,ambient=26,ambient=<*>
+998,Parse the input log to log template.,normal,normal
+694,Parse the input log to log template.,configured out,configured out
+750,Parse the input log to log template.,normal,normal
+1998,Parse the input log to log template.,NIFF: node node-73 has detected an available network connection on network 0.0.0.0 via interface alt0,NIFF: node node-<*> has detected an available network connection on network <*> via interface alt0
+370,Parse the input log to log template.,running,running
+1795,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+420,Parse the input log to log template.,not responding,not responding
+1113,Parse the input log to log template.,ambient=33,ambient=<*>
+186,Parse the input log to log template.,ClusterFileSystem: There is no server for ServerFileSystem domain storage1144,ClusterFileSystem: There is no server for ServerFileSystem domain <*>
+1308,Parse the input log to log template.,ambient=29,ambient=<*>
+628,Parse the input log to log template.,configured out,configured out
+514,Parse the input log to log template.,configured out,configured out
+24,Parse the input log to log template.,boot  (command 1973),boot (command <*>)
+635,Parse the input log to log template.,not responding,not responding
+90,Parse the input log to log template.,wait  (command 2963),wait (command <*>)
+610,Parse the input log to log template.,configured out,configured out
+810,Parse the input log to log template.,ambient=31,ambient=<*>
+409,Parse the input log to log template.,configured out,configured out
+300,Parse the input log to log template.,Fan speeds ( 3534 3534 3375 4115 3497 3479 ),Fan speeds ( <*> <*> <*> <*> <*> <*> )
+1249,Parse the input log to log template.,normal,normal
+42,Parse the input log to log template.,boot  (command 2257),boot (command <*>)
+901,Parse the input log to log template.,warning,warning
+1437,Parse the input log to log template.,Link error,Link error
+933,Parse the input log to log template.,normal,normal
+1405,Parse the input log to log template.,ambient=28,ambient=<*>
+1152,Parse the input log to log template.,warning,warning
+1374,Parse the input log to log template.,ambient=28,ambient=<*>
+468,Parse the input log to log template.,running,running
+267,Parse the input log to log template.,Fan speeds ( 3552 3534 3375 **** 3515 3479 ),Fan speeds ( <*> <*> <*> **** <*> <*> )
+659,Parse the input log to log template.,running,running
+836,Parse the input log to log template.,ambient=27,ambient=<*>
+1827,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1303,Parse the input log to log template.,ambient=33,ambient=<*>
+472,Parse the input log to log template.,configured out,configured out
+144,Parse the input log to log template.,wait  (command 4145),wait (command <*>)
+713,Parse the input log to log template.,normal,normal
+1285,Parse the input log to log template.,ambient=27,ambient=<*>
+99,Parse the input log to log template.,boot  (command 3169),boot (command <*>)
+1746,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+223,Parse the input log to log template.,Fan speeds ( 3552 3534 3375 4245 3515 3479 ),Fan speeds ( <*> <*> <*> <*> <*> <*> )
+549,Parse the input log to log template.,running,running
+1022,Parse the input log to log template.,normal,normal
+1353,Parse the input log to log template.,ambient=30,ambient=<*>
+1011,Parse the input log to log template.,normal,normal
+1990,Parse the input log to log template.,NIFF: node node-218 has detected an available network connection on network 5.5.224.0 via interface alt0,NIFF: node node-<*> has detected an available network connection on network <*> via interface alt0
+265,Parse the input log to log template.,Fan speeds ( 3552 3534 3375 **** 3515 3479 ),Fan speeds ( <*> <*> <*> **** <*> <*> )
+1162,Parse the input log to log template.,critical,critical
+1509,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+446,Parse the input log to log template.,running,running
+934,Parse the input log to log template.,ambient=27,ambient=<*>
+1107,Parse the input log to log template.,ambient=34,ambient=<*>
+602,Parse the input log to log template.,running,running
+1264,Parse the input log to log template.,normal,normal
+369,Parse the input log to log template.,ClusterFileSystem: ServerFileSystem domain root28_domain is no longer served by node node-219,ClusterFileSystem: ServerFileSystem domain <*> is no longer served by node node-<*>
+448,Parse the input log to log template.,configured out,configured out
+290,Parse the input log to log template.,Fan speeds ( 3552 3552 3391 **** 3515 3497 ),Fan speeds ( <*> <*> <*> **** <*> <*> )
+1834,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+889,Parse the input log to log template.,ambient=30,ambient=<*>
+391,Parse the input log to log template.,not responding,not responding
+357,Parse the input log to log template.,ClusterFileSystem: ServerFileSystem domain root8_domain is no longer served by node node-167,ClusterFileSystem: ServerFileSystem domain <*> is no longer served by node node-<*>
+252,Parse the input log to log template.,Fan speeds ( 3552 3534 3375 4166 3515 3479 ),Fan speeds ( <*> <*> <*> <*> <*> <*> )
+1516,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+64,Parse the input log to log template.,boot  (command 2625),boot (command <*>)
+435,Parse the input log to log template.,not responding,not responding
+507,Parse the input log to log template.,running,running
+1222,Parse the input log to log template.,warning,warning
+1836,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1139,Parse the input log to log template.,warning,warning
+276,Parse the input log to log template.,Fan speeds ( 3552 3534 3391 **** 3515 3479 ),Fan speeds ( <*> <*> <*> **** <*> <*> )
+723,Parse the input log to log template.,normal,normal
+451,Parse the input log to log template.,active,active
+1913,Parse the input log to log template.,NIFF: node node-17 has detected an available network connection on network 10.128.0.0 via interface ee0,NIFF: node node-<*> has detected an available network connection on network <*> via interface ee0
+294,Parse the input log to log template.,Fan speeds ( 3534 3534 3375 4470 3497 3479 ),Fan speeds ( <*> <*> <*> <*> <*> <*> )
+59,Parse the input log to log template.,boot  (command 2517),boot (command <*>)
+493,Parse the input log to log template.,configured out,configured out
+741,Parse the input log to log template.,ambient=28,ambient=<*>
+1829,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+47,Parse the input log to log template.,wait  (command 2347),wait (command <*>)
+1307,Parse the input log to log template.,ambient=30,ambient=<*>
+626,Parse the input log to log template.,not responding,not responding
+158,Parse the input log to log template.,Command has completed successfully,Command has completed successfully
+1244,Parse the input log to log template.,ambient=29,ambient=<*>
+1633,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1824,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1792,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+199,Parse the input log to log template.,ClusterFileSystem: There is no server for ServerFileSystem domain storage622,ClusterFileSystem: There is no server for ServerFileSystem domain <*>
+61,Parse the input log to log template.,wait  (command 2513),wait (command <*>)
+1085,Parse the input log to log template.,warning,warning
+1818,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1111,Parse the input log to log template.,ambient=28,ambient=<*>
+1692,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+655,Parse the input log to log template.,closing,closing
+188,Parse the input log to log template.,ClusterFileSystem: There is no server for ServerFileSystem domain storage141,ClusterFileSystem: There is no server for ServerFileSystem domain <*>
+63,Parse the input log to log template.,wait  (command 2484),wait (command <*>)
+246,Parse the input log to log template.,Fan speeds ( 3552 3534 3375 **** 3515 3479 ),Fan speeds ( <*> <*> <*> **** <*> <*> )
+130,Parse the input log to log template.,boot  (command 3951),boot (command <*>)
+503,Parse the input log to log template.,configured out,configured out
+433,Parse the input log to log template.,configured out,configured out
+1056,Parse the input log to log template.,warning,warning
+858,Parse the input log to log template.,warning,warning
+1257,Parse the input log to log template.,warning,warning
+272,Parse the input log to log template.,Fan speeds ( 3552 3534 3375 **** 3515 3479 ),Fan speeds ( <*> <*> <*> **** <*> <*> )
+1066,Parse the input log to log template.,warning,warning
+1377,Parse the input log to log template.,ambient=30,ambient=<*>
+1097,Parse the input log to log template.,normal,normal
+363,Parse the input log to log template.,ClusterFileSystem: ServerFileSystem domain root17_domain is no longer served by node node-240,ClusterFileSystem: ServerFileSystem domain <*> is no longer served by node node-<*>
+1267,Parse the input log to log template.,ambient=25,ambient=<*>
+191,Parse the input log to log template.,ClusterFileSystem: There is no server for ServerFileSystem domain storage1622,ClusterFileSystem: There is no server for ServerFileSystem domain <*>
+1423,Parse the input log to log template.,warning,warning
+1352,Parse the input log to log template.,ambient=25,ambient=<*>
+360,Parse the input log to log template.,ClusterFileSystem: ServerFileSystem domain root_domain is no longer served by node node-128,ClusterFileSystem: ServerFileSystem domain <*> is no longer served by node node-<*>
+393,Parse the input log to log template.,not responding,not responding
+1558,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+417,Parse the input log to log template.,configured out,configured out
+219,Parse the input log to log template.,Fan speeds ( 3552 3534 3375 **** 3515 3479 ),Fan speeds ( <*> <*> <*> **** <*> <*> )
+1953,Parse the input log to log template.,NIFF: node node-104 has detected an available network connection on network 5.5.224.0 via interface alt0,NIFF: node node-<*> has detected an available network connection on network <*> via interface alt0
+143,Parse the input log to log template.,boot  (command 4109),boot (command <*>)
+1128,Parse the input log to log template.,normal,normal
+1459,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+909,Parse the input log to log template.,normal,normal
+1744,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+614,Parse the input log to log template.,running,running
+312,Parse the input log to log template.,Link error,Link error
+1467,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+125,Parse the input log to log template.,boot  (command 3696),boot (command <*>)
+211,Parse the input log to log template.,NIFF: node node-69 detected a failed network connection on network 5.5.224.0 via interface alt0,NIFF: node node-<*> detected a failed network connection on network <*> via interface alt0
+1814,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+236,Parse the input log to log template.,Fan speeds ( 3552 3534 3375 **** 3515 3479 ),Fan speeds ( <*> <*> <*> **** <*> <*> )
+1511,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+624,Parse the input log to log template.,running,running
+1694,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+705,Parse the input log to log template.,configured out,configured out
+1636,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+40,Parse the input log to log template.,wait  (command 2270),wait (command <*>)
+153,Parse the input log to log template.,Command has completed successfully,Command has completed successfully
+709,Parse the input log to log template.,running,running
+1819,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1044,Parse the input log to log template.,normal,normal
+1597,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1729,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1830,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+816,Parse the input log to log template.,normal,normal
+1184,Parse the input log to log template.,warning,warning
+1420,Parse the input log to log template.,warning,warning
+683,Parse the input log to log template.,not responding,not responding
+1456,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+633,Parse the input log to log template.,configured out,configured out
+1602,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+306,Parse the input log to log template.,Link error,Link error
+301,Parse the input log to log template.,Fan speeds ( 3534 3534 3375 **** 3497 3479 ),Fan speeds ( <*> <*> <*> **** <*> <*> )
+256,Parse the input log to log template.,Fan speeds ( 3552 3534 3375 **** 3515 3479 ),Fan speeds ( <*> <*> <*> **** <*> <*> )
+720,Parse the input log to log template.,normal,normal
+1065,Parse the input log to log template.,normal,normal
+1942,Parse the input log to log template.,NIFF: node node-45 has detected an available network connection on network 5.5.224.0 via interface alt0,NIFF: node node-<*> has detected an available network connection on network <*> via interface alt0
+195,Parse the input log to log template.,ClusterFileSystem: There is no server for ServerFileSystem domain storage1031,ClusterFileSystem: There is no server for ServerFileSystem domain <*>
+1985,Parse the input log to log template.,NIFF: node node-183 has detected an available network connection on network 10.128.0.0 via interface ee0,NIFF: node node-<*> has detected an available network connection on network <*> via interface ee0
+194,Parse the input log to log template.,ClusterFileSystem: There is no server for ServerFileSystem domain storage242,ClusterFileSystem: There is no server for ServerFileSystem domain <*>
+665,Parse the input log to log template.,running,running
+1693,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1195,Parse the input log to log template.,normal,normal
+0,Parse the input log to log template.,Component State Change: Component \042SCSI-WWID:01000010:6005-08b4-0001-00c6-0006-3000-003d-0000\042 is in the unavailable state (HWID=1973),Component State Change: Component <*> is in the unavailable state (HWID=<*>)
+162,Parse the input log to log template.,Command has completed successfully,Command has completed successfully
+777,Parse the input log to log template.,warning,warning
+1626,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+685,Parse the input log to log template.,running,running
+747,Parse the input log to log template.,warning,warning
+422,Parse the input log to log template.,running,running
+1209,Parse the input log to log template.,ambient=33,ambient=<*>
+1780,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+568,Parse the input log to log template.,running,running
+1648,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1176,Parse the input log to log template.,ambient=35,ambient=<*>
+755,Parse the input log to log template.,warning,warning
+323,Parse the input log to log template.,ServerFileSystem: ServerFileSystem domain root10_local is full,ServerFileSystem: ServerFileSystem domain <*> is full
+972,Parse the input log to log template.,warning,warning
+1624,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1412,Parse the input log to log template.,normal,normal
+1041,Parse the input log to log template.,normal,normal
+405,Parse the input log to log template.,running,running
+298,Parse the input log to log template.,Fan speeds ( 3534 3534 3375 **** 3497 3479 ),Fan speeds ( <*> <*> <*> **** <*> <*> )
+806,Parse the input log to log template.,warning,warning
+1201,Parse the input log to log template.,warning,warning
+1093,Parse the input log to log template.,warning,warning
+921,Parse the input log to log template.,ambient=30,ambient=<*>
+477,Parse the input log to log template.,running,running
+1356,Parse the input log to log template.,ambient=29,ambient=<*>
+1618,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1657,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1833,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+886,Parse the input log to log template.,normal,normal
+1305,Parse the input log to log template.,ambient=29,ambient=<*>
+177,Parse the input log to log template.,Temperature (41C) exceeds warning threshold,Temperature (<*>) exceeds warning threshold
+390,Parse the input log to log template.,not responding,not responding
+551,Parse the input log to log template.,configured out,configured out
+1513,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+774,Parse the input log to log template.,warning,warning
+1417,Parse the input log to log template.,ambient=27,ambient=<*>
+574,Parse the input log to log template.,active,active
+1623,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1971,Parse the input log to log template.,NIFF: node node-46 has detected an available network connection on network 5.5.224.0 via interface alt0,NIFF: node node-<*> has detected an available network connection on network <*> via interface alt0
+786,Parse the input log to log template.,normal,normal
+1319,Parse the input log to log template.,ambient=30,ambient=<*>
+1973,Parse the input log to log template.,NIFF: node node-42 has detected an available network connection on network 10.128.0.0 via interface ee0,NIFF: node node-<*> has detected an available network connection on network <*> via interface ee0
+527,Parse the input log to log template.,blocked,blocked
+398,Parse the input log to log template.,not responding,not responding
+501,Parse the input log to log template.,running,running
+1869,Parse the input log to log template.,link errors remain current,link errors remain current
+785,Parse the input log to log template.,warning,warning
+1877,Parse the input log to log template.,link errors remain current,link errors remain current
+1410,Parse the input log to log template.,ambient=29,ambient=<*>
+336,Parse the input log to log template.,ClusterFileSystem: ServerFileSystem domain root3_domain is no longer served by node node-128,ClusterFileSystem: ServerFileSystem domain <*> is no longer served by node node-<*>
+672,Parse the input log to log template.,not responding,not responding
+531,Parse the input log to log template.,running,running
+1304,Parse the input log to log template.,normal,normal
+1844,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+966,Parse the input log to log template.,ambient=34,ambient=<*>
+473,Parse the input log to log template.,configured out,configured out
+773,Parse the input log to log template.,ambient=26,ambient=<*>
+1485,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1506,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+984,Parse the input log to log template.,ambient=33,ambient=<*>
+1364,Parse the input log to log template.,ambient=25,ambient=<*>
+1910,Parse the input log to log template.,NIFF: node node-148 has detected an available network connection on network 5.5.226.0 via interface alt0,NIFF: node node-<*> has detected an available network connection on network <*> via interface alt0
+381,Parse the input log to log template.,not responding,not responding
+718,Parse the input log to log template.,ambient=30,ambient=<*>
+181,Parse the input log to log template.,ClusterFileSystem: There is no server for ServerFileSystem domain storage1024,ClusterFileSystem: There is no server for ServerFileSystem domain <*>
+519,Parse the input log to log template.,running,running
+465,Parse the input log to log template.,not responding,not responding
+46,Parse the input log to log template.,wait  (command 2354),wait (command <*>)
+156,Parse the input log to log template.,Command has completed successfully,Command has completed successfully
+169,Parse the input log to log template.,Targeting domains:node-D[0\ 5] and nodes:node-[27\ 191],Targeting domains:node-<*> nodes:node-<*>
+1575,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+536,Parse the input log to log template.,running,running
+1193,Parse the input log to log template.,warning,warning
+954,Parse the input log to log template.,normal,normal
+1577,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+175,Parse the input log to log template.,psu failure\ ambient=28,psu failure\ ambient=<*>
+938,Parse the input log to log template.,ambient=33,ambient=<*>
+999,Parse the input log to log template.,warning,warning
+960,Parse the input log to log template.,warning,warning
+1774,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+74,Parse the input log to log template.,boot  (command 2550),boot (command <*>)
+820,Parse the input log to log template.,normal,normal
+1348,Parse the input log to log template.,normal,normal
+1778,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1095,Parse the input log to log template.,normal,normal
+892,Parse the input log to log template.,normal,normal
+1604,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+196,Parse the input log to log template.,ClusterFileSystem: There is no server for ServerFileSystem domain storage1331,ClusterFileSystem: There is no server for ServerFileSystem domain <*>
+1033,Parse the input log to log template.,ambient=29,ambient=<*>
+1843,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1376,Parse the input log to log template.,ambient=36,ambient=<*>
+1119,Parse the input log to log template.,ambient=29,ambient=<*>
+1318,Parse the input log to log template.,ambient=29,ambient=<*>
+1589,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+523,Parse the input log to log template.,configured out,configured out
+1483,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1894,Parse the input log to log template.,link errors remain current,link errors remain current
+1873,Parse the input log to log template.,link errors remain current,link errors remain current
+1109,Parse the input log to log template.,critical,critical
+812,Parse the input log to log template.,ambient=30,ambient=<*>
+366,Parse the input log to log template.,ClusterFileSystem: ServerFileSystem domain cluster_var_backup is no longer served by node node-224,ClusterFileSystem: ServerFileSystem domain <*> is no longer served by node node-<*>
+654,Parse the input log to log template.,configured out,configured out
+168,Parse the input log to log template.,Targeting domains:node-D0 and nodes:node-0,Targeting domains:node-<*> nodes:node-<*>
+807,Parse the input log to log template.,warning,warning
+660,Parse the input log to log template.,running,running
+1832,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1892,Parse the input log to log template.,link errors remain current,link errors remain current
+1077,Parse the input log to log template.,warning,warning
+455,Parse the input log to log template.,running,running
+716,Parse the input log to log template.,ambient=30,ambient=<*>
+835,Parse the input log to log template.,ambient=28,ambient=<*>
+1346,Parse the input log to log template.,normal,normal
+1719,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1153,Parse the input log to log template.,warning,warning
+1182,Parse the input log to log template.,warning,warning
+857,Parse the input log to log template.,ambient=31,ambient=<*>
+1363,Parse the input log to log template.,ambient=25,ambient=<*>
+1055,Parse the input log to log template.,normal,normal
+1120,Parse the input log to log template.,warning,warning
+1524,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+714,Parse the input log to log template.,normal,normal
+1888,Parse the input log to log template.,link errors remain current,link errors remain current
+1848,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1409,Parse the input log to log template.,ambient=30,ambient=<*>
+358,Parse the input log to log template.,ClusterFileSystem: ServerFileSystem domain root25_local is no longer served by node node-216,ClusterFileSystem: ServerFileSystem domain <*> is no longer served by node node-<*>
+1528,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+58,Parse the input log to log template.,wait  (command 2517),wait (command <*>)
+121,Parse the input log to log template.,boot  (command 3624),boot (command <*>)
+1075,Parse the input log to log template.,warning,warning
+1638,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+648,Parse the input log to log template.,running,running
+66,Parse the input log to log template.,boot  (command 2616),boot (command <*>)
+950,Parse the input log to log template.,warning,warning
+1507,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1112,Parse the input log to log template.,ambient=30,ambient=<*>
+658,Parse the input log to log template.,running,running
+970,Parse the input log to log template.,warning,warning
+421,Parse the input log to log template.,running,running
+1445,Parse the input log to log template.,Link ok,Link ok
+479,Parse the input log to log template.,not responding,not responding
+1959,Parse the input log to log template.,NIFF: node node-106 has detected an available network connection on network 0.0.0.0 via interface alt0,NIFF: node node-<*> has detected an available network connection on network <*> via interface alt0
+1612,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1368,Parse the input log to log template.,critical,critical
+329,Parse the input log to log template.,ServerFileSystem: ServerFileSystem domain root22_local is full,ServerFileSystem: ServerFileSystem domain <*> is full
+544,Parse the input log to log template.,running,running
+1918,Parse the input log to log template.,NIFF: node node-73 has detected an available network connection on network 5.5.226.0 via interface alt0,NIFF: node node-<*> has detected an available network connection on network <*> via interface alt0
+1082,Parse the input log to log template.,warning,warning
+756,Parse the input log to log template.,warning,warning
+734,Parse the input log to log template.,warning,warning
+684,Parse the input log to log template.,running,running
+1643,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1755,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1614,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1663,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1279,Parse the input log to log template.,warning,warning
+1453,Parse the input log to log template.,Link in reset,Link in reset
+1794,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+230,Parse the input log to log template.,Fan speeds ( 3552 3534 3375 **** 3515 3479 ),Fan speeds ( <*> <*> <*> **** <*> <*> )
+729,Parse the input log to log template.,ambient=30,ambient=<*>
+837,Parse the input log to log template.,warning,warning
+1211,Parse the input log to log template.,normal,normal
+464,Parse the input log to log template.,not responding,not responding
+1699,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+439,Parse the input log to log template.,running,running
+498,Parse the input log to log template.,not responding,not responding
+1514,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1450,Parse the input log to log template.,Link ok,Link ok
+782,Parse the input log to log template.,warning,warning
+466,Parse the input log to log template.,running,running
+1982,Parse the input log to log template.,NIFF: node node-202 has detected an available network connection on network 5.5.224.0 via interface alt0,NIFF: node node-<*> has detected an available network connection on network <*> via interface alt0
+372,Parse the input log to log template.,running,running
+1404,Parse the input log to log template.,ambient=33,ambient=<*>
+1164,Parse the input log to log template.,normal,normal
+331,Parse the input log to log template.,ServerFileSystem: ServerFileSystem domain root25_local is full,ServerFileSystem: ServerFileSystem domain <*> is full
+893,Parse the input log to log template.,ambient=27,ambient=<*>
+304,Parse the input log to log template.,Command has been aborted,Command has been aborted
+1321,Parse the input log to log template.,ambient=31,ambient=<*>
+1239,Parse the input log to log template.,ambient=25,ambient=<*>
+947,Parse the input log to log template.,ambient=30,ambient=<*>
+139,Parse the input log to log template.,wait  (command 4110),wait (command <*>)
+373,Parse the input log to log template.,running,running
+1167,Parse the input log to log template.,warning,warning
+869,Parse the input log to log template.,normal,normal
+975,Parse the input log to log template.,warning,warning
+663,Parse the input log to log template.,running,running
+1977,Parse the input log to log template.,NIFF: node node-244 has detected an available network connection on network 5.5.224.0 via interface alt0,NIFF: node node-<*> has detected an available network connection on network <*> via interface alt0
+1592,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+94,Parse the input log to log template.,wait  (command 3079),wait (command <*>)
+1702,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1608,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1535,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+165,Parse the input log to log template.,Targeting domains:node-D7 and nodes:node-[224\ 228\ 232],Targeting domains:node-<*> nodes:node-<*>
+1470,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+394,Parse the input log to log template.,running,running
+1720,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1935,Parse the input log to log template.,NIFF: node node-214 has detected an available network connection on network 5.5.226.0 via interface alt0,NIFF: node node-<*> has detected an available network connection on network <*> via interface alt0
+462,Parse the input log to log template.,running,running
+1557,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+273,Parse the input log to log template.,Fan speeds ( 3552 3534 3391 **** 3515 3479 ),Fan speeds ( <*> <*> <*> **** <*> <*> )
+594,Parse the input log to log template.,configured out,configured out
+83,Parse the input log to log template.,wait  (command 2817),wait (command <*>)
+1533,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+991,Parse the input log to log template.,ambient=27,ambient=<*>
+325,Parse the input log to log template.,ServerFileSystem: ServerFileSystem domain root13_local is full,ServerFileSystem: ServerFileSystem domain <*> is full
+1020,Parse the input log to log template.,normal,normal
+18,Parse the input log to log template.,boot  (command 1978),boot (command <*>)
+1024,Parse the input log to log template.,normal,normal
+1603,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+794,Parse the input log to log template.,normal,normal
+562,Parse the input log to log template.,inconsistent nodesets node-1 0x000001fc <ok> node-2 0x000001fc <ok> node-7 0x000001fc <ok> node-4 0x000001fc <ok> node-6 0x000001fc <ok> node-5 0x000001fc <ok> node-3 0x000001fc <ok> node-14 0x0003fdfc <ok> node-13 0x0003fdfc <ok> node-12 0x0003fdfc <ok> node-10 0x0003fdfc <ok> node-16 0x0003fdfc <ok> node-15 0x0003fdfc <ok>,inconsistent nodesets node-<*> <*> <ok> node-<*> <*> <ok> node-<*> <*> <ok> node-<*> <*> <*>
+1347,Parse the input log to log template.,ambient=28,ambient=<*>
+1629,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+554,Parse the input log to log template.,running,running
+802,Parse the input log to log template.,normal,normal
+1059,Parse the input log to log template.,ambient=32,ambient=<*>
+1143,Parse the input log to log template.,normal,normal
+62,Parse the input log to log template.,boot  (command 2514),boot (command <*>)
+822,Parse the input log to log template.,normal,normal
+213,Parse the input log to log template.,ServerFileSystem: An ServerFileSystem domain panic has occurred on storage442,ServerFileSystem: An ServerFileSystem domain panic has occurred on <*>
+1438,Parse the input log to log template.,Link error,Link error
+1961,Parse the input log to log template.,NIFF: node node-233 has detected an available network connection on network 10.128.0.0 via interface ee0,NIFF: node node-<*> has detected an available network connection on network <*> via interface ee0
+1192,Parse the input log to log template.,normal,normal
+942,Parse the input log to log template.,warning,warning
+906,Parse the input log to log template.,ambient=29,ambient=<*>
+561,Parse the input log to log template.,configured out,configured out
+1664,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1002,Parse the input log to log template.,warning,warning
+615,Parse the input log to log template.,running,running
+1667,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1007,Parse the input log to log template.,ambient=27,ambient=<*>
+1384,Parse the input log to log template.,ambient=26,ambient=<*>
+1315,Parse the input log to log template.,normal,normal
+1027,Parse the input log to log template.,warning,warning
+20,Parse the input log to log template.,wait  (command 1975),wait (command <*>)
+1287,Parse the input log to log template.,ambient=26,ambient=<*>
+1921,Parse the input log to log template.,NIFF: node node-189 has detected an available network connection on network 10.128.0.0 via interface ee0,NIFF: node node-<*> has detected an available network connection on network <*> via interface ee0
+831,Parse the input log to log template.,ambient=33,ambient=<*>
+743,Parse the input log to log template.,ambient=33,ambient=<*>
+977,Parse the input log to log template.,warning,warning
+1062,Parse the input log to log template.,critical,critical
+119,Parse the input log to log template.,boot  (command 3615),boot (command <*>)
+588,Parse the input log to log template.,configured out,configured out
+443,Parse the input log to log template.,not responding,not responding
+136,Parse the input log to log template.,wait  (command 3981),wait (command <*>)
+248,Parse the input log to log template.,Fan speeds ( 3552 3534 3375 **** 3515 3479 ),Fan speeds ( <*> <*> <*> **** <*> <*> )
+330,Parse the input log to log template.,ServerFileSystem: ServerFileSystem domain root3_local is full,ServerFileSystem: ServerFileSystem domain <*> is full
+1635,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+590,Parse the input log to log template.,configured out,configured out
+1014,Parse the input log to log template.,warning,warning
+1538,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1396,Parse the input log to log template.,ambient=25,ambient=<*>
+692,Parse the input log to log template.,running,running
+959,Parse the input log to log template.,warning,warning
+1092,Parse the input log to log template.,normal,normal
+481,Parse the input log to log template.,configured out,configured out
+2,Parse the input log to log template.,Component State Change: Component \042alt0\042 is in the unavailable state (HWID=5089),Component State Change: Component <*> is in the unavailable state (HWID=<*>)
+1047,Parse the input log to log template.,normal,normal
+597,Parse the input log to log template.,running,running
+1619,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+229,Parse the input log to log template.,Fan speeds ( 3552 3534 3375 **** 3515 3479 ),Fan speeds ( <*> <*> <*> **** <*> <*> )
+65,Parse the input log to log template.,wait  (command 2607),wait (command <*>)
+965,Parse the input log to log template.,warning,warning
+137,Parse the input log to log template.,boot  (command 4024),boot (command <*>)
+902,Parse the input log to log template.,normal,normal
+111,Parse the input log to log template.,wait  (command 3525),wait (command <*>)
+1840,Parse the input log to log template.,Failed subcommands 3406,Failed subcommands <*>
+721,Parse the input log to log template.,critical,critical
+1969,Parse the input log to log template.,NIFF: node node-86 has detected an available network connection on network 10.128.0.0 via interface ee0,NIFF: node node-<*> has detected an available network connection on network <*> via interface ee0
+844,Parse the input log to log template.,ambient=35,ambient=<*>
+1963,Parse the input log to log template.,NIFF: node node-190 has detected an available network connection on network 10.128.0.0 via interface ee0,NIFF: node node-<*> has detected an available network connection on network <*> via interface ee0
+1187,Parse the input log to log template.,ambient=29,ambient=<*>
+690,Parse the input log to log template.,running,running
+384,Parse the input log to log template.,running,running
+1568,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1146,Parse the input log to log template.,warning,warning
+1355,Parse the input log to log template.,ambient=32,ambient=<*>
+123,Parse the input log to log template.,boot  (command 3639),boot (command <*>)
+1141,Parse the input log to log template.,warning,warning
+1553,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+865,Parse the input log to log template.,warning,warning
+1620,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+704,Parse the input log to log template.,not responding,not responding
+1464,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1550,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+895,Parse the input log to log template.,normal,normal
+1003,Parse the input log to log template.,normal,normal
+1950,Parse the input log to log template.,NIFF: node node-72 has detected an available network connection on network 10.128.0.0 via interface ee0,NIFF: node node-<*> has detected an available network connection on network <*> via interface ee0
+766,Parse the input log to log template.,normal,normal
+746,Parse the input log to log template.,warning,warning
+1230,Parse the input log to log template.,ambient=24,ambient=<*>
+1565,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1333,Parse the input log to log template.,warning,warning
+1173,Parse the input log to log template.,normal,normal
+969,Parse the input log to log template.,normal,normal
+929,Parse the input log to log template.,ambient=33,ambient=<*>
+805,Parse the input log to log template.,warning,warning
+670,Parse the input log to log template.,blocked,blocked
+682,Parse the input log to log template.,not responding,not responding
+89,Parse the input log to log template.,boot  (command 2960),boot (command <*>)
+1124,Parse the input log to log template.,normal,normal
+994,Parse the input log to log template.,warning,warning
+771,Parse the input log to log template.,ambient=27,ambient=<*>
+607,Parse the input log to log template.,running,running
+510,Parse the input log to log template.,running,running
+1874,Parse the input log to log template.,link errors remain current,link errors remain current
+1240,Parse the input log to log template.,ambient=27,ambient=<*>
+1099,Parse the input log to log template.,normal,normal
+1578,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1508,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1723,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+703,Parse the input log to log template.,running,running
+917,Parse the input log to log template.,warning,warning
+1983,Parse the input log to log template.,NIFF: node node-205 has detected an available network connection on network 5.5.224.0 via interface alt0,NIFF: node node-<*> has detected an available network connection on network <*> via interface alt0
+150,Parse the input log to log template.,boot  (command 4223),boot (command <*>)
+1548,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+899,Parse the input log to log template.,warning,warning
+1510,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+784,Parse the input log to log template.,normal,normal
+305,Parse the input log to log template.,power/control problem,power/control problem
+36,Parse the input log to log template.,wait  (command 2199),wait (command <*>)
+548,Parse the input log to log template.,running,running
+645,Parse the input log to log template.,blocked,blocked
+1539,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+572,Parse the input log to log template.,not responding,not responding
+218,Parse the input log to log template.,Fan speeds ( 3552 3534 3375 4245 3515 3479 ),Fan speeds ( <*> <*> <*> <*> <*> <*> )
+1949,Parse the input log to log template.,NIFF: node node-203 has detected an available network connection on network 5.5.224.0 via interface alt0,NIFF: node node-<*> has detected an available network connection on network <*> via interface alt0
+347,Parse the input log to log template.,ClusterFileSystem: ServerFileSystem domain storage1422 is no longer served by node node-245,ClusterFileSystem: ServerFileSystem domain <*> is no longer served by node node-<*>
+204,Parse the input log to log template.,ClusterFileSystem: There is no server for ServerFileSystem domain storage1231,ClusterFileSystem: There is no server for ServerFileSystem domain <*>
+745,Parse the input log to log template.,warning,warning
+484,Parse the input log to log template.,configured out,configured out
+209,Parse the input log to log template.,ClusterFileSystem: There is no server for ServerFileSystem domain storage531,ClusterFileSystem: There is no server for ServerFileSystem domain <*>
+1675,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1185,Parse the input log to log template.,ambient=27,ambient=<*>
+419,Parse the input log to log template.,configured out,configured out
+1054,Parse the input log to log template.,warning,warning
+269,Parse the input log to log template.,Fan speeds ( 3552 3534 3375 **** 3515 3479 ),Fan speeds ( <*> <*> <*> **** <*> <*> )
+530,Parse the input log to log template.,running,running
+469,Parse the input log to log template.,not responding,not responding
+983,Parse the input log to log template.,normal,normal
+1897,Parse the input log to log template.,link errors remain current,link errors remain current
+110,Parse the input log to log template.,wait  (command 3523),wait (command <*>)
+936,Parse the input log to log template.,ambient=33,ambient=<*>
+1043,Parse the input log to log template.,warning,warning
+1762,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+967,Parse the input log to log template.,ambient=28,ambient=<*>
+98,Parse the input log to log template.,boot  (command 3169),boot (command <*>)
+1758,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+765,Parse the input log to log template.,warning,warning
+1861,Parse the input log to log template.,link errors remain current,link errors remain current
+1236,Parse the input log to log template.,ambient=26,ambient=<*>
+1859,Parse the input log to log template.,link errors remain current,link errors remain current
+1385,Parse the input log to log template.,warning,warning
+839,Parse the input log to log template.,normal,normal
+1775,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1278,Parse the input log to log template.,ambient=28,ambient=<*>
+1678,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+447,Parse the input log to log template.,configured out,configured out
+1734,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1408,Parse the input log to log template.,normal,normal
+1323,Parse the input log to log template.,warning,warning
+1248,Parse the input log to log template.,ambient=28,ambient=<*>
+787,Parse the input log to log template.,normal,normal
+943,Parse the input log to log template.,normal,normal
+239,Parse the input log to log template.,Fan speeds ( 3552 3534 3375 **** 3515 3479 ),Fan speeds ( <*> <*> <*> **** <*> <*> )
+1161,Parse the input log to log template.,warning,warning
+429,Parse the input log to log template.,configured out,configured out
+882,Parse the input log to log template.,warning,warning
+1074,Parse the input log to log template.,normal,normal
+454,Parse the input log to log template.,configured out,configured out
+1586,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1223,Parse the input log to log template.,warning,warning
+133,Parse the input log to log template.,boot  (command 3964),boot (command <*>)
+1397,Parse the input log to log template.,ambient=27,ambient=<*>
+926,Parse the input log to log template.,normal,normal
+1232,Parse the input log to log template.,warning,warning
+1350,Parse the input log to log template.,ambient=27,ambient=<*>
+646,Parse the input log to log template.,running,running
+739,Parse the input log to log template.,normal,normal
+1369,Parse the input log to log template.,ambient=25,ambient=<*>
+411,Parse the input log to log template.,active,active
+1582,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+736,Parse the input log to log template.,normal,normal
+847,Parse the input log to log template.,warning,warning
+627,Parse the input log to log template.,starting,starting
+1457,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+681,Parse the input log to log template.,running,running
+606,Parse the input log to log template.,running,running
+1426,Parse the input log to log template.,ambient=28,ambient=<*>
+874,Parse the input log to log template.,normal,normal
+1242,Parse the input log to log template.,warning,warning
+1759,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+258,Parse the input log to log template.,Fan speeds ( 3552 3534 3375 **** 3515 3479 ),Fan speeds ( <*> <*> <*> **** <*> <*> )
+702,Parse the input log to log template.,blocked,blocked
+1312,Parse the input log to log template.,ambient=28,ambient=<*>
+438,Parse the input log to log template.,running,running
+1343,Parse the input log to log template.,ambient=27,ambient=<*>
+1051,Parse the input log to log template.,warning,warning
+92,Parse the input log to log template.,halt  (command 2992),halt (command <*>)
+506,Parse the input log to log template.,not responding,not responding
+698,Parse the input log to log template.,running,running
+884,Parse the input log to log template.,warning,warning
+302,Parse the input log to log template.,Fan speeds ( 3534 3534 3375 **** 3497 3479 ),Fan speeds ( <*> <*> <*> **** <*> <*> )
+91,Parse the input log to log template.,boot  (command 2999),boot (command <*>)
+1465,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+686,Parse the input log to log template.,blocked,blocked
+1903,Parse the input log to log template.,link errors remain current,link errors remain current
+834,Parse the input log to log template.,ambient=30,ambient=<*>
+1587,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+814,Parse the input log to log template.,ambient=29,ambient=<*>
+587,Parse the input log to log template.,not responding,not responding
+475,Parse the input log to log template.,running,running
+1494,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+595,Parse the input log to log template.,running,running
+237,Parse the input log to log template.,Fan speeds ( 3552 3534 3375 **** 3515 3479 ),Fan speeds ( <*> <*> <*> **** <*> <*> )
+515,Parse the input log to log template.,running,running
+13,Parse the input log to log template.,clusterAddMember  (command 1900),clusterAddMember (command <*>)
+1468,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1552,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1569,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1912,Parse the input log to log template.,NIFF: node node-232 has detected an available network connection on network 10.128.0.0 via interface ee0,NIFF: node node-<*> has detected an available network connection on network <*> via interface ee0
+374,Parse the input log to log template.,running,running
+829,Parse the input log to log template.,warning,warning
+1067,Parse the input log to log template.,warning,warning
+1937,Parse the input log to log template.,NIFF: node node-254 has detected an available network connection on network 10.128.0.0 via interface ee0,NIFF: node node-<*> has detected an available network connection on network <*> via interface ee0
+460,Parse the input log to log template.,not responding,not responding
+328,Parse the input log to log template.,ServerFileSystem: ServerFileSystem domain root1_local is full,ServerFileSystem: ServerFileSystem domain <*> is full
+1617,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+939,Parse the input log to log template.,normal,normal
+1549,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+132,Parse the input log to log template.,boot  (command 3939),boot (command <*>)
+1189,Parse the input log to log template.,ambient=26,ambient=<*>
+147,Parse the input log to log template.,wait  (command 4176),wait (command <*>)
+170,Parse the input log to log template.,Targeting domains:node-D2 and nodes:node-[64-95] child of command 3488,Targeting domains:node-<*> and nodes:node-[<*>-<*>] child of command <*>
+843,Parse the input log to log template.,ambient=31,ambient=<*>
+1481,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+54,Parse the input log to log template.,wait  (command 2449),wait (command <*>)
+251,Parse the input log to log template.,Fan speeds ( 3552 3534 3375 **** 3515 3479 ),Fan speeds ( <*> <*> <*> **** <*> <*> )
+792,Parse the input log to log template.,normal,normal
+1995,Parse the input log to log template.,NIFF: node node-176 has detected an available network connection on network 10.128.0.0 via interface ee0,NIFF: node node-<*> has detected an available network connection on network <*> via interface ee0
+254,Parse the input log to log template.,Fan speeds ( 3552 3534 3375 **** 3515 3479 ),Fan speeds ( <*> <*> <*> **** <*> <*> )
+872,Parse the input log to log template.,normal,normal
+361,Parse the input log to log template.,ClusterFileSystem: ServerFileSystem domain root24_local is no longer served by node node-247,ClusterFileSystem: ServerFileSystem domain <*> is no longer served by node node-<*>
+449,Parse the input log to log template.,running,running
+1125,Parse the input log to log template.,warning,warning
+1069,Parse the input log to log template.,ambient=27,ambient=<*>
+1241,Parse the input log to log template.,ambient=30,ambient=<*>
+1791,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1779,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1316,Parse the input log to log template.,normal,normal
+1724,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1497,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+855,Parse the input log to log template.,ambient=31,ambient=<*>
+1656,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1845,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+244,Parse the input log to log template.,Fan speeds ( 3552 3534 3375 **** 3515 3479 ),Fan speeds ( <*> <*> <*> **** <*> <*> )
+318,Parse the input log to log template.,Link error on broadcast tree Interconnect-0T00:00:2:1,Link error on broadcast tree Interconnect-<*>:<*>:<*>:<*>
+397,Parse the input log to log template.,running,running
+1594,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1035,Parse the input log to log template.,normal,normal
+1685,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+140,Parse the input log to log template.,boot  (command 4118),boot (command <*>)
+1471,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+927,Parse the input log to log template.,ambient=33,ambient=<*>
+762,Parse the input log to log template.,ambient=26,ambient=<*>
+1052,Parse the input log to log template.,warning,warning
+1773,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+700,Parse the input log to log template.,configured out,configured out
+75,Parse the input log to log template.,boot  (command 2548),boot (command <*>)
+161,Parse the input log to log template.,Command has completed successfully,Command has completed successfully
+1659,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+821,Parse the input log to log template.,ambient=33,ambient=<*>
+108,Parse the input log to log template.,boot  (command 3413),boot (command <*>)
+232,Parse the input log to log template.,Fan speeds ( 3552 3534 3375 **** 3515 3479 ),Fan speeds ( <*> <*> <*> **** <*> <*> )
+613,Parse the input log to log template.,running,running
+1806,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+677,Parse the input log to log template.,not responding,not responding
+644,Parse the input log to log template.,configured out,configured out
+761,Parse the input log to log template.,warning,warning
+1046,Parse the input log to log template.,normal,normal
+379,Parse the input log to log template.,running,running
+1256,Parse the input log to log template.,ambient=25,ambient=<*>
+346,Parse the input log to log template.,ClusterFileSystem: ServerFileSystem domain root5_tmp is no longer served by node node-228,ClusterFileSystem: ServerFileSystem domain <*> is no longer served by node node-<*>
+224,Parse the input log to log template.,Fan speeds ( 3552 3534 3375 **** 3515 3479 ),Fan speeds ( <*> <*> <*> **** <*> <*> )
+155,Parse the input log to log template.,Command has completed successfully,Command has completed successfully
+389,Parse the input log to log template.,running,running
+596,Parse the input log to log template.,running,running
+1862,Parse the input log to log template.,link errors remain current,link errors remain current
+1940,Parse the input log to log template.,NIFF: node node-30 has detected an available network connection on network 10.128.0.0 via interface ee0,NIFF: node node-<*> has detected an available network connection on network <*> via interface ee0
+880,Parse the input log to log template.,normal,normal
+467,Parse the input log to log template.,running,running
+744,Parse the input log to log template.,normal,normal
+849,Parse the input log to log template.,normal,normal
+629,Parse the input log to log template.,configured out,configured out
+1793,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1247,Parse the input log to log template.,ambient=28,ambient=<*>
+1801,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1039,Parse the input log to log template.,normal,normal
+873,Parse the input log to log template.,warning,warning
+14,Parse the input log to log template.,risBoot  (command 1903),risBoot (command <*>)
+1110,Parse the input log to log template.,normal,normal
+1815,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+352,Parse the input log to log template.,ClusterFileSystem: ServerFileSystem domain storage534 is no longer served by node node-18,ClusterFileSystem: ServerFileSystem domain <*> is no longer served by node node-<*>
+1698,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+344,Parse the input log to log template.,ClusterFileSystem: ServerFileSystem domain root5_domain is no longer served by node node-196,ClusterFileSystem: ServerFileSystem domain <*> is no longer served by node node-<*>
+688,Parse the input log to log template.,configured out,configured out
+592,Parse the input log to log template.,running,running
+151,Parse the input log to log template.,wait  (command 4221),wait (command <*>)
+693,Parse the input log to log template.,configured out,configured out
+601,Parse the input log to log template.,configured out,configured out
+1770,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+281,Parse the input log to log template.,Fan speeds ( 3552 3534 3391 **** 3515 3479 ),Fan speeds ( <*> <*> <*> **** <*> <*> )
+1060,Parse the input log to log template.,ambient=31,ambient=<*>
+1835,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1331,Parse the input log to log template.,normal,normal
+634,Parse the input log to log template.,not responding,not responding
+1183,Parse the input log to log template.,normal,normal
+1502,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1970,Parse the input log to log template.,NIFF: node node-204 has detected an available network connection on network 5.5.224.0 via interface alt0,NIFF: node node-<*> has detected an available network connection on network <*> via interface alt0
+238,Parse the input log to log template.,Fan speeds ( 3552 3534 3375 **** 3515 3479 ),Fan speeds ( <*> <*> <*> **** <*> <*> )
+192,Parse the input log to log template.,ClusterFileSystem: There is no server for ServerFileSystem domain storage1542,ClusterFileSystem: There is no server for ServerFileSystem domain <*>
+1849,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1505,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+620,Parse the input log to log template.,running,running
+1717,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+911,Parse the input log to log template.,ambient=32,ambient=<*>
+84,Parse the input log to log template.,wait  (command 2823),wait (command <*>)
+1087,Parse the input log to log template.,warning,warning
+311,Parse the input log to log template.,Link error,Link error
+212,Parse the input log to log template.,NIFF: node node-162 detected a failed network connection on network 5.5.224.0 via interface alt0,NIFF: node node-<*> detected a failed network connection on network <*> via interface alt0
+1389,Parse the input log to log template.,ambient=33,ambient=<*>
+1993,Parse the input log to log template.,NIFF: node node-176 has detected an available network connection on network 10.128.0.0 via interface ee0,NIFF: node node-<*> has detected an available network connection on network <*> via interface ee0
+1855,Parse the input log to log template.,link errors remain current,link errors remain current
+1025,Parse the input log to log template.,normal,normal
+1752,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+226,Parse the input log to log template.,Fan speeds ( 3552 3534 3375 **** 3515 3479 ),Fan speeds ( <*> <*> <*> **** <*> <*> )
+1772,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+651,Parse the input log to log template.,running,running
+546,Parse the input log to log template.,running,running
+1414,Parse the input log to log template.,normal,normal
+1749,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1422,Parse the input log to log template.,normal,normal
+1890,Parse the input log to log template.,link errors remain current,link errors remain current
+1382,Parse the input log to log template.,normal,normal
+1326,Parse the input log to log template.,ambient=25,ambient=<*>
+1941,Parse the input log to log template.,NIFF: node node-130 has detected an available network connection on network 10.96.0.0 via interface scip0,NIFF: node node-<*> has detected an available network connection on network <*> via interface scip0
+1769,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1407,Parse the input log to log template.,critical,critical
+1351,Parse the input log to log template.,ambient=26,ambient=<*>
+3,Parse the input log to log template.,Component State Change: Component \042alt0\042 is in the unavailable state (HWID=4088),Component State Change: Component <*> is in the unavailable state (HWID=<*>)
+1846,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+803,Parse the input log to log template.,ambient=33,ambient=<*>
+815,Parse the input log to log template.,warning,warning
+1122,Parse the input log to log template.,normal,normal
+72,Parse the input log to log template.,boot  (command 2584),boot (command <*>)
+1072,Parse the input log to log template.,normal,normal
+800,Parse the input log to log template.,warning,warning
+157,Parse the input log to log template.,Command has completed successfully,Command has completed successfully
+1777,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1086,Parse the input log to log template.,warning,warning
+1666,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1403,Parse the input log to log template.,ambient=32,ambient=<*>
+1474,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1400,Parse the input log to log template.,ambient=28,ambient=<*>
+890,Parse the input log to log template.,ambient=33,ambient=<*>
+1228,Parse the input log to log template.,ambient=29,ambient=<*>
+210,Parse the input log to log template.,ClusterFileSystem: There is no server for ServerFileSystem domain storage321,ClusterFileSystem: There is no server for ServerFileSystem domain <*>
+1290,Parse the input log to log template.,normal,normal
+167,Parse the input log to log template.,Targeting domains:node-D0 and nodes:node-[8-31] child of command 2489,Targeting domains:node-<*> and nodes:node-[<*>-<*>] child of command <*>
+1324,Parse the input log to log template.,ambient=36,ambient=<*>
+1639,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1313,Parse the input log to log template.,ambient=28,ambient=<*>
+1613,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1651,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+860,Parse the input log to log template.,warning,warning
+791,Parse the input log to log template.,warning,warning
+1084,Parse the input log to log template.,critical,critical
+668,Parse the input log to log template.,not responding,not responding
+324,Parse the input log to log template.,ServerFileSystem: ServerFileSystem domain root22_local is full,ServerFileSystem: ServerFileSystem domain <*> is full
+1418,Parse the input log to log template.,normal,normal
+173,Parse the input log to log template.,psu failure\ ambient=28,psu failure\ ambient=<*>
+1726,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1926,Parse the input log to log template.,NIFF: node node-176 has detected an available network connection on network 5.5.226.0 via interface alt0,NIFF: node node-<*> has detected an available network connection on network <*> via interface alt0
+1599,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1276,Parse the input log to log template.,ambient=27,ambient=<*>
+678,Parse the input log to log template.,running,running
+1567,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1562,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1073,Parse the input log to log template.,normal,normal
+1952,Parse the input log to log template.,NIFF: node node-152 has detected an available network connection on network 10.128.0.0 via interface ee0,NIFF: node node-<*> has detected an available network connection on network <*> via interface ee0
+1386,Parse the input log to log template.,critical,critical
+12,Parse the input log to log template.,clusterAddMember  (command 1902),clusterAddMember (command <*>)
+486,Parse the input log to log template.,not responding,not responding
+1461,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+456,Parse the input log to log template.,configured out,configured out
+1053,Parse the input log to log template.,warning,warning
+1132,Parse the input log to log template.,normal,normal
+894,Parse the input log to log template.,warning,warning
+182,Parse the input log to log template.,ClusterFileSystem: There is no server for ServerFileSystem domain storage1534,ClusterFileSystem: There is no server for ServerFileSystem domain <*>
+1503,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+262,Parse the input log to log template.,Fan speeds ( 3552 3534 3375 **** 3515 3479 ),Fan speeds ( <*> <*> <*> **** <*> <*> )
+980,Parse the input log to log template.,warning,warning
+735,Parse the input log to log template.,critical,critical
+1735,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1767,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1979,Parse the input log to log template.,NIFF: node node-144 has detected an available network connection on network 10.96.0.0 via interface scip0,NIFF: node node-<*> has detected an available network connection on network <*> via interface scip0
+49,Parse the input log to log template.,boot  (command 2392),boot (command <*>)
+850,Parse the input log to log template.,warning,warning
+772,Parse the input log to log template.,ambient=30,ambient=<*>
+317,Parse the input log to log template.,Link ok,Link ok
+1763,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1715,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+570,Parse the input log to log template.,not responding,not responding
+1440,Parse the input log to log template.,Link ok,Link ok
+1037,Parse the input log to log template.,normal,normal
+249,Parse the input log to log template.,Fan speeds ( 3552 3534 3375 **** 3515 3479 ),Fan speeds ( <*> <*> <*> **** <*> <*> )
+1157,Parse the input log to log template.,ambient=33,ambient=<*>
+1965,Parse the input log to log template.,NIFF: node node-19 has detected an available network connection on network 10.128.0.0 via interface ee0,NIFF: node node-<*> has detected an available network connection on network <*> via interface ee0
+767,Parse the input log to log template.,ambient=29,ambient=<*>
+142,Parse the input log to log template.,wait  (command 4117),wait (command <*>)
+1822,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+560,Parse the input log to log template.,running,running
+1809,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1860,Parse the input log to log template.,link errors remain current,link errors remain current
+118,Parse the input log to log template.,wait  (command 3612),wait (command <*>)
+1994,Parse the input log to log template.,NIFF: node node-77 has detected an available network connection on network 5.5.224.0 via interface alt0,NIFF: node node-<*> has detected an available network connection on network <*> via interface alt0
+292,Parse the input log to log template.,Fan speeds ( 3534 3534 3375 **** 3497 3479 ),Fan speeds ( <*> <*> <*> **** <*> <*> )
+1166,Parse the input log to log template.,ambient=29,ambient=<*>
+848,Parse the input log to log template.,ambient=30,ambient=<*>
+1537,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1392,Parse the input log to log template.,ambient=36,ambient=<*>
+1118,Parse the input log to log template.,ambient=27,ambient=<*>
+1040,Parse the input log to log template.,warning,warning
+1680,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+754,Parse the input log to log template.,ambient=31,ambient=<*>
+722,Parse the input log to log template.,normal,normal
+1117,Parse the input log to log template.,ambient=32,ambient=<*>
+1387,Parse the input log to log template.,normal,normal
+1001,Parse the input log to log template.,warning,warning
+790,Parse the input log to log template.,warning,warning
+1904,Parse the input log to log template.,link errors remain current,link errors remain current
+227,Parse the input log to log template.,Fan speeds ( 3552 3534 3375 4470 3515 3479 ),Fan speeds ( <*> <*> <*> <*> <*> <*> )
+1491,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+569,Parse the input log to log template.,configured out,configured out
+115,Parse the input log to log template.,boot  (command 3579),boot (command <*>)
+349,Parse the input log to log template.,ClusterFileSystem: ServerFileSystem domain root19_domain is no longer served by node node-114,ClusterFileSystem: ServerFileSystem domain <*> is no longer served by node node-<*>
+275,Parse the input log to log template.,Fan speeds ( 3552 3534 3391 **** 3515 3479 ),Fan speeds ( <*> <*> <*> **** <*> <*> )
+235,Parse the input log to log template.,Fan speeds ( 3552 3534 3375 **** 3515 3479 ),Fan speeds ( <*> <*> <*> **** <*> <*> )
+368,Parse the input log to log template.,ClusterFileSystem: ServerFileSystem domain root1_domain_backup is no longer served by node node-96,ClusterFileSystem: ServerFileSystem domain <*> is no longer served by node node-<*>
+533,Parse the input log to log template.,running,running
+128,Parse the input log to log template.,wait  (command 3837),wait (command <*>)
+114,Parse the input log to log template.,boot  (command 3512),boot (command <*>)
+799,Parse the input log to log template.,warning,warning
+1177,Parse the input log to log template.,ambient=36,ambient=<*>
+1233,Parse the input log to log template.,ambient=28,ambient=<*>
+1905,Parse the input log to log template.,link errors remain current,link errors remain current
+813,Parse the input log to log template.,ambient=31,ambient=<*>
+1718,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1879,Parse the input log to log template.,link errors remain current,link errors remain current
+687,Parse the input log to log template.,not responding,not responding
+832,Parse the input log to log template.,ambient=33,ambient=<*>
+935,Parse the input log to log template.,normal,normal
+470,Parse the input log to log template.,running,running
+1194,Parse the input log to log template.,normal,normal
+797,Parse the input log to log template.,normal,normal
+1943,Parse the input log to log template.,NIFF: node node-44 has detected an available network connection on network 10.128.0.0 via interface ee0,NIFF: node node-<*> has detected an available network connection on network <*> via interface ee0
+488,Parse the input log to log template.,running,running
+362,Parse the input log to log template.,ClusterFileSystem: ServerFileSystem domain root18_tmp is no longer served by node node-241,ClusterFileSystem: ServerFileSystem domain <*> is no longer served by node node-<*>
+1334,Parse the input log to log template.,ambient=30,ambient=<*>
+228,Parse the input log to log template.,Fan speeds ( 3552 3534 3375 **** 3515 3479 ),Fan speeds ( <*> <*> <*> **** <*> <*> )
+233,Parse the input log to log template.,Fan speeds ( 3552 3534 3375 **** 3515 3479 ),Fan speeds ( <*> <*> <*> **** <*> <*> )
+1947,Parse the input log to log template.,NIFF: node node-29 has detected an available network connection on network 0.0.0.0 via interface alt0,NIFF: node node-<*> has detected an available network connection on network <*> via interface alt0
+715,Parse the input log to log template.,warning,warning
+1531,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1690,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+316,Parse the input log to log template.,Link in reset,Link in reset
+753,Parse the input log to log template.,normal,normal
+1268,Parse the input log to log template.,warning,warning
+888,Parse the input log to log template.,ambient=30,ambient=<*>
+779,Parse the input log to log template.,normal,normal
+1300,Parse the input log to log template.,ambient=33,ambient=<*>
+471,Parse the input log to log template.,running,running
+82,Parse the input log to log template.,boot  (command 2790),boot (command <*>)
+1297,Parse the input log to log template.,warning,warning
+955,Parse the input log to log template.,ambient=29,ambient=<*>
+1170,Parse the input log to log template.,warning,warning
+95,Parse the input log to log template.,wait  (command 3078),wait (command <*>)
+1175,Parse the input log to log template.,ambient=34,ambient=<*>
+1080,Parse the input log to log template.,warning,warning
+410,Parse the input log to log template.,running,running
+995,Parse the input log to log template.,warning,warning
+1411,Parse the input log to log template.,ambient=30,ambient=<*>
+910,Parse the input log to log template.,warning,warning
+1816,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1496,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+538,Parse the input log to log template.,configured out,configured out
+380,Parse the input log to log template.,running,running
+526,Parse the input log to log template.,running,running
+1332,Parse the input log to log template.,normal,normal
+1088,Parse the input log to log template.,critical,critical
+946,Parse the input log to log template.,ambient=36,ambient=<*>
+1810,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1329,Parse the input log to log template.,ambient=25,ambient=<*>
+1544,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+87,Parse the input log to log template.,wait  (command 2885),wait (command <*>)
+689,Parse the input log to log template.,configured out,configured out
+1451,Parse the input log to log template.,Link ok,Link ok
+1709,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1546,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+727,Parse the input log to log template.,normal,normal
+1606,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1478,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+657,Parse the input log to log template.,running,running
+1009,Parse the input log to log template.,normal,normal
+521,Parse the input log to log template.,configured out,configured out
+431,Parse the input log to log template.,running,running
+1340,Parse the input log to log template.,ambient=27,ambient=<*>
+116,Parse the input log to log template.,boot  (command 3572),boot (command <*>)
+183,Parse the input log to log template.,ClusterFileSystem: There is no server for ServerFileSystem domain storage1231,ClusterFileSystem: There is no server for ServerFileSystem domain <*>
+630,Parse the input log to log template.,configured out,configured out
+458,Parse the input log to log template.,running,running
+818,Parse the input log to log template.,normal,normal
+1813,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+270,Parse the input log to log template.,Fan speeds ( 3552 3534 3375 **** 3515 3479 ),Fan speeds ( <*> <*> <*> **** <*> <*> )
+1381,Parse the input log to log template.,ambient=31,ambient=<*>
+1168,Parse the input log to log template.,warning,warning
+117,Parse the input log to log template.,boot  (command 3580),boot (command <*>)
+1574,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1149,Parse the input log to log template.,normal,normal
+1688,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+496,Parse the input log to log template.,configured out,configured out
+461,Parse the input log to log template.,not responding,not responding
+603,Parse the input log to log template.,blocked,blocked
+1246,Parse the input log to log template.,warning,warning
+809,Parse the input log to log template.,ambient=31,ambient=<*>
+459,Parse the input log to log template.,blocked,blocked
+1365,Parse the input log to log template.,ambient=27,ambient=<*>
+1669,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1101,Parse the input log to log template.,ambient=26,ambient=<*>
+1137,Parse the input log to log template.,normal,normal
+428,Parse the input log to log template.,inconsistent nodesets node-32 0x00000002 <ok> node-34 0x000001fe <ok> node-33 0x000001fe <ok> node-35 0x000001fe <ok>,inconsistent nodesets node-<*> <*> <ok> node-<*> <*> <ok> node-<*> <*> <ok> node-<*> <*> <*>
+1126,Parse the input log to log template.,normal,normal
+1631,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+706,Parse the input log to log template.,running,running
+220,Parse the input log to log template.,Fan speeds ( 3552 3534 3375 11637 3515 3479 ),Fan speeds ( <*> <*> <*> <*> <*> <*> )
+264,Parse the input log to log template.,Fan speeds ( 3552 3534 3375 **** 3515 3479 ),Fan speeds ( <*> <*> <*> **** <*> <*> )
+671,Parse the input log to log template.,running,running
+480,Parse the input log to log template.,configured out,configured out
+383,Parse the input log to log template.,configured out,configured out
+1939,Parse the input log to log template.,NIFF: node node-244 has detected an available network connection on network 10.128.0.0 via interface ee0,NIFF: node node-<*> has detected an available network connection on network <*> via interface ee0
+124,Parse the input log to log template.,wait  (command 3690),wait (command <*>)
+891,Parse the input log to log template.,ambient=32,ambient=<*>
+1261,Parse the input log to log template.,ambient=27,ambient=<*>
+638,Parse the input log to log template.,running,running
+913,Parse the input log to log template.,normal,normal
+1455,Parse the input log to log template.,Link in reset,Link in reset
+1512,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+512,Parse the input log to log template.,not responding,not responding
+113,Parse the input log to log template.,boot  (command 3519),boot (command <*>)
+1523,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1265,Parse the input log to log template.,normal,normal
+1821,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+200,Parse the input log to log template.,ClusterFileSystem: There is no server for ServerFileSystem domain storage112,ClusterFileSystem: There is no server for ServerFileSystem domain <*>
+1980,Parse the input log to log template.,NIFF: node node-17 has detected an available network connection on network 0.0.0.0 via interface alt0,NIFF: node node-<*> has detected an available network connection on network <*> via interface alt0
+197,Parse the input log to log template.,ClusterFileSystem: There is no server for ServerFileSystem domain storage742,ClusterFileSystem: There is no server for ServerFileSystem domain <*>
+542,Parse the input log to log template.,running,running
+27,Parse the input log to log template.,boot  (command 2152),boot (command <*>)
+1431,Parse the input log to log template.,critical,critical
+1354,Parse the input log to log template.,ambient=35,ambient=<*>
+221,Parse the input log to log template.,Fan speeds ( 3552 3534 3375 **** 3515 3479 ),Fan speeds ( <*> <*> <*> **** <*> <*> )
+691,Parse the input log to log template.,running,running
+841,Parse the input log to log template.,warning,warning
+1628,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+51,Parse the input log to log template.,boot  (command 2417),boot (command <*>)
+1901,Parse the input log to log template.,link errors remain current,link errors remain current
+291,Parse the input log to log template.,Fan speeds ( 3534 3534 3375 **** 3497 3479 ),Fan speeds ( <*> <*> <*> **** <*> <*> )
+69,Parse the input log to log template.,boot  (command 2616),boot (command <*>)
+1958,Parse the input log to log template.,NIFF: node node-45 has detected an available network connection on network 10.128.0.0 via interface ee0,NIFF: node node-<*> has detected an available network connection on network <*> via interface ee0
+342,Parse the input log to log template.,ClusterFileSystem: ServerFileSystem domain root29_local is no longer served by node node-28,ClusterFileSystem: ServerFileSystem domain <*> is no longer served by node node-<*>
+1527,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+202,Parse the input log to log template.,ClusterFileSystem: There is no server for ServerFileSystem domain storage142,ClusterFileSystem: There is no server for ServerFileSystem domain <*>
+1838,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+885,Parse the input log to log template.,ambient=29,ambient=<*>
+1360,Parse the input log to log template.,ambient=29,ambient=<*>
+145,Parse the input log to log template.,boot  (command 4176),boot (command <*>)
+1144,Parse the input log to log template.,warning,warning
+1219,Parse the input log to log template.,ambient=29,ambient=<*>
+1787,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+971,Parse the input log to log template.,normal,normal
+567,Parse the input log to log template.,running,running
+584,Parse the input log to log template.,blocked,blocked
+924,Parse the input log to log template.,ambient=33,ambient=<*>
+1954,Parse the input log to log template.,NIFF: node node-142 has detected an available network connection on network 10.128.0.0 via interface ee0,NIFF: node node-<*> has detected an available network connection on network <*> via interface ee0
+279,Parse the input log to log template.,Fan speeds ( 3552 3534 3391 **** 3515 3479 ),Fan speeds ( <*> <*> <*> **** <*> <*> )
+740,Parse the input log to log template.,ambient=33,ambient=<*>
+1490,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+359,Parse the input log to log template.,ClusterFileSystem: ServerFileSystem domain cluster_usr_backup is no longer served by node node-160,ClusterFileSystem: ServerFileSystem domain <*> is no longer served by node node-<*>
+968,Parse the input log to log template.,ambient=27,ambient=<*>
+1757,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+41,Parse the input log to log template.,wait  (command 2257),wait (command <*>)
+86,Parse the input log to log template.,wait  (command 2900),wait (command <*>)
+974,Parse the input log to log template.,normal,normal
+876,Parse the input log to log template.,normal,normal
+1486,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+941,Parse the input log to log template.,normal,normal
+1525,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1705,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+997,Parse the input log to log template.,normal,normal
+355,Parse the input log to log template.,ClusterFileSystem: ServerFileSystem domain root14_tmp is no longer served by node node-45,ClusterFileSystem: ServerFileSystem domain <*> is no longer served by node node-<*>
+696,Parse the input log to log template.,running,running
+402,Parse the input log to log template.,running,running
+207,Parse the input log to log template.,ClusterFileSystem: There is no server for ServerFileSystem domain storage132,ClusterFileSystem: There is no server for ServerFileSystem domain <*>
+1311,Parse the input log to log template.,warning,warning
+513,Parse the input log to log template.,configured out,configured out
+1559,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+400,Parse the input log to log template.,not responding,not responding
+247,Parse the input log to log template.,Fan speeds ( 3552 3534 3375 **** 3515 3479 ),Fan speeds ( <*> <*> <*> **** <*> <*> )
+1785,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1262,Parse the input log to log template.,warning,warning
+1050,Parse the input log to log template.,normal,normal
+1430,Parse the input log to log template.,warning,warning
+757,Parse the input log to log template.,normal,normal
+1254,Parse the input log to log template.,ambient=26,ambient=<*>
+1799,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1521,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1936,Parse the input log to log template.,NIFF: node node-202 has detected an available network connection on network 10.128.0.0 via interface ee0,NIFF: node node-<*> has detected an available network connection on network <*> via interface ee0
+875,Parse the input log to log template.,normal,normal
+763,Parse the input log to log template.,ambient=31,ambient=<*>
+444,Parse the input log to log template.,not responding,not responding
+864,Parse the input log to log template.,ambient=29,ambient=<*>
+1150,Parse the input log to log template.,warning,warning
+563,Parse the input log to log template.,configured out,configured out
+1123,Parse the input log to log template.,warning,warning
+148,Parse the input log to log template.,wait  (command 4176),wait (command <*>)
+583,Parse the input log to log template.,configured out,configured out
+1302,Parse the input log to log template.,ambient=29,ambient=<*>
+1018,Parse the input log to log template.,normal,normal
+1016,Parse the input log to log template.,warning,warning
+307,Parse the input log to log template.,Link error,Link error
+1748,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1522,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1306,Parse the input log to log template.,warning,warning
+1986,Parse the input log to log template.,NIFF: node node-212 has detected an available network connection on network 10.128.0.0 via interface ee0,NIFF: node node-<*> has detected an available network connection on network <*> via interface ee0
+17,Parse the input log to log template.,boot  (command 1910),boot (command <*>)
+55,Parse the input log to log template.,boot  (command 2464),boot (command <*>)
+231,Parse the input log to log template.,Fan speeds ( 3552 3534 3375 **** 3515 3479 ),Fan speeds ( <*> <*> <*> **** <*> <*> )
+776,Parse the input log to log template.,normal,normal
+327,Parse the input log to log template.,ServerFileSystem: ServerFileSystem domain root7_local is full,ServerFileSystem: ServerFileSystem domain <*> is full
+1696,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1837,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1841,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+576,Parse the input log to log template.,configured out,configured out
+1131,Parse the input log to log template.,normal,normal
+382,Parse the input log to log template.,not responding,not responding
+1928,Parse the input log to log template.,NIFF: node node-9 has detected an available network connection on network 10.128.0.0 via interface ee0,NIFF: node node-<*> has detected an available network connection on network <*> via interface ee0
+1996,Parse the input log to log template.,NIFF: node node-178 has detected an available network connection on network 0.0.0.0 via interface alt0,NIFF: node node-<*> has detected an available network connection on network <*> via interface alt0
+928,Parse the input log to log template.,normal,normal
+353,Parse the input log to log template.,ClusterFileSystem: ServerFileSystem domain root12_tmp is no longer served by node node-11,ClusterFileSystem: ServerFileSystem domain <*> is no longer served by node node-<*>
+28,Parse the input log to log template.,wait  (command 2154),wait (command <*>)
+1686,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+5,Parse the input log to log template.,Component State Change: Component \042alt0\042 is in the unavailable state (HWID=2480),Component State Change: Component <*> is in the unavailable state (HWID=<*>)
+1310,Parse the input log to log template.,ambient=32,ambient=<*>
+1886,Parse the input log to log template.,link errors remain current,link errors remain current
+1501,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1823,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+104,Parse the input log to log template.,wait  (command 3319),wait (command <*>)
+1190,Parse the input log to log template.,ambient=30,ambient=<*>
+485,Parse the input log to log template.,not responding,not responding
+73,Parse the input log to log template.,wait  (command 2549),wait (command <*>)
+1289,Parse the input log to log template.,ambient=24,ambient=<*>
+274,Parse the input log to log template.,Fan speeds ( 3552 3534 3391 **** 3515 3479 ),Fan speeds ( <*> <*> <*> **** <*> <*> )
+1255,Parse the input log to log template.,warning,warning
+1646,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+611,Parse the input log to log template.,running,running
+7,Parse the input log to log template.,Component State Change: Component \042alt0\042 is in the unavailable state (HWID=3891),Component State Change: Component <*> is in the unavailable state (HWID=<*>)
+1875,Parse the input log to log template.,link errors remain current,link errors remain current
+33,Parse the input log to log template.,wait  (command 2217),wait (command <*>)
+1158,Parse the input log to log template.,ambient=36,ambient=<*>
+948,Parse the input log to log template.,normal,normal
+38,Parse the input log to log template.,wait  (command 2189),wait (command <*>)
+1725,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+676,Parse the input log to log template.,configured out,configured out
+1807,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1601,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1945,Parse the input log to log template.,NIFF: node node-255 has detected an available network connection on network 10.128.0.0 via interface ee0,NIFF: node node-<*> has detected an available network connection on network <*> via interface ee0
+1401,Parse the input log to log template.,warning,warning
+695,Parse the input log to log template.,configured out,configured out
+1856,Parse the input log to log template.,link errors remain current,link errors remain current
+589,Parse the input log to log template.,configured out,configured out
+1707,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1876,Parse the input log to log template.,link errors remain current,link errors remain current
+1570,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+322,Parse the input log to log template.,ServerFileSystem: ServerFileSystem domain root14_local is full,ServerFileSystem: ServerFileSystem domain <*> is full
+1031,Parse the input log to log template.,warning,warning
+487,Parse the input log to log template.,not responding,not responding
+412,Parse the input log to log template.,configured out,configured out
+699,Parse the input log to log template.,inconsistent nodesets node-31 0x1fffffffe <ok> node-0 0xfffffffe <ok> node-1 0xfffffffe <ok> node-2 0xfffffffe <ok> node-30 0xfffffffe <ok>,inconsistent nodesets node-<*> <*> <ok> node-<*> <*> <ok> node-<*> <*> <ok> node-<*> <*> <*>
+853,Parse the input log to log template.,normal,normal
+1621,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1634,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+216,Parse the input log to log template.,Fan speeds ( 3552 3534 3375 **** 3515 3479 ),Fan speeds ( <*> <*> <*> **** <*> <*> )
+100,Parse the input log to log template.,boot  (command 3194),boot (command <*>)
+1808,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1372,Parse the input log to log template.,normal,normal
+517,Parse the input log to log template.,running,running
+577,Parse the input log to log template.,configured out,configured out
+949,Parse the input log to log template.,warning,warning
+30,Parse the input log to log template.,boot  (command 2110),boot (command <*>)
+887,Parse the input log to log template.,normal,normal
+255,Parse the input log to log template.,Fan speeds ( 3552 3534 3375 **** 3515 3479 ),Fan speeds ( <*> <*> <*> **** <*> <*> )
+418,Parse the input log to log template.,running,running
+34,Parse the input log to log template.,wait  (command 2217),wait (command <*>)
+1441,Parse the input log to log template.,Link ok,Link ok
+871,Parse the input log to log template.,warning,warning
+1160,Parse the input log to log template.,ambient=28,ambient=<*>
+1443,Parse the input log to log template.,Link ok,Link ok
+1736,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1032,Parse the input log to log template.,warning,warning
+990,Parse the input log to log template.,normal,normal
+1676,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+883,Parse the input log to log template.,warning,warning
+1753,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+234,Parse the input log to log template.,Fan speeds ( 3552 3534 3375 **** 3515 3479 ),Fan speeds ( <*> <*> <*> **** <*> <*> )
+1872,Parse the input log to log template.,link errors remain current,link errors remain current
+184,Parse the input log to log template.,ClusterFileSystem: There is no server for ServerFileSystem domain storage934,ClusterFileSystem: There is no server for ServerFileSystem domain <*>
+1627,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+403,Parse the input log to log template.,running,running
+1498,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1653,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1595,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1070,Parse the input log to log template.,normal,normal
+1642,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1138,Parse the input log to log template.,normal,normal
+1136,Parse the input log to log template.,normal,normal
+339,Parse the input log to log template.,ClusterFileSystem: ServerFileSystem domain root28_domain is no longer served by node node-96,ClusterFileSystem: ServerFileSystem domain <*> is no longer served by node node-<*>
+386,Parse the input log to log template.,running,running
+989,Parse the input log to log template.,ambient=27,ambient=<*>
+253,Parse the input log to log template.,Fan speeds ( 3552 3534 3375 **** 3515 3479 ),Fan speeds ( <*> <*> <*> **** <*> <*> )
+1891,Parse the input log to log template.,link errors remain current,link errors remain current
+1668,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1208,Parse the input log to log template.,ambient=31,ambient=<*>
+952,Parse the input log to log template.,ambient=26,ambient=<*>
+1598,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+769,Parse the input log to log template.,warning,warning
+1871,Parse the input log to log template.,link errors remain current,link errors remain current
+1564,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+240,Parse the input log to log template.,Fan speeds ( 3552 3534 3375 **** 3515 3479 ),Fan speeds ( <*> <*> <*> **** <*> <*> )
+558,Parse the input log to log template.,running,running
+1580,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1641,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+356,Parse the input log to log template.,ClusterFileSystem: ServerFileSystem domain storage211 is no longer served by node node-4,ClusterFileSystem: ServerFileSystem domain <*> is no longer served by node node-<*>
+1576,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+904,Parse the input log to log template.,normal,normal
+1406,Parse the input log to log template.,ambient=31,ambient=<*>
+1689,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1526,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1697,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+67,Parse the input log to log template.,boot  (command 2619),boot (command <*>)
+1253,Parse the input log to log template.,ambient=30,ambient=<*>
+96,Parse the input log to log template.,wait  (command 3141),wait (command <*>)
+1591,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+107,Parse the input log to log template.,wait  (command 3412),wait (command <*>)
+617,Parse the input log to log template.,configured out,configured out
+981,Parse the input log to log template.,normal,normal
+742,Parse the input log to log template.,ambient=31,ambient=<*>
+278,Parse the input log to log template.,Fan speeds ( 3552 3534 3391 **** 3515 3479 ),Fan speeds ( <*> <*> <*> **** <*> <*> )
+1915,Parse the input log to log template.,NIFF: node node-26 has detected an available network connection on network 5.5.226.0 via interface alt0,NIFF: node node-<*> has detected an available network connection on network <*> via interface alt0
+823,Parse the input log to log template.,ambient=31,ambient=<*>
+1057,Parse the input log to log template.,ambient=35,ambient=<*>
+680,Parse the input log to log template.,blocked,blocked
+1747,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1805,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1927,Parse the input log to log template.,NIFF: node node-75 has detected an available network connection on network 10.128.0.0 via interface ee0,NIFF: node node-<*> has detected an available network connection on network <*> via interface ee0
+759,Parse the input log to log template.,normal,normal
+88,Parse the input log to log template.,wait  (command 2909),wait (command <*>)
+53,Parse the input log to log template.,wait  (command 2424),wait (command <*>)
+623,Parse the input log to log template.,not responding,not responding
+986,Parse the input log to log template.,warning,warning
+1671,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1783,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+337,Parse the input log to log template.,ClusterFileSystem: ServerFileSystem domain root9_domain is no longer served by node node-224,ClusterFileSystem: ServerFileSystem domain <*> is no longer served by node node-<*>
+1212,Parse the input log to log template.,warning,warning
+205,Parse the input log to log template.,ClusterFileSystem: There is no server for ServerFileSystem domain storage1311,ClusterFileSystem: There is no server for ServerFileSystem domain <*>
+176,Parse the input log to log template.,psu failure\ ambient=31,psu failure\ ambient=<*>
+1330,Parse the input log to log template.,normal,normal
+1335,Parse the input log to log template.,normal,normal
+564,Parse the input log to log template.,blocked,blocked
+1258,Parse the input log to log template.,ambient=29,ambient=<*>
+1133,Parse the input log to log template.,normal,normal
+129,Parse the input log to log template.,wait  (command 3847),wait (command <*>)
+951,Parse the input log to log template.,ambient=28,ambient=<*>
+1484,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1741,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1081,Parse the input log to log template.,warning,warning
+135,Parse the input log to log template.,wait  (command 3981),wait (command <*>)
+550,Parse the input log to log template.,not responding,not responding
+1402,Parse the input log to log template.,normal,normal
+287,Parse the input log to log template.,Fan speeds ( 3552 3534 3391 **** 3515 3479 ),Fan speeds ( <*> <*> <*> **** <*> <*> )
+1637,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+618,Parse the input log to log template.,configured out,configured out
+1857,Parse the input log to log template.,link errors remain current,link errors remain current
+1292,Parse the input log to log template.,ambient=31,ambient=<*>
+1611,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+851,Parse the input log to log template.,normal,normal
+1812,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+320,Parse the input log to log template.,Link error on broadcast tree Interconnect-1T00:00:2:0,Link error on broadcast tree Interconnect-<*>:<*>:<*>:<*>
+1858,Parse the input log to log template.,link errors remain current,link errors remain current
+500,Parse the input log to log template.,not responding,not responding
+392,Parse the input log to log template.,configured out,configured out
+371,Parse the input log to log template.,running,running
+511,Parse the input log to log template.,not responding,not responding
+1270,Parse the input log to log template.,ambient=28,ambient=<*>
+423,Parse the input log to log template.,configured out,configured out
+1828,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+976,Parse the input log to log template.,normal,normal
+1547,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1487,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1298,Parse the input log to log template.,ambient=27,ambient=<*>
+579,Parse the input log to log template.,running,running
+625,Parse the input log to log template.,running,running
+217,Parse the input log to log template.,Fan speeds ( 3552 3534 3375 **** 3515 3479 ),Fan speeds ( <*> <*> <*> **** <*> <*> )
+450,Parse the input log to log template.,not responding,not responding
+565,Parse the input log to log template.,configured out,configured out
+164,Parse the input log to log template.,Targeting domains:node-D4 and nodes:node-[136-159] child of command 1964,Targeting domains:node-<*> and nodes:node-[<*>-<*>] child of command <*>
+963,Parse the input log to log template.,warning,warning
+406,Parse the input log to log template.,running,running
+516,Parse the input log to log template.,running,running
+571,Parse the input log to log template.,configured out,configured out
+1026,Parse the input log to log template.,normal,normal
+1206,Parse the input log to log template.,normal,normal
+1105,Parse the input log to log template.,ambient=24,ambient=<*>
+661,Parse the input log to log template.,running,running
+101,Parse the input log to log template.,boot  (command 3320),boot (command <*>)
+775,Parse the input log to log template.,warning,warning
+1226,Parse the input log to log template.,ambient=32,ambient=<*>
+159,Parse the input log to log template.,Command has completed successfully,Command has completed successfully
+71,Parse the input log to log template.,wait  (command 2582),wait (command <*>)
+1061,Parse the input log to log template.,ambient=31,ambient=<*>
+898,Parse the input log to log template.,normal,normal
+1884,Parse the input log to log template.,link errors remain current,link errors remain current
+1090,Parse the input log to log template.,warning,warning
+23,Parse the input log to log template.,boot  (command 1981),boot (command <*>)
+303,Parse the input log to log template.,Fan speeds ( 3534 3534 3375 **** 3497 3479 ),Fan speeds ( <*> <*> <*> **** <*> <*> )
+752,Parse the input log to log template.,ambient=30,ambient=<*>
+1399,Parse the input log to log template.,ambient=25,ambient=<*>
+593,Parse the input log to log template.,configured out,configured out
+1341,Parse the input log to log template.,ambient=30,ambient=<*>
+768,Parse the input log to log template.,warning,warning
+463,Parse the input log to log template.,not responding,not responding
+43,Parse the input log to log template.,boot  (command 2316),boot (command <*>)
+6,Parse the input log to log template.,Component State Change: Component \042alt0\042 is in the unavailable state (HWID=3713),Component State Change: Component <*> is in the unavailable state (HWID=<*>)
+437,Parse the input log to log template.,configured out,configured out
+1981,Parse the input log to log template.,NIFF: node node-69 has detected an available network connection on network 10.128.0.0 via interface ee0,NIFF: node node-<*> has detected an available network connection on network <*> via interface ee0
+68,Parse the input log to log template.,boot  (command 2616),boot (command <*>)
+1695,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1186,Parse the input log to log template.,warning,warning
+1765,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+992,Parse the input log to log template.,normal,normal
+160,Parse the input log to log template.,Command has completed successfully,Command has completed successfully
+504,Parse the input log to log template.,not responding,not responding
+1786,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1436,Parse the input log to log template.,Link ok,Link ok
+1684,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1948,Parse the input log to log template.,NIFF: node node-87 has detected an available network connection on network 5.5.224.0 via interface alt0,NIFF: node node-<*> has detected an available network connection on network <*> via interface alt0
+545,Parse the input log to log template.,running,running
+257,Parse the input log to log template.,Fan speeds ( 3552 3534 3375 **** 3515 3479 ),Fan speeds ( <*> <*> <*> **** <*> <*> )
+1063,Parse the input log to log template.,warning,warning
+1439,Parse the input log to log template.,Link in reset,Link in reset
+1853,Parse the input log to log template.,link errors remain current,link errors remain current
+1776,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1358,Parse the input log to log template.,critical,critical
+1114,Parse the input log to log template.,ambient=31,ambient=<*>
+673,Parse the input log to log template.,running,running
+1951,Parse the input log to log template.,NIFF: node node-113 has detected an available network connection on network 5.5.224.0 via interface alt0,NIFF: node node-<*> has detected an available network connection on network <*> via interface alt0
+1919,Parse the input log to log template.,NIFF: node node-252 has detected an available network connection on network 5.5.226.0 via interface alt0,NIFF: node node-<*> has detected an available network connection on network <*> via interface alt0
+1171,Parse the input log to log template.,normal,normal
+1883,Parse the input log to log template.,link errors remain current,link errors remain current
+1235,Parse the input log to log template.,ambient=25,ambient=<*>
+666,Parse the input log to log template.,running,running
+1742,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1373,Parse the input log to log template.,ambient=25,ambient=<*>
+640,Parse the input log to log template.,not responding,not responding
+1227,Parse the input log to log template.,warning,warning
+171,Parse the input log to log template.,Targeting domains:node-D2 and nodes:node-84,Targeting domains:node-<*> nodes:node-<*>
+1962,Parse the input log to log template.,NIFF: node node-23 has detected an available network connection on network 10.128.0.0 via interface ee0,NIFF: node node-<*> has detected an available network connection on network <*> via interface ee0
+502,Parse the input log to log template.,running,running
+180,Parse the input log to log template.,ClusterFileSystem: There is no server for ServerFileSystem domain storage1412,ClusterFileSystem: There is no server for ServerFileSystem domain <*>
+725,Parse the input log to log template.,normal,normal
+32,Parse the input log to log template.,halt  (command 2221),halt (command <*>)
+436,Parse the input log to log template.,configured out,configured out
+1909,Parse the input log to log template.,NIFF: node node-129 has detected an available network connection on network 10.128.0.0 via interface ee0,NIFF: node node-<*> has detected an available network connection on network <*> via interface ee0
+988,Parse the input log to log template.,ambient=33,ambient=<*>
+1722,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1554,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+375,Parse the input log to log template.,running,running
+1800,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+958,Parse the input log to log template.,ambient=29,ambient=<*>
+490,Parse the input log to log template.,configured out,configured out
+1325,Parse the input log to log template.,ambient=33,ambient=<*>
+1089,Parse the input log to log template.,ambient=34,ambient=<*>
+529,Parse the input log to log template.,not responding,not responding
+1344,Parse the input log to log template.,ambient=29,ambient=<*>
+1103,Parse the input log to log template.,ambient=28,ambient=<*>
+795,Parse the input log to log template.,warning,warning
+289,Parse the input log to log template.,Fan speeds ( 3552 3552 3391 **** 3515 3497 ),Fan speeds ( <*> <*> <*> **** <*> <*> )
+178,Parse the input log to log template.,Temperature (41C) exceeds warning threshold,Temperature (<*>) exceeds warning threshold
+867,Parse the input log to log template.,warning,warning
+263,Parse the input log to log template.,Fan speeds ( 3552 3534 3375 **** 3515 3479 ),Fan speeds ( <*> <*> <*> **** <*> <*> )
+326,Parse the input log to log template.,ServerFileSystem: ServerFileSystem domain root26_tmp is full,ServerFileSystem: ServerFileSystem domain <*> is full
+1865,Parse the input log to log template.,link errors remain current,link errors remain current
+656,Parse the input log to log template.,running,running
+441,Parse the input log to log template.,configured out,configured out
+1034,Parse the input log to log template.,warning,warning
+1433,Parse the input log to log template.,Link ok,Link ok
+1543,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1885,Parse the input log to log template.,link errors remain current,link errors remain current
+1135,Parse the input log to log template.,warning,warning
+250,Parse the input log to log template.,Fan speeds ( 3552 3534 3375 **** 3515 3479 ),Fan speeds ( <*> <*> <*> **** <*> <*> )
+1665,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1649,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+341,Parse the input log to log template.,ClusterFileSystem: ServerFileSystem domain root26_domain is no longer served by node node-57,ClusterFileSystem: ServerFileSystem domain <*> is no longer served by node node-<*>
+97,Parse the input log to log template.,boot  (command 3138),boot (command <*>)
+1380,Parse the input log to log template.,normal,normal
+1280,Parse the input log to log template.,normal,normal
+1165,Parse the input log to log template.,warning,warning
+828,Parse the input log to log template.,ambient=30,ambient=<*>
+1966,Parse the input log to log template.,NIFF: node node-253 has detected an available network connection on network 10.128.0.0 via interface ee0,NIFF: node node-<*> has detected an available network connection on network <*> via interface ee0
+1048,Parse the input log to log template.,ambient=26,ambient=<*>
+1784,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1314,Parse the input log to log template.,warning,warning
+1480,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1394,Parse the input log to log template.,normal,normal
+1378,Parse the input log to log template.,ambient=36,ambient=<*>
+103,Parse the input log to log template.,boot  (command 3317),boot (command <*>)
+401,Parse the input log to log template.,inconsistent nodesets node-160 0x0001edfe <ok> node-161 0x1001fdfe <ok> node-162 0x1001fdfe <ok> node-163 0x1001fdfe <ok>,inconsistent nodesets node-<*> <*> <ok> node-<*> <*> <ok> node-<*> <*> <ok> node-<*> <*> <*>
+1551,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1584,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+338,Parse the input log to log template.,ClusterFileSystem: ServerFileSystem domain root10_domain is no longer served by node node-224,ClusterFileSystem: ServerFileSystem domain <*> is no longer served by node node-<*>
+426,Parse the input log to log template.,configured out,configured out
+77,Parse the input log to log template.,wait  (command 2683),wait (command <*>)
+1013,Parse the input log to log template.,warning,warning
+138,Parse the input log to log template.,wait  (command 4061),wait (command <*>)
+1448,Parse the input log to log template.,Link error,Link error
+1151,Parse the input log to log template.,ambient=25,ambient=<*>
+1605,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+478,Parse the input log to log template.,running,running
+174,Parse the input log to log template.,psu failure\ ambient=28,psu failure\ ambient=<*>
+434,Parse the input log to log template.,configured out,configured out
+1071,Parse the input log to log template.,ambient=33,ambient=<*>
+245,Parse the input log to log template.,Fan speeds ( 3552 3534 3375 **** 3515 3479 ),Fan speeds ( <*> <*> <*> **** <*> <*> )
+413,Parse the input log to log template.,running,running
+1754,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+637,Parse the input log to log template.,running,running
+903,Parse the input log to log template.,normal,normal
+1989,Parse the input log to log template.,NIFF: node node-189 has detected an available network connection on network 5.5.224.0 via interface alt0,NIFF: node node-<*> has detected an available network connection on network <*> via interface alt0
+395,Parse the input log to log template.,running,running
+1712,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1683,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1444,Parse the input log to log template.,Link error,Link error
+1934,Parse the input log to log template.,NIFF: node node-217 has detected an available network connection on network 10.128.0.0 via interface ee0,NIFF: node node-<*> has detected an available network connection on network <*> via interface ee0
+93,Parse the input log to log template.,wait  (command 3087),wait (command <*>)
+804,Parse the input log to log template.,warning,warning
+4,Parse the input log to log template.,Component State Change: Component \042alt0\042 is in the unavailable state (HWID=2538),Component State Change: Component <*> is in the unavailable state (HWID=<*>)
+1999,Parse the input log to log template.,NIFF: node node-171 has detected an available network connection on network 10.128.0.0 via interface ee0,NIFF: node node-<*> has detected an available network connection on network <*> via interface ee0
+1295,Parse the input log to log template.,ambient=29,ambient=<*>
+1293,Parse the input log to log template.,warning,warning
+1045,Parse the input log to log template.,warning,warning
+585,Parse the input log to log template.,running,running
+1225,Parse the input log to log template.,ambient=30,ambient=<*>
+78,Parse the input log to log template.,boot  (command 2686),boot (command <*>)
+724,Parse the input log to log template.,critical,critical
+1955,Parse the input log to log template.,NIFF: node node-193 has detected an available network connection on network 5.5.224.0 via interface alt0,NIFF: node node-<*> has detected an available network connection on network <*> via interface alt0
+826,Parse the input log to log template.,ambient=34,ambient=<*>
+102,Parse the input log to log template.,boot  (command 3318),boot (command <*>)
+1098,Parse the input log to log template.,ambient=29,ambient=<*>
+1204,Parse the input log to log template.,normal,normal
+1416,Parse the input log to log template.,warning,warning
+367,Parse the input log to log template.,ClusterFileSystem: ServerFileSystem domain root1_tmp_backup is no longer served by node node-96,ClusterFileSystem: ServerFileSystem domain <*> is no longer served by node node-<*>
+1887,Parse the input log to log template.,link errors remain current,link errors remain current
+277,Parse the input log to log template.,Fan speeds ( 3552 3534 3391 **** 3515 3479 ),Fan speeds ( <*> <*> <*> **** <*> <*> )
+189,Parse the input log to log template.,ClusterFileSystem: There is no server for ServerFileSystem domain storage1622,ClusterFileSystem: There is no server for ServerFileSystem domain <*>
+543,Parse the input log to log template.,active,active
+1630,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1259,Parse the input log to log template.,normal,normal
+996,Parse the input log to log template.,normal,normal
+1645,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+430,Parse the input log to log template.,not responding,not responding
+1442,Parse the input log to log template.,Link in reset,Link in reset
+918,Parse the input log to log template.,ambient=29,ambient=<*>
+1196,Parse the input log to log template.,warning,warning
+1661,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1029,Parse the input log to log template.,warning,warning
+1172,Parse the input log to log template.,ambient=25,ambient=<*>
+453,Parse the input log to log template.,running,running
+1156,Parse the input log to log template.,ambient=33,ambient=<*>
+163,Parse the input log to log template.,Targeting domains:node-D3 and nodes:node-[104-127] child of command 1963,Targeting domains:node-<*> and nodes:node-[<*>-<*>] child of command <*>
+1650,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1036,Parse the input log to log template.,ambient=28,ambient=<*>
+76,Parse the input log to log template.,boot  (command 2538),boot (command <*>)
+641,Parse the input log to log template.,running,running
+827,Parse the input log to log template.,ambient=35,ambient=<*>
+1796,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1466,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+674,Parse the input log to log template.,active,active
+1914,Parse the input log to log template.,NIFF: node node-241 has detected an available network connection on network 10.128.0.0 via interface ee0,NIFF: node node-<*> has detected an available network connection on network <*> via interface ee0
+701,Parse the input log to log template.,running,running
+1677,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1555,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+309,Parse the input log to log template.,Link error,Link error
+796,Parse the input log to log template.,ambient=31,ambient=<*>
+1489,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+738,Parse the input log to log template.,ambient=29,ambient=<*>
+122,Parse the input log to log template.,wait  (command 3649),wait (command <*>)
+1269,Parse the input log to log template.,normal,normal
+1169,Parse the input log to log template.,warning,warning
+1463,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1716,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+1116,Parse the input log to log template.,ambient=33,ambient=<*>
+1739,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+856,Parse the input log to log template.,normal,normal
+476,Parse the input log to log template.,not responding,not responding
+179,Parse the input log to log template.,ClusterFileSystem: There is no server for ServerFileSystem domain storage234,ClusterFileSystem: There is no server for ServerFileSystem domain <*>
+1129,Parse the input log to log template.,normal,normal
+957,Parse the input log to log template.,ambient=25,ambient=<*>
+854,Parse the input log to log template.,normal,normal
+1108,Parse the input log to log template.,ambient=31,ambient=<*>
+1008,Parse the input log to log template.,normal,normal
+198,Parse the input log to log template.,ClusterFileSystem: There is no server for ServerFileSystem domain storage221,ClusterFileSystem: There is no server for ServerFileSystem domain <*>
+1202,Parse the input log to log template.,warning,warning
+675,Parse the input log to log template.,not responding,not responding
+131,Parse the input log to log template.,boot  (command 3928),boot (command <*>)
+440,Parse the input log to log template.,running,running
+1260,Parse the input log to log template.,ambient=29,ambient=<*>
+877,Parse the input log to log template.,warning,warning
+282,Parse the input log to log template.,Fan speeds ( 3552 3534 3391 **** 3515 3479 ),Fan speeds ( <*> <*> <*> **** <*> <*> )
+1493,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+407,Parse the input log to log template.,running,running
+1625,Parse the input log to log template.,Linkerror event interval expired,Linkerror event interval expired
+243,Parse the input log to log template.,Fan speeds ( 3552 3534 3375 **** 3515 3479 ),Fan speeds ( <*> <*> <*> **** <*> <*> )
+321,Parse the input log to log template.,Link error on broadcast tree Interconnect-1T00:00:2:0,Link error on broadcast tree Interconnect-<*>:<*>:<*>:<*>
+1104,Parse the input log to log template.,ambient=25,ambient=<*>
+1932,Parse the input log to log template.,NIFF: node node-139 has detected an available network connection on network 10.128.0.0 via interface ee0,NIFF: node node-<*> has detected an available network connection on network <*> via interface ee0
+931,Parse the input log to log template.,ambient=33,ambient=<*>
+1984,Parse the input log to log template.,NIFF: node node-44 has detected an available network connection on network 5.5.224.0 via interface alt0,NIFF: node node-<*> has detected an available network connection on network <*> via interface alt0

@@ -1,0 +1,401 @@
+,instruction,Content,EventTemplate
+751,Parse the input log to log template.,BLOCK* NameSystem.allocateBlock: /user/root/sortrand2/_temporary/_task_200811101024_0003_r_000116_0/part-00116. blk_6749232449432458524,BLOCK* NameSystem.allocateBlock: <*> <*>
+1545,Parse the input log to log template.,BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.251.43.192:50010 is added to blk_8521306385156958668 size 67108864,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*> is added to <*> size <*>
+881,Parse the input log to log template.,Deleting block blk_3076992299328673559 file /mnt/hadoop/dfs/data/current/subdir54/blk_3076992299328673559,Deleting block <*> file <*>
+396,Parse the input log to log template.,BLOCK* NameSystem.delete: blk_-6255015379143356507 is added to invalidSet of 10.251.111.37:50010,BLOCK* NameSystem.delete: <*> is added to invalidSet of <*>
+509,Parse the input log to log template.,BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.251.107.196:50010 is added to blk_4802366409699286298 size 3547304,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*> is added to <*> size <*>
+1217,Parse the input log to log template.,Receiving block blk_7513976340045981966 src: /10.251.42.207:36468 dest: /10.251.42.207:50010,Receiving block <*> src: <*> dest: <*>
+416,Parse the input log to log template.,BLOCK* NameSystem.delete: blk_-7111788899695387329 is added to invalidSet of 10.251.75.228:50010,BLOCK* NameSystem.delete: <*> is added to invalidSet of <*>
+1701,Parse the input log to log template.,Receiving block blk_-7460532841070848624 src: /10.250.15.67:55076 dest: /10.250.15.67:50010,Receiving block <*> src: <*> dest: <*>
+1447,Parse the input log to log template.,BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.251.107.227:50010 is added to blk_5781791720343455145 size 67108864,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*> is added to <*> size <*>
+9,Parse the input log to log template.,Received block blk_3587508140051953248 of size 67108864 from /10.251.42.84,Received block <*> of size <*> from <*>
+1371,Parse the input log to log template.,BLOCK* NameSystem.delete: blk_7841365850685201915 is added to invalidSet of 10.251.110.68:50010,BLOCK* NameSystem.delete: <*> is added to invalidSet of <*>
+335,Parse the input log to log template.,10.251.215.16:50010 Served block blk_2322432806134104317 to /10.251.215.16,<*> Served block <*> to <*>
+541,Parse the input log to log template.,BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.251.194.213:50010 is added to blk_-7030770677241078854 size 67108864,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*> is added to <*> size <*>
+1023,Parse the input log to log template.,Receiving block blk_-7539658633533020967 src: /10.250.5.161:52151 dest: /10.250.5.161:50010,Receiving block <*> src: <*> dest: <*>
+60,Parse the input log to log template.,BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.251.106.50:50010 is added to blk_-2530087534157630851 size 67108864,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*> is added to <*> size <*>
+1610,Parse the input log to log template.,Received block blk_2247786307216183697 of size 67108864 from /10.251.67.4,Received block <*> of size <*> from <*>
+1878,Parse the input log to log template.,Deleting block blk_-1451819169209310732 file /mnt/hadoop/dfs/data/current/subdir23/blk_-1451819169209310732,Deleting block <*> file <*>
+314,Parse the input log to log template.,10.251.214.112:50010 Served block blk_4081177399275502985 to /10.251.110.68,<*> Served block <*> to <*>
+619,Parse the input log to log template.,Received block blk_-4433556521525567493 of size 28492032 from /10.250.6.4,Received block <*> of size <*> from <*>
+296,Parse the input log to log template.,10.251.31.5:50010:Got exception while serving blk_-1367876730256254709 to /10.251.67.225:,<*>:Got exception while serving <*> to <*>:
+1199,Parse the input log to log template.,BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.251.214.67:50010 is added to blk_-1417908110808566576 size 67108864,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*> is added to <*> size <*>
+1339,Parse the input log to log template.,Received block blk_-3607860197409267245 of size 28503188 from /10.251.31.180,Received block <*> of size <*> from <*>
+907,Parse the input log to log template.,Receiving block blk_4149909442914612270 src: /10.251.195.33:55490 dest: /10.251.195.33:50010,Receiving block <*> src: <*> dest: <*>
+598,Parse the input log to log template.,Receiving block blk_2735034460607366827 src: /10.251.91.15:57370 dest: /10.251.91.15:50010,Receiving block <*> src: <*> dest: <*>
+1205,Parse the input log to log template.,PacketResponder 0 for block blk_6055109613223910610 terminating,PacketResponder <*> for block <*> terminating
+364,Parse the input log to log template.,BLOCK* NameSystem.delete: blk_-3362838757940877177 is added to invalidSet of 10.250.5.161:50010,BLOCK* NameSystem.delete: <*> is added to invalidSet of <*>
+1419,Parse the input log to log template.,BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.251.75.143:50010 is added to blk_2312679955495839894 size 67108864,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*> is added to <*> size <*>
+846,Parse the input log to log template.,Deleting block blk_-7548149518969960333 file /mnt/hadoop/dfs/data/current/subdir8/blk_-7548149518969960333,Deleting block <*> file <*>
+642,Parse the input log to log template.,BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.251.91.32:50010 is added to blk_5272761429354463572 size 67108864,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*> is added to <*> size <*>
+1148,Parse the input log to log template.,BLOCK* NameSystem.delete: blk_2736251498135196075 is added to invalidSet of 10.251.90.64:50010,BLOCK* NameSystem.delete: <*> is added to invalidSet of <*>
+1727,Parse the input log to log template.,Deleting block blk_-7446091384471755694 file /mnt/hadoop/dfs/data/current/subdir30/blk_-7446091384471755694,Deleting block <*> file <*>
+1283,Parse the input log to log template.,Received block blk_-290874442865281380 of size 28497700 from /10.251.203.179,Received block <*> of size <*> from <*>
+760,Parse the input log to log template.,BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.251.73.188:50010 is added to blk_-3897674589140998025 size 67108864,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*> is added to <*> size <*>
+134,Parse the input log to log template.,Received block blk_-684595390732854503 of size 67108864 from /10.250.6.191,Received block <*> of size <*> from <*>
+260,Parse the input log to log template.,PacketResponder 2 for block blk_3781645897486585075 terminating,PacketResponder <*> for block <*> terminating
+556,Parse the input log to log template.,BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811101024_0001_m_001587_0/part-01587. blk_6374836031306809839,BLOCK* NameSystem.allocateBlock: <*> <*>
+1992,Parse the input log to log template.,PacketResponder 1 for block blk_-2025617675484194470 terminating,PacketResponder <*> for block <*> terminating
+1906,Parse the input log to log template.,PacketResponder 2 for block blk_4207359722112667226 terminating,PacketResponder <*> for block <*> terminating
+1944,Parse the input log to log template.,Receiving block blk_5565611615515783341 src: /10.251.126.5:35656 dest: /10.251.126.5:50010,Receiving block <*> src: <*> dest: <*>
+1896,Parse the input log to log template.,Receiving block blk_-4861262918414696307 src: /10.251.198.196:34168 dest: /10.251.198.196:50010,Receiving block <*> src: <*> dest: <*>
+1454,Parse the input log to log template.,Received block blk_-6832799704680039005 of size 67108864 from /10.250.17.225,Received block <*> of size <*> from <*>
+649,Parse the input log to log template.,Received block blk_48742413802609430 of size 67108864 from /10.251.106.10,Received block <*> of size <*> from <*>
+1375,Parse the input log to log template.,BLOCK* NameSystem.delete: blk_815809455641029563 is added to invalidSet of 10.251.111.37:50010,BLOCK* NameSystem.delete: <*> is added to invalidSet of <*>
+1500,Parse the input log to log template.,PacketResponder 0 for block blk_2508619583759354778 terminating,PacketResponder <*> for block <*> terminating
+1670,Parse the input log to log template.,PacketResponder 2 for block blk_-8246207776580662770 terminating,PacketResponder <*> for block <*> terminating
+1761,Parse the input log to log template.,PacketResponder 0 for block blk_-7587189852169913514 terminating,PacketResponder <*> for block <*> terminating
+1017,Parse the input log to log template.,Deleting block blk_8950932638808086257 file /mnt/hadoop/dfs/data/current/subdir18/blk_8950932638808086257,Deleting block <*> file <*>
+1560,Parse the input log to log template.,BLOCK* NameSystem.delete: blk_-4438918035940270891 is added to invalidSet of 10.251.71.193:50010,BLOCK* NameSystem.delete: <*> is added to invalidSet of <*>
+285,Parse the input log to log template.,PacketResponder 2 for block blk_-2466006073687914843 terminating,PacketResponder <*> for block <*> terminating
+1731,Parse the input log to log template.,Deleting block blk_-6750694665033046901 file /mnt/hadoop/dfs/data/current/subdir63/blk_-6750694665033046901,Deleting block <*> file <*>
+492,Parse the input log to log template.,Deleting block blk_9169945668827621796 file /mnt/hadoop/dfs/data/current/subdir50/blk_9169945668827621796,Deleting block <*> file <*>
+1413,Parse the input log to log template.,Deleting block blk_9142114171015520823 file /mnt/hadoop/dfs/data/current/subdir48/blk_9142114171015520823,Deleting block <*> file <*>
+50,Parse the input log to log template.,Received block blk_1064470652608359218 of size 67108864 from /10.251.39.242,Received block <*> of size <*> from <*>
+1938,Parse the input log to log template.,BLOCK* NameSystem.allocateBlock: /user/root/rand8/_temporary/_task_200811101024_0015_m_001425_0/part-01425. blk_2630223487595425525,BLOCK* NameSystem.allocateBlock: <*> <*>
+1789,Parse the input log to log template.,PacketResponder 1 for block blk_3922791077126964673 terminating,PacketResponder <*> for block <*> terminating
+1424,Parse the input log to log template.,BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.250.6.214:50010 is added to blk_4893049344332234616 size 67108864,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*> is added to <*> size <*>
+215,Parse the input log to log template.,PacketResponder 2 for block blk_-4566099704755845087 terminating,PacketResponder <*> for block <*> terminating
+956,Parse the input log to log template.,Receiving block blk_8574493302165689212 src: /10.251.194.245:34656 dest: /10.251.194.245:50010,Receiving block <*> src: <*> dest: <*>
+1975,Parse the input log to log template.,Received block blk_7589872946955471867 of size 67108864 from /10.251.195.70,Received block <*> of size <*> from <*>
+1428,Parse the input log to log template.,BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.251.126.22:50010 is added to blk_-8298519990603402919 size 67108864,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*> is added to <*> size <*>
+1654,Parse the input log to log template.,PacketResponder 0 for block blk_2241654010576170013 terminating,PacketResponder <*> for block <*> terminating
+616,Parse the input log to log template.,BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.251.195.33:50010 is added to blk_512039711533506696 size 67108864,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*> is added to <*> size <*>
+408,Parse the input log to log template.,BLOCK* NameSystem.delete: blk_3858015337960682724 is added to invalidSet of 10.251.214.130:50010,BLOCK* NameSystem.delete: <*> is added to invalidSet of <*>
+1446,Parse the input log to log template.,Received block blk_-2935178173527646581 of size 67108864 from /10.251.65.237,Received block <*> of size <*> from <*>
+547,Parse the input log to log template.,BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.251.66.192:50010 is added to blk_-6068587951382721748 size 67108864,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*> is added to <*> size <*>
+1957,Parse the input log to log template.,PacketResponder 1 for block blk_1216611589160220108 terminating,PacketResponder <*> for block <*> terminating
+1216,Parse the input log to log template.,Receiving block blk_6807535563873595117 src: /10.250.17.177:48934 dest: /10.250.17.177:50010,Receiving block <*> src: <*> dest: <*>
+1379,Parse the input log to log template.,BLOCK* NameSystem.delete: blk_-7668075074035173978 is added to invalidSet of 10.251.31.5:50010,BLOCK* NameSystem.delete: <*> is added to invalidSet of <*>
+1299,Parse the input log to log template.,Receiving block blk_-5646228903161999640 src: /10.251.71.97:60870 dest: /10.251.71.97:50010,Receiving block <*> src: <*> dest: <*>
+1273,Parse the input log to log template.,Received block blk_-577659324269246113 of size 67108864 from /10.251.203.179,Received block <*> of size <*> from <*>
+1181,Parse the input log to log template.,Receiving block blk_3941798034503185737 src: /10.250.11.85:42358 dest: /10.250.11.85:50010,Receiving block <*> src: <*> dest: <*>
+1700,Parse the input log to log template.,PacketResponder 1 for block blk_703049809255765647 terminating,PacketResponder <*> for block <*> terminating
+1902,Parse the input log to log template.,PacketResponder 0 for block blk_34905976850091068 terminating,PacketResponder <*> for block <*> terminating
+993,Parse the input log to log template.,BLOCK* NameSystem.delete: blk_7400944190976416273 is added to invalidSet of 10.251.127.243:50010,BLOCK* NameSystem.delete: <*> is added to invalidSet of <*>
+781,Parse the input log to log template.,Received block blk_-7716943410942322104 of size 67108864 from /10.251.126.5,Received block <*> of size <*> from <*>
+286,Parse the input log to log template.,BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.251.43.210:50010 is added to blk_-6995454028444097802 size 67108864,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*> is added to <*> size <*>
+1469,Parse the input log to log template.,Received block blk_6329639726609402522 of size 67108864 from /10.251.107.19,Received block <*> of size <*> from <*>
+280,Parse the input log to log template.,Receiving block blk_271142976916798281 src: /10.251.70.112:50176 dest: /10.251.70.112:50010,Receiving block <*> src: <*> dest: <*>
+852,Parse the input log to log template.,Deleting block blk_-6075803209168884005 file /mnt/hadoop/dfs/data/current/subdir31/blk_-6075803209168884005,Deleting block <*> file <*>
+833,Parse the input log to log template.,BLOCK* NameSystem.delete: blk_-6932221506331060207 is added to invalidSet of 10.251.74.79:50010,BLOCK* NameSystem.delete: <*> is added to invalidSet of <*>
+798,Parse the input log to log template.,10.250.10.223:50010:Got exception while serving blk_9095955277706686312 to /10.250.5.161:,<*>:Got exception while serving <*> to <*>:
+1571,Parse the input log to log template.,BLOCK* NameSystem.delete: blk_-323838382557775734 is added to invalidSet of 10.251.202.209:50010,BLOCK* NameSystem.delete: <*> is added to invalidSet of <*>
+1012,Parse the input log to log template.,Receiving block blk_-4473277914543734578 src: /10.251.215.16:34762 dest: /10.251.215.16:50010,Receiving block <*> src: <*> dest: <*>
+1252,Parse the input log to log template.,PacketResponder 2 for block blk_-6695620358347030339 terminating,PacketResponder <*> for block <*> terminating
+1449,Parse the input log to log template.,PacketResponder 0 for block blk_-805262942087665153 terminating,PacketResponder <*> for block <*> terminating
+1566,Parse the input log to log template.,BLOCK* NameSystem.delete: blk_5505696082121135363 is added to invalidSet of 10.251.214.130:50010,BLOCK* NameSystem.delete: <*> is added to invalidSet of <*>
+520,Parse the input log to log template.,PacketResponder 0 for block blk_391813102554451063 terminating,PacketResponder <*> for block <*> terminating
+937,Parse the input log to log template.,Receiving block blk_-2901266958756042716 src: /10.251.110.160:35787 dest: /10.251.110.160:50010,Receiving block <*> src: <*> dest: <*>
+365,Parse the input log to log template.,BLOCK* NameSystem.delete: blk_-8026264173633579073 is added to invalidSet of 10.251.214.18:50010,BLOCK* NameSystem.delete: <*> is added to invalidSet of <*>
+1923,Parse the input log to log template.,Received block blk_9103049989653819836 of size 67108864 from /10.250.10.223,Received block <*> of size <*> from <*>
+1130,Parse the input log to log template.,BLOCK* NameSystem.delete: blk_-1162676743264290624 is added to invalidSet of 10.251.194.213:50010,BLOCK* NameSystem.delete: <*> is added to invalidSet of <*>
+915,Parse the input log to log template.,PacketResponder 1 for block blk_3755116621101133849 terminating,PacketResponder <*> for block <*> terminating
+1460,Parse the input log to log template.,BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.251.90.239:50010 is added to blk_-2281067667503210140 size 67108864,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*> is added to <*> size <*>
+916,Parse the input log to log template.,BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.251.39.144:50010 is added to blk_-5542336029922582303 size 67108864,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*> is added to <*> size <*>
+377,Parse the input log to log template.,BLOCK* NameSystem.delete: blk_6031076349976322578 is added to invalidSet of 10.251.67.225:50010,BLOCK* NameSystem.delete: <*> is added to invalidSet of <*>
+1383,Parse the input log to log template.,Deleting block blk_-8167717961644709843 file /mnt/hadoop/dfs/data/current/blk_-8167717961644709843,Deleting block <*> file <*>
+905,Parse the input log to log template.,PacketResponder 0 for block blk_2089955821703690032 terminating,PacketResponder <*> for block <*> terminating
+591,Parse the input log to log template.,BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.251.26.177:50010 is added to blk_-2402036602753320612 size 67108864,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*> is added to <*> size <*>
+922,Parse the input log to log template.,Deleting block blk_-468830939205980722 file /mnt/hadoop/dfs/data/current/subdir10/blk_-468830939205980722,Deleting block <*> file <*>
+733,Parse the input log to log template.,Received block blk_-3276232266876914214 of size 67108864 from /10.250.7.146,Received block <*> of size <*> from <*>
+1421,Parse the input log to log template.,Receiving block blk_2380775154966815858 src: /10.251.107.50:33333 dest: /10.251.107.50:50010,Receiving block <*> src: <*> dest: <*>
+310,Parse the input log to log template.,10.251.111.37:50010 Served block blk_-6050976999174805557 to /10.251.111.37,<*> Served block <*> to <*>
+1647,Parse the input log to log template.,BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.251.30.6:50010 is added to blk_-2345355483730155757 size 67108864,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*> is added to <*> size <*>
+1328,Parse the input log to log template.,PacketResponder 1 for block blk_1927336911952959118 terminating,PacketResponder <*> for block <*> terminating
+1917,Parse the input log to log template.,PacketResponder 1 for block blk_-3967261531426400230 terminating,PacketResponder <*> for block <*> terminating
+415,Parse the input log to log template.,BLOCK* NameSystem.delete: blk_-5972745462629982078 is added to invalidSet of 10.251.31.5:50010,BLOCK* NameSystem.delete: <*> is added to invalidSet of <*>
+669,Parse the input log to log template.,Received block blk_-9089815063425241739 of size 67108864 from /10.251.126.255,Received block <*> of size <*> from <*>
+817,Parse the input log to log template.,BLOCK* NameSystem.delete: blk_-4149539113118855204 is added to invalidSet of 10.251.71.16:50010,BLOCK* NameSystem.delete: <*> is added to invalidSet of <*>
+1452,Parse the input log to log template.,Receiving block blk_-6618090096819679591 src: /10.251.214.67:58610 dest: /10.251.214.67:50010,Receiving block <*> src: <*> dest: <*>
+351,Parse the input log to log template.,10.250.14.224:50010 Served block blk_666713934549639791 to /10.250.14.224,<*> Served block <*> to <*>
+1229,Parse the input log to log template.,Receiving block blk_-6380328072112550668 src: /10.250.6.191:37701 dest: /10.250.6.191:50010,Receiving block <*> src: <*> dest: <*>
+1286,Parse the input log to log template.,PacketResponder 2 for block blk_-633826175832239328 terminating,PacketResponder <*> for block <*> terminating
+1030,Parse the input log to log template.,Receiving block blk_7661189768086976193 src: /10.251.195.52:56915 dest: /10.251.195.52:50010,Receiving block <*> src: <*> dest: <*>
+1005,Parse the input log to log template.,Deleting block blk_-8294986551316947211 file /mnt/hadoop/dfs/data/current/subdir34/blk_-8294986551316947211,Deleting block <*> file <*>
+491,Parse the input log to log template.,Deleting block blk_7603278760520020831 file /mnt/hadoop/dfs/data/current/subdir59/blk_7603278760520020831,Deleting block <*> file <*>
+664,Parse the input log to log template.,BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.251.203.149:50010 is added to blk_-6247364168500873179 size 67108864,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*> is added to <*> size <*>
+112,Parse the input log to log template.,PacketResponder 0 for block blk_-54240672253074715 terminating,PacketResponder <*> for block <*> terminating
+539,Parse the input log to log template.,Receiving block blk_8752665860595246441 src: /10.251.70.5:44006 dest: /10.251.70.5:50010,Receiving block <*> src: <*> dest: <*>
+522,Parse the input log to log template.,Receiving block blk_-8563999607069929505 src: /10.251.107.19:60076 dest: /10.251.107.19:50010,Receiving block <*> src: <*> dest: <*>
+1997,Parse the input log to log template.,Receiving block blk_-295306975763175640 src: /10.250.9.207:53270 dest: /10.250.9.207:50010,Receiving block <*> src: <*> dest: <*>
+1215,Parse the input log to log template.,Receiving block blk_3181161977343808286 src: /10.251.43.21:40127 dest: /10.251.43.21:50010,Receiving block <*> src: <*> dest: <*>
+208,Parse the input log to log template.,PacketResponder 1 for block blk_3278280638950561822 terminating,PacketResponder <*> for block <*> terminating
+85,Parse the input log to log template.,10.251.202.134:50010:Got exception while serving blk_3441699978641526775 to /10.251.126.5:,<*>:Got exception while serving <*> to <*>:
+1563,Parse the input log to log template.,BLOCK* NameSystem.delete: blk_2154193600525549460 is added to invalidSet of 10.251.43.147:50010,BLOCK* NameSystem.delete: <*> is added to invalidSet of <*>
+609,Parse the input log to log template.,Receiving block blk_3067558337579347170 src: /10.250.6.191:34137 dest: /10.250.6.191:50010,Receiving block <*> src: <*> dest: <*>
+1214,Parse the input log to log template.,BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.250.15.240:50010 is added to blk_-7637577152926063076 size 67108864,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*> is added to <*> size <*>
+1728,Parse the input log to log template.,Deleting block blk_-4352313989800650828 file /mnt/hadoop/dfs/data/current/subdir56/blk_-4352313989800650828,Deleting block <*> file <*>
+1660,Parse the input log to log template.,Received block blk_2253084440592362960 of size 67108864 from /10.251.199.19,Received block <*> of size <*> from <*>
+1703,Parse the input log to log template.,BLOCK* NameSystem.allocateBlock: /user/root/rand6/_temporary/_task_200811101024_0013_m_002009_1/part-02009. blk_-7367386750462511488,BLOCK* NameSystem.allocateBlock: <*> <*>
+1662,Parse the input log to log template.,PacketResponder 1 for block blk_-8568673600040025636 terminating,PacketResponder <*> for block <*> terminating
+206,Parse the input log to log template.,Received block blk_-3805070405372551730 of size 67108864 from /10.251.109.236,Received block <*> of size <*> from <*>
+914,Parse the input log to log template.,BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.251.70.211:50010 is added to blk_-5471660287004025096 size 67108864,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*> is added to <*> size <*>
+241,Parse the input log to log template.,BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.251.201.204:50010 is added to blk_9072829105973334075 size 67108864,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*> is added to <*> size <*>
+1864,Parse the input log to log template.,Deleting block blk_-8131422413299851907 file /mnt/hadoop/dfs/data/current/subdir46/blk_-8131422413299851907,Deleting block <*> file <*>
+1532,Parse the input log to log template.,Received block blk_2616961363639592748 of size 67108864 from /10.251.202.134,Received block <*> of size <*> from <*>
+127,Parse the input log to log template.,BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.251.197.226:50010 is added to blk_4585055992495043771 size 67108864,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*> is added to <*> size <*>
+1096,Parse the input log to log template.,BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.251.194.213:50010 is added to blk_-3575568207121859434 size 67108864,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*> is added to <*> size <*>
+758,Parse the input log to log template.,BLOCK* NameSystem.allocateBlock: /user/root/sortrand2/_temporary/_task_200811101024_0003_r_000315_0/part-00315. blk_-463998587096565542,BLOCK* NameSystem.allocateBlock: <*> <*>
+653,Parse the input log to log template.,Received block blk_692184983396207285 of size 67108864 from /10.250.6.214,Received block <*> of size <*> from <*>
+340,Parse the input log to log template.,10.251.70.112:50010:Got exception while serving blk_4357276972386184626 to /10.251.74.79:,<*>:Got exception while serving <*> to <*>:
+979,Parse the input log to log template.,Receiving block blk_-3187293586306086277 src: /10.251.35.1:50933 dest: /10.251.35.1:50010,Receiving block <*> src: <*> dest: <*>
+1515,Parse the input log to log template.,Received block blk_7463248820468902190 of size 67108864 from /10.251.91.15,Received block <*> of size <*> from <*>
+1895,Parse the input log to log template.,BLOCK* NameSystem.allocateBlock: /user/root/rand8/_temporary/_task_200811101024_0015_m_000737_0/part-00737. blk_5894088883762961800,BLOCK* NameSystem.allocateBlock: <*> <*>
+31,Parse the input log to log template.,Received block blk_6921674711959888070 of size 67108864 from /10.251.65.203,Received block <*> of size <*> from <*>
+1946,Parse the input log to log template.,PacketResponder 1 for block blk_-1484647023667047838 terminating,PacketResponder <*> for block <*> terminating
+1534,Parse the input log to log template.,Received block blk_-3436382429367583573 of size 67108864 from /10.251.107.19,Received block <*> of size <*> from <*>
+566,Parse the input log to log template.,Receiving block blk_-6927870228542972281 src: /10.250.7.230:41059 dest: /10.250.7.230:50010,Receiving block <*> src: <*> dest: <*>
+1691,Parse the input log to log template.,Receiving block blk_6417614801998326532 src: /10.251.214.67:48694 dest: /10.251.214.67:50010,Receiving block <*> src: <*> dest: <*>
+1933,Parse the input log to log template.,Receiving block blk_931297048899943584 src: /10.251.67.113:54324 dest: /10.251.67.113:50010,Receiving block <*> src: <*> dest: <*>
+647,Parse the input log to log template.,BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.251.66.3:50010 is added to blk_6547729596040509998 size 67108864,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*> is added to <*> size <*>
+1929,Parse the input log to log template.,PacketResponder 2 for block blk_1259893634804870815 terminating,PacketResponder <*> for block <*> terminating
+1590,Parse the input log to log template.,Deleting block blk_3862032846413436284 file /mnt/hadoop/dfs/data/current/subdir28/blk_3862032846413436284,Deleting block <*> file <*>
+1366,Parse the input log to log template.,BLOCK* NameSystem.delete: blk_-8351015090014570293 is added to invalidSet of 10.251.199.86:50010,BLOCK* NameSystem.delete: <*> is added to invalidSet of <*>
+953,Parse the input log to log template.,Received block blk_1188202922232921994 of size 67108864 from /10.250.10.100,Received block <*> of size <*> from <*>
+25,Parse the input log to log template.,Receiving block blk_-28342503914935090 src: /10.251.123.132:57542 dest: /10.251.123.132:50010,Receiving block <*> src: <*> dest: <*>
+808,Parse the input log to log template.,BLOCK* NameSystem.delete: blk_-6117917602803602155 is added to invalidSet of 10.251.67.211:50010,BLOCK* NameSystem.delete: <*> is added to invalidSet of <*>
+505,Parse the input log to log template.,Receiving block blk_2972699288862031202 src: /10.250.5.161:51077 dest: /10.250.5.161:50010,Receiving block <*> src: <*> dest: <*>
+728,Parse the input log to log template.,Received block blk_-3620767662957963389 of size 67108864 from /10.251.203.179,Received block <*> of size <*> from <*>
+838,Parse the input log to log template.,BLOCK* NameSystem.delete: blk_7094265091490664593 is added to invalidSet of 10.251.71.68:50010,BLOCK* NameSystem.delete: <*> is added to invalidSet of <*>
+494,Parse the input log to log template.,BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.251.194.147:50010 is added to blk_5277338321835341602 size 67108864,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*> is added to <*> size <*>
+1972,Parse the input log to log template.,BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.251.71.193:50010 is added to blk_5489815612272797790 size 67108864,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*> is added to <*> size <*>
+944,Parse the input log to log template.,Receiving block blk_9121519145462575118 src: /10.250.10.223:58281 dest: /10.250.10.223:50010,Receiving block <*> src: <*> dest: <*>
+1198,Parse the input log to log template.,BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.251.67.113:50010 is added to blk_9060964400089016309 size 67108864,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*> is added to <*> size <*>
+643,Parse the input log to log template.,PacketResponder 2 for block blk_-1680563440028826904 terminating,PacketResponder <*> for block <*> terminating
+940,Parse the input log to log template.,Receiving block blk_-8974021306351083168 src: /10.251.91.15:40699 dest: /10.251.91.15:50010,Receiving block <*> src: <*> dest: <*>
+1682,Parse the input log to log template.,Received block blk_-5450224419450631495 of size 67108864 from /10.251.42.84,Received block <*> of size <*> from <*>
+1687,Parse the input log to log template.,Received block blk_7922331746517419368 of size 67108864 from /10.251.199.19,Received block <*> of size <*> from <*>
+1967,Parse the input log to log template.,PacketResponder 1 for block blk_-191333338640084691 terminating,PacketResponder <*> for block <*> terminating
+1021,Parse the input log to log template.,PacketResponder 2 for block blk_1349228381785843634 terminating,PacketResponder <*> for block <*> terminating
+427,Parse the input log to log template.,Deleting block blk_-8898274302731129139 file /mnt/hadoop/dfs/data/current/subdir18/blk_-8898274302731129139,Deleting block <*> file <*>
+1681,Parse the input log to log template.,Received block blk_-3816036740130815667 of size 3547785 from /10.250.19.227,Received block <*> of size <*> from <*>
+1010,Parse the input log to log template.,Deleting block blk_-1263913006422225885 file /mnt/hadoop/dfs/data/current/subdir2/blk_-1263913006422225885,Deleting block <*> file <*>
+1588,Parse the input log to log template.,Deleting block blk_1587615395786683981 file /mnt/hadoop/dfs/data/current/subdir14/blk_1587615395786683981,Deleting block <*> file <*>
+1078,Parse the input log to log template.,BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.251.75.79:50010 is added to blk_-5718873743060788176 size 67108864,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*> is added to <*> size <*>
+1336,Parse the input log to log template.,Receiving block blk_-2313277713021896570 src: /10.251.123.195:58823 dest: /10.251.123.195:50010,Receiving block <*> src: <*> dest: <*>
+1930,Parse the input log to log template.,PacketResponder 2 for block blk_412956398445037066 terminating,PacketResponder <*> for block <*> terminating
+1,Parse the input log to log template.,PacketResponder 0 for block blk_-6952295868487656571 terminating,PacketResponder <*> for block <*> terminating
+482,Parse the input log to log template.,Deleting block blk_8189008752707332487 file /mnt/hadoop/dfs/data/current/subdir7/blk_8189008752707332487,Deleting block <*> file <*>
+1737,Parse the input log to log template.,Deleting block blk_5806397523737304814 file /mnt/hadoop/dfs/data/current/subdir34/blk_5806397523737304814,Deleting block <*> file <*>
+793,Parse the input log to log template.,10.251.215.50:50010 Served block blk_668295516093167045 to /10.251.30.6,<*> Served block <*> to <*>
+442,Parse the input log to log template.,Deleting block blk_-8775602795571523802 file /mnt/hadoop/dfs/data/current/subdir41/blk_-8775602795571523802,Deleting block <*> file <*>
+1831,Parse the input log to log template.,BLOCK* NameSystem.allocateBlock: /user/root/rand7/_temporary/_task_200811101024_0014_m_001642_0/part-01642. blk_8215843708467112607,BLOCK* NameSystem.allocateBlock: <*> <*>
+878,Parse the input log to log template.,Deleting block blk_4162832865986721185 file /mnt/hadoop/dfs/data/current/subdir4/blk_4162832865986721185,Deleting block <*> file <*>
+1863,Parse the input log to log template.,Deleting block blk_-8792837405349224102 file /mnt/hadoop/dfs/data/current/subdir35/blk_-8792837405349224102,Deleting block <*> file <*>
+900,Parse the input log to log template.,Deleting block blk_7360639743953947587 file /mnt/hadoop/dfs/data/current/subdir35/blk_7360639743953947587,Deleting block <*> file <*>
+608,Parse the input log to log template.,Receiving block blk_-2746863406163228797 src: /10.251.39.160:35642 dest: /10.251.39.160:50010,Receiving block <*> src: <*> dest: <*>
+1263,Parse the input log to log template.,BLOCK* NameSystem.delete: blk_7045475543362904558 is added to invalidSet of 10.251.106.214:50010,BLOCK* NameSystem.delete: <*> is added to invalidSet of <*>
+859,Parse the input log to log template.,Deleting block blk_-8360774680830158225 file /mnt/hadoop/dfs/data/current/subdir31/blk_-8360774680830158225,Deleting block <*> file <*>
+868,Parse the input log to log template.,Deleting block blk_-4110699195744660699 file /mnt/hadoop/dfs/data/current/subdir34/blk_-4110699195744660699,Deleting block <*> file <*>
+1200,Parse the input log to log template.,PacketResponder 0 for block blk_-7483426835701512490 terminating,PacketResponder <*> for block <*> terminating
+1899,Parse the input log to log template.,BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.251.39.160:50010 is added to blk_-3510473878877779134 size 67108864,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*> is added to <*> size <*>
+8,Parse the input log to log template.,PacketResponder 2 for block blk_572492839287299681 terminating,PacketResponder <*> for block <*> terminating
+912,Parse the input log to log template.,Received block blk_-185994527242886002 of size 3552954 from /10.251.39.160,Received block <*> of size <*> from <*>
+1317,Parse the input log to log template.,Receiving block blk_-1133573997287815203 src: /10.251.123.195:59430 dest: /10.251.123.195:50010,Receiving block <*> src: <*> dest: <*>
+1640,Parse the input log to log template.,Received block blk_-1236077201457689973 of size 67108864 from /10.251.35.1,Received block <*> of size <*> from <*>
+1561,Parse the input log to log template.,BLOCK* NameSystem.delete: blk_5616920288053661280 is added to invalidSet of 10.251.42.9:50010,BLOCK* NameSystem.delete: <*> is added to invalidSet of <*>
+1866,Parse the input log to log template.,Deleting block blk_-6177194341369822651 file /mnt/hadoop/dfs/data/current/subdir38/blk_-6177194341369822651,Deleting block <*> file <*>
+1920,Parse the input log to log template.,BLOCK* NameSystem.allocateBlock: /user/root/rand8/_temporary/_task_200811101024_0015_m_001294_0/part-01294. blk_4214952053910973364,BLOCK* NameSystem.allocateBlock: <*> <*>
+1472,Parse the input log to log template.,Receiving block blk_-7492294065771709299 src: /10.251.203.149:41058 dest: /10.251.203.149:50010,Receiving block <*> src: <*> dest: <*>
+22,Parse the input log to log template.,BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.251.38.197:50010 is added to blk_8763662564934652249 size 67108864,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*> is added to <*> size <*>
+632,Parse the input log to log template.,Received block blk_4614530673206341566 of size 67108864 from /10.251.91.229,Received block <*> of size <*> from <*>
+1271,Parse the input log to log template.,BLOCK* NameSystem.allocateBlock: /user/root/randtxt4/_temporary/_task_200811101024_0010_m_000222_0/part-00222. blk_3764836840384130740,BLOCK* NameSystem.allocateBlock: <*> <*>
+662,Parse the input log to log template.,PacketResponder 1 for block blk_-1490623381339215624 terminating,PacketResponder <*> for block <*> terminating
+1583,Parse the input log to log template.,Deleting block blk_-1306900105984505600 file /mnt/hadoop/dfs/data/current/subdir31/blk_-1306900105984505600,Deleting block <*> file <*>
+1711,Parse the input log to log template.,BLOCK* NameSystem.delete: blk_-75893538967225087 is added to invalidSet of 10.250.15.198:50010,BLOCK* NameSystem.delete: <*> is added to invalidSet of <*>
+79,Parse the input log to log template.,10.251.71.68:50010 Served block blk_-2794533871450434534 to /10.251.199.150,<*> Served block <*> to <*>
+319,Parse the input log to log template.,10.251.111.130:50010:Got exception while serving blk_3169060243663461885 to /10.251.214.32:,<*>:Got exception while serving <*> to <*>:
+1274,Parse the input log to log template.,PacketResponder 0 for block blk_6137960563260046065 terminating,PacketResponder <*> for block <*> terminating
+1178,Parse the input log to log template.,BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.251.199.19:50010 is added to blk_6748710057489679257 size 67108864,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*> is added to <*> size <*>
+559,Parse the input log to log template.,BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.251.127.47:50010 is added to blk_-3990317238913332296 size 67108864,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*> is added to <*> size <*>
+717,Parse the input log to log template.,Receiving block blk_1345503778930512538 src: /10.251.75.163:40307 dest: /10.251.75.163:50010,Receiving block <*> src: <*> dest: <*>
+1536,Parse the input log to log template.,Received block blk_-9211699406261033878 of size 67108864 from /10.251.30.85,Received block <*> of size <*> from <*>
+697,Parse the input log to log template.,10.251.70.37:50010:Got exception while serving blk_1646534811870220828 to /10.250.11.100:,<*>:Got exception while serving <*> to <*>:
+29,Parse the input log to log template.,Received block blk_-5974833545991408899 of size 67108864 from /10.251.31.180,Received block <*> of size <*> from <*>
+242,Parse the input log to log template.,BLOCK* NameSystem.allocateBlock: /user/root/randtxt/_temporary/_task_200811092030_0003_m_001365_0/part-01365. blk_4841101867353115844,BLOCK* NameSystem.allocateBlock: <*> <*>
+1476,Parse the input log to log template.,Receiving block blk_6400082566804273401 src: /10.251.38.214:42160 dest: /10.251.38.214:50010,Receiving block <*> src: <*> dest: <*>
+930,Parse the input log to log template.,PacketResponder 1 for block blk_5729560286355779655 terminating,PacketResponder <*> for block <*> terminating
+483,Parse the input log to log template.,Deleting block blk_6828263829429857572 file /mnt/hadoop/dfs/data/current/subdir26/blk_6828263829429857572,Deleting block <*> file <*>
+48,Parse the input log to log template.,PacketResponder 0 for block blk_7791237942696729620 terminating,PacketResponder <*> for block <*> terminating
+1282,Parse the input log to log template.,Receiving block blk_2080318574920472813 src: /10.251.39.64:40530 dest: /10.251.39.64:50010,Receiving block <*> src: <*> dest: <*>
+1492,Parse the input log to log template.,PacketResponder 2 for block blk_-6811828069408410657 terminating,PacketResponder <*> for block <*> terminating
+1359,Parse the input log to log template.,BLOCK* NameSystem.delete: blk_3876184938151091897 is added to invalidSet of 10.251.30.85:50010,BLOCK* NameSystem.delete: <*> is added to invalidSet of <*>
+15,Parse the input log to log template.,BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000590_0/part-00590. blk_-1727475099218615100,BLOCK* NameSystem.allocateBlock: <*> <*>
+259,Parse the input log to log template.,Receiving block blk_5977008528949258706 src: /10.251.214.32:43860 dest: /10.251.214.32:50010,Receiving block <*> src: <*> dest: <*>
+1556,Parse the input log to log template.,PacketResponder 0 for block blk_-8329840785892216949 terminating,PacketResponder <*> for block <*> terminating
+982,Parse the input log to log template.,BLOCK* NameSystem.delete: blk_8981795097778421111 is added to invalidSet of 10.251.194.129:50010,BLOCK* NameSystem.delete: <*> is added to invalidSet of <*>
+1499,Parse the input log to log template.,BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.250.7.244:50010 is added to blk_-4875138366845786590 size 67108864,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*> is added to <*> size <*>
+1395,Parse the input log to log template.,Deleting block blk_-4165176068096983220 file /mnt/hadoop/dfs/data/current/subdir34/blk_-4165176068096983220,Deleting block <*> file <*>
+737,Parse the input log to log template.,PacketResponder 0 for block blk_7533949673910842243 terminating,PacketResponder <*> for block <*> terminating
+923,Parse the input log to log template.,Received block blk_-7056746602297676104 of size 67108864 from /10.251.39.209,Received block <*> of size <*> from <*>
+730,Parse the input log to log template.,Receiving block blk_7193551490488433552 src: /10.251.74.227:44191 dest: /10.251.74.227:50010,Receiving block <*> src: <*> dest: <*>
+424,Parse the input log to log template.,BLOCK* NameSystem.delete: blk_8871064397020855320 is added to invalidSet of 10.251.42.84:50010,BLOCK* NameSystem.delete: <*> is added to invalidSet of <*>
+1622,Parse the input log to log template.,BLOCK* NameSystem.allocateBlock: /user/root/rand6/_temporary/_task_200811101024_0013_m_000077_0/part-00077. blk_608957629753483727,BLOCK* NameSystem.allocateBlock: <*> <*>
+35,Parse the input log to log template.,Received block blk_-7526945448667194862 of size 67108864 from /10.251.203.80,Received block <*> of size <*> from <*>
+945,Parse the input log to log template.,PacketResponder 2 for block blk_-6773301007994789531 terminating,PacketResponder <*> for block <*> terminating
+1100,Parse the input log to log template.,PacketResponder 1 for block blk_-6934248664959947757 terminating,PacketResponder <*> for block <*> terminating
+1301,Parse the input log to log template.,PacketResponder 0 for block blk_-4430291708660291878 terminating,PacketResponder <*> for block <*> terminating
+1771,Parse the input log to log template.,BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.251.110.160:50010 is added to blk_-2852294661215451806 size 67108864,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*> is added to <*> size <*>
+193,Parse the input log to log template.,BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.251.25.237:50010 is added to blk_541463031152673662 size 67108864,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*> is added to <*> size <*>
+146,Parse the input log to log template.,Received block blk_-71429470616906355 of size 67108864 from /10.250.19.16,Received block <*> of size <*> from <*>
+1231,Parse the input log to log template.,PacketResponder 2 for block blk_-3183355402229300197 terminating,PacketResponder <*> for block <*> terminating
+126,Parse the input log to log template.,PacketResponder 1 for block blk_8320088109701056055 terminating,PacketResponder <*> for block <*> terminating
+879,Parse the input log to log template.,Deleting block blk_2156262111024914941 file /mnt/hadoop/dfs/data/current/subdir14/blk_2156262111024914941,Deleting block <*> file <*>
+1004,Parse the input log to log template.,BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.251.42.84:50010 is added to blk_5938666289587069744 size 67108864,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*> is added to <*> size <*>
+1908,Parse the input log to log template.,Receiving block blk_4820650745157199554 src: /10.251.127.243:49726 dest: /10.251.127.243:50010,Receiving block <*> src: <*> dest: <*>
+1294,Parse the input log to log template.,BLOCK* NameSystem.allocateBlock: /user/root/randtxt4/_temporary/_task_200811101024_0010_m_000881_0/part-00881. blk_-3091906986951252347,BLOCK* NameSystem.allocateBlock: <*> <*>
+1581,Parse the input log to log template.,Received block blk_5406084276349645828 of size 67108864 from /10.250.10.223,Received block <*> of size <*> from <*>
+343,Parse the input log to log template.,10.250.10.176:50010 Served block blk_3797494971676497497 to /10.251.29.239,<*> Served block <*> to <*>
+190,Parse the input log to log template.,Received block blk_-5124326558394984439 of size 67108864 from /10.251.122.79,Received block <*> of size <*> from <*>
+1706,Parse the input log to log template.,BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.251.65.203:50010 is added to blk_8005746184358076390 size 67108864,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*> is added to <*> size <*>
+387,Parse the input log to log template.,BLOCK* NameSystem.delete: blk_865453227320668516 is added to invalidSet of 10.251.71.240:50010,BLOCK* NameSystem.delete: <*> is added to invalidSet of <*>
+1964,Parse the input log to log template.,BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.251.215.192:50010 is added to blk_2015610615789582788 size 67108864,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*> is added to <*> size <*>
+19,Parse the input log to log template.,BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.251.111.130:50010 is added to blk_4568434182693165548 size 67108864,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*> is added to <*> size <*>
+1811,Parse the input log to log template.,PacketResponder 0 for block blk_703387617548630438 terminating,PacketResponder <*> for block <*> terminating
+925,Parse the input log to log template.,Received block blk_6686361711974377273 of size 3554889 from /10.251.214.130,Received block <*> of size <*> from <*>
+1579,Parse the input log to log template.,Deleting block blk_-9169228974826183399 file /mnt/hadoop/dfs/data/current/subdir5/blk_-9169228974826183399,Deleting block <*> file <*>
+1159,Parse the input log to log template.,Deleting block blk_-3607708283707030582 file /mnt/hadoop/dfs/data/current/subdir31/blk_-3607708283707030582,Deleting block <*> file <*>
+667,Parse the input log to log template.,BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.250.10.100:50010 is added to blk_-8502460962248995911 size 28489733,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*> is added to <*> size <*>
+1127,Parse the input log to log template.,10.251.125.237:50010 Served block blk_-309134958179110212 to /10.251.125.237,<*> Served block <*> to <*>
+109,Parse the input log to log template.,BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.251.75.79:50010 is added to blk_467589865104023338 size 67108864,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*> is added to <*> size <*>
+1802,Parse the input log to log template.,BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.251.89.155:50010 is added to blk_-5455316994110506037 size 67108864,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*> is added to <*> size <*>
+540,Parse the input log to log template.,PacketResponder 2 for block blk_2974262690755997396 terminating,PacketResponder <*> for block <*> terminating
+1147,Parse the input log to log template.,BLOCK* NameSystem.delete: blk_-3681974396824196300 is added to invalidSet of 10.250.17.177:50010,BLOCK* NameSystem.delete: <*> is added to invalidSet of <*>
+1049,Parse the input log to log template.,Receiving block blk_-1728983474612515818 src: /10.251.70.211:39459 dest: /10.251.70.211:50010,Receiving block <*> src: <*> dest: <*>
+1477,Parse the input log to log template.,Received block blk_4989329877491629543 of size 67108864 from /10.250.15.67,Received block <*> of size <*> from <*>
+770,Parse the input log to log template.,PacketResponder 1 for block blk_-7512746652453970810 terminating,PacketResponder <*> for block <*> terminating
+1820,Parse the input log to log template.,PacketResponder 2 for block blk_215466486430758887 terminating,PacketResponder <*> for block <*> terminating
+1593,Parse the input log to log template.,Deleting block blk_1213582438865696738 file /mnt/hadoop/dfs/data/current/subdir56/blk_1213582438865696738,Deleting block <*> file <*>
+1213,Parse the input log to log template.,PacketResponder 1 for block blk_-3295982945091621137 terminating,PacketResponder <*> for block <*> terminating
+1868,Parse the input log to log template.,Deleting block blk_-8060252929692927663 file /mnt/hadoop/dfs/data/current/subdir21/blk_-8060252929692927663,Deleting block <*> file <*>
+1600,Parse the input log to log template.,Deleting block blk_6943254721518837570 file /mnt/hadoop/dfs/data/current/subdir41/blk_6943254721518837570,Deleting block <*> file <*>
+81,Parse the input log to log template.,10.250.13.188:50010:Got exception while serving blk_6241141267506413726 to /10.251.194.245:,<*>:Got exception while serving <*> to <*>:
+1540,Parse the input log to log template.,BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.251.75.143:50010 is added to blk_-1379379987510648393 size 67108864,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*> is added to <*> size <*>
+908,Parse the input log to log template.,PacketResponder 0 for block blk_2282833575688432184 terminating,PacketResponder <*> for block <*> terminating
+552,Parse the input log to log template.,BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811101024_0001_m_001495_0/part-01495. blk_-7592643790414500555,BLOCK* NameSystem.allocateBlock: <*> <*>
+10,Parse the input log to log template.,Received block blk_5402003568334525940 of size 67108864 from /10.251.214.112,Received block <*> of size <*> from <*>
+378,Parse the input log to log template.,BLOCK* NameSystem.delete: blk_4438674026376140804 is added to invalidSet of 10.251.106.50:50010,BLOCK* NameSystem.delete: <*> is added to invalidSet of <*>
+830,Parse the input log to log template.,BLOCK* NameSystem.delete: blk_753559000954836892 is added to invalidSet of 10.251.30.101:50010,BLOCK* NameSystem.delete: <*> is added to invalidSet of <*>
+1798,Parse the input log to log template.,BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.251.203.129:50010 is added to blk_6170586659371027531 size 67108864,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*> is added to <*> size <*>
+1000,Parse the input log to log template.,BLOCK* NameSystem.delete: blk_7017399031777870797 is added to invalidSet of 10.250.5.161:50010,BLOCK* NameSystem.delete: <*> is added to invalidSet of <*>
+11,Parse the input log to log template.,Receiving block blk_5792489080791696128 src: /10.251.30.6:33145 dest: /10.251.30.6:50010,Receiving block <*> src: <*> dest: <*>
+1361,Parse the input log to log template.,BLOCK* NameSystem.delete: blk_-6921441628286995043 is added to invalidSet of 10.251.126.83:50010,BLOCK* NameSystem.delete: <*> is added to invalidSet of <*>
+1882,Parse the input log to log template.,BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.251.197.161:50010 is added to blk_-3724350946705225881 size 67108864,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*> is added to <*> size <*>
+532,Parse the input log to log template.,Received block blk_7224257732880626802 of size 67108864 from /10.251.122.79,Received block <*> of size <*> from <*>
+37,Parse the input log to log template.,Received block blk_-8523968015014407246 of size 67108864 from /10.251.214.225,Received block <*> of size <*> from <*>
+1482,Parse the input log to log template.,Received block blk_-997605125898553536 of size 67108864 from /10.251.30.179,Received block <*> of size <*> from <*>
+524,Parse the input log to log template.,BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.251.110.68:50010 is added to blk_-3663004104512304532 size 67108864,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*> is added to <*> size <*>
+1462,Parse the input log to log template.,PacketResponder 0 for block blk_2040222317555585426 terminating,PacketResponder <*> for block <*> terminating
+1889,Parse the input log to log template.,Receiving block blk_6585429064641693815 src: /10.250.10.6:38158 dest: /10.250.10.6:50010,Receiving block <*> src: <*> dest: <*>
+1425,Parse the input log to log template.,Receiving block blk_9131004320470011870 src: /10.251.123.132:52815 dest: /10.251.123.132:50010,Receiving block <*> src: <*> dest: <*>
+1245,Parse the input log to log template.,BLOCK* NameSystem.allocateBlock: /user/root/rand4/_temporary/_task_200811101024_0009_m_001574_0/part-01574. blk_-7458279618877678162,BLOCK* NameSystem.allocateBlock: <*> <*>
+56,Parse the input log to log template.,Receiving block blk_-774267833966018354 src: /10.251.38.53:51057 dest: /10.251.38.53:50010,Receiving block <*> src: <*> dest: <*>
+1978,Parse the input log to log template.,Receiving block blk_8303284829424905326 src: /10.251.70.37:47359 dest: /10.251.70.37:50010,Receiving block <*> src: <*> dest: <*>
+1655,Parse the input log to log template.,Receiving block blk_-8475679647841427708 src: /10.251.75.49:58661 dest: /10.251.75.49:50010,Receiving block <*> src: <*> dest: <*>
+726,Parse the input log to log template.,BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.251.27.63:50010 is added to blk_7838843222458775811 size 67108864,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*> is added to <*> size <*>
+1362,Parse the input log to log template.,BLOCK* NameSystem.delete: blk_3539852484771802299 is added to invalidSet of 10.250.19.227:50010,BLOCK* NameSystem.delete: <*> is added to invalidSet of <*>
+862,Parse the input log to log template.,Deleting block blk_-7854501109698465657 file /mnt/hadoop/dfs/data/current/subdir34/blk_-7854501109698465657,Deleting block <*> file <*>
+1672,Parse the input log to log template.,BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.251.193.175:50010 is added to blk_2460145905812664251 size 67108864,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*> is added to <*> size <*>
+388,Parse the input log to log template.,BLOCK* NameSystem.delete: blk_2149728827322918746 is added to invalidSet of 10.250.11.194:50010,BLOCK* NameSystem.delete: <*> is added to invalidSet of <*>
+1988,Parse the input log to log template.,Receiving block blk_-5224756755359850354 src: /10.251.43.192:38028 dest: /10.251.43.192:50010,Receiving block <*> src: <*> dest: <*>
+149,Parse the input log to log template.,Receiving block blk_-6329494504520216748 src: /10.251.25.237:39332 dest: /10.251.25.237:50010,Receiving block <*> src: <*> dest: <*>
+1976,Parse the input log to log template.,Receiving block blk_-178934379749864379 src: /10.251.71.97:55517 dest: /10.251.71.97:50010,Receiving block <*> src: <*> dest: <*>
+573,Parse the input log to log template.,Received block blk_5600017220681756254 of size 67108864 from /10.251.214.130,Received block <*> of size <*> from <*>
+399,Parse the input log to log template.,BLOCK* NameSystem.delete: blk_-2012430628930443984 is added to invalidSet of 10.250.11.100:50010,BLOCK* NameSystem.delete: <*> is added to invalidSet of <*>
+987,Parse the input log to log template.,BLOCK* NameSystem.delete: blk_-1680175975862749862 is added to invalidSet of 10.250.14.38:50010,BLOCK* NameSystem.delete: <*> is added to invalidSet of <*>
+1893,Parse the input log to log template.,Receiving block blk_-4967783186426171722 src: /10.251.39.192:57105 dest: /10.251.39.192:50010,Receiving block <*> src: <*> dest: <*>
+1309,Parse the input log to log template.,Received block blk_-9190864897806028230 of size 67108864 from /10.251.214.130,Received block <*> of size <*> from <*>
+1714,Parse the input log to log template.,BLOCK* NameSystem.delete: blk_-7595375726951801956 is added to invalidSet of 10.251.122.79:50010,BLOCK* NameSystem.delete: <*> is added to invalidSet of <*>
+1320,Parse the input log to log template.,PacketResponder 0 for block blk_-1842096107468319932 terminating,PacketResponder <*> for block <*> terminating
+457,Parse the input log to log template.,Deleting block blk_-4295805058711840933 file /mnt/hadoop/dfs/data/current/subdir0/blk_-4295805058711840933,Deleting block <*> file <*>
+1870,Parse the input log to log template.,Deleting block blk_-2518425063392446785 file /mnt/hadoop/dfs/data/current/subdir6/blk_-2518425063392446785,Deleting block <*> file <*>
+1704,Parse the input log to log template.,BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.251.111.228:50010 is added to blk_-1237539644269634790 size 67108864,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*> is added to <*> size <*>
+214,Parse the input log to log template.,PacketResponder 1 for block blk_-5569558931000121451 terminating,PacketResponder <*> for block <*> terminating
+1163,Parse the input log to log template.,Deleting block blk_3312198496468502316 file /mnt/hadoop/dfs/data/current/subdir36/blk_3312198496468502316,Deleting block <*> file <*>
+732,Parse the input log to log template.,Receiving block blk_-5003122231679852524 src: /10.250.7.230:51033 dest: /10.250.7.230:50010,Receiving block <*> src: <*> dest: <*>
+106,Parse the input log to log template.,PacketResponder 0 for block blk_-6837050820114491742 terminating,PacketResponder <*> for block <*> terminating
+1721,Parse the input log to log template.,BLOCK* NameSystem.delete: blk_-8121498678081035000 is added to invalidSet of 10.250.11.100:50010,BLOCK* NameSystem.delete: <*> is added to invalidSet of <*>
+1388,Parse the input log to log template.,Deleting block blk_-8547071368131084410 file /mnt/hadoop/dfs/data/current/subdir38/blk_-8547071368131084410,Deleting block <*> file <*>
+764,Parse the input log to log template.,BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.251.42.191:50010 is added to blk_-4208396523159735354 size 67108864,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*> is added to <*> size <*>
+1106,Parse the input log to log template.,BLOCK* NameSystem.delete: blk_-608202790716579401 is added to invalidSet of 10.251.198.33:50010,BLOCK* NameSystem.delete: <*> is added to invalidSet of <*>
+1673,Parse the input log to log template.,Received block blk_-7207514537719465756 of size 67108864 from /10.251.75.143,Received block <*> of size <*> from <*>
+1847,Parse the input log to log template.,BLOCK* NameSystem.delete: blk_-8863130543753323383 is added to invalidSet of 10.251.123.1:50010,BLOCK* NameSystem.delete: <*> is added to invalidSet of <*>
+1751,Parse the input log to log template.,Receiving block blk_-5957060034695163774 src: /10.251.29.239:56334 dest: /10.251.29.239:50010,Receiving block <*> src: <*> dest: <*>
+354,Parse the input log to log template.,10.250.9.207:50010 Served block blk_4355450627202483068 to /10.250.9.207,<*> Served block <*> to <*>
+555,Parse the input log to log template.,BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.250.13.240:50010 is added to blk_939695665085237271 size 67108864,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*> is added to <*> size <*>
+1520,Parse the input log to log template.,Received block blk_8699194381234371727 of size 67108864 from /10.251.214.67,Received block <*> of size <*> from <*>
+801,Parse the input log to log template.,10.251.26.8:50010:Got exception while serving blk_-3572295706132449090 to /10.251.111.130:,<*>:Got exception while serving <*> to <*>:
+225,Parse the input log to log template.,Received block blk_3852281952649038166 of size 67108864 from /10.251.122.65,Received block <*> of size <*> from <*>
+1140,Parse the input log to log template.,BLOCK* NameSystem.delete: blk_7336636250384047238 is added to invalidSet of 10.251.26.177:50010,BLOCK* NameSystem.delete: <*> is added to invalidSet of <*>
+1179,Parse the input log to log template.,BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.251.39.209:50010 is added to blk_1833093108290599780 size 67108864,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*> is added to <*> size <*>
+172,Parse the input log to log template.,PacketResponder 0 for block blk_3259872359515191972 terminating,PacketResponder <*> for block <*> terminating
+1529,Parse the input log to log template.,PacketResponder 0 for block blk_4877808040461609832 terminating,PacketResponder <*> for block <*> terminating
+201,Parse the input log to log template.,BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.251.214.18:50010 is added to blk_-7555801584297376435 size 67108864,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*> is added to <*> size <*>
+1210,Parse the input log to log template.,BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.251.127.47:50010 is added to blk_-6555060221133060529 size 67108864,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*> is added to <*> size <*>
+612,Parse the input log to log template.,Receiving block blk_1869228153483717375 src: /10.251.203.4:56599 dest: /10.251.203.4:50010,Receiving block <*> src: <*> dest: <*>
+1817,Parse the input log to log template.,PacketResponder 1 for block blk_7901008236334420364 terminating,PacketResponder <*> for block <*> terminating
+1881,Parse the input log to log template.,Deleting block blk_4007982883396598426 file /mnt/hadoop/dfs/data/current/subdir13/blk_4007982883396598426,Deleting block <*> file <*>
+1432,Parse the input log to log template.,PacketResponder 2 for block blk_-8225435781013159573 terminating,PacketResponder <*> for block <*> terminating
+404,Parse the input log to log template.,BLOCK* NameSystem.delete: blk_8404604116961181201 is added to invalidSet of 10.250.13.188:50010,BLOCK* NameSystem.delete: <*> is added to invalidSet of <*>
+978,Parse the input log to log template.,PacketResponder 0 for block blk_-1733154814375651491 terminating,PacketResponder <*> for block <*> terminating
+1367,Parse the input log to log template.,BLOCK* NameSystem.delete: blk_-328970571549408286 is added to invalidSet of 10.251.214.32:50010,BLOCK* NameSystem.delete: <*> is added to invalidSet of <*>
+1342,Parse the input log to log template.,Receiving block blk_345577139488306634 src: /10.251.37.240:38873 dest: /10.251.37.240:50010,Receiving block <*> src: <*> dest: <*>
+187,Parse the input log to log template.,PacketResponder 2 for block blk_-5215520749152394224 terminating,PacketResponder <*> for block <*> terminating
+1750,Parse the input log to log template.,Deleting block blk_7583807825342916938 file /mnt/hadoop/dfs/data/current/subdir13/blk_7583807825342916938,Deleting block <*> file <*>
+1803,Parse the input log to log template.,PacketResponder 0 for block blk_-917268749136585019 terminating,PacketResponder <*> for block <*> terminating
+1028,Parse the input log to log template.,BLOCK* ask 10.251.122.79:50010 to delete  blk_8048594464172649365,BLOCK* ask <*> to delete <*>
+1911,Parse the input log to log template.,BLOCK* NameSystem.allocateBlock: /user/root/rand8/_temporary/_task_200811101024_0015_m_001033_0/part-01033. blk_-8948316319329891645,BLOCK* NameSystem.allocateBlock: <*> <*>
+1991,Parse the input log to log template.,PacketResponder 0 for block blk_-9001895211102825241 terminating,PacketResponder <*> for block <*> terminating
+333,Parse the input log to log template.,10.251.215.70:50010:Got exception while serving blk_-20269367189114433 to /10.251.30.179:,<*>:Got exception while serving <*> to <*>:
+1102,Parse the input log to log template.,PacketResponder 1 for block blk_7627900514276120558 terminating,PacketResponder <*> for block <*> terminating
+557,Parse the input log to log template.,Receiving block blk_1394107495884949139 src: /10.250.10.100:33314 dest: /10.250.10.100:50010,Receiving block <*> src: <*> dest: <*>
+1797,Parse the input log to log template.,Received block blk_-3845286823494684378 of size 67108864 from /10.251.107.196,Received block <*> of size <*> from <*>
+348,Parse the input log to log template.,10.251.107.50:50010:Got exception while serving blk_4524198807982839635 to /10.251.122.79:,<*>:Got exception while serving <*> to <*>:
+203,Parse the input log to log template.,BLOCK* NameSystem.allocateBlock: /user/root/randtxt/_temporary/_task_200811092030_0003_m_000705_0/part-00705. blk_-9162090767925303921,BLOCK* NameSystem.allocateBlock: <*> <*>
+1291,Parse the input log to log template.,PacketResponder 2 for block blk_5115892145206906855 terminating,PacketResponder <*> for block <*> terminating
+825,Parse the input log to log template.,BLOCK* NameSystem.delete: blk_-8632488927959646482 is added to invalidSet of 10.251.39.64:50010,BLOCK* NameSystem.delete: <*> is added to invalidSet of <*>
+845,Parse the input log to log template.,Receiving block blk_-4831379247767940447 src: /10.251.65.237:42885 dest: /10.251.65.237:50010,Receiving block <*> src: <*> dest: <*>
+1880,Parse the input log to log template.,Deleting block blk_5701964561533648583 file /mnt/hadoop/dfs/data/current/subdir10/blk_5701964561533648583,Deleting block <*> file <*>
+973,Parse the input log to log template.,PacketResponder 2 for block blk_-5908283405801966540 terminating,PacketResponder <*> for block <*> terminating
+1083,Parse the input log to log template.,Received block blk_-6986311820863339652 of size 67108864 from /10.251.71.240,Received block <*> of size <*> from <*>
+866,Parse the input log to log template.,Deleting block blk_-2929627680703662712 file /mnt/hadoop/dfs/data/current/subdir32/blk_-2929627680703662712,Deleting block <*> file <*>
+1916,Parse the input log to log template.,BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.251.29.239:50010 is added to blk_-409558225151784282 size 67108864,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*> is added to <*> size <*>
+1234,Parse the input log to log template.,Received block blk_9072486569292195232 of size 67108864 from /10.251.71.68,Received block <*> of size <*> from <*>
+604,Parse the input log to log template.,PacketResponder 2 for block blk_-7683667795522321323 terminating,PacketResponder <*> for block <*> terminating
+1121,Parse the input log to log template.,10.251.39.144:50010:Got exception while serving blk_-8083036675630459841 to /10.251.39.209:,<*>:Got exception while serving <*> to <*>:
+288,Parse the input log to log template.,BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.250.7.230:50010 is added to blk_4984720043834039361 size 67108864,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*> is added to <*> size <*>
+1517,Parse the input log to log template.,PacketResponder 2 for block blk_-6220821375880228145 terminating,PacketResponder <*> for block <*> terminating
+1987,Parse the input log to log template.,BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.251.29.239:50010 is added to blk_-762982068597249045 size 67108864,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*> is added to <*> size <*>
+840,Parse the input log to log template.,BLOCK* NameSystem.delete: blk_-2439225174716664723 is added to invalidSet of 10.251.42.207:50010,BLOCK* NameSystem.delete: <*> is added to invalidSet of <*>
+70,Parse the input log to log template.,Receiving block blk_-3509323198988774369 src: /10.250.6.214:52922 dest: /10.250.6.214:50010,Receiving block <*> src: <*> dest: <*>
+749,Parse the input log to log template.,PacketResponder 2 for block blk_8285441926344578159 terminating,PacketResponder <*> for block <*> terminating
+1064,Parse the input log to log template.,BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.251.106.50:50010 is added to blk_-2023442822091562967 size 67108864,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*> is added to <*> size <*>
+985,Parse the input log to log template.,BLOCK* NameSystem.delete: blk_6881216037013929188 is added to invalidSet of 10.251.91.32:50010,BLOCK* NameSystem.delete: <*> is added to invalidSet of <*>
+1766,Parse the input log to log template.,Received block blk_1600228140214754078 of size 67108864 from /10.251.90.81,Received block <*> of size <*> from <*>
+1713,Parse the input log to log template.,BLOCK* NameSystem.delete: blk_4631777956354958682 is added to invalidSet of 10.251.30.134:50010,BLOCK* NameSystem.delete: <*> is added to invalidSet of <*>
+1207,Parse the input log to log template.,BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.251.26.177:50010 is added to blk_-6338549285508312302 size 3530010,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*> is added to <*> size <*>
+1488,Parse the input log to log template.,PacketResponder 0 for block blk_-1096621677333075077 terminating,PacketResponder <*> for block <*> terminating
+1275,Parse the input log to log template.,BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.251.203.246:50010 is added to blk_-6909400912794057067 size 67108864,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*> is added to <*> size <*>
+1038,Parse the input log to log template.,Receiving block blk_2147212041377545584 src: /10.251.75.49:34485 dest: /10.251.75.49:50010,Receiving block <*> src: <*> dest: <*>
+1898,Parse the input log to log template.,Received block blk_7872746846750105239 of size 67108864 from /10.251.43.21,Received block <*> of size <*> from <*>
+1679,Parse the input log to log template.,Received block blk_3107521534415119817 of size 67108864 from /10.251.193.224,Received block <*> of size <*> from <*>
+21,Parse the input log to log template.,BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.251.74.79:50010 is added to blk_-4794867979917102672 size 67108864,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*> is added to <*> size <*>
+1237,Parse the input log to log template.,PacketResponder 1 for block blk_-4633546693082073737 terminating,PacketResponder <*> for block <*> terminating
+284,Parse the input log to log template.,Received block blk_-5306443381473737599 of size 67108864 from /10.251.195.52,Received block <*> of size <*> from <*>
+1788,Parse the input log to log template.,Receiving block blk_469126362137371425 src: /10.251.199.245:53897 dest: /10.251.199.245:50010,Receiving block <*> src: <*> dest: <*>
+1743,Parse the input log to log template.,Deleting block blk_4513772639980123655 file /mnt/hadoop/dfs/data/current/blk_4513772639980123655,Deleting block <*> file <*>
+295,Parse the input log to log template.,10.251.42.191:50010:Got exception while serving blk_-8023826090828946372 to /10.251.214.130:,<*>:Got exception while serving <*> to <*>:
+1115,Parse the input log to log template.,10.251.195.70:50010 Served block blk_-3696162841836791939 to /10.251.195.70,<*> Served block <*> to <*>
+222,Parse the input log to log template.,BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.251.75.79:50010 is added to blk_5210211633167259832 size 67108864,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*> is added to <*> size <*>
+1609,Parse the input log to log template.,BLOCK* NameSystem.allocateBlock: /user/root/rand6/_temporary/_task_200811101024_0013_m_000197_0/part-00197. blk_1832308388558480,BLOCK* NameSystem.allocateBlock: <*> <*>
+581,Parse the input log to log template.,BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.251.38.53:50010 is added to blk_3202507081359904616 size 67108864,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*> is added to <*> size <*>
+1850,Parse the input log to log template.,BLOCK* NameSystem.delete: blk_-6068451475575444798 is added to invalidSet of 10.251.43.210:50010,BLOCK* NameSystem.delete: <*> is added to invalidSet of <*>
+1745,Parse the input log to log template.,Deleting block blk_7985460426680885040 file /mnt/hadoop/dfs/data/current/blk_7985460426680885040,Deleting block <*> file <*>
+1415,Parse the input log to log template.,Deleting block blk_6147898566868510104 file /mnt/hadoop/dfs/data/current/subdir36/blk_6147898566868510104,Deleting block <*> file <*>
+1218,Parse the input log to log template.,BLOCK* NameSystem.allocateBlock: /user/root/rand4/_temporary/_task_200811101024_0009_m_001061_0/part-01061. blk_-749176535135404637,BLOCK* NameSystem.allocateBlock: <*> <*>
+1518,Parse the input log to log template.,BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.251.66.192:50010 is added to blk_-4405302133414008227 size 67108864,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*> is added to <*> size <*>
+1398,Parse the input log to log template.,Deleting block blk_-7513928662244669476 file /mnt/hadoop/dfs/data/current/subdir11/blk_-7513928662244669476,Deleting block <*> file <*>
+1091,Parse the input log to log template.,BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.251.74.227:50010 is added to blk_1594026090263820445 size 67108864,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*> is added to <*> size <*>
+1390,Parse the input log to log template.,Deleting block blk_-6350492516478706425 file /mnt/hadoop/dfs/data/current/subdir36/blk_-6350492516478706425,Deleting block <*> file <*>
+783,Parse the input log to log template.,BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.251.70.5:50010 is added to blk_-4092973201423074374 size 67108864,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*> is added to <*> size <*>

@@ -1,0 +1,13 @@
+reverse mapping checking getaddrinfo for ns.marryaldkfaczcz.com [173.234.31.186] failed - POSSIBLE BREAK-IN ATTEMPT!,reverse mapping checking getaddrinfo for ns.marryaldkfaczcz.com [173.234.31.186] failed - POSSIBLE BREAK-IN ATTEMPT!,reverse mapping checking getaddrinfo for <*> [<*>] failed - POSSIBLE BREAK-IN ATTEMPT!
+reverse mapping checking getaddrinfo for ns.marryaldkfaczcz.com [173.234.31.186] failed - POSSIBLE BREAK-IN ATTEMPT!,reverse mapping checking getaddrinfo for ns.marryaldkfaczcz.com [173.234.31.186] failed - POSSIBLE BREAK-IN ATTEMPT!,reverse mapping checking getaddrinfo for <*> [<*>] failed - POSSIBLE BREAK-IN ATTEMPT!
+Failed password for uucp from 195.154.37.122 port 59266 ssh2,Failed password for uucp from <*> port <*> ssh2,Failed password for <*> from <*> port <*> ssh2
+input_userauth_request: invalid user  0101 [preauth],input_userauth_request: invalid user  0101 [preauth],input_userauth_request: invalid user <*> [preauth]
+Failed password for uucp from 103.207.39.212 port 51528 ssh2,Failed password for uucp from <*> port <*> ssh2,Failed password for <*> from <*> port <*> ssh2
+Failed password for uucp from 103.99.0.122 port 64009 ssh2,Failed password for uucp from <*> port <*> ssh2,Failed password for <*> from <*> port <*> ssh2
+Failed password for sshd from 103.99.0.122 port 51359 ssh2,Failed password for sshd from <*> port <*> ssh2,Failed password for <*> from <*> port <*> ssh2
+input_userauth_request: invalid user operator [preauth],input_userauth_request: invalid user operator [preauth],input_userauth_request: invalid user <*> [preauth]
+Failed password for uucp from 103.207.39.16 port 42435 ssh2,Failed password for uucp from <*> port <*> ssh2,Failed password for <*> from <*> port <*> ssh2
+input_userauth_request: invalid user oralce [preauth],input_userauth_request: invalid user or service [preauth],input_userauth_request: invalid user <*> [preauth]
+input_userauth_request: invalid user FILTER [preauth],input_userauth_request: invalid user <*>,input_userauth_request: invalid user <*> [preauth]
+Failed password for uucp from 103.99.0.122 port 65454 ssh2,Failed password for uucp from <*> port <*> ssh2,Failed password for <*> from <*> port <*> ssh2
+Failed password for sshd from 103.99.0.122 port 49598 ssh2,Failed password for sshd from <*> port <*> ssh2,Failed password for <*> from <*> port <*> ssh2

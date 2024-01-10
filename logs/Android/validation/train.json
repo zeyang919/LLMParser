@@ -1,0 +1,2002 @@
+[
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "userActivityNoUpdateLocked: eventTime=261887070, event=2, flags=0x0, uid=1000",
+    "EventTemplate": "userActivityNoUpdateLocked: eventTime=<*>, event=<*>, flags=<*>, uid=<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "ready=true,policy=3,wakefulness=1,wksummary=0x0,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0",
+    "EventTemplate": "ready=<*>,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=<*>,boostinprogress=<*>,waitmodeenable=<*>,mode=<*>,manual=<*>,auto=<*>,adj=<*>.0userId=<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "ready=true,policy=3,wakefulness=1,wksummary=0x1,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0",
+    "EventTemplate": "ready=<*>,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=<*>,boostinprogress=<*>,waitmodeenable=<*>,mode=<*>,manual=<*>,auto=<*>,adj=<*>.0userId=<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "getRunningAppProcesses: caller 10091 does not hold REAL_GET_TASKS; limiting output",
+    "EventTemplate": "getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "ready=true,policy=3,wakefulness=1,wksummary=0x0,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0",
+    "EventTemplate": "ready=<*>,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=<*>,boostinprogress=<*>,waitmodeenable=<*>,mode=<*>,manual=<*>,auto=<*>,adj=<*>.0userId=<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "HBM brightnessIn =38",
+    "EventTemplate": "HBM brightnessIn =<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "cleanUpApplicationRecordLocked, pid: 12025, restart: false",
+    "EventTemplate": "cleanUpApplicationRecordLocked, pid: <*>, restart: <*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "querySoundEffectsEnabled...",
+    "EventTemplate": "querySoundEffectsEnabled..."
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "setLightsOn(true)",
+    "EventTemplate": "setLightsOn(<*>)"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "mVisiblity.getValue is false",
+    "EventTemplate": "mVisiblity.getValue is <*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "cancelPeek: false",
+    "EventTemplate": "cancelPeek: <*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "cancelNotificationWithTag pid 28601,uid = 10111,tag = null,pkg =com.tencent.mobileqq,id =193",
+    "EventTemplate": "cancelNotificationWithTag pid <*>,uid = <*>,tag = <*>,pkg =<*>,id =<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)",
+    "EventTemplate": "setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "Animating brightness: target=38, rate=200",
+    "EventTemplate": "Animating brightness: target=<*>, rate=<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "ready=true,policy=3,wakefulness=1,wksummary=0x1,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0",
+    "EventTemplate": "ready=<*>,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=<*>,boostinprogress=<*>,waitmodeenable=<*>,mode=<*>,manual=<*>,auto=<*>,adj=<*>.0userId=<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "setLightsOn(true)",
+    "EventTemplate": "setLightsOn(<*>)"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "disable: < expand ICONS* alerts SYSTEM_INFO* back home recent clock navigationbar search quick_settings >",
+    "EventTemplate": "disable: < expand ICONS* alerts SYSTEM_INFO* back home recent clock navigationbar search quick_settings >"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "closeQs",
+    "EventTemplate": "closeQs"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "getNeighboringCellInfo calling app is com.amap.android.ams",
+    "EventTemplate": "getNeighboringCellInfo calling app is <*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "getRecentTasks: topActivity=ComponentInfo{com.tencent.mobileqq\/com.tencent.mobileqq.activity.SplashActivity}",
+    "EventTemplate": "getRecentTasks: topActivity=ComponentInfo{<*>}"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "shouldBlockLocation running ...",
+    "EventTemplate": "shouldBlockLocation running ..."
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "Animating brightness: target=38, rate=200",
+    "EventTemplate": "Animating brightness: target=<*>, rate=<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "Acquiring suspend blocker \"PowerManagerService.WakeLocks\".",
+    "EventTemplate": "Acquiring suspend blocker \"PowerManagerService.WakeLocks\"."
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)",
+    "EventTemplate": "setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "HBM brightnessOut =38",
+    "EventTemplate": "HBM brightnessOut =<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "HBM brightnessOut =38",
+    "EventTemplate": "HBM brightnessOut =<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "userActivityNoUpdateLocked: eventTime=261973328, event=0, flags=0x0, uid=1000",
+    "EventTemplate": "userActivityNoUpdateLocked: eventTime=<*>, event=<*>, flags=<*>, uid=<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "ready=true,policy=3,wakefulness=1,wksummary=0x0,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0",
+    "EventTemplate": "ready=<*>,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=<*>,boostinprogress=<*>,waitmodeenable=<*>,mode=<*>,manual=<*>,auto=<*>,adj=<*>.0userId=<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "shouldBlockLocation  ret:false",
+    "EventTemplate": "shouldBlockLocation ret:<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "release:lock=189667585, flg=0x0, tag=\"*launch*\", name=android\", ws=WorkSource{10057}, uid=1000, pid=1702",
+    "EventTemplate": "release:lock=<*>, flg=<*>, tag=\"<*>\", name=<*>, ws=<*>, uid=<*>, pid=<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "setLightsOn(true)",
+    "EventTemplate": "setLightsOn(<*>)"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "getRecentTasks: num=10,flags=62,totalTasks=46",
+    "EventTemplate": "getRecentTasks: num=<*>,flags=<*>,totalTasks=<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)",
+    "EventTemplate": "setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "suspendAutohide",
+    "EventTemplate": "suspendAutohide"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "updateClipping isOverlap:false, getTopPadding=333.0, Translation=-321.0",
+    "EventTemplate": "updateClipping isOverlap:<*>, getTopPadding=<*>, Translation=<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "setLightsOn(true)",
+    "EventTemplate": "setLightsOn(<*>)"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "HBM brightnessOut =38",
+    "EventTemplate": "HBM brightnessOut =<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "Acquiring suspend blocker \"PowerManagerService.WakeLocks\".",
+    "EventTemplate": "Acquiring suspend blocker \"PowerManagerService.WakeLocks\"."
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "closeQs",
+    "EventTemplate": "closeQs"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "getTasks: caller 10111 does not hold REAL_GET_TASKS; limiting output",
+    "EventTemplate": "getTasks: caller <*> does not hold REAL_GET_TASKS; limiting output"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "Skipping, withExcluded: false, tr.intent:Intent { act=android.intent.action.VIEW dat=file:\/\/\/storage\/emulated\/0\/Tencent\/QQfile_recv\/b.apk typ=application\/vnd.android.package-archive flg=0x10800000 cmp=com.android.packageinstaller\/.PackageInstallerActivity (has extras) }",
+    "EventTemplate": "Skipping, withExcluded: <*>, tr.intent:Intent { act=<*> dat=<*> typ=<*> flg=<*> cmp=<*> (has extras) }"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "setLightsOn(true)",
+    "EventTemplate": "setLightsOn(<*>)"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "rotationForOrientationLw(orient=1, last=0); user=0 USER_ROTATION_LOCKED",
+    "EventTemplate": "rotationForOrientationLw(orient=<*>, last=<*>); user=<*> USER_ROTATION_LOCKED"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "release:lock=189667585, flg=0x0, tag=\"*launch*\", name=android\", ws=WorkSource{10111}, uid=1000, pid=1702",
+    "EventTemplate": "release:lock=<*>, flg=<*>, tag=\"<*>\", name=<*>, ws=<*>, uid=<*>, pid=<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "Animating brightness: target=38, rate=200",
+    "EventTemplate": "Animating brightness: target=<*>, rate=<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "Animating brightness: target=38, rate=200",
+    "EventTemplate": "Animating brightness: target=<*>, rate=<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "Animating brightness: target=38, rate=200",
+    "EventTemplate": "Animating brightness: target=<*>, rate=<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)",
+    "EventTemplate": "setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "removeNotificationChildren",
+    "EventTemplate": "removeNotificationChildren"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "HBM brightnessIn =38",
+    "EventTemplate": "HBM brightnessIn =<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)",
+    "EventTemplate": "setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "ready=true,policy=3,wakefulness=1,wksummary=0x0,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0",
+    "EventTemplate": "ready=<*>,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=<*>,boostinprogress=<*>,waitmodeenable=<*>,mode=<*>,manual=<*>,auto=<*>,adj=<*>.0userId=<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "getNeighboringCellInfo calling app is com.amap.android.ams",
+    "EventTemplate": "getNeighboringCellInfo calling app is <*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "ActivityRecord info: ActivityInfo{80c2e70 com.tencent.mm.ui.LauncherUI}, euid: 0",
+    "EventTemplate": "ActivityRecord info: ActivityInfo{<*> <*>}, euid: <*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "ready=true,policy=3,wakefulness=1,wksummary=0x1,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0",
+    "EventTemplate": "ready=<*>,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=<*>,boostinprogress=<*>,waitmodeenable=<*>,mode=<*>,manual=<*>,auto=<*>,adj=<*>.0userId=<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "userActivityNoUpdateLocked: eventTime=261973352, event=0, flags=0x0, uid=1000",
+    "EventTemplate": "userActivityNoUpdateLocked: eventTime=<*>, event=<*>, flags=<*>, uid=<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "animateCollapsePanels:flags=2, force=true, delayed=true, mExpandedVisible=true",
+    "EventTemplate": "animateCollapsePanels:flags=<*>, force=<*>, delayed=<*>, mExpandedVisible=<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "ready=true,policy=3,wakefulness=1,wksummary=0x1,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0",
+    "EventTemplate": "ready=<*>,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=<*>,boostinprogress=<*>,waitmodeenable=<*>,mode=<*>,manual=<*>,auto=<*>,adj=<*>.0userId=<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "Skipping, withExcluded: false, tr.intent:Intent { act=android.intent.action.MAIN flg=0x10840000 cmp=com.android.incallui\/.InCallActivity (has extras) }",
+    "EventTemplate": "Skipping, withExcluded: <*>, tr.intent:Intent { act=<*> flg=<*> cmp=<*> (has extras) }"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "cancelPeek: false",
+    "EventTemplate": "cancelPeek: <*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "Animating brightness: target=38, rate=200",
+    "EventTemplate": "Animating brightness: target=<*>, rate=<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "ready=true,policy=3,wakefulness=1,wksummary=0x1,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0",
+    "EventTemplate": "ready=<*>,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=<*>,boostinprogress=<*>,waitmodeenable=<*>,mode=<*>,manual=<*>,auto=<*>,adj=<*>.0userId=<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "getRunningAppProcesses: caller 10091 does not hold REAL_GET_TASKS; limiting output",
+    "EventTemplate": "getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "notifyUiVisibilityChanged:vis=0x80000508, SystemUiVisibility=0x80000508",
+    "EventTemplate": "notifyUiVisibilityChanged:vis=<*>, SystemUiVisibility=<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)",
+    "EventTemplate": "setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "updateDimmedActivatedHideSensitive overlap:true",
+    "EventTemplate": "updateDimmedActivatedHideSensitive overlap:<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "Animating brightness: target=38, rate=200",
+    "EventTemplate": "Animating brightness: target=<*>, rate=<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "The change in focus caused us to need to do a layout end",
+    "EventTemplate": "The change in focus caused us to need to do a layout end"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "ACTIVITY check resid: com.example.android.notepad, size=0",
+    "EventTemplate": "ACTIVITY check resid: <*>, size=<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "Skipping, withExcluded: false, tr.intent:Intent { act=android.intent.action.MAIN flg=0x10840000 cmp=com.android.incallui\/.InCallActivity (has extras) }",
+    "EventTemplate": "Skipping, withExcluded: <*>, tr.intent:Intent { act=<*> flg=<*> cmp=<*> (has extras) }"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "shouldBlockLocation  ret:false",
+    "EventTemplate": "shouldBlockLocation ret:<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "playSoundEffect   effectType: 0",
+    "EventTemplate": "playSoundEffect effectType: <*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "Acquiring suspend blocker \"PowerManagerService.WakeLocks\".",
+    "EventTemplate": "Acquiring suspend blocker \"PowerManagerService.WakeLocks\"."
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "HBM brightnessIn =38",
+    "EventTemplate": "HBM brightnessIn =<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "Acquiring suspend blocker \"PowerManagerService.WakeLocks\".",
+    "EventTemplate": "Acquiring suspend blocker \"PowerManagerService.WakeLocks\"."
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "Sending non-protected broadcast com.android.systemui.statusbar.visible.change from system 2227:com.android.systemui\/u0a37 pkg com.android.systemui",
+    "EventTemplate": "Sending non-protected broadcast <*> from system <*> pkg <*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "cancelNotificationWithTag pid 28601,uid = 10111,tag = null,pkg =com.tencent.mobileqq,id =119",
+    "EventTemplate": "cancelNotificationWithTag pid <*>,uid = <*>,tag = <*>,pkg =<*>,id =<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "updateDimmedActivatedHideSensitive overlap:true",
+    "EventTemplate": "updateDimmedActivatedHideSensitive overlap:<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "HBM brightnessOut =38",
+    "EventTemplate": "HBM brightnessOut =<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "HBM brightnessIn =38",
+    "EventTemplate": "HBM brightnessIn =<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "cleanUpApplicationRecordLocked, pid: 5769, restart: false",
+    "EventTemplate": "cleanUpApplicationRecordLocked, pid: <*>, restart: <*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "setLightsOn(true)",
+    "EventTemplate": "setLightsOn(<*>)"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "cleanUpApplicationRecordLocked, reset pid: 12236, euid: 0",
+    "EventTemplate": "cleanUpApplicationRecordLocked, reset pid: <*>, euid: <*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "logNotificationVisibilityChanges runInThread over",
+    "EventTemplate": "logNotificationVisibilityChanges runInThread over"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "Skipping, withExcluded: false, tr.intent:Intent { flg=0x10804000 cmp=com.android.systemui\/.recents.RecentsActivity bnds=[264,444][920,908] }",
+    "EventTemplate": "Skipping, withExcluded: <*>, tr.intent:Intent { flg=<*> cmp=<*> bnds=<*> }"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)",
+    "EventTemplate": "setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "setLightsOn(true)",
+    "EventTemplate": "setLightsOn(<*>)"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "ready=true,policy=3,wakefulness=1,wksummary=0x1,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0",
+    "EventTemplate": "ready=<*>,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=<*>,boostinprogress=<*>,waitmodeenable=<*>,mode=<*>,manual=<*>,auto=<*>,adj=<*>.0userId=<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "Animating brightness: target=38, rate=200",
+    "EventTemplate": "Animating brightness: target=<*>, rate=<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "playSoundEffect   effectType: 0",
+    "EventTemplate": "playSoundEffect effectType: <*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "updateClipping isOverlap:false, getTopPadding=333.0, Translation=0.0",
+    "EventTemplate": "updateClipping isOverlap:<*>, getTopPadding=<*>, Translation=<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "Unable to start service Intent { act=com.tencent.android.tpush.action.keepalive cmp=com.qqgame.hlddz\/com.tencent.android.tpush.service.XGPushService } U=0: not found",
+    "EventTemplate": "Unable to start service Intent { act=<*> cmp=<*> } U=<*>: not found"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "getRecentTasks: num=10,flags=62,totalTasks=46",
+    "EventTemplate": "getRecentTasks: num=<*>,flags=<*>,totalTasks=<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "ready=true,policy=3,wakefulness=1,wksummary=0x1,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0",
+    "EventTemplate": "ready=<*>,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=<*>,boostinprogress=<*>,waitmodeenable=<*>,mode=<*>,manual=<*>,auto=<*>,adj=<*>.0userId=<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "ready=true,policy=3,wakefulness=1,wksummary=0x1,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0",
+    "EventTemplate": "ready=<*>,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=<*>,boostinprogress=<*>,waitmodeenable=<*>,mode=<*>,manual=<*>,auto=<*>,adj=<*>.0userId=<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "updateClipping isOverlap:false, getTopPadding=333.0, Translation=-24.0",
+    "EventTemplate": "updateClipping isOverlap:<*>, getTopPadding=<*>, Translation=<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "Releasing suspend blocker \"PowerManagerService.WakeLocks\".",
+    "EventTemplate": "Releasing suspend blocker \"PowerManagerService.WakeLocks\"."
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "setLightsOn(true)",
+    "EventTemplate": "setLightsOn(<*>)"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "acquire lock=120758482, flags=0x1, tag=\"RILJ_ACK_WL\", name=com.android.phone, ws=null, uid=1001, pid=2626",
+    "EventTemplate": "acquire lock=<*>, flags=<*>, tag=\"<*>\", name=<*>, ws=<*>, uid=<*>, pid=<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "userActivityNoUpdateLocked: eventTime=261885300, event=2, flags=0x0, uid=1000",
+    "EventTemplate": "userActivityNoUpdateLocked: eventTime=<*>, event=<*>, flags=<*>, uid=<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "interceptKeyTq keycode=3 interactive=true keyguardActive=false policyFlags=2b000002 down false canceled false",
+    "EventTemplate": "interceptKeyTq keycode=<*> interactive=<*> keyguardActive=<*> policyFlags=<*> down <*> canceled <*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "setSystemUiVisibility vis=40000500 mask=ffffffff oldVal=508 newVal=40000500 diff=40000008 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 720, 1280), dockedStackBounds=Rect(0, 0 - 0, 0)",
+    "EventTemplate": "setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "Animating brightness: target=38, rate=200",
+    "EventTemplate": "Animating brightness: target=<*>, rate=<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "userActivityNoUpdateLocked: eventTime=261969446, event=2, flags=0x0, uid=1000",
+    "EventTemplate": "userActivityNoUpdateLocked: eventTime=<*>, event=<*>, flags=<*>, uid=<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "updateClipping isOverlap:false, getTopPadding=333.0, Translation=-497.0",
+    "EventTemplate": "updateClipping isOverlap:<*>, getTopPadding=<*>, Translation=<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "cleanUpApplicationRecord -- 12025",
+    "EventTemplate": "cleanUpApplicationRecord -- <*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "userActivityNoUpdateLocked: eventTime=261879585, event=2, flags=0x0, uid=1000",
+    "EventTemplate": "userActivityNoUpdateLocked: eventTime=<*>, event=<*>, flags=<*>, uid=<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "Animating brightness: target=38, rate=200",
+    "EventTemplate": "Animating brightness: target=<*>, rate=<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "Skipping, withExcluded: false, tr.intent:Intent { flg=0x10800000 cmp=com.tencent.qqmusic\/.business.lockscreen.LockScreenActivity (has extras) }",
+    "EventTemplate": "Skipping, withExcluded: <*>, tr.intent:Intent { flg=<*> cmp=<*> (has extras) }"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)",
+    "EventTemplate": "setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "enqueueNotificationInternal: n.getKey = 0|com.tencent.mobileqq|121|null|10111",
+    "EventTemplate": "enqueueNotificationInternal: n.getKey = <*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "cancelAutohide",
+    "EventTemplate": "cancelAutohide"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "HBM brightnessOut =38",
+    "EventTemplate": "HBM brightnessOut =<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "getRunningAppProcesses: caller 10111 does not hold REAL_GET_TASKS; limiting output",
+    "EventTemplate": "getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "setLightsOn(true)",
+    "EventTemplate": "setLightsOn(<*>)"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "setLightsOn(true)",
+    "EventTemplate": "setLightsOn(<*>)"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "overlapAmount:196.0, previousNotificationEnd:0.0, newYTranslation:-196.0, location:4, i:0, getTopPadding:333.0, getLocationOnScreen():-529",
+    "EventTemplate": "overlapAmount:<*>, previousNotificationEnd:<*>, newYTranslation:<*>, location:<*>, i:<*>, getTopPadding:<*>, getLocationOnScreen():<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)",
+    "EventTemplate": "setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "setLightsOn(true)",
+    "EventTemplate": "setLightsOn(<*>)"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "HBM brightnessIn =38",
+    "EventTemplate": "HBM brightnessIn =<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "HBM brightnessOut =38",
+    "EventTemplate": "HBM brightnessOut =<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "ready=true,policy=3,wakefulness=1,wksummary=0x0,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0",
+    "EventTemplate": "ready=<*>,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=<*>,boostinprogress=<*>,waitmodeenable=<*>,mode=<*>,manual=<*>,auto=<*>,adj=<*>.0userId=<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "Skipping AppWindowToken{9f4ef63 token=Token{a64f992 ActivityRecord{de9231d u0 com.tencent.qt.qtl\/.activity.info.NewsDetailXmlActivity t761}}} -- going to hide",
+    "EventTemplate": "Skipping AppWindowToken{<*> token=Token{<*> ActivityRecord{<*> u0 <*>}}} -- going to hide"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "setLightsOn(true)",
+    "EventTemplate": "setLightsOn(<*>)"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "ready=true,policy=3,wakefulness=1,wksummary=0x1,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0",
+    "EventTemplate": "ready=<*>,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=<*>,boostinprogress=<*>,waitmodeenable=<*>,mode=<*>,manual=<*>,auto=<*>,adj=<*>.0userId=<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "HBM brightnessIn =38",
+    "EventTemplate": "HBM brightnessIn =<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)",
+    "EventTemplate": "setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)",
+    "EventTemplate": "setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "isWiredHeadsetOn...",
+    "EventTemplate": "isWiredHeadsetOn..."
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "HBM brightnessOut =38",
+    "EventTemplate": "HBM brightnessOut =<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "[PhoneIntfMgr] getDataEnabled: subId=1 retVal=true",
+    "EventTemplate": "[PhoneIntfMgr] getDataEnabled: subId=<*> retVal=<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "Animating brightness: target=38, rate=200",
+    "EventTemplate": "Animating brightness: target=<*>, rate=<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "updateDimmedActivatedHideSensitive overlap:false",
+    "EventTemplate": "updateDimmedActivatedHideSensitive overlap:<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "getRecentTasks: topActivity=ComponentInfo{com.tencent.mobileqq\/com.tencent.mobileqq.activity.SplashActivity}",
+    "EventTemplate": "getRecentTasks: topActivity=ComponentInfo{<*>}"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "HBM brightnessOut =38",
+    "EventTemplate": "HBM brightnessOut =<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "updateClipping isOverlap:true, getTopPadding=333.0, Translation=-479.0",
+    "EventTemplate": "updateClipping isOverlap:<*>, getTopPadding=<*>, Translation=<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "ready=true,policy=3,wakefulness=1,wksummary=0x0,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0",
+    "EventTemplate": "ready=<*>,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=<*>,boostinprogress=<*>,waitmodeenable=<*>,mode=<*>,manual=<*>,auto=<*>,adj=<*>.0userId=<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "Destroying surface Surface(name=PopupWindow:317e46) called by com.android.server.wm.WindowStateAnimator.destroySurface:2060 com.android.server.wm.WindowStateAnimator.destroySurfaceLocked:913 com.android.server.wm.WindowState.removeLocked:1554 com.android.server.wm.WindowManagerService.removeWindowInnerLocked:2739 com.android.server.wm.WindowManagerService.removeWindowInnerLocked:2702 com.android.server.wm.WindowManagerService.removeWindowLocked:2691 com.android.server.wm.WindowManagerService.removeWindowLocked:2560 com.android.server.wm.WindowManagerService.removeWindow:2555",
+    "EventTemplate": "Destroying surface Surface(name=<*>) called by <*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "Animating brightness: target=38, rate=200",
+    "EventTemplate": "Animating brightness: target=<*>, rate=<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "updateDimmedActivatedHideSensitive overlap:false",
+    "EventTemplate": "updateDimmedActivatedHideSensitive overlap:<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "release:lock=120758482, flg=0x0, tag=\"RILJ_ACK_WL\", name=com.android.phone\", ws=null, uid=1001, pid=2626",
+    "EventTemplate": "release:lock=<*>, flg=<*>, tag=\"<*>\", name=<*>, ws=<*>, uid=<*>, pid=<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "setLightsOn(true)",
+    "EventTemplate": "setLightsOn(<*>)"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "getTasks: caller 10111 does not hold REAL_GET_TASKS; limiting output",
+    "EventTemplate": "getTasks: caller <*> does not hold REAL_GET_TASKS; limiting output"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "Screen frozen for +1s0ms due to Window{ca98d5 u0 com.tencent.qt.qtl\/com.tencent.qt.qtl.activity.info.NewsDetailXmlActivity}",
+    "EventTemplate": "Screen frozen for <*> due to Window{<*> u0 <*>}"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "instantCollapse",
+    "EventTemplate": "instantCollapse"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "shouldBlockLocation running ...",
+    "EventTemplate": "shouldBlockLocation running ..."
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)",
+    "EventTemplate": "setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "updateClipping isOverlap:false, getTopPadding=333.0, Translation=0.0",
+    "EventTemplate": "updateClipping isOverlap:<*>, getTopPadding=<*>, Translation=<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "removeNotificationChildren",
+    "EventTemplate": "removeNotificationChildren"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "setLightsOn(true)",
+    "EventTemplate": "setLightsOn(<*>)"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "cancelPeek: false",
+    "EventTemplate": "cancelPeek: <*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)",
+    "EventTemplate": "setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "userActivityNoUpdateLocked: eventTime=261972262, event=0, flags=0x0, uid=1000",
+    "EventTemplate": "userActivityNoUpdateLocked: eventTime=<*>, event=<*>, flags=<*>, uid=<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "Acquiring suspend blocker \"PowerManagerService.WakeLocks\".",
+    "EventTemplate": "Acquiring suspend blocker \"PowerManagerService.WakeLocks\"."
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "Destroying surface Surface(name=SurfaceView - com.tencent.qt.qtl\/com.tencent.video.player.activity.PlayerActivity) called by com.android.server.wm.WindowStateAnimator.destroyDeferredSurfaceLocked:942 com.android.server.wm.WindowManagerService.performDeferredDestroyWindow:3407 com.android.server.wm.Session.performDeferredDestroy:225 android.view.IWindowSession$Stub.onTransact:398 com.android.server.wm.Session.onTransact:136 android.os.Binder.execTransact:565 <bottom of call stack> <bottom of call stack>",
+    "EventTemplate": "Destroying surface Surface(name=<*>) called by <*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "Animating brightness: target=38, rate=200",
+    "EventTemplate": "Animating brightness: target=<*>, rate=<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)",
+    "EventTemplate": "setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)",
+    "EventTemplate": "setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "HBM brightnessOut =38",
+    "EventTemplate": "HBM brightnessOut =<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)",
+    "EventTemplate": "setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "getRecentTasks: num=20,flags=62,totalTasks=46",
+    "EventTemplate": "getRecentTasks: num=<*>,flags=<*>,totalTasks=<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "shouldBlockLocation  ret:false",
+    "EventTemplate": "shouldBlockLocation ret:<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "Animating brightness: target=38, rate=200",
+    "EventTemplate": "Animating brightness: target=<*>, rate=<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "userActivityNoUpdateLocked: eventTime=261874138, event=2, flags=0x0, uid=1000",
+    "EventTemplate": "userActivityNoUpdateLocked: eventTime=<*>, event=<*>, flags=<*>, uid=<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "shouldBlockLocation running ...",
+    "EventTemplate": "shouldBlockLocation running ..."
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "HBM brightnessOut =38",
+    "EventTemplate": "HBM brightnessOut =<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "ready=true,policy=3,wakefulness=1,wksummary=0x1,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0",
+    "EventTemplate": "ready=<*>,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=<*>,boostinprogress=<*>,waitmodeenable=<*>,mode=<*>,manual=<*>,auto=<*>,adj=<*>.0userId=<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "Skipping, withExcluded: false, tr.intent:Intent { act=android.intent.action.MAIN flg=0x10840000 cmp=com.android.incallui\/.InCallActivity (has extras) }",
+    "EventTemplate": "Skipping, withExcluded: <*>, tr.intent:Intent { act=<*> flg=<*> cmp=<*> (has extras) }"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "HBM brightnessIn =38",
+    "EventTemplate": "HBM brightnessIn =<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "HBM brightnessOut =38",
+    "EventTemplate": "HBM brightnessOut =<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "HBM brightnessIn =38",
+    "EventTemplate": "HBM brightnessIn =<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "Scheduling restart of crashed service com.tencent.mobileqq\/cooperation.qzone.remote.logic.QzoneWebPluginProxyService in 1000ms",
+    "EventTemplate": "Scheduling restart of crashed service <*> in <*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)",
+    "EventTemplate": "setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)",
+    "EventTemplate": "setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "Animating brightness: target=38, rate=200",
+    "EventTemplate": "Animating brightness: target=<*>, rate=<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "instantCollapse",
+    "EventTemplate": "instantCollapse"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "acquire lock=233570404, flags=0x1, tag=\"View Lock\", name=com.android.systemui, ws=null, uid=10037, pid=2227",
+    "EventTemplate": "acquire lock=<*>, flags=<*>, tag=\"<*>\", name=<*>, ws=<*>, uid=<*>, pid=<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)",
+    "EventTemplate": "setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "HBM brightnessOut =38",
+    "EventTemplate": "HBM brightnessOut =<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "cleanUpApplicationRecordLocked, pid: 23484, restart: false",
+    "EventTemplate": "cleanUpApplicationRecordLocked, pid: <*>, restart: <*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "handleTimeUpdate",
+    "EventTemplate": "handleTimeUpdate"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "cancelPeek: false",
+    "EventTemplate": "cancelPeek: <*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "Acquiring suspend blocker \"PowerManagerService.WakeLocks\".",
+    "EventTemplate": "Acquiring suspend blocker \"PowerManagerService.WakeLocks\"."
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "getRecentTasks: num=10,flags=62,totalTasks=46",
+    "EventTemplate": "getRecentTasks: num=<*>,flags=<*>,totalTasks=<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "shouldBlockLocation running ...",
+    "EventTemplate": "shouldBlockLocation running ..."
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "ready=true,policy=3,wakefulness=1,wksummary=0x1,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0",
+    "EventTemplate": "ready=<*>,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=<*>,boostinprogress=<*>,waitmodeenable=<*>,mode=<*>,manual=<*>,auto=<*>,adj=<*>.0userId=<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "ready=true,policy=3,wakefulness=1,wksummary=0x1,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0",
+    "EventTemplate": "ready=<*>,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=<*>,boostinprogress=<*>,waitmodeenable=<*>,mode=<*>,manual=<*>,auto=<*>,adj=<*>.0userId=<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "updateClipping isOverlap:false, getTopPadding=333.0, Translation=0.0",
+    "EventTemplate": "updateClipping isOverlap:<*>, getTopPadding=<*>, Translation=<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "acquire lock=134680583, flags=0x1, tag=\"RILJ_ACK_WL\", name=com.android.phone, ws=null, uid=1001, pid=2626",
+    "EventTemplate": "acquire lock=<*>, flags=<*>, tag=\"<*>\", name=<*>, ws=<*>, uid=<*>, pid=<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "shouldBlockLocation  ret:false",
+    "EventTemplate": "shouldBlockLocation ret:<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "getRunningAppProcesses: caller 10113 does not hold REAL_GET_TASKS; limiting output",
+    "EventTemplate": "getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "visible is system.call.count gt 0",
+    "EventTemplate": "visible is <*> gt <*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "HBM brightnessIn =38",
+    "EventTemplate": "HBM brightnessIn =<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "logNotificationVisibilityChanges runInThread over",
+    "EventTemplate": "logNotificationVisibilityChanges runInThread over"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "ready=true,policy=3,wakefulness=1,wksummary=0x0,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0",
+    "EventTemplate": "ready=<*>,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=<*>,boostinprogress=<*>,waitmodeenable=<*>,mode=<*>,manual=<*>,auto=<*>,adj=<*>.0userId=<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "setLightsOn(true)",
+    "EventTemplate": "setLightsOn(<*>)"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "cancelAutohide",
+    "EventTemplate": "cancelAutohide"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "HBM brightnessIn =38",
+    "EventTemplate": "HBM brightnessIn =<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "updateLightsLocked,mInCall =false,mScreenOn = true,ledNotification == null?true",
+    "EventTemplate": "updateLightsLocked,mInCall =<*>,mScreenOn = <*>,ledNotification == null?true"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "setSystemUiVisibility vis=40000500 mask=ffffffff oldVal=508 newVal=40000500 diff=40000008 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 720, 1280), dockedStackBounds=Rect(0, 0 - 0, 0)",
+    "EventTemplate": "setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "Acquiring suspend blocker \"PowerManagerService.WakeLocks\".",
+    "EventTemplate": "Acquiring suspend blocker \"PowerManagerService.WakeLocks\"."
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "notifyUiVisibilityChanged:vis=0x80000608, SystemUiVisibility=0x80000608",
+    "EventTemplate": "notifyUiVisibilityChanged:vis=<*>, SystemUiVisibility=<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "setLightsOn(true)",
+    "EventTemplate": "setLightsOn(<*>)"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "setLightsOn(true)",
+    "EventTemplate": "setLightsOn(<*>)"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "acquire lock=173466309, flags=0x1, tag=\"AudioMix\", name=audioserver, ws=null, uid=1041, pid=0",
+    "EventTemplate": "acquire lock=<*>, flags=<*>, tag=\"<*>\", name=<*>, ws=<*>, uid=<*>, pid=<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "interceptKeyTq keycode=4 interactive=true keyguardActive=false policyFlags=2b000002 down false canceled false",
+    "EventTemplate": "interceptKeyTq keycode=<*> interactive=<*> keyguardActive=<*> policyFlags=<*> down <*> canceled <*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "resumeSuspendedAutohide",
+    "EventTemplate": "resumeSuspendedAutohide"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "Skipping, withExcluded: false, tr.intent:Intent { flg=0x18800000 cmp=com.tencent.mm\/.plugin.base.stub.WXEntryActivity (has extras) }",
+    "EventTemplate": "Skipping, withExcluded: <*>, tr.intent:Intent { flg=<*> cmp=<*> (has extras) }"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "shouldBlockLocation running ...",
+    "EventTemplate": "shouldBlockLocation running ..."
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "ready=true,policy=3,wakefulness=1,wksummary=0x0,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0",
+    "EventTemplate": "ready=<*>,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=<*>,boostinprogress=<*>,waitmodeenable=<*>,mode=<*>,manual=<*>,auto=<*>,adj=<*>.0userId=<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "setLightsOn(true)",
+    "EventTemplate": "setLightsOn(<*>)"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "getAllCellInfo is blocked by permission manager . callingPackage = com.tencent.mobileqq",
+    "EventTemplate": "getAllCellInfo is blocked by permission manager . callingPackage = <*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "userActivityNoUpdateLocked: eventTime=261881405, event=2, flags=0x0, uid=1000",
+    "EventTemplate": "userActivityNoUpdateLocked: eventTime=<*>, event=<*>, flags=<*>, uid=<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "ready=true,policy=3,wakefulness=1,wksummary=0x1,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0",
+    "EventTemplate": "ready=<*>,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=<*>,boostinprogress=<*>,waitmodeenable=<*>,mode=<*>,manual=<*>,auto=<*>,adj=<*>.0userId=<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "Taking screenshot from Surface with crop:[Rect(0, 48 - 720, 1208)], width:[432], height:[696], minLayer:[21085], maxLayer:[21085], inRotation:[false], rot:[0]",
+    "EventTemplate": "Taking screenshot from Surface with crop:[Rect(<*>, <*> - <*>, <*>)], width:[<*>], height:[<*>], minLayer:[<*>], maxLayer:[<*>], inRotation:[<*>], rot:[<*>]"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "setSystemUiVisibility vis=40000500 mask=ffffffff oldVal=80000508 newVal=40000500 diff=c0000008 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 720, 1280), dockedStackBounds=Rect(0, 0 - 0, 0)",
+    "EventTemplate": "setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "Acquiring suspend blocker \"PowerManagerService.WakeLocks\".",
+    "EventTemplate": "Acquiring suspend blocker \"PowerManagerService.WakeLocks\"."
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "setLightsOn(true)",
+    "EventTemplate": "setLightsOn(<*>)"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "shouldBlockLocation running ...",
+    "EventTemplate": "shouldBlockLocation running ..."
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "Skipping, withExcluded: false, tr.intent:Intent { flg=0x18800000 cmp=com.tencent.mm\/.plugin.base.stub.WXEntryActivity (has extras) }",
+    "EventTemplate": "Skipping, withExcluded: <*>, tr.intent:Intent { flg=<*> cmp=<*> (has extras) }"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "cancelNotificationWithTag pid 28601,uid = 10111,tag = null,pkg =com.tencent.mobileqq,id =144",
+    "EventTemplate": "cancelNotificationWithTag pid <*>,uid = <*>,tag = <*>,pkg =<*>,id =<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "resumeSuspendedAutohide",
+    "EventTemplate": "resumeSuspendedAutohide"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "ready=true,policy=3,wakefulness=1,wksummary=0x23,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0",
+    "EventTemplate": "ready=<*>,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=<*>,boostinprogress=<*>,waitmodeenable=<*>,mode=<*>,manual=<*>,auto=<*>,adj=<*>.0userId=<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "animateCollapsePanels:flags=0, force=false, delayed=false, mExpandedVisible=true",
+    "EventTemplate": "animateCollapsePanels:flags=<*>, force=<*>, delayed=<*>, mExpandedVisible=<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)",
+    "EventTemplate": "setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "getNeighboringCellInfo calling app is com.amap.android.ams",
+    "EventTemplate": "getNeighboringCellInfo calling app is <*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "cancelPeek: false",
+    "EventTemplate": "cancelPeek: <*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "Skipping, withExcluded: false, tr.intent:Intent { flg=0x18800000 cmp=com.tencent.mm\/.plugin.base.stub.WXEntryActivity (has extras) }",
+    "EventTemplate": "Skipping, withExcluded: <*>, tr.intent:Intent { flg=<*> cmp=<*> (has extras) }"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "userActivityNoUpdateLocked: eventTime=261885816, event=2, flags=0x0, uid=1000",
+    "EventTemplate": "userActivityNoUpdateLocked: eventTime=<*>, event=<*>, flags=<*>, uid=<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "ready=true,policy=3,wakefulness=1,wksummary=0x1,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0",
+    "EventTemplate": "ready=<*>,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=<*>,boostinprogress=<*>,waitmodeenable=<*>,mode=<*>,manual=<*>,auto=<*>,adj=<*>.0userId=<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)",
+    "EventTemplate": "setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "getRunningAppProcesses: caller 10113 does not hold REAL_GET_TASKS; limiting output",
+    "EventTemplate": "getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "setLightsOn(true)",
+    "EventTemplate": "setLightsOn(<*>)"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "ready=true,policy=3,wakefulness=1,wksummary=0x1,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0",
+    "EventTemplate": "ready=<*>,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=<*>,boostinprogress=<*>,waitmodeenable=<*>,mode=<*>,manual=<*>,auto=<*>,adj=<*>.0userId=<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "ready=true,policy=3,wakefulness=1,wksummary=0x1,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0",
+    "EventTemplate": "ready=<*>,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=<*>,boostinprogress=<*>,waitmodeenable=<*>,mode=<*>,manual=<*>,auto=<*>,adj=<*>.0userId=<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "interceptKeyTq keycode=3 interactive=true keyguardActive=false policyFlags=2b000002 down false canceled false",
+    "EventTemplate": "interceptKeyTq keycode=<*> interactive=<*> keyguardActive=<*> policyFlags=<*> down <*> canceled <*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "updateNotificationShade: total=1, active=1",
+    "EventTemplate": "updateNotificationShade: total=<*>, active=<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "ready=true,policy=3,wakefulness=1,wksummary=0x1,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0",
+    "EventTemplate": "ready=<*>,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=<*>,boostinprogress=<*>,waitmodeenable=<*>,mode=<*>,manual=<*>,auto=<*>,adj=<*>.0userId=<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "updateDimmedActivatedHideSensitive overlap:false",
+    "EventTemplate": "updateDimmedActivatedHideSensitive overlap:<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "state.clipTopAmount:-1, i:0",
+    "EventTemplate": "state.clipTopAmount:<*>, i:<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "updateLightsLocked,mInCall =false,mScreenOn = true,ledNotification == null?false",
+    "EventTemplate": "updateLightsLocked,mInCall =<*>,mScreenOn = <*>,ledNotification == null?false"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "state.clipTopAmount:130, i:0",
+    "EventTemplate": "state.clipTopAmount:<*>, i:<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "acquire lock=134680583, flags=0x1, tag=\"RILJ_ACK_WL\", name=com.android.phone, ws=null, uid=1001, pid=2626",
+    "EventTemplate": "acquire lock=<*>, flags=<*>, tag=\"<*>\", name=<*>, ws=<*>, uid=<*>, pid=<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "getRunningAppProcesses: caller 10111 does not hold REAL_GET_TASKS; limiting output",
+    "EventTemplate": "getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "updateDimmedActivatedHideSensitive overlap:false",
+    "EventTemplate": "updateDimmedActivatedHideSensitive overlap:<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "removeNotificationChildren",
+    "EventTemplate": "removeNotificationChildren"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "userActivityNoUpdateLocked: eventTime=261976915, event=2, flags=0x0, uid=1000",
+    "EventTemplate": "userActivityNoUpdateLocked: eventTime=<*>, event=<*>, flags=<*>, uid=<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "registerCallback not in UI.",
+    "EventTemplate": "registerCallback not in UI."
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "updateDimmedActivatedHideSensitive overlap:false",
+    "EventTemplate": "updateDimmedActivatedHideSensitive overlap:<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "ready=true,policy=3,wakefulness=1,wksummary=0x1,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0",
+    "EventTemplate": "ready=<*>,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=<*>,boostinprogress=<*>,waitmodeenable=<*>,mode=<*>,manual=<*>,auto=<*>,adj=<*>.0userId=<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "ready=true,policy=3,wakefulness=1,wksummary=0x1,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0",
+    "EventTemplate": "ready=<*>,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=<*>,boostinprogress=<*>,waitmodeenable=<*>,mode=<*>,manual=<*>,auto=<*>,adj=<*>.0userId=<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "applyOptionsLocked: Unknown animationType=0",
+    "EventTemplate": "applyOptionsLocked: Unknown animationType=<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "getRunningAppProcesses: caller 10113 does not hold REAL_GET_TASKS; limiting output",
+    "EventTemplate": "getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "Animating brightness: target=38, rate=200",
+    "EventTemplate": "Animating brightness: target=<*>, rate=<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "release:lock=120758482, flg=0x0, tag=\"RILJ_ACK_WL\", name=com.android.phone\", ws=null, uid=1001, pid=2626",
+    "EventTemplate": "release:lock=<*>, flg=<*>, tag=\"<*>\", name=<*>, ws=<*>, uid=<*>, pid=<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "setLightsOn(true)",
+    "EventTemplate": "setLightsOn(<*>)"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "Destroying surface Surface(name=com.tencent.mobileqq\/com.tencent.mobileqq.activity.SplashActivity) called by com.android.server.wm.WindowStateAnimator.destroySurface:2060 com.android.server.wm.WindowStateAnimator.destroySurfaceLocked:913 com.android.server.wm.WindowState.destroyOrSaveSurface:2201 com.android.server.wm.AppWindowToken.destroySurfaces:374 com.android.server.wm.AppWindowToken.notifyAppStopped:400 com.android.server.wm.WindowManagerService.notifyAppStopped:4869 com.android.server.am.ActivityStack.activityStoppedLocked:1393 com.android.server.am.ActivityManagerService.activityStopped:7690",
+    "EventTemplate": "Destroying surface Surface(name=<*>) called by <*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "HBM brightnessOut =38",
+    "EventTemplate": "HBM brightnessOut =<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "setSystemUiVisibility vis=708 mask=ffffffff oldVal=40000500 newVal=708 diff=40000208 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 720, 1280), dockedStackBounds=Rect(0, 0 - 0, 0)",
+    "EventTemplate": "setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "getRingtonePlayer...",
+    "EventTemplate": "getRingtonePlayer..."
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "ready=true,policy=3,wakefulness=1,wksummary=0x0,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0",
+    "EventTemplate": "ready=<*>,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=<*>,boostinprogress=<*>,waitmodeenable=<*>,mode=<*>,manual=<*>,auto=<*>,adj=<*>.0userId=<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "setLightsOn(true)",
+    "EventTemplate": "setLightsOn(<*>)"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "notifyUiVisibilityChanged:vis=0xc0000700, SystemUiVisibility=0xc0000700",
+    "EventTemplate": "notifyUiVisibilityChanged:vis=<*>, SystemUiVisibility=<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "getRunningAppProcesses: caller 10113 does not hold REAL_GET_TASKS; limiting output",
+    "EventTemplate": "getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "cancelAutohide",
+    "EventTemplate": "cancelAutohide"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "HBM brightnessOut =38",
+    "EventTemplate": "HBM brightnessOut =<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "userActivityNoUpdateLocked: eventTime=261988799, event=0, flags=0x0, uid=1000",
+    "EventTemplate": "userActivityNoUpdateLocked: eventTime=<*>, event=<*>, flags=<*>, uid=<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "setLightsOn(true)",
+    "EventTemplate": "setLightsOn(<*>)"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "Animating brightness: target=38, rate=200",
+    "EventTemplate": "Animating brightness: target=<*>, rate=<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "getRingerMode...",
+    "EventTemplate": "getRingerMode..."
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "setLightsOn(true)",
+    "EventTemplate": "setLightsOn(<*>)"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "querySoundEffectsEnabled...",
+    "EventTemplate": "querySoundEffectsEnabled..."
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "getRunningAppProcesses: caller 10111 does not hold REAL_GET_TASKS; limiting output",
+    "EventTemplate": "getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "ready=true,policy=3,wakefulness=1,wksummary=0x0,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0",
+    "EventTemplate": "ready=<*>,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=<*>,boostinprogress=<*>,waitmodeenable=<*>,mode=<*>,manual=<*>,auto=<*>,adj=<*>.0userId=<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "setLightsOn(true)",
+    "EventTemplate": "setLightsOn(<*>)"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "visible is system.message.count gt 0",
+    "EventTemplate": "visible is <*> gt <*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "isMusicActive...",
+    "EventTemplate": "isMusicActive..."
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "HBM brightnessIn =38",
+    "EventTemplate": "HBM brightnessIn =<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "ready=true,policy=3,wakefulness=1,wksummary=0x1,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0",
+    "EventTemplate": "ready=<*>,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=<*>,boostinprogress=<*>,waitmodeenable=<*>,mode=<*>,manual=<*>,auto=<*>,adj=<*>.0userId=<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "unregisterAudioFocusListener...",
+    "EventTemplate": "unregisterAudioFocusListener..."
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "mVisiblity.getValue is false",
+    "EventTemplate": "mVisiblity.getValue is <*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "ready=true,policy=3,wakefulness=1,wksummary=0x0,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0",
+    "EventTemplate": "ready=<*>,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=<*>,boostinprogress=<*>,waitmodeenable=<*>,mode=<*>,manual=<*>,auto=<*>,adj=<*>.0userId=<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "updateNotificationShade: total=1, active=1",
+    "EventTemplate": "updateNotificationShade: total=<*>, active=<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "getTasks: caller 10111 does not hold REAL_GET_TASKS; limiting output",
+    "EventTemplate": "getTasks: caller <*> does not hold REAL_GET_TASKS; limiting output"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "rotationForOrientationLw(orient=1, last=0); user=0 USER_ROTATION_LOCKED",
+    "EventTemplate": "rotationForOrientationLw(orient=<*>, last=<*>); user=<*> USER_ROTATION_LOCKED"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "cancelNotification,index:-1",
+    "EventTemplate": "cancelNotification,index:<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "setLightsOn(true)",
+    "EventTemplate": "setLightsOn(<*>)"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "setLightsOn(true)",
+    "EventTemplate": "setLightsOn(<*>)"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "updateClipping isOverlap:false, getTopPadding=333.0, Translation=-429.0",
+    "EventTemplate": "updateClipping isOverlap:<*>, getTopPadding=<*>, Translation=<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "ready=true,policy=3,wakefulness=1,wksummary=0x0,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0",
+    "EventTemplate": "ready=<*>,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=<*>,boostinprogress=<*>,waitmodeenable=<*>,mode=<*>,manual=<*>,auto=<*>,adj=<*>.0userId=<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "updateClipping isOverlap:false, getTopPadding=333.0, Translation=-497.0",
+    "EventTemplate": "updateClipping isOverlap:<*>, getTopPadding=<*>, Translation=<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "shouldBlockLocation  ret:false",
+    "EventTemplate": "shouldBlockLocation ret:<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "getRecentTasks: topActivity=ComponentInfo{com.tencent.mm\/com.tencent.mm.ui.LauncherUI}",
+    "EventTemplate": "getRecentTasks: topActivity=ComponentInfo{<*>}"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "userActivityNoUpdateLocked: eventTime=261983047, event=2, flags=0x0, uid=1000",
+    "EventTemplate": "userActivityNoUpdateLocked: eventTime=<*>, event=<*>, flags=<*>, uid=<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "isMusicActive...",
+    "EventTemplate": "isMusicActive..."
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "interceptKeyTq keycode=3 interactive=true keyguardActive=false policyFlags=2b000002 down false canceled false",
+    "EventTemplate": "interceptKeyTq keycode=<*> interactive=<*> keyguardActive=<*> policyFlags=<*> down <*> canceled <*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "updateDimmedActivatedHideSensitive overlap:false",
+    "EventTemplate": "updateDimmedActivatedHideSensitive overlap:<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "ready=true,policy=3,wakefulness=1,wksummary=0x0,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0",
+    "EventTemplate": "ready=<*>,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=<*>,boostinprogress=<*>,waitmodeenable=<*>,mode=<*>,manual=<*>,auto=<*>,adj=<*>.0userId=<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "isBluetoothA2dpOn...",
+    "EventTemplate": "isBluetoothA2dpOn..."
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "HBM brightnessIn =38",
+    "EventTemplate": "HBM brightnessIn =<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "suspendAutohide",
+    "EventTemplate": "suspendAutohide"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "Skipping, withExcluded: false, tr.intent:Intent { flg=0x18800000 cmp=com.tencent.mm\/.plugin.base.stub.WXEntryActivity (has extras) }",
+    "EventTemplate": "Skipping, withExcluded: <*>, tr.intent:Intent { flg=<*> cmp=<*> (has extras) }"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "setLightsOn(true)",
+    "EventTemplate": "setLightsOn(<*>)"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "getRunningAppProcesses: caller 10091 does not hold REAL_GET_TASKS; limiting output",
+    "EventTemplate": "getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "ready=true,policy=3,wakefulness=1,wksummary=0x0,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0",
+    "EventTemplate": "ready=<*>,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=<*>,boostinprogress=<*>,waitmodeenable=<*>,mode=<*>,manual=<*>,auto=<*>,adj=<*>.0userId=<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "updateDimmedActivatedHideSensitive overlap:false",
+    "EventTemplate": "updateDimmedActivatedHideSensitive overlap:<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "cancelPeek: false",
+    "EventTemplate": "cancelPeek: <*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "HBM brightnessOut =38",
+    "EventTemplate": "HBM brightnessOut =<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "userActivityNoUpdateLocked: eventTime=261967011, event=2, flags=0x0, uid=1000",
+    "EventTemplate": "userActivityNoUpdateLocked: eventTime=<*>, event=<*>, flags=<*>, uid=<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "setLightsOn(true)",
+    "EventTemplate": "setLightsOn(<*>)"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "ready=true,policy=3,wakefulness=1,wksummary=0x0,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0",
+    "EventTemplate": "ready=<*>,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=<*>,boostinprogress=<*>,waitmodeenable=<*>,mode=<*>,manual=<*>,auto=<*>,adj=<*>.0userId=<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "Destroying surface Surface(name=PopupWindow:317e46) called by com.android.server.wm.WindowStateAnimator.destroySurface:2060 com.android.server.wm.WindowStateAnimator.destroySurfaceLocked:913 com.android.server.wm.WindowState.removeLocked:1554 com.android.server.wm.WindowManagerService.removeWindowInnerLocked:2739 com.android.server.wm.WindowManagerService.removeWindowInnerLocked:2702 com.android.server.wm.WindowManagerService.removeWindowLocked:2691 com.android.server.wm.WindowManagerService.removeWindowLocked:2560 com.android.server.wm.WindowManagerService.removeWindow:2555",
+    "EventTemplate": "Destroying surface Surface(name=<*>) called by <*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "querySoundEffectsEnabled...",
+    "EventTemplate": "querySoundEffectsEnabled..."
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "getRunningAppProcesses: caller 10027 does not hold REAL_GET_TASKS; limiting output",
+    "EventTemplate": "getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)",
+    "EventTemplate": "setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "suspendAutohide",
+    "EventTemplate": "suspendAutohide"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)",
+    "EventTemplate": "setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "Skipping, withExcluded: false, tr.intent:Intent { flg=0x10800000 cmp=com.tencent.qqmusic\/.business.lockscreen.LockScreenActivity (has extras) }",
+    "EventTemplate": "Skipping, withExcluded: <*>, tr.intent:Intent { flg=<*> cmp=<*> (has extras) }"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)",
+    "EventTemplate": "setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "closeQs",
+    "EventTemplate": "closeQs"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "setLightsOn(true)",
+    "EventTemplate": "setLightsOn(<*>)"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "setSystemUiVisibility vis=708 mask=ffffffff oldVal=40000500 newVal=708 diff=40000208 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 720, 1280), dockedStackBounds=Rect(0, 0 - 0, 0)",
+    "EventTemplate": "setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "Destroying surface Surface(name=InputMethod) called by com.android.server.wm.WindowStateAnimator.destroySurface:2060 com.android.server.wm.WindowStateAnimator.destroySurfaceLocked:913 com.android.server.wm.WindowState.destroyOrSaveSurface:2201 com.android.server.wm.WindowSurfacePlacer.performSurfacePlacementInner:517 com.android.server.wm.WindowSurfacePlacer.performSurfacePlacementLoop:291 com.android.server.wm.WindowSurfacePlacer.performSurfacePlacement:233 com.android.server.wm.WindowManagerService$H.handleMessage:8670 android.os.Handler.dispatchMessage:105",
+    "EventTemplate": "Destroying surface Surface(name=<*>) called by <*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)",
+    "EventTemplate": "setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)",
+    "EventTemplate": "setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "getTasks: caller 10111 does not hold REAL_GET_TASKS; limiting output",
+    "EventTemplate": "getTasks: caller <*> does not hold REAL_GET_TASKS; limiting output"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "HBM brightnessOut =38",
+    "EventTemplate": "HBM brightnessOut =<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "ready=true,policy=3,wakefulness=1,wksummary=0x1,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0",
+    "EventTemplate": "ready=<*>,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=<*>,boostinprogress=<*>,waitmodeenable=<*>,mode=<*>,manual=<*>,auto=<*>,adj=<*>.0userId=<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "Skipping, withExcluded: false, tr.intent:Intent { flg=0x10804000 cmp=com.android.systemui\/.recents.RecentsActivity bnds=[264,444][920,908] }",
+    "EventTemplate": "Skipping, withExcluded: <*>, tr.intent:Intent { flg=<*> cmp=<*> bnds=<*> }"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "shouldBlockLocation  ret:false",
+    "EventTemplate": "shouldBlockLocation ret:<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "updateDimmedActivatedHideSensitive overlap:false",
+    "EventTemplate": "updateDimmedActivatedHideSensitive overlap:<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "HBM brightnessOut =38",
+    "EventTemplate": "HBM brightnessOut =<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "*** register callback for com.android.systemui.statusbar.policy.KeyguardMonitor@712d093",
+    "EventTemplate": "*** register callback for <*>@<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "getTasks: caller 10111 does not hold REAL_GET_TASKS; limiting output",
+    "EventTemplate": "getTasks: caller <*> does not hold REAL_GET_TASKS; limiting output"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "ready=true,policy=3,wakefulness=1,wksummary=0x1,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0",
+    "EventTemplate": "ready=<*>,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=<*>,boostinprogress=<*>,waitmodeenable=<*>,mode=<*>,manual=<*>,auto=<*>,adj=<*>.0userId=<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "userActivityNoUpdateLocked: eventTime=261988739, event=1, flags=0x0, uid=1000",
+    "EventTemplate": "userActivityNoUpdateLocked: eventTime=<*>, event=<*>, flags=<*>, uid=<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "removeNotificationChildren",
+    "EventTemplate": "removeNotificationChildren"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "ready=true,policy=3,wakefulness=1,wksummary=0x0,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0",
+    "EventTemplate": "ready=<*>,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=<*>,boostinprogress=<*>,waitmodeenable=<*>,mode=<*>,manual=<*>,auto=<*>,adj=<*>.0userId=<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "ready=true,policy=3,wakefulness=1,wksummary=0x1,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0",
+    "EventTemplate": "ready=<*>,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=<*>,boostinprogress=<*>,waitmodeenable=<*>,mode=<*>,manual=<*>,auto=<*>,adj=<*>.0userId=<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "shouldBlockLocation  ret:false",
+    "EventTemplate": "shouldBlockLocation ret:<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "ready=true,policy=3,wakefulness=1,wksummary=0x0,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0",
+    "EventTemplate": "ready=<*>,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=<*>,boostinprogress=<*>,waitmodeenable=<*>,mode=<*>,manual=<*>,auto=<*>,adj=<*>.0userId=<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "playSoundEffect   effectType: 0",
+    "EventTemplate": "playSoundEffect effectType: <*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "updateClipping isOverlap:false, getTopPadding=333.0, Translation=-2.0",
+    "EventTemplate": "updateClipping isOverlap:<*>, getTopPadding=<*>, Translation=<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)",
+    "EventTemplate": "setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "Releasing suspend blocker \"PowerManagerService.WakeLocks\".",
+    "EventTemplate": "Releasing suspend blocker \"PowerManagerService.WakeLocks\"."
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "getRunningAppProcesses: caller 10111 does not hold REAL_GET_TASKS; limiting output",
+    "EventTemplate": "getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "logNotificationVisibilityChanges runInThread over",
+    "EventTemplate": "logNotificationVisibilityChanges runInThread over"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "HBM brightnessIn =38",
+    "EventTemplate": "HBM brightnessIn =<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "cancelNotification,index:-1",
+    "EventTemplate": "cancelNotification,index:<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "querySoundEffectsEnabled...",
+    "EventTemplate": "querySoundEffectsEnabled..."
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)",
+    "EventTemplate": "setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "release:lock=155645244, flg=0x0, tag=\"AudioMix\", name=audioserver\", ws=null, uid=1041, pid=0",
+    "EventTemplate": "release:lock=<*>, flg=<*>, tag=\"<*>\", name=<*>, ws=<*>, uid=<*>, pid=<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "setLightsOn(true)",
+    "EventTemplate": "setLightsOn(<*>)"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "android.util.AndroidRuntimeException: Must execute in UI",
+    "EventTemplate": "<*>: Must execute in UI"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "userActivityNoUpdateLocked: eventTime=261963848, event=2, flags=0x0, uid=1000",
+    "EventTemplate": "userActivityNoUpdateLocked: eventTime=<*>, event=<*>, flags=<*>, uid=<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "getRunningAppProcesses: caller 10113 does not hold REAL_GET_TASKS; limiting output",
+    "EventTemplate": "getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "Acquiring suspend blocker \"PowerManagerService.WakeLocks\".",
+    "EventTemplate": "Acquiring suspend blocker \"PowerManagerService.WakeLocks\"."
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "updateNotificationShade: total=0, active=0",
+    "EventTemplate": "updateNotificationShade: total=<*>, active=<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "ready=true,policy=3,wakefulness=1,wksummary=0x1,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0",
+    "EventTemplate": "ready=<*>,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=<*>,boostinprogress=<*>,waitmodeenable=<*>,mode=<*>,manual=<*>,auto=<*>,adj=<*>.0userId=<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "setLightsOn(true)",
+    "EventTemplate": "setLightsOn(<*>)"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "ready=true,policy=3,wakefulness=1,wksummary=0x0,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0",
+    "EventTemplate": "ready=<*>,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=<*>,boostinprogress=<*>,waitmodeenable=<*>,mode=<*>,manual=<*>,auto=<*>,adj=<*>.0userId=<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "onInterceptTouchEvent MotionEvent { action=ACTION_DOWN, actionButton=0, id[0]=0, x[0]=622.0, y[0]=86.0, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=261991304, downTime=261991304, deviceId=3, source=0x1002 }, mBlockTouches=false",
+    "EventTemplate": "onInterceptTouchEvent MotionEvent { action=ACTION_DOWN, actionButton=<*>, id[<*>]=<*>, x[<*>]=<*>, y[<*>]=<*>, toolType[<*>]=TOOL_TYPE_FINGER, buttonState=<*>, metaState=<*>, flags=<*>, edgeFlags=<*>, pointerCount=<*>, historySize=<*>, eventTime=<*>, downTime=<*>, deviceId=<*>, source=<*> }, mBlockTouches=<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "mHeadsUpExistenceChangedRunnable",
+    "EventTemplate": "mHeadsUpExistenceChangedRunnable"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "ready=true,policy=3,wakefulness=1,wksummary=0x1,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0",
+    "EventTemplate": "ready=<*>,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=<*>,boostinprogress=<*>,waitmodeenable=<*>,mode=<*>,manual=<*>,auto=<*>,adj=<*>.0userId=<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "HBM brightnessIn =38",
+    "EventTemplate": "HBM brightnessIn =<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "updateDimmedActivatedHideSensitive overlap:false",
+    "EventTemplate": "updateDimmedActivatedHideSensitive overlap:<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "setLightsOn(true)",
+    "EventTemplate": "setLightsOn(<*>)"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "Animating brightness: target=38, rate=200",
+    "EventTemplate": "Animating brightness: target=<*>, rate=<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "getRunningAppProcesses: caller 10113 does not hold REAL_GET_TASKS; limiting output",
+    "EventTemplate": "getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "Animating brightness: target=38, rate=200",
+    "EventTemplate": "Animating brightness: target=<*>, rate=<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "setLightsOn(true)",
+    "EventTemplate": "setLightsOn(<*>)"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "Destroying surface Surface(name=PopupWindow:317e46) called by com.android.server.wm.WindowStateAnimator.destroySurface:2060 com.android.server.wm.WindowStateAnimator.destroySurfaceLocked:913 com.android.server.wm.WindowState.removeLocked:1554 com.android.server.wm.WindowManagerService.removeWindowInnerLocked:2739 com.android.server.wm.WindowManagerService.removeWindowInnerLocked:2702 com.android.server.wm.WindowManagerService.removeWindowLocked:2691 com.android.server.wm.WindowManagerService.removeWindowLocked:2560 com.android.server.wm.WindowManagerService.removeWindow:2555",
+    "EventTemplate": "Destroying surface Surface(name=<*>) called by <*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "ready=true,policy=3,wakefulness=1,wksummary=0x1,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0",
+    "EventTemplate": "ready=<*>,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=<*>,boostinprogress=<*>,waitmodeenable=<*>,mode=<*>,manual=<*>,auto=<*>,adj=<*>.0userId=<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "ready=true,policy=3,wakefulness=1,wksummary=0x1,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0",
+    "EventTemplate": "ready=<*>,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=<*>,boostinprogress=<*>,waitmodeenable=<*>,mode=<*>,manual=<*>,auto=<*>,adj=<*>.0userId=<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "HBM brightnessIn =38",
+    "EventTemplate": "HBM brightnessIn =<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "HBM brightnessIn =38",
+    "EventTemplate": "HBM brightnessIn =<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "setLightsOn(true)",
+    "EventTemplate": "setLightsOn(<*>)"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "Skipping, withExcluded: false, tr.intent:Intent { flg=0x10800000 cmp=com.tencent.qqmusic\/.business.lockscreen.LockScreenActivity (has extras) }",
+    "EventTemplate": "Skipping, withExcluded: <*>, tr.intent:Intent { flg=<*> cmp=<*> (has extras) }"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "getRunningAppProcesses: caller 10111 does not hold REAL_GET_TASKS; limiting output",
+    "EventTemplate": "getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "getTasks: caller 10111 does not hold REAL_GET_TASKS; limiting output",
+    "EventTemplate": "getTasks: caller <*> does not hold REAL_GET_TASKS; limiting output"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "HBM brightnessOut =38",
+    "EventTemplate": "HBM brightnessOut =<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "ready=true,policy=3,wakefulness=1,wksummary=0x23,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0",
+    "EventTemplate": "ready=<*>,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=<*>,boostinprogress=<*>,waitmodeenable=<*>,mode=<*>,manual=<*>,auto=<*>,adj=<*>.0userId=<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "updateNotificationShade: total=0, active=0",
+    "EventTemplate": "updateNotificationShade: total=<*>, active=<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "updateNotificationShade: total=0, active=0",
+    "EventTemplate": "updateNotificationShade: total=<*>, active=<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "ready=true,policy=3,wakefulness=1,wksummary=0x1,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0",
+    "EventTemplate": "ready=<*>,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=<*>,boostinprogress=<*>,waitmodeenable=<*>,mode=<*>,manual=<*>,auto=<*>,adj=<*>.0userId=<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)",
+    "EventTemplate": "setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "getRecentTasks: num=20,flags=62,totalTasks=46",
+    "EventTemplate": "getRecentTasks: num=<*>,flags=<*>,totalTasks=<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "setLightsOn(true)",
+    "EventTemplate": "setLightsOn(<*>)"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "setSystemUiVisibility vis=40000500 mask=ffffffff oldVal=40000600 newVal=40000500 diff=300 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 720, 1280), dockedStackBounds=Rect(0, 0 - 0, 0)",
+    "EventTemplate": "setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)",
+    "EventTemplate": "setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "getRunningAppProcesses: caller 10111 does not hold REAL_GET_TASKS; limiting output",
+    "EventTemplate": "getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "updateClipping isOverlap:false, getTopPadding=333.0, Translation=0.0",
+    "EventTemplate": "updateClipping isOverlap:<*>, getTopPadding=<*>, Translation=<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)",
+    "EventTemplate": "setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "interceptKeyBeforeQueueing: key 3 , result : 1",
+    "EventTemplate": "interceptKeyBeforeQueueing: key <*> , result : <*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "HBM brightnessOut =38",
+    "EventTemplate": "HBM brightnessOut =<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)",
+    "EventTemplate": "setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "getTasks: caller 10020 does not hold REAL_GET_TASKS; limiting output",
+    "EventTemplate": "getTasks: caller <*> does not hold REAL_GET_TASKS; limiting output"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "ready=true,policy=3,wakefulness=1,wksummary=0x0,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0",
+    "EventTemplate": "ready=<*>,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=<*>,boostinprogress=<*>,waitmodeenable=<*>,mode=<*>,manual=<*>,auto=<*>,adj=<*>.0userId=<*>"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "Skipping, withExcluded: false, tr.intent:Intent { act=android.intent.action.VIEW dat=file:\/\/\/storage\/emulated\/0\/Tencent\/QQfile_recv\/b.apk typ=application\/vnd.android.package-archive flg=0x10800000 cmp=com.android.packageinstaller\/.PackageInstallerActivity (has extras) }",
+    "EventTemplate": "Skipping, withExcluded: <*>, tr.intent:Intent { act=<*> dat=<*> typ=<*> flg=<*> cmp=<*> (has extras) }"
+  },
+  {
+    "instruction": "Parse the input log to log template.",
+    "Content": "ready=true,policy=3,wakefulness=1,wksummary=0x0,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0",
+    "EventTemplate": "ready=<*>,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=<*>,boostinprogress=<*>,waitmodeenable=<*>,mode=<*>,manual=<*>,auto=<*>,adj=<*>.0userId=<*>"
+  }
+]

@@ -1,0 +1,33 @@
+Component State Change: Component \ 042SCSI-WWID:01000010:6005-08b4-0001-00c6-0006-3000-003d-0000\ 042 is in the unavailable state (HWID=1973),Component State Change: Component <*> <*> <*> <*> <*> <*> <*> <*> <*> is in the unavailable state (HWID=<*> ),Component State Change: Component <*> is in the unavailable state (HWID=<*>)
+Targeting domains:node-D7 and nodes:node-[224\ 228\ 232],Targeting domains:node-<*> and nodes:node-[<*> <*> <*> ],Targeting domains:node-<*> nodes:node-<*>
+Targeting domains:node-D[0\ 5] and nodes:node-[27\ 191],Targeting domains:node-<*> <*> and nodes:node-[<*> <*> ],Targeting domains:node-<*> nodes:node-<*>
+psu failure\ ambient=28,psu failure<*> ambient=<*>,psu failure\ ambient=<*>
+psu failure\ ambient=28,psu failure<*> ambient=<*>,psu failure\ ambient=<*>
+psu failure\ ambient=28,psu failure<*> ambient=<*>,psu failure\ ambient=<*>
+psu failure\ ambient=28,psu failure<*> ambient=<*>,psu failure\ ambient=<*>
+psu failure\ ambient=31,psu failure<*> ambient=<*>,psu failure\ ambient=<*>
+Fan speeds ( 3552 3534 3375 4245 3515 3479 ),Fan speeds ( <*> <*> <*> <*> ),Fan speeds ( <*> <*> <*> <*> <*> <*> )
+Fan speeds ( 3552 3534 3375 11637 3515 3479 ),Fan speeds ( <*> <*> <*> <*> ),Fan speeds ( <*> <*> <*> <*> <*> <*> )
+Fan speeds ( 3552 3534 3375 4245 3515 3479 ),Fan speeds ( <*> <*> <*> <*> ),Fan speeds ( <*> <*> <*> <*> <*> <*> )
+Fan speeds ( 3552 3534 3375 4470 3515 3479 ),Fan speeds ( <*> <*> <*> <*> ),Fan speeds ( <*> <*> <*> <*> <*> <*> )
+Fan speeds ( 3552 3534 3375 4166 3515 3479 ),Fan speeds ( <*> <*> <*> <*> ),Fan speeds ( <*> <*> <*> <*> <*> <*> )
+Fan speeds ( 3552 3534 3375 4530 3515 3479 ),Fan speeds ( <*> <*> <*> <*> ),Fan speeds ( <*> <*> <*> <*> <*> <*> )
+Fan speeds ( 3552 3534 3375 4192 3515 3479 ),Fan speeds ( <*> <*> <*> <*> ),Fan speeds ( <*> <*> <*> <*> <*> <*> )
+Fan speeds ( 3552 3534 3391 4299 3515 3479 ),Fan speeds ( <*> <*> <*> <*> ),Fan speeds ( <*> <*> <*> <*> <*> <*> )
+Fan speeds ( 3534 3534 3375 4272 3497 3479 ),Fan speeds ( <*> <*> <*> <*> <*> ),Fan speeds ( <*> <*> <*> <*> <*> <*> )
+Fan speeds ( 3534 3534 3375 4470 3497 3479 ),Fan speeds ( <*> <*> <*> <*> <*> ),Fan speeds ( <*> <*> <*> <*> <*> <*> )
+Fan speeds ( 3534 3534 3375 4115 3497 3479 ),Fan speeds ( <*> <*> <*> <*> <*> ),Fan speeds ( <*> <*> <*> <*> <*> <*> )
+Link error on broadcast tree Interconnect-0T00:00:2:1,Link error on broadcast tree Interconnect-<*> :<*> :<*>,Link error on broadcast tree Interconnect-<*>:<*>:<*>:<*>
+Link error on broadcast tree Interconnect-1T00:00:3:6,Link error on broadcast tree Interconnect-<*> :<*> :<*>,Link error on broadcast tree Interconnect-<*>:<*>:<*>:<*>
+Link error on broadcast tree Interconnect-1T00:00:2:0,Link error on broadcast tree Interconnect-<*> :<*> :<*>,Link error on broadcast tree Interconnect-<*>:<*>:<*>:<*>
+Link error on broadcast tree Interconnect-1T00:00:2:0,Link error on broadcast tree Interconnect-<*> :<*> :<*>,Link error on broadcast tree Interconnect-<*>:<*>:<*>:<*>
+ClusterFileSystem: ServerFileSystem domain cluster_root_backup is no longer served by node node-96,ClusterFileSystem: ServerFileSystem domain cluster_root_backup is no longer served by node node-<*>,ClusterFileSystem: ServerFileSystem domain <*> is no longer served by node node-<*>
+ClusterFileSystem: ServerFileSystem domain cluster_usr_backup is no longer served by node node-160,ClusterFileSystem: ServerFileSystem domain cluster_usr_backup is no longer served by node node-<*>,ClusterFileSystem: ServerFileSystem domain <*> is no longer served by node node-<*>
+ClusterFileSystem: ServerFileSystem domain cluster_usr_backup is no longer served by node node-192,ClusterFileSystem: ServerFileSystem domain cluster_usr_backup is no longer served by node node-<*>,ClusterFileSystem: ServerFileSystem domain <*> is no longer served by node node-<*>
+ClusterFileSystem: ServerFileSystem domain cluster_var_backup is no longer served by node node-224,ClusterFileSystem: ServerFileSystem domain cluster_<*> is no longer served by node node-<*>,ClusterFileSystem: ServerFileSystem domain <*> is no longer served by node node-<*>
+inconsistent nodesets node-160 0x0001edfe < ok> node-161 0x1001fdfe < ok> node-162 0x1001fdfe < ok> node-163 0x1001fdfe < ok>,inconsistent nodesets node-<*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,inconsistent nodesets node-<*> <*> <ok> node-<*> <*> <ok> node-<*> <*> <ok> node-<*> <*> <*>
+inconsistent nodesets node-32 0x00000002 < ok> node-34 0x000001fe < ok> node-33 0x000001fe < ok> node-35 0x000001fe < ok>,inconsistent nodesets node-<*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,inconsistent nodesets node-<*> <*> <ok> node-<*> <*> <ok> node-<*> <*> <ok> node-<*> <*> <*>
+inconsistent nodesets node-1 0x000001fc < ok> node-2 0x000001fc < ok> node-7 0x000001fc < ok> node-4 0x000001fc < ok> node-6 0x000001fc < ok> node-5 0x000001fc < ok> node-3 0x000001fc < ok> node-14 0x0003fdfc < ok> node-13 0x0003fdfc < ok> node-12 0x0003fdfc < ok> node-10 0x0003fdfc < ok> node-16 0x0003fdfc < ok> node-15 0x0003fdfc < ok>,inconsistent nodesets node-<*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,inconsistent nodesets node-<*> <*> <ok> node-<*> <*> <ok> node-<*> <*> <ok> node-<*> <*> <*>
+inconsistent nodesets node-31 0x1fffffffe < ok> node-0 0xfffffffe < ok> node-1 0xfffffffe < ok> node-2 0xfffffffe < ok> node-30 0xfffffffe < ok>,inconsistent nodesets node-<*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,inconsistent nodesets node-<*> <*> <ok> node-<*> <*> <ok> node-<*> <*> <ok> node-<*> <*> <*>
+risBoot (command 1903) Error: Timed out while waiting for SRM prompt: < ABORT code completed>,risBoot (command <*> ) Error: Timed out while waiting for SRM prompt: <*> ABORT code completed>,risBoot (command <*>) Error: Timed out while waiting for SRM prompt: <ABORT code completed>
+boot (command 2092) Error: HALT asserted\ cannot continue,boot (command <*> ) Error: HALT asserted<*> cannot continue,boot (command <*>) Error: HALT asserted\ cannot continue

@@ -1,0 +1,401 @@
+,instruction,Content,EventTemplate
+751,Parse the input log to log template.,"Connection broken for id 3, my id = 1, error =","Connection broken for id <*>, my id = <*>, error ="
+1545,Parse the input log to log template.,Send worker leaving thread,Send worker leaving thread
+881,Parse the input log to log template.,Send worker leaving thread,Send worker leaving thread
+396,Parse the input log to log template.,Interrupted while waiting for message on queue,Interrupted while waiting for message on queue
+509,Parse the input log to log template.,Established session 0x14ed93111f2005f with negotiated timeout 10000 for client /10.10.34.36:32876,Established session <*> with negotiated timeout <*> for client <*>:<*>
+1217,Parse the input log to log template.,Interrupting SendWorker,Interrupting SendWorker
+416,Parse the input log to log template.,Received connection request /10.10.34.13:60984,Received connection request <*>:<*>
+1701,Parse the input log to log template.,Interrupted while waiting for message on queue,Interrupted while waiting for message on queue
+1447,Parse the input log to log template.,Closed socket connection for client /10.10.34.12:36890 which had sessionid 0x24f4a631df9000b,Closed socket connection for client <*>:<*> which had sessionid <*>
+9,Parse the input log to log template.,Send worker leaving thread,Send worker leaving thread
+1371,Parse the input log to log template.,Connection request from old client /10.10.34.30:55417; will be dropped if server is in r-o mode,Connection request from old client <*>:<*>; will be dropped if server is in r-o mode
+335,Parse the input log to log template.,"Connection broken for id 188978561024, my id = 1, error =","Connection broken for id <*>, my id = <*>, error ="
+541,Parse the input log to log template.,Cannot open channel to 2 at election address /10.10.34.12:3888,Cannot open channel to <*> at election address <*>:<*>
+1023,Parse the input log to log template.,Send worker leaving thread,Send worker leaving thread
+60,Parse the input log to log template.,Interrupting SendWorker,Interrupting SendWorker
+1610,Parse the input log to log template.,Received connection request /10.10.34.11:47613,Received connection request <*>:<*>
+1878,Parse the input log to log template.,Interrupting SendWorker,Interrupting SendWorker
+314,Parse the input log to log template.,Interrupted while waiting for message on queue,Interrupted while waiting for message on queue
+619,Parse the input log to log template.,Server environment:os.name=Linux,Server environment:<*>
+296,Parse the input log to log template.,Interrupting SendWorker,Interrupting SendWorker
+1199,Parse the input log to log template.,Interrupting SendWorker,Interrupting SendWorker
+1339,Parse the input log to log template.,Established session 0x24ede63a01b000a with negotiated timeout 10000 for client /10.10.34.13:52286,Established session <*> with negotiated timeout <*> for client <*>:<*>
+907,Parse the input log to log template.,Send worker leaving thread,Send worker leaving thread
+598,Parse the input log to log template.,FOLLOWING - LEADER ELECTION TOOK - 238,FOLLOWING - LEADER ELECTION TOOK - <*>
+1205,Parse the input log to log template.,Interrupting SendWorker,Interrupting SendWorker
+364,Parse the input log to log template.,Received connection request /10.10.34.13:60726,Received connection request <*>:<*>
+1419,Parse the input log to log template.,"Notification: 2 (n.leader), 0xa0000009a (n.zxid), 0x1 (n.round), FOLLOWING (n.state), 1 (n.sid), 0xa (n.peerEPoch), LEADING (my state)","Notification: <*> (n.leader), <*> (n.zxid), <*> (n.round), FOLLOWING (n.state), <*> (n.sid), <*> (n.peerEPoch), LEADING (my state)"
+846,Parse the input log to log template.,Interrupting SendWorker,Interrupting SendWorker
+642,Parse the input log to log template.,Notification time out: 60000,Notification time out: <*>
+1148,Parse the input log to log template.,Received connection request /10.10.34.13:45295,Received connection request <*>:<*>
+1727,Parse the input log to log template.,Interrupted while waiting for message on queue,Interrupted while waiting for message on queue
+1283,Parse the input log to log template.,Processed session termination for sessionid: 0x14ed93111f20046,Processed session termination for sessionid: <*>
+760,Parse the input log to log template.,******* GOODBYE /10.10.34.12:59060 ********,******* GOODBYE <*>:<*> ********
+134,Parse the input log to log template.,"Connection broken for id 188978561024, my id = 1, error =","Connection broken for id <*>, my id = <*>, error ="
+260,Parse the input log to log template.,"Connection broken for id 188978561024, my id = 1, error =","Connection broken for id <*>, my id = <*>, error ="
+556,Parse the input log to log template.,caught end of stream exception,caught end of stream exception
+1992,Parse the input log to log template.,Accepted socket connection from /10.10.34.23:51828,Accepted socket connection from <*>:<*>
+1906,Parse the input log to log template.,"Connection broken for id 188978561024, my id = 3, error =","Connection broken for id <*>, my id = <*>, error ="
+1944,Parse the input log to log template.,Closed socket connection for client /10.10.34.18:46783 which had sessionid 0x34ed9ac1c1e0086,Closed socket connection for client <*>:<*> which had sessionid <*>
+1896,Parse the input log to log template.,Send worker leaving thread,Send worker leaving thread
+1454,Parse the input log to log template.,Reading snapshot /var/lib/zookeeper/version-2/snapshot.b00000084,Reading snapshot <*>
+649,Parse the input log to log template.,Cannot open channel to 2 at election address /10.10.34.12:3888,Cannot open channel to <*> at election address <*>:<*>
+1375,Parse the input log to log template.,Processed session termination for sessionid: 0x14edfaa86f60047,Processed session termination for sessionid: <*>
+1500,Parse the input log to log template.,Received connection request /10.10.34.12:47180,Received connection request <*>:<*>
+1670,Parse the input log to log template.,Received connection request /10.10.34.12:48426,Received connection request <*>:<*>
+1761,Parse the input log to log template.,"Connection broken for id 188978561024, my id = 3, error =","Connection broken for id <*>, my id = <*>, error ="
+1017,Parse the input log to log template.,"Connection broken for id 188978561024, my id = 2, error =","Connection broken for id <*>, my id = <*>, error ="
+1560,Parse the input log to log template.,Interrupting SendWorker,Interrupting SendWorker
+285,Parse the input log to log template.,"Connection broken for id 188978561024, my id = 1, error =","Connection broken for id <*>, my id = <*>, error ="
+1731,Parse the input log to log template.,Received connection request /10.10.34.13:46110,Received connection request <*>:<*>
+492,Parse the input log to log template.,Interrupting SendWorker,Interrupting SendWorker
+1413,Parse the input log to log template.,caught end of stream exception,caught end of stream exception
+50,Parse the input log to log template.,Send worker leaving thread,Send worker leaving thread
+1938,Parse the input log to log template.,Closed socket connection for client /10.10.34.12:59284 which had sessionid 0x34ed9ac1c1e0059,Closed socket connection for client <*>:<*> which had sessionid <*>
+1789,Parse the input log to log template.,Received connection request /10.10.34.12:49316,Received connection request <*>:<*>
+1424,Parse the input log to log template.,"Expiring session 0x14f3fdae8ba0002, timeout of 10000ms exceeded","Expiring session <*>, timeout of <*> exceeded"
+215,Parse the input log to log template.,Send worker leaving thread,Send worker leaving thread
+956,Parse the input log to log template.,Interrupted while waiting for message on queue,Interrupted while waiting for message on queue
+1975,Parse the input log to log template.,Server environment:os.name=Linux,Server environment:<*>
+1428,Parse the input log to log template.,Accepted socket connection from /10.10.34.12:36358,Accepted socket connection from <*>:<*>
+1654,Parse the input log to log template.,Interrupting SendWorker,Interrupting SendWorker
+616,Parse the input log to log template.,caught end of stream exception,caught end of stream exception
+408,Parse the input log to log template.,Received connection request /10.10.34.13:60918,Received connection request <*>:<*>
+1446,Parse the input log to log template.,Closed socket connection for client /10.10.34.11:34266 which had sessionid 0x24f4a631df9000a,Closed socket connection for client <*>:<*> which had sessionid <*>
+547,Parse the input log to log template.,Connection request from old client /10.10.34.13:38053; will be dropped if server is in r-o mode,Connection request from old client <*>:<*>; will be dropped if server is in r-o mode
+1957,Parse the input log to log template.,LOOKING,LOOKING
+1216,Parse the input log to log template.,Interrupting SendWorker,Interrupting SendWorker
+1379,Parse the input log to log template.,Follower sid: 3 : info : org.apache.zookeeper.server.quorum.QuorumPeer$QuorumServer@33557fe4,Follower sid: <*> : info : org.apache.zookeeper.server.quorum.QuorumPeer$QuorumServer@<*>
+1299,Parse the input log to log template.,Established session 0x24ed9311942007e with negotiated timeout 10000 for client /10.10.34.12:54673,Established session <*> with negotiated timeout <*> for client <*>:<*>
+1273,Parse the input log to log template.,Client attempting to establish new session at /10.10.34.12:54610,Client attempting to establish new session at <*>:<*>
+1181,Parse the input log to log template.,"Connection broken for id 188978561024, my id = 2, error =","Connection broken for id <*>, my id = <*>, error ="
+1700,Parse the input log to log template.,Interrupting SendWorker,Interrupting SendWorker
+1902,Parse the input log to log template.,Interrupted while waiting for message on queue,Interrupted while waiting for message on queue
+993,Parse the input log to log template.,Interrupting SendWorker,Interrupting SendWorker
+781,Parse the input log to log template.,******* GOODBYE /10.10.34.11:52844 ********,******* GOODBYE <*>:<*> ********
+286,Parse the input log to log template.,"Connection broken for id 188978561024, my id = 1, error =","Connection broken for id <*>, my id = <*>, error ="
+1469,Parse the input log to log template.,Send worker leaving thread,Send worker leaving thread
+280,Parse the input log to log template.,Send worker leaving thread,Send worker leaving thread
+852,Parse the input log to log template.,Interrupting SendWorker,Interrupting SendWorker
+833,Parse the input log to log template.,Interrupted while waiting for message on queue,Interrupted while waiting for message on queue
+798,Parse the input log to log template.,Interrupting SendWorker,Interrupting SendWorker
+1571,Parse the input log to log template.,Received connection request /10.10.34.11:47287,Received connection request <*>:<*>
+1012,Parse the input log to log template.,Send worker leaving thread,Send worker leaving thread
+1252,Parse the input log to log template.,Received connection request /10.10.34.13:45923,Received connection request <*>:<*>
+1449,Parse the input log to log template.,Processed session termination for sessionid: 0x14f4a6318b80019,Processed session termination for sessionid: <*>
+1566,Parse the input log to log template.,Interrupting SendWorker,Interrupting SendWorker
+520,Parse the input log to log template.,Closed socket connection for client /10.10.34.11:50940 which had sessionid 0x14ed93111f20099,Closed socket connection for client <*>:<*> which had sessionid <*>
+937,Parse the input log to log template.,Send worker leaving thread,Send worker leaving thread
+365,Parse the input log to log template.,Send worker leaving thread,Send worker leaving thread
+1923,Parse the input log to log template.,Accepted socket connection from /10.10.34.13:54298,Accepted socket connection from <*>:<*>
+1130,Parse the input log to log template.,"Connection broken for id 188978561024, my id = 2, error =","Connection broken for id <*>, my id = <*>, error ="
+915,Parse the input log to log template.,"Connection broken for id 188978561024, my id = 2, error =","Connection broken for id <*>, my id = <*>, error ="
+1460,Parse the input log to log template.,Getting a snapshot from leader,Getting a snapshot from leader
+916,Parse the input log to log template.,Received connection request /10.10.34.12:55803,Received connection request <*>:<*>
+377,Parse the input log to log template.,Interrupted while waiting for message on queue,Interrupted while waiting for message on queue
+1383,Parse the input log to log template.,Established session 0x24ee30a54f5001c with negotiated timeout 10000 for client /10.10.34.32:45013,Established session <*> with negotiated timeout <*> for client <*>:<*>
+905,Parse the input log to log template.,"Connection broken for id 188978561024, my id = 2, error =","Connection broken for id <*>, my id = <*>, error ="
+591,Parse the input log to log template.,Connection request from old client /10.10.34.13:39525; will be dropped if server is in r-o mode,Connection request from old client <*>:<*>; will be dropped if server is in r-o mode
+922,Parse the input log to log template.,Send worker leaving thread,Send worker leaving thread
+733,Parse the input log to log template.,Cannot open channel to 3 at election address /10.10.34.13:3888,Cannot open channel to <*> at election address <*>:<*>
+1421,Parse the input log to log template.,Processed session termination for sessionid: 0x34f1724a35e000c,Processed session termination for sessionid: <*>
+310,Parse the input log to log template.,Interrupting SendWorker,Interrupting SendWorker
+1647,Parse the input log to log template.,Interrupted while waiting for message on queue,Interrupted while waiting for message on queue
+1328,Parse the input log to log template.,"Expiring session 0x34ed9ac1c1e008f, timeout of 10000ms exceeded","Expiring session <*>, timeout of <*> exceeded"
+1917,Parse the input log to log template.,Received connection request /10.10.34.13:47500,Received connection request <*>:<*>
+415,Parse the input log to log template.,"Connection broken for id 188978561024, my id = 1, error =","Connection broken for id <*>, my id = <*>, error ="
+669,Parse the input log to log template.,Cannot open channel to 2 at election address /10.10.34.12:3888,Cannot open channel to <*> at election address <*>:<*>
+817,Parse the input log to log template.,"Connection broken for id 188978561024, my id = 2, error =","Connection broken for id <*>, my id = <*>, error ="
+1452,Parse the input log to log template.,"Expiring session 0x34f4a63146b0048, timeout of 10000ms exceeded","Expiring session <*>, timeout of <*> exceeded"
+351,Parse the input log to log template.,"Connection broken for id 188978561024, my id = 1, error =","Connection broken for id <*>, my id = <*>, error ="
+1229,Parse the input log to log template.,"Connection broken for id 188978561024, my id = 2, error =","Connection broken for id <*>, my id = <*>, error ="
+1286,Parse the input log to log template.,Processed session termination for sessionid: 0x14ed93111f2004f,Processed session termination for sessionid: <*>
+1030,Parse the input log to log template.,Interrupting SendWorker,Interrupting SendWorker
+1005,Parse the input log to log template.,Interrupted while waiting for message on queue,Interrupted while waiting for message on queue
+491,Parse the input log to log template.,Interrupting SendWorker,Interrupting SendWorker
+664,Parse the input log to log template.,Cannot open channel to 2 at election address /10.10.34.12:3888,Cannot open channel to <*> at election address <*>:<*>
+112,Parse the input log to log template.,Interrupting SendWorker,Interrupting SendWorker
+539,Parse the input log to log template.,Server environment:user.dir=/,Server environment:<*>
+522,Parse the input log to log template.,Connection request from old client /10.10.34.19:33442; will be dropped if server is in r-o mode,Connection request from old client <*>:<*>; will be dropped if server is in r-o mode
+1997,Parse the input log to log template.,"Expiring session 0x14f05578bd80006, timeout of 10000ms exceeded","Expiring session <*>, timeout of <*> exceeded"
+1215,Parse the input log to log template.,Received connection request /10.10.34.11:33186,Received connection request <*>:<*>
+208,Parse the input log to log template.,Interrupted while waiting for message on queue,Interrupted while waiting for message on queue
+85,Parse the input log to log template.,Interrupted while waiting for message on queue,Interrupted while waiting for message on queue
+1563,Parse the input log to log template.,Received connection request /10.10.34.12:47623,Received connection request <*>:<*>
+609,Parse the input log to log template.,Revalidating client: 0x14f05578bd80018,Revalidating client: <*>
+1214,Parse the input log to log template.,Interrupted while waiting for message on queue,Interrupted while waiting for message on queue
+1728,Parse the input log to log template.,Send worker leaving thread,Send worker leaving thread
+1660,Parse the input log to log template.,Interrupting SendWorker,Interrupting SendWorker
+1703,Parse the input log to log template.,Interrupted while waiting for message on queue,Interrupted while waiting for message on queue
+1662,Parse the input log to log template.,Interrupting SendWorker,Interrupting SendWorker
+206,Parse the input log to log template.,Interrupted while waiting for message on queue,Interrupted while waiting for message on queue
+914,Parse the input log to log template.,Send worker leaving thread,Send worker leaving thread
+241,Parse the input log to log template.,Interrupting SendWorker,Interrupting SendWorker
+1864,Parse the input log to log template.,"Connection broken for id 188978561024, my id = 3, error =","Connection broken for id <*>, my id = <*>, error ="
+1532,Parse the input log to log template.,"Connection broken for id 188978561024, my id = 3, error =","Connection broken for id <*>, my id = <*>, error ="
+127,Parse the input log to log template.,"Connection broken for id 188978561024, my id = 1, error =","Connection broken for id <*>, my id = <*>, error ="
+1096,Parse the input log to log template.,Interrupted while waiting for message on queue,Interrupted while waiting for message on queue
+758,Parse the input log to log template.,Unexpected exception causing shutdown while sock still open,Unexpected exception causing shutdown while sock still open
+653,Parse the input log to log template.,Notification time out: 60000,Notification time out: <*>
+340,Parse the input log to log template.,Interrupting SendWorker,Interrupting SendWorker
+979,Parse the input log to log template.,"Connection broken for id 188978561024, my id = 2, error =","Connection broken for id <*>, my id = <*>, error ="
+1515,Parse the input log to log template.,Send worker leaving thread,Send worker leaving thread
+1895,Parse the input log to log template.,Interrupting SendWorker,Interrupting SendWorker
+31,Parse the input log to log template.,"Connection broken for id 188978561024, my id = 1, error =","Connection broken for id <*>, my id = <*>, error ="
+1946,Parse the input log to log template.,caught end of stream exception,caught end of stream exception
+1534,Parse the input log to log template.,Interrupted while waiting for message on queue,Interrupted while waiting for message on queue
+566,Parse the input log to log template.,Cannot open channel to 2 at election address /10.10.34.12:3888,Cannot open channel to <*> at election address <*>:<*>
+1691,Parse the input log to log template.,Interrupted while waiting for message on queue,Interrupted while waiting for message on queue
+1933,Parse the input log to log template.,Client attempting to establish new session at /10.10.34.39:45022,Client attempting to establish new session at <*>:<*>
+647,Parse the input log to log template.,Notification time out: 60000,Notification time out: <*>
+1929,Parse the input log to log template.,Client attempting to establish new session at /10.10.34.38:43508,Client attempting to establish new session at <*>:<*>
+1590,Parse the input log to log template.,Interrupted while waiting for message on queue,Interrupted while waiting for message on queue
+1366,Parse the input log to log template.,Closed socket connection for client /10.10.34.13:45817 which had sessionid 0x24edfaa87170022,Closed socket connection for client <*>:<*> which had sessionid <*>
+953,Parse the input log to log template.,Send worker leaving thread,Send worker leaving thread
+25,Parse the input log to log template.,Interrupted while waiting for message on queue,Interrupted while waiting for message on queue
+808,Parse the input log to log template.,"Connection broken for id 188978561024, my id = 2, error =","Connection broken for id <*>, my id = <*>, error ="
+505,Parse the input log to log template.,Unexpected Exception:,Unexpected Exception:
+728,Parse the input log to log template.,Cannot open channel to 3 at election address /10.10.34.13:3888,Cannot open channel to <*> at election address <*>:<*>
+838,Parse the input log to log template.,Interrupting SendWorker,Interrupting SendWorker
+494,Parse the input log to log template.,Closed socket connection for client /10.10.34.18:42772 which had sessionid 0x14ed93111f20005,Closed socket connection for client <*>:<*> which had sessionid <*>
+1972,Parse the input log to log template.,Established session 0x34ede65503f0058 with negotiated timeout 20000 for client /10.10.34.11:51967,Established session <*> with negotiated timeout <*> for client <*>:<*>
+944,Parse the input log to log template.,"Connection broken for id 188978561024, my id = 2, error =","Connection broken for id <*>, my id = <*>, error ="
+1198,Parse the input log to log template.,Interrupted while waiting for message on queue,Interrupted while waiting for message on queue
+643,Parse the input log to log template.,Cannot open channel to 2 at election address /10.10.34.12:3888,Cannot open channel to <*> at election address <*>:<*>
+940,Parse the input log to log template.,Interrupting SendWorker,Interrupting SendWorker
+1682,Parse the input log to log template.,"Connection broken for id 188978561024, my id = 3, error =","Connection broken for id <*>, my id = <*>, error ="
+1687,Parse the input log to log template.,Received connection request /10.10.34.11:48254,Received connection request <*>:<*>
+1967,Parse the input log to log template.,Closed socket connection for client /10.10.34.11:51097 which had sessionid 0x34ede65503f002f,Closed socket connection for client <*>:<*> which had sessionid <*>
+1021,Parse the input log to log template.,Received connection request /10.10.34.13:44387,Received connection request <*>:<*>
+427,Parse the input log to log template.,Interrupting SendWorker,Interrupting SendWorker
+1681,Parse the input log to log template.,Interrupting SendWorker,Interrupting SendWorker
+1010,Parse the input log to log template.,Interrupted while waiting for message on queue,Interrupted while waiting for message on queue
+1588,Parse the input log to log template.,"Connection broken for id 188978561024, my id = 3, error =","Connection broken for id <*>, my id = <*>, error ="
+1078,Parse the input log to log template.,Received connection request /10.10.34.13:44842,Received connection request <*>:<*>
+1336,Parse the input log to log template.,Received connection request /10.10.34.13:33209,Received connection request <*>:<*>
+1930,Parse the input log to log template.,caught end of stream exception,caught end of stream exception
+1,Parse the input log to log template.,Received connection request /10.10.34.11:45307,Received connection request <*>:<*>
+482,Parse the input log to log template.,Received connection request /10.10.34.13:33266,Received connection request <*>:<*>
+1737,Parse the input log to log template.,"Connection broken for id 188978561024, my id = 3, error =","Connection broken for id <*>, my id = <*>, error ="
+793,Parse the input log to log template.,Interrupting SendWorker,Interrupting SendWorker
+442,Parse the input log to log template.,Received connection request /10.10.34.11:49204,Received connection request <*>:<*>
+1831,Parse the input log to log template.,"Connection broken for id 188978561024, my id = 3, error =","Connection broken for id <*>, my id = <*>, error ="
+878,Parse the input log to log template.,Send worker leaving thread,Send worker leaving thread
+1863,Parse the input log to log template.,Interrupted while waiting for message on queue,Interrupted while waiting for message on queue
+900,Parse the input log to log template.,Interrupting SendWorker,Interrupting SendWorker
+608,Parse the input log to log template.,Server environment:java.vendor=Oracle Corporation,Server environment:<*>
+1263,Parse the input log to log template.,Accepted socket connection from /10.10.34.11:50822,Accepted socket connection from <*>:<*>
+859,Parse the input log to log template.,Interrupted while waiting for message on queue,Interrupted while waiting for message on queue
+868,Parse the input log to log template.,Send worker leaving thread,Send worker leaving thread
+1200,Parse the input log to log template.,"Connection broken for id 188978561024, my id = 2, error =","Connection broken for id <*>, my id = <*>, error ="
+1899,Parse the input log to log template.,Send worker leaving thread,Send worker leaving thread
+8,Parse the input log to log template.,Interrupted while waiting for message on queue,Interrupted while waiting for message on queue
+912,Parse the input log to log template.,Send worker leaving thread,Send worker leaving thread
+1317,Parse the input log to log template.,Processed session termination for sessionid: 0x34ed9ac1c1e0078,Processed session termination for sessionid: <*>
+1640,Parse the input log to log template.,Interrupted while waiting for message on queue,Interrupted while waiting for message on queue
+1561,Parse the input log to log template.,Interrupting SendWorker,Interrupting SendWorker
+1866,Parse the input log to log template.,Received connection request /10.10.34.13:47032,Received connection request <*>:<*>
+1920,Parse the input log to log template.,Closed socket connection for client /10.10.34.13:54265 (no session established for client),Closed socket connection for client <*>:<*> (no session established for client)
+1472,Parse the input log to log template.,Send worker leaving thread,Send worker leaving thread
+22,Parse the input log to log template.,Interrupted while waiting for message on queue,Interrupted while waiting for message on queue
+632,Parse the input log to log template.,caught end of stream exception,caught end of stream exception
+1271,Parse the input log to log template.,Accepted socket connection from /10.10.34.21:51245,Accepted socket connection from <*>:<*>
+662,Parse the input log to log template.,Cannot open channel to 2 at election address /10.10.34.12:3888,Cannot open channel to <*> at election address <*>:<*>
+1583,Parse the input log to log template.,Interrupted while waiting for message on queue,Interrupted while waiting for message on queue
+1711,Parse the input log to log template.,"Connection broken for id 188978561024, my id = 3, error =","Connection broken for id <*>, my id = <*>, error ="
+79,Parse the input log to log template.,Interrupting SendWorker,Interrupting SendWorker
+319,Parse the input log to log template.,Send worker leaving thread,Send worker leaving thread
+1274,Parse the input log to log template.,"Expiring session 0x14ed93111f20020, timeout of 10000ms exceeded","Expiring session <*>, timeout of <*> exceeded"
+1178,Parse the input log to log template.,Received connection request /10.10.34.11:32964,Received connection request <*>:<*>
+559,Parse the input log to log template.,Established session 0x14ede63a5a7004b with negotiated timeout 10000 for client /10.10.34.11:40489,Established session <*> with negotiated timeout <*> for client <*>:<*>
+717,Parse the input log to log template.,Notification time out: 60000,Notification time out: <*>
+1536,Parse the input log to log template.,Send worker leaving thread,Send worker leaving thread
+697,Parse the input log to log template.,Cannot open channel to 2 at election address /10.10.34.12:3888,Cannot open channel to <*> at election address <*>:<*>
+29,Parse the input log to log template.,Interrupting SendWorker,Interrupting SendWorker
+242,Parse the input log to log template.,Send worker leaving thread,Send worker leaving thread
+1476,Parse the input log to log template.,Interrupting SendWorker,Interrupting SendWorker
+930,Parse the input log to log template.,"Connection broken for id 188978561024, my id = 2, error =","Connection broken for id <*>, my id = <*>, error ="
+483,Parse the input log to log template.,Interrupted while waiting for message on queue,Interrupted while waiting for message on queue
+48,Parse the input log to log template.,Interrupted while waiting for message on queue,Interrupted while waiting for message on queue
+1282,Parse the input log to log template.,"Expiring session 0x34ed9ac1c1e002b, timeout of 10000ms exceeded","Expiring session <*>, timeout of <*> exceeded"
+1492,Parse the input log to log template.,Received connection request /10.10.34.12:47103,Received connection request <*>:<*>
+1359,Parse the input log to log template.,Processed session termination for sessionid: 0x14edfaa86f60019,Processed session termination for sessionid: <*>
+15,Parse the input log to log template.,Interrupting SendWorker,Interrupting SendWorker
+259,Parse the input log to log template.,Interrupted while waiting for message on queue,Interrupted while waiting for message on queue
+1556,Parse the input log to log template.,"Connection broken for id 188978561024, my id = 3, error =","Connection broken for id <*>, my id = <*>, error ="
+982,Parse the input log to log template.,Interrupting SendWorker,Interrupting SendWorker
+1499,Parse the input log to log template.,Received connection request /10.10.34.12:47157,Received connection request <*>:<*>
+1395,Parse the input log to log template.,"Expiring session 0x14ee3e057ed002a, timeout of 10000ms exceeded","Expiring session <*>, timeout of <*> exceeded"
+737,Parse the input log to log template.,Cannot open channel to 2 at election address /10.10.34.12:3888,Cannot open channel to <*> at election address <*>:<*>
+923,Parse the input log to log template.,Send worker leaving thread,Send worker leaving thread
+730,Parse the input log to log template.,Cannot open channel to 2 at election address /10.10.34.12:3888,Cannot open channel to <*> at election address <*>:<*>
+424,Parse the input log to log template.,Received connection request /10.10.34.12:50849,Received connection request <*>:<*>
+1622,Parse the input log to log template.,Interrupting SendWorker,Interrupting SendWorker
+35,Parse the input log to log template.,Received connection request /10.10.34.12:47727,Received connection request <*>:<*>
+945,Parse the input log to log template.,Send worker leaving thread,Send worker leaving thread
+1100,Parse the input log to log template.,Send worker leaving thread,Send worker leaving thread
+1301,Parse the input log to log template.,Closed socket connection for client /10.10.34.11:53857 which had sessionid 0x24ed93119420082,Closed socket connection for client <*>:<*> which had sessionid <*>
+1771,Parse the input log to log template.,Interrupted while waiting for message on queue,Interrupted while waiting for message on queue
+193,Parse the input log to log template.,Interrupted while waiting for message on queue,Interrupted while waiting for message on queue
+146,Parse the input log to log template.,Send worker leaving thread,Send worker leaving thread
+1231,Parse the input log to log template.,Received connection request /10.10.34.13:45770,Received connection request <*>:<*>
+126,Parse the input log to log template.,Interrupting SendWorker,Interrupting SendWorker
+879,Parse the input log to log template.,Received connection request /10.10.34.11:58823,Received connection request <*>:<*>
+1004,Parse the input log to log template.,Interrupted while waiting for message on queue,Interrupted while waiting for message on queue
+1908,Parse the input log to log template.,Send worker leaving thread,Send worker leaving thread
+1294,Parse the input log to log template.,Processed session termination for sessionid: 0x24ed93119420073,Processed session termination for sessionid: <*>
+1581,Parse the input log to log template.,"Connection broken for id 188978561024, my id = 3, error =","Connection broken for id <*>, my id = <*>, error ="
+343,Parse the input log to log template.,Received connection request /10.10.34.11:48503,Received connection request <*>:<*>
+190,Parse the input log to log template.,Send worker leaving thread,Send worker leaving thread
+1706,Parse the input log to log template.,Received connection request /10.10.34.11:48394,Received connection request <*>:<*>
+387,Parse the input log to log template.,Interrupting SendWorker,Interrupting SendWorker
+1964,Parse the input log to log template.,Connection request from old client /10.10.34.11:51043; will be dropped if server is in r-o mode,Connection request from old client <*>:<*>; will be dropped if server is in r-o mode
+19,Parse the input log to log template.,Received connection request /10.10.34.11:45440,Received connection request <*>:<*>
+1811,Parse the input log to log template.,Interrupting SendWorker,Interrupting SendWorker
+925,Parse the input log to log template.,Received connection request /10.10.34.11:59250,Received connection request <*>:<*>
+1579,Parse the input log to log template.,Interrupted while waiting for message on queue,Interrupted while waiting for message on queue
+1159,Parse the input log to log template.,Interrupting SendWorker,Interrupting SendWorker
+667,Parse the input log to log template.,Cannot open channel to 2 at election address /10.10.34.12:3888,Cannot open channel to <*> at election address <*>:<*>
+1127,Parse the input log to log template.,Send worker leaving thread,Send worker leaving thread
+109,Parse the input log to log template.,Interrupting SendWorker,Interrupting SendWorker
+1802,Parse the input log to log template.,Interrupted while waiting for message on queue,Interrupted while waiting for message on queue
+540,Parse the input log to log template.,Connection request from old client /10.10.34.12:45728; will be dropped if server is in r-o mode,Connection request from old client <*>:<*>; will be dropped if server is in r-o mode
+1147,Parse the input log to log template.,Received connection request /10.10.34.13:45275,Received connection request <*>:<*>
+1049,Parse the input log to log template.,"Connection broken for id 188978561024, my id = 2, error =","Connection broken for id <*>, my id = <*>, error ="
+1477,Parse the input log to log template.,Received connection request /10.10.34.11:46538,Received connection request <*>:<*>
+770,Parse the input log to log template.,Unexpected exception causing shutdown while sock still open,Unexpected exception causing shutdown while sock still open
+1820,Parse the input log to log template.,Interrupting SendWorker,Interrupting SendWorker
+1593,Parse the input log to log template.,Interrupting SendWorker,Interrupting SendWorker
+1213,Parse the input log to log template.,Received connection request /10.10.34.13:45651,Received connection request <*>:<*>
+1868,Parse the input log to log template.,Received connection request /10.10.34.12:49786,Received connection request <*>:<*>
+1600,Parse the input log to log template.,Received connection request /10.10.34.12:47931,Received connection request <*>:<*>
+81,Parse the input log to log template.,Send worker leaving thread,Send worker leaving thread
+1540,Parse the input log to log template.,"Connection broken for id 188978561024, my id = 3, error =","Connection broken for id <*>, my id = <*>, error ="
+908,Parse the input log to log template.,Interrupted while waiting for message on queue,Interrupted while waiting for message on queue
+552,Parse the input log to log template.,Processed session termination for sessionid: 0x34ede65503f0039,Processed session termination for sessionid: <*>
+10,Parse the input log to log template.,Send worker leaving thread,Send worker leaving thread
+378,Parse the input log to log template.,"Connection broken for id 188978561024, my id = 1, error =","Connection broken for id <*>, my id = <*>, error ="
+830,Parse the input log to log template.,Interrupted while waiting for message on queue,Interrupted while waiting for message on queue
+1798,Parse the input log to log template.,"Connection broken for id 188978561024, my id = 3, error =","Connection broken for id <*>, my id = <*>, error ="
+1000,Parse the input log to log template.,Interrupted while waiting for message on queue,Interrupted while waiting for message on queue
+11,Parse the input log to log template.,"Connection broken for id 188978561024, my id = 1, error =","Connection broken for id <*>, my id = <*>, error ="
+1361,Parse the input log to log template.,Accepted socket connection from /10.10.34.34:56149,Accepted socket connection from <*>:<*>
+1882,Parse the input log to log template.,Received connection request /10.10.34.13:47199,Received connection request <*>:<*>
+532,Parse the input log to log template.,Closed socket connection for client /10.10.34.12:45697 which had sessionid 0x14ed93111f200d6,Closed socket connection for client <*>:<*> which had sessionid <*>
+37,Parse the input log to log template.,Interrupted while waiting for message on queue,Interrupted while waiting for message on queue
+1482,Parse the input log to log template.,Received connection request /10.10.34.11:46592,Received connection request <*>:<*>
+524,Parse the input log to log template.,Client attempting to establish new session at /10.10.34.11:53821,Client attempting to establish new session at <*>:<*>
+1462,Parse the input log to log template.,"Notification: 3 (n.leader), 0x0 (n.zxid), 0x1 (n.round), LOOKING (n.state), 3 (n.sid), 0x0 (n.peerEPoch), LOOKING (my state)","Notification: <*> (n.leader), <*> (n.zxid), <*> (n.round), LOOKING (n.state), <*> (n.sid), <*> (n.peerEPoch), LOOKING (my state)"
+1889,Parse the input log to log template.,"Connection broken for id 188978561024, my id = 3, error =","Connection broken for id <*>, my id = <*>, error ="
+1425,Parse the input log to log template.,Processed session termination for sessionid: 0x14f3fdae8ba0001,Processed session termination for sessionid: <*>
+1245,Parse the input log to log template.,Interrupting SendWorker,Interrupting SendWorker
+56,Parse the input log to log template.,Received connection request /10.10.34.11:45957,Received connection request <*>:<*>
+1978,Parse the input log to log template.,Accepted socket connection from /10.10.34.24:37975,Accepted socket connection from <*>:<*>
+1655,Parse the input log to log template.,Received connection request /10.10.34.13:45532,Received connection request <*>:<*>
+726,Parse the input log to log template.,Notification time out: 60000,Notification time out: <*>
+1362,Parse the input log to log template.,"Expiring session 0x34edfaa9c220022, timeout of 10000ms exceeded","Expiring session <*>, timeout of <*> exceeded"
+862,Parse the input log to log template.,Send worker leaving thread,Send worker leaving thread
+1672,Parse the input log to log template.,Received connection request /10.10.34.13:45695,Received connection request <*>:<*>
+388,Parse the input log to log template.,Interrupting SendWorker,Interrupting SendWorker
+1988,Parse the input log to log template.,minSessionTimeout set to -1,minSessionTimeout set to <*>
+149,Parse the input log to log template.,Send worker leaving thread,Send worker leaving thread
+1976,Parse the input log to log template.,Server environment:user.name=zookeeper,Server environment:<*>
+573,Parse the input log to log template.,caught end of stream exception,caught end of stream exception
+399,Parse the input log to log template.,"Connection broken for id 188978561024, my id = 1, error =","Connection broken for id <*>, my id = <*>, error ="
+987,Parse the input log to log template.,Send worker leaving thread,Send worker leaving thread
+1893,Parse the input log to log template.,Send worker leaving thread,Send worker leaving thread
+1309,Parse the input log to log template.,Processed session termination for sessionid: 0x24ed93119420094,Processed session termination for sessionid: <*>
+1714,Parse the input log to log template.,Interrupting SendWorker,Interrupting SendWorker
+1320,Parse the input log to log template.,Processed session termination for sessionid: 0x34ed9ac1c1e0085,Processed session termination for sessionid: <*>
+457,Parse the input log to log template.,Interrupted while waiting for message on queue,Interrupted while waiting for message on queue
+1870,Parse the input log to log template.,"Connection broken for id 188978561024, my id = 3, error =","Connection broken for id <*>, my id = <*>, error ="
+1704,Parse the input log to log template.,Send worker leaving thread,Send worker leaving thread
+214,Parse the input log to log template.,Received connection request /10.10.34.13:59689,Received connection request <*>:<*>
+1163,Parse the input log to log template.,Interrupted while waiting for message on queue,Interrupted while waiting for message on queue
+732,Parse the input log to log template.,Cannot open channel to 3 at election address /10.10.34.13:3888,Cannot open channel to <*> at election address <*>:<*>
+106,Parse the input log to log template.,Interrupting SendWorker,Interrupting SendWorker
+1721,Parse the input log to log template.,"Connection broken for id 188978561024, my id = 3, error =","Connection broken for id <*>, my id = <*>, error ="
+1388,Parse the input log to log template.,Processed session termination for sessionid: 0x34ee30a5c530011,Processed session termination for sessionid: <*>
+764,Parse the input log to log template.,******* GOODBYE /10.10.34.13:57319 ********,******* GOODBYE <*>:<*> ********
+1106,Parse the input log to log template.,Interrupting SendWorker,Interrupting SendWorker
+1673,Parse the input log to log template.,Send worker leaving thread,Send worker leaving thread
+1847,Parse the input log to log template.,"Connection broken for id 188978561024, my id = 3, error =","Connection broken for id <*>, my id = <*>, error ="
+1751,Parse the input log to log template.,Interrupted while waiting for message on queue,Interrupted while waiting for message on queue
+354,Parse the input log to log template.,Interrupted while waiting for message on queue,Interrupted while waiting for message on queue
+555,Parse the input log to log template.,Connection request from old client /10.10.34.13:38079; will be dropped if server is in r-o mode,Connection request from old client <*>:<*>; will be dropped if server is in r-o mode
+1520,Parse the input log to log template.,Received connection request /10.10.34.11:46914,Received connection request <*>:<*>
+801,Parse the input log to log template.,Send worker leaving thread,Send worker leaving thread
+225,Parse the input log to log template.,Received connection request /10.10.34.12:49588,Received connection request <*>:<*>
+1140,Parse the input log to log template.,Interrupted while waiting for message on queue,Interrupted while waiting for message on queue
+1179,Parse the input log to log template.,"Connection broken for id 188978561024, my id = 2, error =","Connection broken for id <*>, my id = <*>, error ="
+172,Parse the input log to log template.,Interrupting SendWorker,Interrupting SendWorker
+1529,Parse the input log to log template.,Send worker leaving thread,Send worker leaving thread
+201,Parse the input log to log template.,"Connection broken for id 188978561024, my id = 1, error =","Connection broken for id <*>, my id = <*>, error ="
+1210,Parse the input log to log template.,Interrupted while waiting for message on queue,Interrupted while waiting for message on queue
+612,Parse the input log to log template.,Client attempting to renew session 0x14f05578bd8001b at /10.10.34.20:56374,Client attempting to renew session <*> at <*>:<*>
+1817,Parse the input log to log template.,Received connection request /10.10.34.11:49300,Received connection request <*>:<*>
+1881,Parse the input log to log template.,"Connection broken for id 188978561024, my id = 3, error =","Connection broken for id <*>, my id = <*>, error ="
+1432,Parse the input log to log template.,First is 0x0,First is <*>
+404,Parse the input log to log template.,"Connection broken for id 188978561024, my id = 1, error =","Connection broken for id <*>, my id = <*>, error ="
+978,Parse the input log to log template.,"Connection broken for id 188978561024, my id = 2, error =","Connection broken for id <*>, my id = <*>, error ="
+1367,Parse the input log to log template.,Client attempting to establish new session at /10.10.34.12:54235,Client attempting to establish new session at <*>:<*>
+1342,Parse the input log to log template.,Established session 0x24ede63a01b0027 with negotiated timeout 10000 for client /10.10.34.13:52301,Established session <*> with negotiated timeout <*> for client <*>:<*>
+187,Parse the input log to log template.,Received connection request /10.10.34.13:59130,Received connection request <*>:<*>
+1750,Parse the input log to log template.,Interrupted while waiting for message on queue,Interrupted while waiting for message on queue
+1803,Parse the input log to log template.,Interrupting SendWorker,Interrupting SendWorker
+1028,Parse the input log to log template.,Interrupted while waiting for message on queue,Interrupted while waiting for message on queue
+1911,Parse the input log to log template.,Received connection request /10.10.34.13:47454,Received connection request <*>:<*>
+1991,Parse the input log to log template.,Closed socket connection for client /10.10.34.11:59186 which had sessionid 0x34ee30a5c530018,Closed socket connection for client <*>:<*> which had sessionid <*>
+333,Parse the input log to log template.,Interrupted while waiting for message on queue,Interrupted while waiting for message on queue
+1102,Parse the input log to log template.,Interrupted while waiting for message on queue,Interrupted while waiting for message on queue
+557,Parse the input log to log template.,Closed socket connection for client /10.10.34.13:38088 which had sessionid 0x14ede63a5a70048,Closed socket connection for client <*>:<*> which had sessionid <*>
+1797,Parse the input log to log template.,"Connection broken for id 188978561024, my id = 3, error =","Connection broken for id <*>, my id = <*>, error ="
+348,Parse the input log to log template.,Received connection request /10.10.34.11:48563,Received connection request <*>:<*>
+203,Parse the input log to log template.,Received connection request /10.10.34.13:59614,Received connection request <*>:<*>
+1291,Parse the input log to log template.,Accepted socket connection from /10.10.34.17:46387,Accepted socket connection from <*>:<*>
+825,Parse the input log to log template.,"Connection broken for id 188978561024, my id = 2, error =","Connection broken for id <*>, my id = <*>, error ="
+845,Parse the input log to log template.,"Connection broken for id 188978561024, my id = 2, error =","Connection broken for id <*>, my id = <*>, error ="
+1880,Parse the input log to log template.,"Connection broken for id 188978561024, my id = 3, error =","Connection broken for id <*>, my id = <*>, error ="
+973,Parse the input log to log template.,Send worker leaving thread,Send worker leaving thread
+1083,Parse the input log to log template.,Received connection request /10.10.34.13:44866,Received connection request <*>:<*>
+866,Parse the input log to log template.,Send worker leaving thread,Send worker leaving thread
+1916,Parse the input log to log template.,Interrupted while waiting for message on queue,Interrupted while waiting for message on queue
+1234,Parse the input log to log template.,Received connection request /10.10.34.12:57965,Received connection request <*>:<*>
+604,Parse the input log to log template.,caught end of stream exception,caught end of stream exception
+1121,Parse the input log to log template.,Interrupted while waiting for message on queue,Interrupted while waiting for message on queue
+288,Parse the input log to log template.,Interrupted while waiting for message on queue,Interrupted while waiting for message on queue
+1517,Parse the input log to log template.,Send worker leaving thread,Send worker leaving thread
+1987,Parse the input log to log template.,Received connection request /10.10.34.11:53230,Received connection request <*>:<*>
+840,Parse the input log to log template.,Interrupted while waiting for message on queue,Interrupted while waiting for message on queue
+70,Parse the input log to log template.,Send worker leaving thread,Send worker leaving thread
+749,Parse the input log to log template.,Notification time out: 60000,Notification time out: <*>
+1064,Parse the input log to log template.,Interrupted while waiting for message on queue,Interrupted while waiting for message on queue
+985,Parse the input log to log template.,Interrupted while waiting for message on queue,Interrupted while waiting for message on queue
+1766,Parse the input log to log template.,Received connection request /10.10.34.13:46410,Received connection request <*>:<*>
+1713,Parse the input log to log template.,"Connection broken for id 188978561024, my id = 3, error =","Connection broken for id <*>, my id = <*>, error ="
+1207,Parse the input log to log template.,Send worker leaving thread,Send worker leaving thread
+1488,Parse the input log to log template.,Send worker leaving thread,Send worker leaving thread
+1275,Parse the input log to log template.,Processed session termination for sessionid: 0x24ed93119420021,Processed session termination for sessionid: <*>
+1038,Parse the input log to log template.,Send worker leaving thread,Send worker leaving thread
+1898,Parse the input log to log template.,Send worker leaving thread,Send worker leaving thread
+1679,Parse the input log to log template.,Received connection request /10.10.34.13:45745,Received connection request <*>:<*>
+21,Parse the input log to log template.,Send worker leaving thread,Send worker leaving thread
+1237,Parse the input log to log template.,Received connection request /10.10.34.12:57977,Received connection request <*>:<*>
+284,Parse the input log to log template.,Send worker leaving thread,Send worker leaving thread
+1788,Parse the input log to log template.,Interrupted while waiting for message on queue,Interrupted while waiting for message on queue
+1743,Parse the input log to log template.,Interrupted while waiting for message on queue,Interrupted while waiting for message on queue
+295,Parse the input log to log template.,Interrupting SendWorker,Interrupting SendWorker
+1115,Parse the input log to log template.,Send worker leaving thread,Send worker leaving thread
+222,Parse the input log to log template.,Received connection request /10.10.34.11:47571,Received connection request <*>:<*>
+1609,Parse the input log to log template.,Interrupting SendWorker,Interrupting SendWorker
+581,Parse the input log to log template.,"Have smaller server identifier, so dropping the connection: (2, 1)","Have smaller server identifier, so dropping the connection: (<*>, <*>)"
+1850,Parse the input log to log template.,"Connection broken for id 188978561024, my id = 3, error =","Connection broken for id <*>, my id = <*>, error ="
+1745,Parse the input log to log template.,Interrupting SendWorker,Interrupting SendWorker
+1415,Parse the input log to log template.,Established session 0x24f1724b8af0009 with negotiated timeout 10000 for client /10.10.34.21:44834,Established session <*> with negotiated timeout <*> for client <*>:<*>
+1218,Parse the input log to log template.,Received connection request /10.10.34.12:57889,Received connection request <*>:<*>
+1518,Parse the input log to log template.,Send worker leaving thread,Send worker leaving thread
+1398,Parse the input log to log template.,Connection request from old client /10.10.34.20:44648; will be dropped if server is in r-o mode,Connection request from old client <*>:<*>; will be dropped if server is in r-o mode
+1091,Parse the input log to log template.,Interrupting SendWorker,Interrupting SendWorker
+1390,Parse the input log to log template.,Established session 0x24ee30a54f5001f with negotiated timeout 10000 for client /10.10.34.11:45102,Established session <*> with negotiated timeout <*> for client <*>:<*>
+783,Parse the input log to log template.,Unexpected exception causing shutdown while sock still open,Unexpected exception causing shutdown while sock still open

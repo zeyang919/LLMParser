@@ -1,0 +1,401 @@
+,instruction,Content,EventTemplate
+751,Parse the input log to log template.,"initUserPrivacy the userPrivacy switch is open, start push user data!","initUserPrivacy the userPrivacy switch is open, start push user data!"
+1545,Parse the input log to log template.,processHandleBroadcastAction action:android.intent.action.TIME_TICK,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+881,Parse the input log to log template.,onStandStepChanged 3760,onStandStepChanged <*>
+396,Parse the input log to log template.,setTodayTotalDetailSteps=1514038560000##7074##548562##8661##16256##27289470,setTodayTotalDetailSteps=<*>
+509,Parse the input log to log template.,calculateAltitudeWithCache totalAltitude=240,calculateAltitudeWithCache totalAltitude=<*>
+1217,Parse the input log to log template.,calculateAltitudeWithCache totalAltitude=240,calculateAltitudeWithCache totalAltitude=<*>
+416,Parse the input log to log template.,setTodayTotalDetailSteps=1514038560000##7077##548565##8661##16256##27309969,setTodayTotalDetailSteps=<*>
+1701,Parse the input log to log template., getTodayTotalDetailSteps = 1514044380000##7214##549659##8661##16256##33119761,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+1447,Parse the input log to log template.,onExtend:1514042205000 0 0 5,onExtend:<*> <*> <*> <*>
+9,Parse the input log to log template.,calculateAltitudeWithCache totalAltitude=240,calculateAltitudeWithCache totalAltitude=<*>
+1371,Parse the input log to log template.,setTodayTotalDetailSteps=1514041980000##7196##549659##8661##16256##30728728,setTodayTotalDetailSteps=<*>
+335,Parse the input log to log template.,calculateAltitudeWithCache totalAltitude=240,calculateAltitudeWithCache totalAltitude=<*>
+541,Parse the input log to log template., getTodayTotalDetailSteps = 1514038560000##7105##548582##8661##16256##27319968,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+1023,Parse the input log to log template.,onStandStepChanged 3761,onStandStepChanged <*>
+60,Parse the input log to log template.,calculateAltitudeWithCache totalAltitude=240,calculateAltitudeWithCache totalAltitude=<*>
+1610,Parse the input log to log template.,calculateAltitudeWithCache totalAltitude=240,calculateAltitudeWithCache totalAltitude=<*>
+1878,Parse the input log to log template.,calculateAltitudeWithCache totalAltitude=0,calculateAltitudeWithCache totalAltitude=<*>
+314,Parse the input log to log template.,calculateCaloriesWithCache totalCalories=127782,calculateCaloriesWithCache totalCalories=<*>
+619,Parse the input log to log template., getTodayTotalDetailSteps = 1514038680000##7124##548875##8661##16256##27393470,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+296,Parse the input log to log template.,onExtend:1514038556000 2 0 4,onExtend:<*> <*> <*> <*>
+1199,Parse the input log to log template.,onStandStepChanged 3761,onStandStepChanged <*>
+1339,Parse the input log to log template.,calculateCaloriesWithCache totalCalories=130673,calculateCaloriesWithCache totalCalories=<*>
+907,Parse the input log to log template.,onReceive action: android.intent.action.SCREEN_OFF,onReceive action: android.intent.action.SCREEN_OFF
+598,Parse the input log to log template., getTodayTotalDetailSteps = 1514038620000##7114##548860##8661##16256##27330470,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+1205,Parse the input log to log template.,onStandStepChanged 3761,onStandStepChanged <*>
+364,Parse the input log to log template.,REPORT : 7064 5043 151310 240,REPORT : <*> <*> <*> <*>
+1419,Parse the input log to log template., getTodayTotalDetailSteps = 1514041980000##7211##549659##8661##16256##30731730,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+846,Parse the input log to log template.,onStandStepChanged 3753,onStandStepChanged <*>
+642,Parse the input log to log template.,calculateCaloriesWithCache totalCalories=129452,calculateCaloriesWithCache totalCalories=<*>
+1148,Parse the input log to log template., getTodayTotalDetailSteps = 1514040660000##7189##549659##8661##16256##29409806,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+1727,Parse the input log to log template.,setTodayTotalDetailSteps=1514044440000##7214##549659##8661##16256##33168762,setTodayTotalDetailSteps=<*>
+1283,Parse the input log to log template.,getTodaySportData mStepsRecordManager=com.huawei.health.g.c@8a2a501,getTodaySportData mStepsRecordManager=<*>
+760,Parse the input log to log template.,"new date =20171223, type=40011,6314.0,old=6137.0","new date =<*>, type=<*>,<*>,old=<*>"
+134,Parse the input log to log template.,onStandStepChanged 3597,onStandStepChanged <*>
+260,Parse the input log to log template.,onStandStepChanged 3616,onStandStepChanged <*>
+556,Parse the input log to log template.,setTodayTotalDetailSteps=1514038560000##7109##548585##8661##16256##27322469,setTodayTotalDetailSteps=<*>
+1992,Parse the input log to log template.,processHandleBroadcastAction action:android.intent.action.TIME_TICK,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+1906,Parse the input log to log template., getTodayTotalDetailSteps = 1514045340000##0##549659##8661##16256##34054759,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+1944,Parse the input log to log template.,processHandleBroadcastAction action:android.intent.action.TIME_TICK,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+1896,Parse the input log to log template.,calculateCaloriesWithCache totalCalories=0,calculateCaloriesWithCache totalCalories=<*>
+1454,Parse the input log to log template.,onStandStepChanged 3786,onStandStepChanged <*>
+649,Parse the input log to log template.,calculateCaloriesWithCache totalCalories=129516,calculateCaloriesWithCache totalCalories=<*>
+1375,Parse the input log to log template.,onStandStepChanged 3770,onStandStepChanged <*>
+1500,Parse the input log to log template.,processHandleBroadcastAction action:android.intent.action.TIME_TICK,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+1670,Parse the input log to log template., getTodayTotalDetailSteps = 1514044320000##7214##549659##8661##16256##33075759,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+1761,Parse the input log to log template.,processHandleBroadcastAction action:android.intent.action.TIME_TICK,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+1017,Parse the input log to log template.,onExtend:1514039590000 0 0 5,onExtend:<*> <*> <*> <*>
+1560,Parse the input log to log template.,calculateCaloriesWithCache totalCalories=131208,calculateCaloriesWithCache totalCalories=<*>
+285,Parse the input log to log template.,calculateCaloriesWithCache totalCalories=127653,calculateCaloriesWithCache totalCalories=<*>
+1731,Parse the input log to log template.,onExtend:1514044525000 0 0 0,onExtend:<*> <*> <*> <*>
+492,Parse the input log to log template., getTodayTotalDetailSteps = 1514038560000##7095##548575##8661##16256##27314968,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+1413,Parse the input log to log template.,setTodayTotalDetailSteps=1514041980000##7211##549659##8661##16256##30731730,setTodayTotalDetailSteps=<*>
+50,Parse the input log to log template., getTodayTotalDetailSteps = 1514038440000##7013##548365##8661##12836##27176966,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+1938,Parse the input log to log template.,calculateAltitudeWithCache totalAltitude=0,calculateAltitudeWithCache totalAltitude=<*>
+1789,Parse the input log to log template.,setDiffTotalSteps=0,setDiffTotalSteps=<*>
+1424,Parse the input log to log template.,onStandStepChanged 3786,onStandStepChanged <*>
+215,Parse the input log to log template.,calculateCaloriesWithCache totalCalories=127396,calculateCaloriesWithCache totalCalories=<*>
+956,Parse the input log to log template.,onExtend:1514039112000 0 0 5,onExtend:<*> <*> <*> <*>
+1975,Parse the input log to log template.,stepSyncOrNot appSynTimes is 0,stepSyncOrNot appSynTimes is <*>
+1428,Parse the input log to log template.,calculateCaloriesWithCache totalCalories=131208,calculateCaloriesWithCache totalCalories=<*>
+1654,Parse the input log to log template.,calculateCaloriesWithCache totalCalories=131208,calculateCaloriesWithCache totalCalories=<*>
+616,Parse the input log to log template.,REPORT : 7124 5086 152596 240,REPORT : <*> <*> <*> <*>
+408,Parse the input log to log template., getTodayTotalDetailSteps = 1514038560000##7074##548563##8661##16256##27292475,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+1446,Parse the input log to log template.,onStandStepChanged 3786,onStandStepChanged <*>
+547,Parse the input log to log template.,onExtend:1514038678000 1 0 4,onExtend:<*> <*> <*> <*>
+1957,Parse the input log to log template., getTodayTotalDetailSteps = 1514046240000##0##549659##8661##16256##34960758,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+1216,Parse the input log to log template.,calculateCaloriesWithCache totalCalories=130673,calculateCaloriesWithCache totalCalories=<*>
+1379,Parse the input log to log template.,calculateCaloriesWithCache totalCalories=130865,calculateCaloriesWithCache totalCalories=<*>
+1299,Parse the input log to log template.,REPORT : 7189 5132 153988 240,REPORT : <*> <*> <*> <*>
+1273,Parse the input log to log template., getTodayTotalDetailSteps = 1514041560000##7189##549659##8661##16256##30270445,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+1181,Parse the input log to log template., getTodayTotalDetailSteps = 1514040720000##7189##549659##8661##16256##29425533,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+1700,Parse the input log to log template.,onExtend:1514044485000 0 0 5,onExtend:<*> <*> <*> <*>
+1902,Parse the input log to log template.,calculateCaloriesWithCache totalCalories=0,calculateCaloriesWithCache totalCalories=<*>
+993,Parse the input log to log template.,onStandStepChanged 3761,onStandStepChanged <*>
+781,Parse the input log to log template.,checkInsertStatus stepStatSum or calorieStatSum is enough,checkInsertStatus stepStatSum or calorieStatSum is enough
+286,Parse the input log to log template.,calculateAltitudeWithCache totalAltitude=240,calculateAltitudeWithCache totalAltitude=<*>
+1469,Parse the input log to log template.,onReceive action: android.intent.action.SCREEN_ON,onReceive action: android.intent.action.SCREEN_ON
+280,Parse the input log to log template.,REPORT : 7047 5031 150946 240,REPORT : <*> <*> <*> <*>
+852,Parse the input log to log template.,REPORT : 7181 5127 153817 240,REPORT : <*> <*> <*> <*>
+833,Parse the input log to log template.,onExtend:1514038802000 2 0 4,onExtend:<*> <*> <*> <*>
+798,Parse the input log to log template., getTodayTotalDetailSteps = 1514038680000##7163##548935##8661##16256##27442827,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+1571,Parse the input log to log template.,onStandStepChanged 3786,onStandStepChanged <*>
+1012,Parse the input log to log template.,initUserPrivacy the userPrivacy is true,initUserPrivacy the userPrivacy is <*>
+1252,Parse the input log to log template.,onExtend:1514041146000 0 0 5,onExtend:<*> <*> <*> <*>
+1449,Parse the input log to log template.,onReceive action: android.intent.action.SCREEN_ON,onReceive action: android.intent.action.SCREEN_ON
+1566,Parse the input log to log template.,onExtend:1514043610000 0 0 5,onExtend:<*> <*> <*> <*>
+520,Parse the input log to log template., getTodayTotalDetailSteps = 1514038560000##7102##548579##8661##16256##27317468,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+937,Parse the input log to log template.,calculateAltitudeWithCache totalAltitude=240,calculateAltitudeWithCache totalAltitude=<*>
+365,Parse the input log to log template.,onStandStepChanged 3638,onStandStepChanged <*>
+1923,Parse the input log to log template.,onStandStepChanged 3786,onStandStepChanged <*>
+1130,Parse the input log to log template.,setTodayTotalDetailSteps=1514040600000##7189##549659##8661##16256##29353602,setTodayTotalDetailSteps=<*>
+915,Parse the input log to log template.,onExtend:1514039059000 0 0 0,onExtend:<*> <*> <*> <*>
+1460,Parse the input log to log template.,"timeStamp back,extendReportTimeStamp=1514042265000","timeStamp back,extendReportTimeStamp=<*>"
+916,Parse the input log to log template.,onReceive action: android.intent.action.SCREEN_ON,onReceive action: android.intent.action.SCREEN_ON
+377,Parse the input log to log template.,calculateAltitudeWithCache totalAltitude=240,calculateAltitudeWithCache totalAltitude=<*>
+1383,Parse the input log to log template.,onExtend:1514042084000 2 0 4,onExtend:<*> <*> <*> <*>
+905,Parse the input log to log template.,calculateCaloriesWithCache totalCalories=130673,calculateCaloriesWithCache totalCalories=<*>
+591,Parse the input log to log template., getTodayTotalDetailSteps = 1514038620000##7114##548805##8661##16256##27329972,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+922,Parse the input log to log template.,calculateCaloriesWithCache totalCalories=130673,calculateCaloriesWithCache totalCalories=<*>
+733,Parse the input log to log template.,checkInsertStatus stepSum or calorieSum is enough,checkInsertStatus stepSum or calorieSum is enough
+1421,Parse the input log to log template.,calculateCaloriesWithCache totalCalories=131165,calculateCaloriesWithCache totalCalories=<*>
+310,Parse the input log to log template.,onExtend:1514038560000 1 0 4,onExtend:<*> <*> <*> <*>
+1647,Parse the input log to log template.,setTodayTotalDetailSteps=1514044320000##7214##549659##8661##16256##33055760,setTodayTotalDetailSteps=<*>
+1328,Parse the input log to log template., getTodayTotalDetailSteps = 1514041620000##7189##549659##8661##16256##30343722,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+1917,Parse the input log to log template.,onStandStepChanged 3786,onStandStepChanged <*>
+415,Parse the input log to log template., getTodayTotalDetailSteps = 1514038560000##7075##548564##8661##16256##27309470,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+669,Parse the input log to log template.,setTodayTotalDetailSteps=1514038680000##7154##548915##8661##16256##27398975,setTodayTotalDetailSteps=<*>
+817,Parse the input log to log template.,REPORT : 7170 5119 153581 240,REPORT : <*> <*> <*> <*>
+1452,Parse the input log to log template., getTodayTotalDetailSteps = 1514042100000##7214##549659##8661##16256##30827730,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+351,Parse the input log to log template.,onStandStepChanged 3634,onStandStepChanged <*>
+1229,Parse the input log to log template.,calculateAltitudeWithCache totalAltitude=240,calculateAltitudeWithCache totalAltitude=<*>
+1286,Parse the input log to log template.,setTodayTotalDetailSteps=1514041560000##7189##549659##8661##16256##30314585,setTodayTotalDetailSteps=<*>
+1030,Parse the input log to log template.,onStandStepChanged 3761,onStandStepChanged <*>
+1005,Parse the input log to log template.,startTimer start autoSync,startTimer start autoSync
+491,Parse the input log to log template.,onExtend:1514038671000 2 0 4,onExtend:<*> <*> <*> <*>
+664,Parse the input log to log template.,calculateAltitudeWithCache totalAltitude=240,calculateAltitudeWithCache totalAltitude=<*>
+112,Parse the input log to log template.,REPORT : 7021 5012 150389 240,REPORT : <*> <*> <*> <*>
+539,Parse the input log to log template.,onStandStepChanged 3678,onStandStepChanged <*>
+522,Parse the input log to log template.,calculateCaloriesWithCache totalCalories=128831,calculateCaloriesWithCache totalCalories=<*>
+1997,Parse the input log to log template.,processHandleBroadcastAction action:android.intent.action.TIME_TICK,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+1215,Parse the input log to log template.,setTodayTotalDetailSteps=1514040780000##7189##549659##8661##16256##29539649,setTodayTotalDetailSteps=<*>
+208,Parse the input log to log template.,calculateCaloriesWithCache totalCalories=127375,calculateCaloriesWithCache totalCalories=<*>
+85,Parse the input log to log template.,onStandStepChanged 3590,onStandStepChanged <*>
+1563,Parse the input log to log template.,processHandleBroadcastAction action:android.intent.action.TIME_TICK,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+609,Parse the input log to log template.,REPORT : 7122 5085 152553 240,REPORT : <*> <*> <*> <*>
+1214,Parse the input log to log template., getTodayTotalDetailSteps = 1514040720000##7189##549659##8661##16256##29437358,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+1728,Parse the input log to log template.,calculateCaloriesWithCache totalCalories=131208,calculateCaloriesWithCache totalCalories=<*>
+1660,Parse the input log to log template.,calculateCaloriesWithCache totalCalories=131208,calculateCaloriesWithCache totalCalories=<*>
+1703,Parse the input log to log template.,calculateCaloriesWithCache totalCalories=131208,calculateCaloriesWithCache totalCalories=<*>
+1662,Parse the input log to log template.,onStandStepChanged 3786,onStandStepChanged <*>
+206,Parse the input log to log template., getTodayTotalDetailSteps = 1514038440000##7034##548365##8661##14831##27189969,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+914,Parse the input log to log template.,onExtend:1514038999000 0 0 5,onExtend:<*> <*> <*> <*>
+241,Parse the input log to log template., getTodayTotalDetailSteps = 1514038440000##7039##548365##8661##15306##27192971,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+1864,Parse the input log to log template.,calculateAltitudeWithCache totalAltitude=0,calculateAltitudeWithCache totalAltitude=<*>
+1532,Parse the input log to log template.,processHandleBroadcastAction action:android.intent.action.TIME_TICK,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+127,Parse the input log to log template.,onStandStepChanged 3596,onStandStepChanged <*>
+1096,Parse the input log to log template.,processHandleBroadcastAction action:android.intent.action.TIME_TICK,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+758,Parse the input log to log template.,"new date =20171223, type=40003,214445.88000000006,old=210654.54000000004","new date =<*>, type=<*>,<*>,old=<*>"
+653,Parse the input log to log template.,onExtend:1514038752000 4 0 4,onExtend:<*> <*> <*> <*>
+340,Parse the input log to log template.,setTodayTotalDetailSteps=1514038560000##7058##548554##8661##16256##27285475,setTodayTotalDetailSteps=<*>
+979,Parse the input log to log template.,onExtend:1514039492000 0 0 5,onExtend:<*> <*> <*> <*>
+1515,Parse the input log to log template.,processHandleBroadcastAction action:android.intent.action.TIME_TICK,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+1895,Parse the input log to log template.,setTodayTotalDetailSteps=1514045340000##0##549659##8661##16256##34053757,setTodayTotalDetailSteps=<*>
+31,Parse the input log to log template.,calculateCaloriesWithCache totalCalories=126861,calculateCaloriesWithCache totalCalories=<*>
+1946,Parse the input log to log template.,processHandleBroadcastAction action:android.intent.action.TIME_TICK,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+1534,Parse the input log to log template.,processHandleBroadcastAction action:android.intent.action.TIME_TICK,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+566,Parse the input log to log template.,calculateAltitudeWithCache totalAltitude=240,calculateAltitudeWithCache totalAltitude=<*>
+1691,Parse the input log to log template.,calculateCaloriesWithCache totalCalories=131208,calculateCaloriesWithCache totalCalories=<*>
+1933,Parse the input log to log template.,onStandStepChanged 3786,onStandStepChanged <*>
+647,Parse the input log to log template., getTodayTotalDetailSteps = 1514038680000##7132##548895##8661##16256##27395468,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+1929,Parse the input log to log template.,processHandleBroadcastAction action:android.intent.action.TIME_TICK,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+1590,Parse the input log to log template.,onExtend:1514043967000 0 0 5,onExtend:<*> <*> <*> <*>
+1366,Parse the input log to log template.,calculateAltitudeWithCache totalAltitude=240,calculateAltitudeWithCache totalAltitude=<*>
+953,Parse the input log to log template.,processHandleBroadcastAction action:android.intent.action.TIME_TICK,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+25,Parse the input log to log template.,calculateAltitudeWithCache totalAltitude=240,calculateAltitudeWithCache totalAltitude=<*>
+808,Parse the input log to log template.,calculateAltitudeWithCache totalAltitude=240,calculateAltitudeWithCache totalAltitude=<*>
+505,Parse the input log to log template.,onExtend:1514038672000 2 0 4,onExtend:<*> <*> <*> <*>
+728,Parse the input log to log template.,startListenerChange subscribeList = [1],startListenerChange subscribeList = [<*>]
+838,Parse the input log to log template.,REPORT : 7176 5123 153709 240,REPORT : <*> <*> <*> <*>
+494,Parse the input log to log template.,calculateCaloriesWithCache totalCalories=128703,calculateCaloriesWithCache totalCalories=<*>
+1972,Parse the input log to log template.,startTimer start autoSync,startTimer start autoSync
+944,Parse the input log to log template.,onStandStepChanged 3761,onStandStepChanged <*>
+1198,Parse the input log to log template.,setTodayTotalDetailSteps=1514040720000##7189##549659##8661##16256##29437037,setTodayTotalDetailSteps=<*>
+643,Parse the input log to log template.,calculateAltitudeWithCache totalAltitude=240,calculateAltitudeWithCache totalAltitude=<*>
+940,Parse the input log to log template., getTodayTotalDetailSteps = 1514038980000##7189##549659##8661##16256##27736503,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+1682,Parse the input log to log template.,onExtend:1514044469000 0 0 0,onExtend:<*> <*> <*> <*>
+1687,Parse the input log to log template.,onStandStepChanged 3786,onStandStepChanged <*>
+1967,Parse the input log to log template.,setTodayTotalDetailSteps=1514046420000##0##549659##8661##16256##35149773,setTodayTotalDetailSteps=<*>
+1021,Parse the input log to log template.,calculateAltitudeWithCache totalAltitude=240,calculateAltitudeWithCache totalAltitude=<*>
+427,Parse the input log to log template.,onStandStepChanged 3653,onStandStepChanged <*>
+1681,Parse the input log to log template.,onStandStepChanged 3786,onStandStepChanged <*>
+1010,Parse the input log to log template.,initDataPrivacy the dataPrivacy is true,initDataPrivacy the dataPrivacy is <*>
+1588,Parse the input log to log template.,processHandleBroadcastAction action:android.intent.action.TIME_TICK,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+1078,Parse the input log to log template.,processHandleBroadcastAction action:android.intent.action.TIME_TICK,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+1336,Parse the input log to log template.,"timeStamp back,extendReportTimeStamp=1514042082000","timeStamp back,extendReportTimeStamp=<*>"
+1930,Parse the input log to log template.,processHandleBroadcastAction action:android.intent.action.TIME_TICK,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+1,Parse the input log to log template.,onExtend:1514038530000 14 0 4,onExtend:<*> <*> <*> <*>
+482,Parse the input log to log template.,REPORT : 7094 5065 151953 240,REPORT : <*> <*> <*> <*>
+1737,Parse the input log to log template.,onStandStepChanged 3786,onStandStepChanged <*>
+793,Parse the input log to log template.,ifCanSync not! no cloud version,ifCanSync not! no cloud version
+442,Parse the input log to log template.,onExtend:1514038668000 1 0 4,onExtend:<*> <*> <*> <*>
+1831,Parse the input log to log template.,calculateCaloriesWithCache totalCalories=0,calculateCaloriesWithCache totalCalories=<*>
+878,Parse the input log to log template.,calculateCaloriesWithCache totalCalories=130630,calculateCaloriesWithCache totalCalories=<*>
+1863,Parse the input log to log template.,calculateCaloriesWithCache totalCalories=0,calculateCaloriesWithCache totalCalories=<*>
+900,Parse the input log to log template.,calculateAltitudeWithCache totalAltitude=240,calculateAltitudeWithCache totalAltitude=<*>
+608,Parse the input log to log template.,calculateAltitudeWithCache totalAltitude=240,calculateAltitudeWithCache totalAltitude=<*>
+1263,Parse the input log to log template.,flush sensor data,flush sensor data
+859,Parse the input log to log template.,REPORT : 7183 5128 153859 240,REPORT : <*> <*> <*> <*>
+868,Parse the input log to log template.,onExtend:1514038805000 1 0 4,onExtend:<*> <*> <*> <*>
+1200,Parse the input log to log template.,calculateCaloriesWithCache totalCalories=130673,calculateCaloriesWithCache totalCalories=<*>
+1899,Parse the input log to log template.,onExtend:1514045410000 0 0 0,onExtend:<*> <*> <*> <*>
+8,Parse the input log to log template.,calculateCaloriesWithCache totalCalories=126775,calculateCaloriesWithCache totalCalories=<*>
+912,Parse the input log to log template.,onExtend:1514038879000 0 0 5,onExtend:<*> <*> <*> <*>
+1317,Parse the input log to log template.,onStandStepChanged 3761,onStandStepChanged <*>
+1640,Parse the input log to log template., getTodayTotalDetailSteps = 1514044320000##7214##549659##8661##16256##33041763,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+1561,Parse the input log to log template.,calculateAltitudeWithCache totalAltitude=240,calculateAltitudeWithCache totalAltitude=<*>
+1866,Parse the input log to log template.,processHandleBroadcastAction action:android.intent.action.TIME_TICK,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+1920,Parse the input log to log template.,setTodayTotalDetailSteps=1514045400000##0##549659##8661##16256##34160765,setTodayTotalDetailSteps=<*>
+1472,Parse the input log to log template.,onStandStepChanged 3786,onStandStepChanged <*>
+22,Parse the input log to log template., getTodayTotalDetailSteps = 1514038440000##7008##548365##8661##12456##27174269,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+632,Parse the input log to log template.,onExtend:1514038751000 2 0 4,onExtend:<*> <*> <*> <*>
+1271,Parse the input log to log template.,onExtend:1514041627000 0 0 5,onExtend:<*> <*> <*> <*>
+662,Parse the input log to log template.,setTodayTotalDetailSteps=1514038680000##7140##548910##8661##16256##27396969,setTodayTotalDetailSteps=<*>
+1583,Parse the input log to log template.,calculateCaloriesWithCache totalCalories=131208,calculateCaloriesWithCache totalCalories=<*>
+1711,Parse the input log to log template.,onStandStepChanged 3786,onStandStepChanged <*>
+79,Parse the input log to log template.,onStandStepChanged 3589,onStandStepChanged <*>
+319,Parse the input log to log template., getTodayTotalDetailSteps = 1514038500000##7054##548458##8661##16256##27204469,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+1274,Parse the input log to log template.,setTodayTotalDetailSteps=1514041560000##7189##549659##8661##16256##30270764,setTodayTotalDetailSteps=<*>
+1178,Parse the input log to log template.,onExtend:1514040781000 0 0 0,onExtend:<*> <*> <*> <*>
+559,Parse the input log to log template.,REPORT : 7109 5075 152274 240,REPORT : <*> <*> <*> <*>
+717,Parse the input log to log template.,"saveStatData() type =40002,time = 1513958400000,statClient = 2,who is 1","saveStatData() type =<*>,time = <*>,statClient = <*>,who is <*>"
+1536,Parse the input log to log template.,"startSync hiSyncOption = HiSyncOption{syncAction=1, syncMethod=2, syncScope=0, syncDataType=20000, syncModel=2, pushAction=0},app = 1 who = 1","startSync hiSyncOption = HiSyncOption{syncAction=<*>, syncMethod=<*>, syncScope=<*>, syncDataType=<*>, syncModel=<*>, pushAction=<*>},app = <*> who = <*>"
+697,Parse the input log to log template.,calculateCaloriesWithCache totalCalories=130052,calculateCaloriesWithCache totalCalories=<*>
+29,Parse the input log to log template., getTodayTotalDetailSteps = 1514038440000##7009##548365##8661##12551##27174951,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+242,Parse the input log to log template.,setTodayTotalDetailSteps=1514038440000##7040##548365##8661##15401##27193971,setTodayTotalDetailSteps=<*>
+1476,Parse the input log to log template.,calculateAltitudeWithCache totalAltitude=240,calculateAltitudeWithCache totalAltitude=<*>
+930,Parse the input log to log template.,calculateCaloriesWithCache totalCalories=130673,calculateCaloriesWithCache totalCalories=<*>
+483,Parse the input log to log template.,onStandStepChanged 3667,onStandStepChanged <*>
+48,Parse the input log to log template.,onStandStepChanged 3586,onStandStepChanged <*>
+1282,Parse the input log to log template.,calculateAltitudeWithCache totalAltitude=240,calculateAltitudeWithCache totalAltitude=<*>
+1492,Parse the input log to log template.,onStandStepChanged 3786,onStandStepChanged <*>
+1359,Parse the input log to log template.,calculateAltitudeWithCache totalAltitude=240,calculateAltitudeWithCache totalAltitude=<*>
+15,Parse the input log to log template., getTodayTotalDetailSteps = 1514038440000##7007##548365##8661##12361##27173954,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+259,Parse the input log to log template.,REPORT : 7042 5027 150839 240,REPORT : <*> <*> <*> <*>
+1556,Parse the input log to log template.,onStandStepChanged 3786,onStandStepChanged <*>
+982,Parse the input log to log template.,calculateCaloriesWithCache totalCalories=130673,calculateCaloriesWithCache totalCalories=<*>
+1499,Parse the input log to log template.,processHandleBroadcastAction action:android.intent.action.TIME_TICK,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+1395,Parse the input log to log template.,REPORT : 7202 5142 154266 240,REPORT : <*> <*> <*> <*>
+737,Parse the input log to log template.,checkInsertStatus stepStatSum or calorieStatSum is enough,checkInsertStatus stepStatSum or calorieStatSum is enough
+923,Parse the input log to log template.,calculateAltitudeWithCache totalAltitude=240,calculateAltitudeWithCache totalAltitude=<*>
+730,Parse the input log to log template.,insertHiHealthData() end totalTime = 45,insertHiHealthData() end totalTime = <*>
+424,Parse the input log to log template.,calculateCaloriesWithCache totalCalories=128317,calculateCaloriesWithCache totalCalories=<*>
+1622,Parse the input log to log template., getTodayTotalDetailSteps = 1514044260000##7214##549659##8661##16256##33021763,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+35,Parse the input log to log template.,onExtend:1514038532000 1 0 4,onExtend:<*> <*> <*> <*>
+945,Parse the input log to log template.,onExtend:1514039098000 0 0 5,onExtend:<*> <*> <*> <*>
+1100,Parse the input log to log template.,setTodayTotalDetailSteps=1514040600000##7189##549659##8661##16256##29307585,setTodayTotalDetailSteps=<*>
+1301,Parse the input log to log template.,setTodayTotalDetailSteps=1514041620000##7189##549659##8661##16256##30333554,setTodayTotalDetailSteps=<*>
+1771,Parse the input log to log template.,setTodayTotalDetailSteps=1514044560000##7214##549659##8661##16256##33306763,setTodayTotalDetailSteps=<*>
+193,Parse the input log to log template.,setTodayTotalDetailSteps=1514038440000##7033##548365##8661##14736##27189469,setTodayTotalDetailSteps=<*>
+146,Parse the input log to log template.,calculateAltitudeWithCache totalAltitude=240,calculateAltitudeWithCache totalAltitude=<*>
+1231,Parse the input log to log template.,onStandStepChanged 3761,onStandStepChanged <*>
+126,Parse the input log to log template.,REPORT : 7023 5014 150432 240,REPORT : <*> <*> <*> <*>
+879,Parse the input log to log template.,calculateAltitudeWithCache totalAltitude=240,calculateAltitudeWithCache totalAltitude=<*>
+1004,Parse the input log to log template.,processHandleBroadcastAction action:android.intent.action.TIME_TICK,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+1908,Parse the input log to log template.,calculateCaloriesWithCache totalCalories=0,calculateCaloriesWithCache totalCalories=<*>
+1294,Parse the input log to log template.,calculateCaloriesWithCache totalCalories=130673,calculateCaloriesWithCache totalCalories=<*>
+1581,Parse the input log to log template., getTodayTotalDetailSteps = 1514043540000##7214##549659##8661##16256##32258759,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+343,Parse the input log to log template.,REPORT : 7058 5039 151182 240,REPORT : <*> <*> <*> <*>
+190,Parse the input log to log template.,onStandStepChanged 3605,onStandStepChanged <*>
+1706,Parse the input log to log template.,onExtend:1514044487000 0 0 0,onExtend:<*> <*> <*> <*>
+387,Parse the input log to log template.,onExtend:1514038645000 1 0 4,onExtend:<*> <*> <*> <*>
+1964,Parse the input log to log template.,onStandStepChanged 3786,onStandStepChanged <*>
+19,Parse the input log to log template.,REPORT : 7008 5003 150111 240,REPORT : <*> <*> <*> <*>
+1811,Parse the input log to log template.,onExtend:1514044805000 0 0 5,onExtend:<*> <*> <*> <*>
+925,Parse the input log to log template.,onStandStepChanged 3761,onStandStepChanged <*>
+1579,Parse the input log to log template.,onStandStepChanged 3786,onStandStepChanged <*>
+1159,Parse the input log to log template.,onExtend:1514040772000 0 0 5,onExtend:<*> <*> <*> <*>
+667,Parse the input log to log template.,onExtend:1514038755000 14 0 4,onExtend:<*> <*> <*> <*>
+1127,Parse the input log to log template.,onStandStepChanged 3761,onStandStepChanged <*>
+109,Parse the input log to log template.,setTodayTotalDetailSteps=1514038440000##7021##548365##8661##13596##27181971,setTodayTotalDetailSteps=<*>
+1802,Parse the input log to log template.,closeNotification...,closeNotification...
+540,Parse the input log to log template.,onExtend:1514038677000 1 0 4,onExtend:<*> <*> <*> <*>
+1147,Parse the input log to log template.,onExtend:1514040766000 0 0 5,onExtend:<*> <*> <*> <*>
+1049,Parse the input log to log template.,calculateAltitudeWithCache totalAltitude=240,calculateAltitudeWithCache totalAltitude=<*>
+1477,Parse the input log to log template.,REPORT : 7214 5150 154523 240,REPORT : <*> <*> <*> <*>
+770,Parse the input log to log template.,startListenerChange subscribeList = [1],startListenerChange subscribeList = [<*>]
+1820,Parse the input log to log template.,calculateCaloriesWithCache totalCalories=0,calculateCaloriesWithCache totalCalories=<*>
+1593,Parse the input log to log template.,calculateCaloriesWithCache totalCalories=131208,calculateCaloriesWithCache totalCalories=<*>
+1213,Parse the input log to log template.,onExtend:1514040895000 0 0 5,onExtend:<*> <*> <*> <*>
+1868,Parse the input log to log template.,onExtend:1514045344000 0 0 5,onExtend:<*> <*> <*> <*>
+1600,Parse the input log to log template.,calculateAltitudeWithCache totalAltitude=240,calculateAltitudeWithCache totalAltitude=<*>
+81,Parse the input log to log template.,calculateAltitudeWithCache totalAltitude=240,calculateAltitudeWithCache totalAltitude=<*>
+1540,Parse the input log to log template.,initDataPrivacy the dataPrivacy is true,initDataPrivacy the dataPrivacy is <*>
+908,Parse the input log to log template.,processHandleBroadcastAction action:android.intent.action.TIME_TICK,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+552,Parse the input log to log template.,REPORT : 7107 5074 152231 240,REPORT : <*> <*> <*> <*>
+10,Parse the input log to log template.,REPORT : 7007 5002 150089 240,REPORT : <*> <*> <*> <*>
+378,Parse the input log to log template.,REPORT : 7068 5046 151396 240,REPORT : <*> <*> <*> <*>
+830,Parse the input log to log template.,calculateAltitudeWithCache totalAltitude=240,calculateAltitudeWithCache totalAltitude=<*>
+1798,Parse the input log to log template.,calculateAltitudeWithCache totalAltitude=0,calculateAltitudeWithCache totalAltitude=<*>
+1000,Parse the input log to log template., getTodayTotalDetailSteps = 1514039400000##7189##549659##8661##16256##28163940,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+11,Parse the input log to log template.,onExtend:1514038530000 0 0 4,onExtend:<*> <*> <*> <*>
+1361,Parse the input log to log template.,onStandStepChanged 3765,onStandStepChanged <*>
+1882,Parse the input log to log template.,setTodayTotalDetailSteps=1514045280000##0##549659##8661##16256##34018758,setTodayTotalDetailSteps=<*>
+532,Parse the input log to log template.,onStandStepChanged 3677,onStandStepChanged <*>
+37,Parse the input log to log template.,setTodayTotalDetailSteps=1514038440000##7012##548365##8661##12741##27176464,setTodayTotalDetailSteps=<*>
+1482,Parse the input log to log template.,calculateCaloriesWithCache totalCalories=131208,calculateCaloriesWithCache totalCalories=<*>
+524,Parse the input log to log template.,REPORT : 7103 5071 152146 240,REPORT : <*> <*> <*> <*>
+1462,Parse the input log to log template.,setTodayTotalDetailSteps=1514042160000##7214##549659##8661##16256##30905625,setTodayTotalDetailSteps=<*>
+1889,Parse the input log to log template.,calculateCaloriesWithCache totalCalories=0,calculateCaloriesWithCache totalCalories=<*>
+1425,Parse the input log to log template.,onExtend:1514042088000 2 0 4,onExtend:<*> <*> <*> <*>
+1245,Parse the input log to log template.,processHandleBroadcastAction action:android.intent.action.TIME_TICK,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+56,Parse the input log to log template.,onExtend:1514038534000 1 0 4,onExtend:<*> <*> <*> <*>
+1978,Parse the input log to log template.,initDataPrivacy the dataPrivacy is true,initDataPrivacy the dataPrivacy is <*>
+1655,Parse the input log to log template.,calculateAltitudeWithCache totalAltitude=240,calculateAltitudeWithCache totalAltitude=<*>
+726,Parse the input log to log template.,"new date =20171223, type=40004,5112.0,old=4985.0","new date =<*>, type=<*>,<*>,old=<*>"
+1362,Parse the input log to log template.,onExtend:1514042083000 1 0 4,onExtend:<*> <*> <*> <*>
+862,Parse the input log to log template., getTodayTotalDetailSteps = 1514038740000##7183##549302##8661##16256##27447483,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+1672,Parse the input log to log template.,calculateCaloriesWithCache totalCalories=131208,calculateCaloriesWithCache totalCalories=<*>
+388,Parse the input log to log template., getTodayTotalDetailSteps = 1514038560000##7070##548560##8661##16256##27288471,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+1988,Parse the input log to log template.,processHandleBroadcastAction action:android.intent.action.TIME_TICK,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+149,Parse the input log to log template.,onExtend:1514038541000 1 0 4,onExtend:<*> <*> <*> <*>
+1976,Parse the input log to log template.,needAutoSync autoSyncSwitch is open,needAutoSync autoSyncSwitch is open
+573,Parse the input log to log template.,calculateAltitudeWithCache totalAltitude=240,calculateAltitudeWithCache totalAltitude=<*>
+399,Parse the input log to log template.,REPORT : 7074 5050 151525 240,REPORT : <*> <*> <*> <*>
+987,Parse the input log to log template.,processHandleBroadcastAction action:android.intent.action.SCREEN_ON,processHandleBroadcastAction action:android.intent.action.SCREEN_ON
+1893,Parse the input log to log template.,onExtend:1514045409000 0 0 5,onExtend:<*> <*> <*> <*>
+1309,Parse the input log to log template.,calculateCaloriesWithCache totalCalories=130673,calculateCaloriesWithCache totalCalories=<*>
+1714,Parse the input log to log template.,setTodayTotalDetailSteps=1514044380000##7214##549659##8661##16256##33138759,setTodayTotalDetailSteps=<*>
+1320,Parse the input log to log template.,onExtend:1514041842000 0 0 5,onExtend:<*> <*> <*> <*>
+457,Parse the input log to log template., getTodayTotalDetailSteps = 1514038560000##7086##548570##8661##16256##27312467,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+1870,Parse the input log to log template.,setTodayTotalDetailSteps=1514045280000##0##549659##8661##16256##33988760,setTodayTotalDetailSteps=<*>
+1704,Parse the input log to log template.,calculateAltitudeWithCache totalAltitude=240,calculateAltitudeWithCache totalAltitude=<*>
+214,Parse the input log to log template.,setTodayTotalDetailSteps=1514038440000##7036##548365##8661##15021##27190970,setTodayTotalDetailSteps=<*>
+1163,Parse the input log to log template.,calculateAltitudeWithCache totalAltitude=240,calculateAltitudeWithCache totalAltitude=<*>
+732,Parse the input log to log template.,uploadStaticsToDB failed message=true,uploadStaticsToDB failed message=<*>
+106,Parse the input log to log template.,onStandStepChanged 3593,onStandStepChanged <*>
+1721,Parse the input log to log template.,calculateCaloriesWithCache totalCalories=131208,calculateCaloriesWithCache totalCalories=<*>
+1388,Parse the input log to log template.,REPORT : 7200 5140 154223 240,REPORT : <*> <*> <*> <*>
+764,Parse the input log to log template.,"new date =20171223, type=40034,292.73999999999995,old=292.73999999999995","new date =<*>, type=<*>,<*>,old=<*>"
+1106,Parse the input log to log template.,onReceive action: android.intent.action.SCREEN_ON,onReceive action: android.intent.action.SCREEN_ON
+1673,Parse the input log to log template.,calculateAltitudeWithCache totalAltitude=240,calculateAltitudeWithCache totalAltitude=<*>
+1847,Parse the input log to log template.,onStandStepChanged 3786,onStandStepChanged <*>
+1751,Parse the input log to log template., getTodayTotalDetailSteps = 1514044500000##7214##549659##8661##16256##33217764,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+354,Parse the input log to log template.,setTodayTotalDetailSteps=1514038560000##7062##548556##8661##16256##27286470,setTodayTotalDetailSteps=<*>
+555,Parse the input log to log template., getTodayTotalDetailSteps = 1514038560000##7107##548584##8661##16256##27321969,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+1520,Parse the input log to log template.,onStandStepChanged 3786,onStandStepChanged <*>
+801,Parse the input log to log template.,calculateAltitudeWithCache totalAltitude=240,calculateAltitudeWithCache totalAltitude=<*>
+225,Parse the input log to log template.,onStandStepChanged 3610,onStandStepChanged <*>
+1140,Parse the input log to log template., getTodayTotalDetailSteps = 1514040600000##7189##549659##8661##16256##29353602,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+1179,Parse the input log to log template.,"timeStamp back,extendReportTimeStamp=1514040836000","timeStamp back,extendReportTimeStamp=<*>"
+172,Parse the input log to log template.,setTodayTotalDetailSteps=1514038440000##7030##548365##8661##14451##27187468,setTodayTotalDetailSteps=<*>
+1529,Parse the input log to log template.,setTodayTotalDetailSteps=1514042880000##7214##549659##8661##16256##31589757,setTodayTotalDetailSteps=<*>
+201,Parse the input log to log template.,calculateCaloriesWithCache totalCalories=127354,calculateCaloriesWithCache totalCalories=<*>
+1210,Parse the input log to log template.,calculateAltitudeWithCache totalAltitude=240,calculateAltitudeWithCache totalAltitude=<*>
+612,Parse the input log to log template., getTodayTotalDetailSteps = 1514038680000##7122##548870##8661##16256##27392978,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+1817,Parse the input log to log template.,onExtend:1514044806000 0 0 0,onExtend:<*> <*> <*> <*>
+1881,Parse the input log to log template., getTodayTotalDetailSteps = 1514045280000##0##549659##8661##16256##33990761,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+1432,Parse the input log to log template.,onExtend:1514042091000 0 0 0,onExtend:<*> <*> <*> <*>
+404,Parse the input log to log template.,calculateCaloriesWithCache totalCalories=128210,calculateCaloriesWithCache totalCalories=<*>
+978,Parse the input log to log template.,onStandStepChanged 3761,onStandStepChanged <*>
+1367,Parse the input log to log template.,REPORT : 7193 5135 154074 240,REPORT : <*> <*> <*> <*>
+1342,Parse the input log to log template.,onExtend:1514042064000 0 0 0,onExtend:<*> <*> <*> <*>
+187,Parse the input log to log template.,calculateCaloriesWithCache totalCalories=127311,calculateCaloriesWithCache totalCalories=<*>
+1750,Parse the input log to log template.,onExtend:1514044588000 0 0 5,onExtend:<*> <*> <*> <*>
+1803,Parse the input log to log template.,deleteHealthNotification(),deleteHealthNotification()
+1028,Parse the input log to log template., getTodayTotalDetailSteps = 1514039520000##7189##549659##8661##16256##28234547,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+1911,Parse the input log to log template.,onExtend:1514045443000 0 0 0,onExtend:<*> <*> <*> <*>
+1991,Parse the input log to log template.,processHandleBroadcastAction action:android.intent.action.TIME_TICK,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+333,Parse the input log to log template.,setTodayTotalDetailSteps=1514038560000##7056##548553##8661##16256##27284971,setTodayTotalDetailSteps=<*>
+1102,Parse the input log to log template.,calculateAltitudeWithCache totalAltitude=240,calculateAltitudeWithCache totalAltitude=<*>
+557,Parse the input log to log template.,calculateCaloriesWithCache totalCalories=128960,calculateCaloriesWithCache totalCalories=<*>
+1797,Parse the input log to log template.,calculateCaloriesWithCache totalCalories=0,calculateCaloriesWithCache totalCalories=<*>
+348,Parse the input log to log template.,calculateCaloriesWithCache totalCalories=127910,calculateCaloriesWithCache totalCalories=<*>
+203,Parse the input log to log template.,REPORT : 7034 5022 150668 240,REPORT : <*> <*> <*> <*>
+1291,Parse the input log to log template.,REPORT : 7189 5132 153988 240,REPORT : <*> <*> <*> <*>
+825,Parse the input log to log template.,onStandStepChanged 3746,onStandStepChanged <*>
+845,Parse the input log to log template.,REPORT : 7179 5125 153774 240,REPORT : <*> <*> <*> <*>
+1880,Parse the input log to log template.,onExtend:1514045374000 0 0 5,onExtend:<*> <*> <*> <*>
+973,Parse the input log to log template., getTodayTotalDetailSteps = 1514039340000##7189##549659##8661##16256##28068346,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+1083,Parse the input log to log template.,calculateCaloriesWithCache totalCalories=130673,calculateCaloriesWithCache totalCalories=<*>
+866,Parse the input log to log template.,REPORT : 7185 5130 153902 240,REPORT : <*> <*> <*> <*>
+1916,Parse the input log to log template.,processHandleBroadcastAction action:android.intent.action.TIME_TICK,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+1234,Parse the input log to log template.,onExtend:1514040956000 0 0 0,onExtend:<*> <*> <*> <*>
+604,Parse the input log to log template.,onExtend:1514038749000 5 0 4,onExtend:<*> <*> <*> <*>
+1121,Parse the input log to log template.,onStandStepChanged 3761,onStandStepChanged <*>
+288,Parse the input log to log template.,onStandStepChanged 3622,onStandStepChanged <*>
+1517,Parse the input log to log template.,processHandleBroadcastAction action:android.intent.action.TIME_TICK,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+1987,Parse the input log to log template.,processHandleBroadcastAction action:android.intent.action.TIME_TICK,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+840,Parse the input log to log template.,onExtend:1514038802000 3 0 4,onExtend:<*> <*> <*> <*>
+70,Parse the input log to log template.,calculateAltitudeWithCache totalAltitude=240,calculateAltitudeWithCache totalAltitude=<*>
+749,Parse the input log to log template.,"initDataPrivacy the dataPrivacy switch is open, start push health data!","initDataPrivacy the dataPrivacy switch is open, start push health data!"
+1064,Parse the input log to log template.,REPORT : 7189 5132 153988 240,REPORT : <*> <*> <*> <*>
+985,Parse the input log to log template.,onStandStepChanged 3761,onStandStepChanged <*>
+1766,Parse the input log to log template.,calculateCaloriesWithCache totalCalories=131208,calculateCaloriesWithCache totalCalories=<*>
+1713,Parse the input log to log template., getTodayTotalDetailSteps = 1514044380000##7214##549659##8661##16256##33131773,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+1207,Parse the input log to log template., getTodayTotalDetailSteps = 1514040720000##7189##549659##8661##16256##29437037,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+1488,Parse the input log to log template., getTodayTotalDetailSteps = 1514042160000##7214##549659##8661##16256##30906710,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+1275,Parse the input log to log template.,calculateCaloriesWithCache totalCalories=130673,calculateCaloriesWithCache totalCalories=<*>
+1038,Parse the input log to log template.,calculateCaloriesWithCache totalCalories=130673,calculateCaloriesWithCache totalCalories=<*>
+1898,Parse the input log to log template.,onStandStepChanged 3786,onStandStepChanged <*>
+1679,Parse the input log to log template.,calculateCaloriesWithCache totalCalories=131208,calculateCaloriesWithCache totalCalories=<*>
+21,Parse the input log to log template.,onExtend:1514038531000 1 0 4,onExtend:<*> <*> <*> <*>
+1237,Parse the input log to log template.,calculateCaloriesWithCache totalCalories=130673,calculateCaloriesWithCache totalCalories=<*>
+284,Parse the input log to log template.,setTodayTotalDetailSteps=1514038440000##7048##548365##8661##15971##27198970,setTodayTotalDetailSteps=<*>
+1788,Parse the input log to log template.,setBasicStandardSteps basicStandardStep=3786 restartSteps=0,setBasicStandardSteps basicStandardStep=<*> restartSteps=<*>
+1743,Parse the input log to log template.,onStandStepChanged 3786,onStandStepChanged <*>
+295,Parse the input log to log template.,onStandStepChanged 3624,onStandStepChanged <*>
+1115,Parse the input log to log template.,onStandStepChanged 3761,onStandStepChanged <*>
+222,Parse the input log to log template.,calculateCaloriesWithCache totalCalories=127418,calculateCaloriesWithCache totalCalories=<*>
+1609,Parse the input log to log template.,calculateCaloriesWithCache totalCalories=131208,calculateCaloriesWithCache totalCalories=<*>
+581,Parse the input log to log template.,REPORT : 7113 5078 152360 240,REPORT : <*> <*> <*> <*>
+1850,Parse the input log to log template.,setTodayTotalDetailSteps=1514045160000##0##549659##8661##16256##33868758,setTodayTotalDetailSteps=<*>
+1745,Parse the input log to log template., getTodayTotalDetailSteps = 1514044500000##7214##549659##8661##16256##33216767,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+1415,Parse the input log to log template.,calculateAltitudeWithCache totalAltitude=240,calculateAltitudeWithCache totalAltitude=<*>
+1218,Parse the input log to log template.,processHandleBroadcastAction action:android.intent.action.TIME_TICK,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+1518,Parse the input log to log template.,processHandleBroadcastAction action:android.intent.action.TIME_TICK,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+1398,Parse the input log to log template., getTodayTotalDetailSteps = 1514041980000##7202##549659##8661##16256##30730227,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+1091,Parse the input log to log template.,processHandleBroadcastAction action:android.intent.action.TIME_TICK,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+1390,Parse the input log to log template.,onExtend:1514042085000 2 0 4,onExtend:<*> <*> <*> <*>
+783,Parse the input log to log template.,"startInsertSportSync start auto sync,app is 1","startInsertSportSync start auto sync,app is <*>"

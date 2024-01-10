@@ -1,0 +1,401 @@
+,instruction,Content,EventTemplate
+751,Parse the input log to log template.,input_userauth_request: invalid user postgres [preauth],input_userauth_request: invalid user <*> [preauth]
+1545,Parse the input log to log template.,Failed password for root from 183.62.140.253 port 42564 ssh2,Failed password for <*> from <*> port <*> ssh2
+881,Parse the input log to log template.,pam_unix(sshd:auth): check pass; user unknown,pam_unix(sshd:auth): check pass; user unknown
+396,Parse the input log to log template.,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=103.99.0.122  user=uucp,pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*> user=<*>
+509,Parse the input log to log template.,error: Received disconnect from 103.99.0.122: 14: No more user authentication methods available. [preauth],error: Received disconnect from <*>: <*>: No more user authentication methods available. [preauth]
+1217,Parse the input log to log template.,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=183.62.140.253  user=root,pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*> user=<*>
+416,Parse the input log to log template.,pam_unix(sshd:auth): check pass; user unknown,pam_unix(sshd:auth): check pass; user unknown
+1701,Parse the input log to log template.,Failed password for root from 183.62.140.253 port 33150 ssh2,Failed password for <*> from <*> port <*> ssh2
+1447,Parse the input log to log template.,Received disconnect from 183.62.140.253: 11: Bye Bye [preauth],Received disconnect from <*>: <*>: Bye Bye [preauth]
+9,Parse the input log to log template.,input_userauth_request: invalid user test9 [preauth],input_userauth_request: invalid user <*> [preauth]
+1371,Parse the input log to log template.,Failed password for root from 183.62.140.253 port 48088 ssh2,Failed password for <*> from <*> port <*> ssh2
+335,Parse the input log to log template.,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=185.190.58.151,pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*>
+541,Parse the input log to log template.,Received disconnect from 187.141.143.180: 11: Bye Bye [preauth],Received disconnect from <*>: <*>: Bye Bye [preauth]
+1023,Parse the input log to log template.,Failed password for invalid user zhangyan from 183.62.140.253 port 33521 ssh2,Failed password for invalid user <*> from <*> port <*> ssh2
+60,Parse the input log to log template.,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=112.95.230.3  user=root,pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*> user=<*>
+1610,Parse the input log to log template.,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=183.62.140.253  user=root,pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*> user=<*>
+1878,Parse the input log to log template.,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=183.62.140.253  user=root,pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*> user=<*>
+314,Parse the input log to log template.,Connection closed by 185.190.58.151 [preauth],Connection closed by <*> [preauth]
+619,Parse the input log to log template.,reverse mapping checking getaddrinfo for customer-187-141-143-180-sta.uninet-ide.com.mx [187.141.143.180] failed - POSSIBLE BREAK-IN ATTEMPT!,reverse mapping checking getaddrinfo for <*> [<*>] failed - POSSIBLE BREAK-IN ATTEMPT!
+296,Parse the input log to log template.,input_userauth_request: invalid user 0 [preauth],input_userauth_request: invalid user <*> [preauth]
+1199,Parse the input log to log template.,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=183.62.140.253  user=root,pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*> user=<*>
+1339,Parse the input log to log template.,Received disconnect from 183.62.140.253: 11: Bye Bye [preauth],Received disconnect from <*>: <*>: Bye Bye [preauth]
+907,Parse the input log to log template.,reverse mapping checking getaddrinfo for customer-187-141-143-180-sta.uninet-ide.com.mx [187.141.143.180] failed - POSSIBLE BREAK-IN ATTEMPT!,reverse mapping checking getaddrinfo for <*> [<*>] failed - POSSIBLE BREAK-IN ATTEMPT!
+598,Parse the input log to log template.,Received disconnect from 187.141.143.180: 11: Bye Bye [preauth],Received disconnect from <*>: <*>: Bye Bye [preauth]
+1205,Parse the input log to log template.,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=183.62.140.253  user=root,pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*> user=<*>
+364,Parse the input log to log template.,Invalid user 1234 from 103.99.0.122,Invalid user <*> from <*>
+1419,Parse the input log to log template.,Failed password for root from 183.62.140.253 port 54699 ssh2,Failed password for <*> from <*> port <*> ssh2
+846,Parse the input log to log template.,Failed password for invalid user admin from 103.207.39.16 port 46723 ssh2,Failed password for invalid user <*> from <*> port <*> ssh2
+642,Parse the input log to log template.,Received disconnect from 187.141.143.180: 11: Bye Bye [preauth],Received disconnect from <*>: <*>: Bye Bye [preauth]
+1148,Parse the input log to log template.,Invalid user oracle from 183.62.140.253,Invalid user <*> from <*>
+1727,Parse the input log to log template.,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=183.62.140.253  user=root,pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*> user=<*>
+1283,Parse the input log to log template.,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=183.62.140.253  user=root,pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*> user=<*>
+760,Parse the input log to log template.,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=187.141.143.180,pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*>
+134,Parse the input log to log template.,Received disconnect from 123.235.32.19: 11: Bye Bye [preauth],Received disconnect from <*>: <*>: Bye Bye [preauth]
+260,Parse the input log to log template.,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=5.188.10.180,pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*>
+556,Parse the input log to log template.,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=187.141.143.180  user=root,pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*> user=<*>
+1992,Parse the input log to log template.,Invalid user user from 103.99.0.122,Invalid user <*> from <*>
+1906,Parse the input log to log template.,input_userauth_request: invalid user admin [preauth],input_userauth_request: invalid user <*> [preauth]
+1944,Parse the input log to log template.,Failed password for root from 183.62.140.253 port 32826 ssh2,Failed password for <*> from <*> port <*> ssh2
+1896,Parse the input log to log template.,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=183.62.140.253  user=root,pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*> user=<*>
+1454,Parse the input log to log template.,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=183.62.140.253  user=root,pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*> user=<*>
+649,Parse the input log to log template.,Failed password for root from 187.141.143.180 port 44414 ssh2,Failed password for <*> from <*> port <*> ssh2
+1375,Parse the input log to log template.,Received disconnect from 183.62.140.253: 11: Bye Bye [preauth],Received disconnect from <*>: <*>: Bye Bye [preauth]
+1500,Parse the input log to log template.,Failed password for root from 183.62.140.253 port 37033 ssh2,Failed password for <*> from <*> port <*> ssh2
+1670,Parse the input log to log template.,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=183.62.140.253  user=root,pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*> user=<*>
+1761,Parse the input log to log template.,Failed password for root from 183.62.140.253 port 40931 ssh2,Failed password for <*> from <*> port <*> ssh2
+1017,Parse the input log to log template.,Connection closed by 88.147.143.242 [preauth],Connection closed by <*> [preauth]
+1560,Parse the input log to log template.,Failed password for root from 183.62.140.253 port 44532 ssh2,Failed password for <*> from <*> port <*> ssh2
+285,Parse the input log to log template.,Disconnecting: Too many authentication failures for root [preauth],Disconnecting: Too many authentication failures for <*> [preauth]
+1731,Parse the input log to log template.,Failed password for root from 183.62.140.253 port 37047 ssh2,Failed password for <*> from <*> port <*> ssh2
+492,Parse the input log to log template.,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=103.99.0.122,pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*>
+1413,Parse the input log to log template.,Failed password for root from 183.62.140.253 port 53891 ssh2,Failed password for <*> from <*> port <*> ssh2
+50,Parse the input log to log template.,pam_unix(sshd:auth): check pass; user unknown,pam_unix(sshd:auth): check pass; user unknown
+1938,Parse the input log to log template.,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=103.99.0.122  user=sshd,pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*> user=<*>
+1789,Parse the input log to log template.,Received disconnect from 183.62.140.253: 11: Bye Bye [preauth],Received disconnect from <*>: <*>: Bye Bye [preauth]
+1424,Parse the input log to log template.,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=183.62.140.253  user=root,pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*> user=<*>
+215,Parse the input log to log template.,Failed password for invalid user admin from 5.188.10.180 port 60682 ssh2,Failed password for invalid user <*> from <*> port <*> ssh2
+956,Parse the input log to log template.,pam_unix(sshd:session): session opened for user fztu by (uid=0),pam_unix(sshd:session): session opened for user <*> by (uid=<*>)
+1975,Parse the input log to log template.,Failed password for invalid user test from 103.99.0.122 port 51592 ssh2,Failed password for invalid user <*> from <*> port <*> ssh2
+1428,Parse the input log to log template.,Failed password for root from 183.62.140.253 port 55956 ssh2,Failed password for <*> from <*> port <*> ssh2
+1654,Parse the input log to log template.,Received disconnect from 183.62.140.253: 11: Bye Bye [preauth],Received disconnect from <*>: <*>: Bye Bye [preauth]
+616,Parse the input log to log template.,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=187.141.143.180  user=root,pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*> user=<*>
+408,Parse the input log to log template.,Invalid user cisco from 103.99.0.122,Invalid user <*> from <*>
+1446,Parse the input log to log template.,Failed password for root from 183.62.140.253 port 58430 ssh2,Failed password for <*> from <*> port <*> ssh2
+547,Parse the input log to log template.,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=187.141.143.180  user=root,pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*> user=<*>
+1957,Parse the input log to log template.,Received disconnect from 183.62.140.253: 11: Bye Bye [preauth],Received disconnect from <*>: <*>: Bye Bye [preauth]
+1216,Parse the input log to log template.,Received disconnect from 183.62.140.253: 11: Bye Bye [preauth],Received disconnect from <*>: <*>: Bye Bye [preauth]
+1379,Parse the input log to log template.,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=183.62.140.253  user=root,pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*> user=<*>
+1299,Parse the input log to log template.,Failed password for root from 183.62.140.253 port 37894 ssh2,Failed password for <*> from <*> port <*> ssh2
+1273,Parse the input log to log template.,Received disconnect from 183.62.140.253: 11: Bye Bye [preauth],Received disconnect from <*>: <*>: Bye Bye [preauth]
+1181,Parse the input log to log template.,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=183.62.140.253  user=root,pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*> user=<*>
+1700,Parse the input log to log template.,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=183.62.140.253  user=root,pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*> user=<*>
+1902,Parse the input log to log template.,Failed password for root from 183.62.140.253 port 57631 ssh2,Failed password for <*> from <*> port <*> ssh2
+993,Parse the input log to log template.,Failed password for invalid user admin from 119.4.203.64 port 2191 ssh2,Failed password for invalid user <*> from <*> port <*> ssh2
+781,Parse the input log to log template.,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=187.141.143.180,pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*>
+286,Parse the input log to log template.,PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=106.5.5.195  user=root,PAM <*> more authentication failures; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*> user=<*>
+1469,Parse the input log to log template.,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=183.62.140.253  user=root,pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*> user=<*>
+280,Parse the input log to log template.,Received disconnect from 103.207.39.212: 11: Closed due to user request. [preauth],Received disconnect from <*>: <*>: Closed due to user request. [preauth]
+852,Parse the input log to log template.,input_userauth_request: invalid user oralce [preauth],input_userauth_request: invalid user <*> [preauth]
+833,Parse the input log to log template.,Received disconnect from 103.207.39.16: 11: Closed due to user request. [preauth],Received disconnect from <*>: <*>: Closed due to user request. [preauth]
+798,Parse the input log to log template.,pam_unix(sshd:auth): check pass; user unknown,pam_unix(sshd:auth): check pass; user unknown
+1571,Parse the input log to log template.,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=183.62.140.253  user=root,pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*> user=<*>
+1012,Parse the input log to log template.,pam_unix(sshd:auth): check pass; user unknown,pam_unix(sshd:auth): check pass; user unknown
+1252,Parse the input log to log template.,Received disconnect from 183.62.140.253: 11: Bye Bye [preauth],Received disconnect from <*>: <*>: Bye Bye [preauth]
+1449,Parse the input log to log template.,Failed password for root from 183.62.140.253 port 58882 ssh2,Failed password for <*> from <*> port <*> ssh2
+1566,Parse the input log to log template.,Failed password for root from 183.62.140.253 port 45203 ssh2,Failed password for <*> from <*> port <*> ssh2
+520,Parse the input log to log template.,reverse mapping checking getaddrinfo for customer-187-141-143-180-sta.uninet-ide.com.mx [187.141.143.180] failed - POSSIBLE BREAK-IN ATTEMPT!,reverse mapping checking getaddrinfo for <*> [<*>] failed - POSSIBLE BREAK-IN ATTEMPT!
+937,Parse the input log to log template.,Failed password for invalid user jay from 187.141.143.180 port 60259 ssh2,Failed password for invalid user <*> from <*> port <*> ssh2
+365,Parse the input log to log template.,input_userauth_request: invalid user 1234 [preauth],input_userauth_request: invalid user <*> [preauth]
+1923,Parse the input log to log template.,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=183.62.140.253  user=root,pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*> user=<*>
+1130,Parse the input log to log template.,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=183.62.140.253  user=root,pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*> user=<*>
+915,Parse the input log to log template.,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=187.141.143.180,pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*>
+1460,Parse the input log to log template.,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=183.62.140.253  user=root,pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*> user=<*>
+916,Parse the input log to log template.,Failed password for invalid user magnos from 187.141.143.180 port 55517 ssh2,Failed password for invalid user <*> from <*> port <*> ssh2
+377,Parse the input log to log template.,pam_unix(sshd:auth): check pass; user unknown,pam_unix(sshd:auth): check pass; user unknown
+1383,Parse the input log to log template.,Failed password for root from 183.62.140.253 port 49810 ssh2,Failed password for <*> from <*> port <*> ssh2
+905,Parse the input log to log template.,Failed password for mysql from 187.141.143.180 port 52586 ssh2,Failed password for <*> from <*> port <*> ssh2
+591,Parse the input log to log template.,reverse mapping checking getaddrinfo for customer-187-141-143-180-sta.uninet-ide.com.mx [187.141.143.180] failed - POSSIBLE BREAK-IN ATTEMPT!,reverse mapping checking getaddrinfo for <*> [<*>] failed - POSSIBLE BREAK-IN ATTEMPT!
+922,Parse the input log to log template.,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=187.141.143.180,pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*>
+733,Parse the input log to log template.,Failed password for invalid user oracle from 187.141.143.180 port 51169 ssh2,Failed password for invalid user <*> from <*> port <*> ssh2
+1421,Parse the input log to log template.,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=183.62.140.253  user=root,pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*> user=<*>
+310,Parse the input log to log template.,pam_unix(sshd:auth): check pass; user unknown,pam_unix(sshd:auth): check pass; user unknown
+1647,Parse the input log to log template.,Failed password for root from 183.62.140.253 port 54754 ssh2,Failed password for <*> from <*> port <*> ssh2
+1328,Parse the input log to log template.,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=183.62.140.253  user=root,pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*> user=<*>
+1917,Parse the input log to log template.,Invalid user ubnt from 103.99.0.122,Invalid user <*> from <*>
+415,Parse the input log to log template.,input_userauth_request: invalid user test [preauth],input_userauth_request: invalid user <*> [preauth]
+669,Parse the input log to log template.,Failed password for root from 187.141.143.180 port 50811 ssh2,Failed password for <*> from <*> port <*> ssh2
+817,Parse the input log to log template.,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=187.141.143.180,pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*>
+1452,Parse the input log to log template.,Failed password for root from 183.62.140.253 port 59160 ssh2,Failed password for <*> from <*> port <*> ssh2
+351,Parse the input log to log template.,pam_unix(sshd:auth): check pass; user unknown,pam_unix(sshd:auth): check pass; user unknown
+1229,Parse the input log to log template.,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=183.62.140.253  user=root,pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*> user=<*>
+1286,Parse the input log to log template.,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=183.62.140.253  user=root,pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*> user=<*>
+1030,Parse the input log to log template.,Received disconnect from 183.62.140.253: 11: Bye Bye [preauth],Received disconnect from <*>: <*>: Bye Bye [preauth]
+1005,Parse the input log to log template.,input_userauth_request: invalid user matlab [preauth],input_userauth_request: invalid user <*> [preauth]
+491,Parse the input log to log template.,pam_unix(sshd:auth): check pass; user unknown,pam_unix(sshd:auth): check pass; user unknown
+664,Parse the input log to log template.,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=187.141.143.180  user=root,pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*> user=<*>
+112,Parse the input log to log template.,Failed password for root from 112.95.230.3 port 51982 ssh2,Failed password for <*> from <*> port <*> ssh2
+539,Parse the input log to log template.,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=187.141.143.180  user=root,pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*> user=<*>
+522,Parse the input log to log template.,Failed password for root from 187.141.143.180 port 34508 ssh2,Failed password for <*> from <*> port <*> ssh2
+1997,Parse the input log to log template.,Received disconnect from 183.62.140.253: 11: Bye Bye [preauth],Received disconnect from <*>: <*>: Bye Bye [preauth]
+1215,Parse the input log to log template.,Failed password for root from 183.62.140.253 port 54466 ssh2,Failed password for <*> from <*> port <*> ssh2
+208,Parse the input log to log template.,input_userauth_request: invalid user admin [preauth],input_userauth_request: invalid user <*> [preauth]
+85,Parse the input log to log template.,Failed password for invalid user utsims from 112.95.230.3 port 41506 ssh2,Failed password for invalid user <*> from <*> port <*> ssh2
+1563,Parse the input log to log template.,Failed password for root from 183.62.140.253 port 44861 ssh2,Failed password for <*> from <*> port <*> ssh2
+609,Parse the input log to log template.,Failed password for root from 187.141.143.180 port 59705 ssh2,Failed password for <*> from <*> port <*> ssh2
+1214,Parse the input log to log template.,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=183.62.140.253  user=root,pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*> user=<*>
+1728,Parse the input log to log template.,Failed password for root from 183.62.140.253 port 36634 ssh2,Failed password for <*> from <*> port <*> ssh2
+1660,Parse the input log to log template.,Received disconnect from 183.62.140.253: 11: Bye Bye [preauth],Received disconnect from <*>: <*>: Bye Bye [preauth]
+1703,Parse the input log to log template.,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=183.62.140.253  user=root,pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*> user=<*>
+1662,Parse the input log to log template.,Failed password for root from 183.62.140.253 port 56571 ssh2,Failed password for <*> from <*> port <*> ssh2
+206,Parse the input log to log template.,Connection closed by 5.188.10.180 [preauth],Connection closed by <*> [preauth]
+914,Parse the input log to log template.,pam_unix(sshd:auth): check pass; user unknown,pam_unix(sshd:auth): check pass; user unknown
+241,Parse the input log to log template.,pam_unix(sshd:auth): check pass; user unknown,pam_unix(sshd:auth): check pass; user unknown
+1864,Parse the input log to log template.,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=183.62.140.253  user=root,pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*> user=<*>
+1532,Parse the input log to log template.,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=183.62.140.253  user=root,pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*> user=<*>
+127,Parse the input log to log template.,Failed password for root from 123.235.32.19 port 48588 ssh2,Failed password for <*> from <*> port <*> ssh2
+1096,Parse the input log to log template.,Received disconnect from 183.62.140.253: 11: Bye Bye [preauth],Received disconnect from <*>: <*>: Bye Bye [preauth]
+758,Parse the input log to log template.,input_userauth_request: invalid user nagios [preauth],input_userauth_request: invalid user <*> [preauth]
+653,Parse the input log to log template.,Failed password for root from 187.141.143.180 port 45661 ssh2,Failed password for <*> from <*> port <*> ssh2
+340,Parse the input log to log template.,Failed password for invalid user admin from 185.190.58.151 port 44155 ssh2,Failed password for invalid user <*> from <*> port <*> ssh2
+979,Parse the input log to log template.,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=60.2.12.12  user=root,pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*> user=<*>
+1515,Parse the input log to log template.,Failed password for root from 183.62.140.253 port 39008 ssh2,Failed password for <*> from <*> port <*> ssh2
+1895,Parse the input log to log template.,Received disconnect from 183.62.140.253: 11: Bye Bye [preauth],Received disconnect from <*>: <*>: Bye Bye [preauth]
+31,Parse the input log to log template.,PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=5.36.59.76.dynamic-dsl-ip.omantel.net.om  user=root,PAM <*> more authentication failures; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*> user=<*>
+1946,Parse the input log to log template.,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=183.62.140.253  user=root,pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*> user=<*>
+1534,Parse the input log to log template.,Received disconnect from 183.62.140.253: 11: Bye Bye [preauth],Received disconnect from <*>: <*>: Bye Bye [preauth]
+566,Parse the input log to log template.,Received disconnect from 187.141.143.180: 11: Bye Bye [preauth],Received disconnect from <*>: <*>: Bye Bye [preauth]
+1691,Parse the input log to log template.,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=183.62.140.253  user=root,pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*> user=<*>
+1933,Parse the input log to log template.,Failed password for uucp from 103.99.0.122 port 65454 ssh2,Failed password for <*> from <*> port <*> ssh2
+647,Parse the input log to log template.,reverse mapping checking getaddrinfo for customer-187-141-143-180-sta.uninet-ide.com.mx [187.141.143.180] failed - POSSIBLE BREAK-IN ATTEMPT!,reverse mapping checking getaddrinfo for <*> [<*>] failed - POSSIBLE BREAK-IN ATTEMPT!
+1929,Parse the input log to log template.,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=103.99.0.122  user=uucp,pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*> user=<*>
+1590,Parse the input log to log template.,Failed password for root from 183.62.140.253 port 48337 ssh2,Failed password for <*> from <*> port <*> ssh2
+1366,Parse the input log to log template.,Received disconnect from 183.62.140.253: 11: Bye Bye [preauth],Received disconnect from <*>: <*>: Bye Bye [preauth]
+953,Parse the input log to log template.,Failed password for root from 104.192.3.34 port 56524 ssh2,Failed password for <*> from <*> port <*> ssh2
+25,Parse the input log to log template.,Failed password for invalid user chen from 202.100.179.208 port 32484 ssh2,Failed password for invalid user <*> from <*> port <*> ssh2
+808,Parse the input log to log template.,Received disconnect from 187.141.143.180: 11: Bye Bye [preauth],Received disconnect from <*>: <*>: Bye Bye [preauth]
+505,Parse the input log to log template.,Failed password for invalid user Management from 103.99.0.122 port 55028 ssh2,Failed password for invalid user <*> from <*> port <*> ssh2
+728,Parse the input log to log template.,reverse mapping checking getaddrinfo for customer-187-141-143-180-sta.uninet-ide.com.mx [187.141.143.180] failed - POSSIBLE BREAK-IN ATTEMPT!,reverse mapping checking getaddrinfo for <*> [<*>] failed - POSSIBLE BREAK-IN ATTEMPT!
+838,Parse the input log to log template.,input_userauth_request: invalid user admin [preauth],input_userauth_request: invalid user <*> [preauth]
+494,Parse the input log to log template.,error: Received disconnect from 103.99.0.122: 14: No more user authentication methods available. [preauth],error: Received disconnect from <*>: <*>: No more user authentication methods available. [preauth]
+1972,Parse the input log to log template.,Failed password for root from 183.62.140.253 port 34642 ssh2,Failed password for <*> from <*> port <*> ssh2
+944,Parse the input log to log template.,Failed password for invalid user cyrus from 187.141.143.180 port 33574 ssh2,Failed password for invalid user <*> from <*> port <*> ssh2
+1198,Parse the input log to log template.,Received disconnect from 183.62.140.253: 11: Bye Bye [preauth],Received disconnect from <*>: <*>: Bye Bye [preauth]
+643,Parse the input log to log template.,reverse mapping checking getaddrinfo for customer-187-141-143-180-sta.uninet-ide.com.mx [187.141.143.180] failed - POSSIBLE BREAK-IN ATTEMPT!,reverse mapping checking getaddrinfo for <*> [<*>] failed - POSSIBLE BREAK-IN ATTEMPT!
+940,Parse the input log to log template.,Invalid user cyrus from 187.141.143.180,Invalid user <*> from <*>
+1682,Parse the input log to log template.,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=183.62.140.253  user=root,pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*> user=<*>
+1687,Parse the input log to log template.,Received disconnect from 183.62.140.253: 11: Bye Bye [preauth],Received disconnect from <*>: <*>: Bye Bye [preauth]
+1967,Parse the input log to log template.,error: Received disconnect from 103.99.0.122: 14: No more user authentication methods available. [preauth],error: Received disconnect from <*>: <*>: No more user authentication methods available. [preauth]
+1021,Parse the input log to log template.,pam_unix(sshd:auth): check pass; user unknown,pam_unix(sshd:auth): check pass; user unknown
+427,Parse the input log to log template.,input_userauth_request: invalid user user [preauth],input_userauth_request: invalid user <*> [preauth]
+1681,Parse the input log to log template.,Received disconnect from 183.62.140.253: 11: Bye Bye [preauth],Received disconnect from <*>: <*>: Bye Bye [preauth]
+1010,Parse the input log to log template.,Invalid user inspur from 183.136.162.51,Invalid user <*> from <*>
+1588,Parse the input log to log template.,Received disconnect from 183.62.140.253: 11: Bye Bye [preauth],Received disconnect from <*>: <*>: Bye Bye [preauth]
+1078,Parse the input log to log template.,Received disconnect from 183.62.140.253: 11: Bye Bye [preauth],Received disconnect from <*>: <*>: Bye Bye [preauth]
+1336,Parse the input log to log template.,Received disconnect from 183.62.140.253: 11: Bye Bye [preauth],Received disconnect from <*>: <*>: Bye Bye [preauth]
+1930,Parse the input log to log template.,Failed password for root from 183.62.140.253 port 59702 ssh2,Failed password for <*> from <*> port <*> ssh2
+1,Parse the input log to log template.,Invalid user webmaster from 173.234.31.186,Invalid user <*> from <*>
+482,Parse the input log to log template.,error: Received disconnect from 103.99.0.122: 14: No more user authentication methods available. [preauth],error: Received disconnect from <*>: <*>: No more user authentication methods available. [preauth]
+1737,Parse the input log to log template.,Failed password for root from 183.62.140.253 port 37760 ssh2,Failed password for <*> from <*> port <*> ssh2
+793,Parse the input log to log template.,Failed password for git from 187.141.143.180 port 33532 ssh2,Failed password for <*> from <*> port <*> ssh2
+442,Parse the input log to log template.,Failed password for invalid user admin from 185.190.58.151 port 49948 ssh2,Failed password for invalid user <*> from <*> port <*> ssh2
+1831,Parse the input log to log template.,Received disconnect from 183.62.140.253: 11: Bye Bye [preauth],Received disconnect from <*>: <*>: Bye Bye [preauth]
+878,Parse the input log to log template.,reverse mapping checking getaddrinfo for customer-187-141-143-180-sta.uninet-ide.com.mx [187.141.143.180] failed - POSSIBLE BREAK-IN ATTEMPT!,reverse mapping checking getaddrinfo for <*> [<*>] failed - POSSIBLE BREAK-IN ATTEMPT!
+1863,Parse the input log to log template.,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=183.62.140.253  user=root,pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*> user=<*>
+900,Parse the input log to log template.,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=187.141.143.180  user=mysql,pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*> user=<*>
+608,Parse the input log to log template.,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=187.141.143.180  user=root,pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*> user=<*>
+1263,Parse the input log to log template.,Failed password for root from 183.62.140.253 port 32879 ssh2,Failed password for <*> from <*> port <*> ssh2
+859,Parse the input log to log template.,input_userauth_request: invalid user oracle [preauth],input_userauth_request: invalid user <*> [preauth]
+868,Parse the input log to log template.,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=187.141.143.180,pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*>
+1200,Parse the input log to log template.,Failed password for root from 183.62.140.253 port 52663 ssh2,Failed password for <*> from <*> port <*> ssh2
+1899,Parse the input log to log template.,Failed password for root from 183.62.140.253 port 57223 ssh2,Failed password for <*> from <*> port <*> ssh2
+8,Parse the input log to log template.,Invalid user test9 from 52.80.34.196,Invalid user <*> from <*>
+912,Parse the input log to log template.,Invalid user magnos from 187.141.143.180,Invalid user <*> from <*>
+1317,Parse the input log to log template.,Failed password for root from 183.62.140.253 port 40676 ssh2,Failed password for <*> from <*> port <*> ssh2
+1640,Parse the input log to log template.,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=183.62.140.253  user=root,pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*> user=<*>
+1561,Parse the input log to log template.,Received disconnect from 183.62.140.253: 11: Bye Bye [preauth],Received disconnect from <*>: <*>: Bye Bye [preauth]
+1866,Parse the input log to log template.,error: Received disconnect from 103.99.0.122: 14: No more user authentication methods available. [preauth],error: Received disconnect from <*>: <*>: No more user authentication methods available. [preauth]
+1920,Parse the input log to log template.,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=103.99.0.122,pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*>
+1472,Parse the input log to log template.,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=183.62.140.253  user=root,pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*> user=<*>
+22,Parse the input log to log template.,input_userauth_request: invalid user chen [preauth],input_userauth_request: invalid user <*> [preauth]
+632,Parse the input log to log template.,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=187.141.143.180  user=root,pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*> user=<*>
+1271,Parse the input log to log template.,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=183.62.140.253  user=root,pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*> user=<*>
+662,Parse the input log to log template.,Received disconnect from 187.141.143.180: 11: Bye Bye [preauth],Received disconnect from <*>: <*>: Bye Bye [preauth]
+1583,Parse the input log to log template.,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=183.62.140.253  user=root,pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*> user=<*>
+1711,Parse the input log to log template.,Received disconnect from 183.62.140.253: 11: Bye Bye [preauth],Received disconnect from <*>: <*>: Bye Bye [preauth]
+79,Parse the input log to log template.,Failed password for root from 112.95.230.3 port 40388 ssh2,Failed password for <*> from <*> port <*> ssh2
+319,Parse the input log to log template.,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=185.190.58.151,pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*>
+1274,Parse the input log to log template.,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=183.62.140.253  user=root,pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*> user=<*>
+1178,Parse the input log to log template.,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=183.62.140.253,pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*>
+559,Parse the input log to log template.,reverse mapping checking getaddrinfo for customer-187-141-143-180-sta.uninet-ide.com.mx [187.141.143.180] failed - POSSIBLE BREAK-IN ATTEMPT!,reverse mapping checking getaddrinfo for <*> [<*>] failed - POSSIBLE BREAK-IN ATTEMPT!
+717,Parse the input log to log template.,pam_unix(sshd:auth): check pass; user unknown,pam_unix(sshd:auth): check pass; user unknown
+1536,Parse the input log to log template.,Failed password for root from 183.62.140.253 port 41452 ssh2,Failed password for <*> from <*> port <*> ssh2
+697,Parse the input log to log template.,Failed password for root from 187.141.143.180 port 60433 ssh2,Failed password for <*> from <*> port <*> ssh2
+29,Parse the input log to log template.,message repeated 5 times: [ Failed password for root from 5.36.59.76 port 42393 ssh2],message repeated <*> times: [ Failed password for <*> from <*> port <*>]
+242,Parse the input log to log template.,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=5.188.10.180,pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*>
+1476,Parse the input log to log template.,Failed password for root from 183.62.140.253 port 34091 ssh2,Failed password for <*> from <*> port <*> ssh2
+930,Parse the input log to log template.,Failed password for invalid user ingrid from 187.141.143.180 port 58682 ssh2,Failed password for invalid user <*> from <*> port <*> ssh2
+483,Parse the input log to log template.,Invalid user ftpuser from 103.99.0.122,Invalid user <*> from <*>
+48,Parse the input log to log template.,Invalid user pgadmin from 112.95.230.3,Invalid user <*> from <*>
+1282,Parse the input log to log template.,Received disconnect from 183.62.140.253: 11: Bye Bye [preauth],Received disconnect from <*>: <*>: Bye Bye [preauth]
+1492,Parse the input log to log template.,Received disconnect from 183.62.140.253: 11: Bye Bye [preauth],Received disconnect from <*>: <*>: Bye Bye [preauth]
+1359,Parse the input log to log template.,Failed password for root from 183.62.140.253 port 46485 ssh2,Failed password for <*> from <*> port <*> ssh2
+15,Parse the input log to log template.,Invalid user webmaster from 173.234.31.186,Invalid user <*> from <*>
+259,Parse the input log to log template.,pam_unix(sshd:auth): check pass; user unknown,pam_unix(sshd:auth): check pass; user unknown
+1556,Parse the input log to log template.,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=183.62.140.253  user=root,pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*> user=<*>
+982,Parse the input log to log template.,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=60.2.12.12  user=root,pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*> user=<*>
+1499,Parse the input log to log template.,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=183.62.140.253  user=root,pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*> user=<*>
+1395,Parse the input log to log template.,Failed password for root from 183.62.140.253 port 51538 ssh2,Failed password for <*> from <*> port <*> ssh2
+737,Parse the input log to log template.,input_userauth_request: invalid user oracle [preauth],input_userauth_request: invalid user <*> [preauth]
+923,Parse the input log to log template.,Failed password for invalid user magnos from 187.141.143.180 port 57031 ssh2,Failed password for invalid user <*> from <*> port <*> ssh2
+730,Parse the input log to log template.,input_userauth_request: invalid user oracle [preauth],input_userauth_request: invalid user <*> [preauth]
+424,Parse the input log to log template.,Failed password for invalid user guest from 103.99.0.122 port 63270 ssh2,Failed password for invalid user <*> from <*> port <*> ssh2
+1622,Parse the input log to log template.,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=183.62.140.253  user=root,pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*> user=<*>
+35,Parse the input log to log template.,Received disconnect from 112.95.230.3: 11: Bye Bye [preauth],Received disconnect from <*>: <*>: Bye Bye [preauth]
+945,Parse the input log to log template.,Received disconnect from 187.141.143.180: 11: Bye Bye [preauth],Received disconnect from <*>: <*>: Bye Bye [preauth]
+1100,Parse the input log to log template.,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=183.62.140.253  user=root,pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*> user=<*>
+1301,Parse the input log to log template.,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=183.62.140.253  user=root,pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*> user=<*>
+1771,Parse the input log to log template.,Received disconnect from 183.62.140.253: 11: Bye Bye [preauth],Received disconnect from <*>: <*>: Bye Bye [preauth]
+193,Parse the input log to log template.,pam_unix(sshd:auth): check pass; user unknown,pam_unix(sshd:auth): check pass; user unknown
+146,Parse the input log to log template.,reverse mapping checking getaddrinfo for 191-210-223-172.user.vivozap.com.br [191.210.223.172] failed - POSSIBLE BREAK-IN ATTEMPT!,reverse mapping checking getaddrinfo for <*> [<*>] failed - POSSIBLE BREAK-IN ATTEMPT!
+1231,Parse the input log to log template.,Received disconnect from 183.62.140.253: 11: Bye Bye [preauth],Received disconnect from <*>: <*>: Bye Bye [preauth]
+126,Parse the input log to log template.,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=123.235.32.19  user=root,pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*> user=<*>
+879,Parse the input log to log template.,Invalid user test1 from 187.141.143.180,Invalid user <*> from <*>
+1004,Parse the input log to log template.,Invalid user matlab from 52.80.34.196,Invalid user <*> from <*>
+1908,Parse the input log to log template.,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=103.99.0.122,pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*>
+1294,Parse the input log to log template.,Received disconnect from 183.62.140.253: 11: Bye Bye [preauth],Received disconnect from <*>: <*>: Bye Bye [preauth]
+1581,Parse the input log to log template.,Failed password for root from 183.62.140.253 port 47147 ssh2,Failed password for <*> from <*> port <*> ssh2
+343,Parse the input log to log template.,pam_unix(sshd:auth): check pass; user unknown,pam_unix(sshd:auth): check pass; user unknown
+190,Parse the input log to log template.,Invalid user 0 from 5.188.10.180,Invalid user <*> from <*>
+1706,Parse the input log to log template.,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=183.62.140.253  user=root,pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*> user=<*>
+387,Parse the input log to log template.,PAM service(sshd) ignoring max retries; 5 > 3,PAM service(sshd) ignoring max retries; <*> > <*>
+1964,Parse the input log to log template.,Received disconnect from 183.62.140.253: 11: Bye Bye [preauth],Received disconnect from <*>: <*>: Bye Bye [preauth]
+19,Parse the input log to log template.,Failed password for invalid user webmaster from 173.234.31.186 port 39257 ssh2,Failed password for invalid user <*> from <*> port <*> ssh2
+1811,Parse the input log to log template.,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=183.62.140.253  user=root,pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*> user=<*>
+925,Parse the input log to log template.,reverse mapping checking getaddrinfo for customer-187-141-143-180-sta.uninet-ide.com.mx [187.141.143.180] failed - POSSIBLE BREAK-IN ATTEMPT!,reverse mapping checking getaddrinfo for <*> [<*>] failed - POSSIBLE BREAK-IN ATTEMPT!
+1579,Parse the input log to log template.,Received disconnect from 183.62.140.253: 11: Bye Bye [preauth],Received disconnect from <*>: <*>: Bye Bye [preauth]
+1159,Parse the input log to log template.,Received disconnect from 183.62.140.253: 11: Bye Bye [preauth],Received disconnect from <*>: <*>: Bye Bye [preauth]
+667,Parse the input log to log template.,reverse mapping checking getaddrinfo for customer-187-141-143-180-sta.uninet-ide.com.mx [187.141.143.180] failed - POSSIBLE BREAK-IN ATTEMPT!,reverse mapping checking getaddrinfo for <*> [<*>] failed - POSSIBLE BREAK-IN ATTEMPT!
+1127,Parse the input log to log template.,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=183.62.140.253  user=root,pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*> user=<*>
+109,Parse the input log to log template.,Failed password for root from 112.95.230.3 port 50655 ssh2,Failed password for <*> from <*> port <*> ssh2
+1802,Parse the input log to log template.,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=183.62.140.253  user=root,pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*> user=<*>
+540,Parse the input log to log template.,Failed password for root from 187.141.143.180 port 38180 ssh2,Failed password for <*> from <*> port <*> ssh2
+1147,Parse the input log to log template.,Received disconnect from 183.62.140.253: 11: Bye Bye [preauth],Received disconnect from <*>: <*>: Bye Bye [preauth]
+1049,Parse the input log to log template.,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=183.62.140.253  user=root,pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*> user=<*>
+1477,Parse the input log to log template.,Received disconnect from 183.62.140.253: 11: Bye Bye [preauth],Received disconnect from <*>: <*>: Bye Bye [preauth]
+770,Parse the input log to log template.,reverse mapping checking getaddrinfo for customer-187-141-143-180-sta.uninet-ide.com.mx [187.141.143.180] failed - POSSIBLE BREAK-IN ATTEMPT!,reverse mapping checking getaddrinfo for <*> [<*>] failed - POSSIBLE BREAK-IN ATTEMPT!
+1820,Parse the input log to log template.,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=183.62.140.253  user=root,pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*> user=<*>
+1593,Parse the input log to log template.,Failed password for root from 183.62.140.253 port 48663 ssh2,Failed password for <*> from <*> port <*> ssh2
+1213,Parse the input log to log template.,Received disconnect from 183.62.140.253: 11: Bye Bye [preauth],Received disconnect from <*>: <*>: Bye Bye [preauth]
+1868,Parse the input log to log template.,fatal: Write failed: Connection reset by peer [preauth],fatal: Write failed: Connection reset by peer [preauth]
+1600,Parse the input log to log template.,Received disconnect from 183.62.140.253: 11: Bye Bye [preauth],Received disconnect from <*>: <*>: Bye Bye [preauth]
+81,Parse the input log to log template.,Invalid user utsims from 112.95.230.3,Invalid user <*> from <*>
+1540,Parse the input log to log template.,Received disconnect from 183.62.140.253: 11: Bye Bye [preauth],Received disconnect from <*>: <*>: Bye Bye [preauth]
+908,Parse the input log to log template.,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=187.141.143.180  user=git,pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*> user=<*>
+552,Parse the input log to log template.,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=187.141.143.180  user=root,pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*> user=<*>
+10,Parse the input log to log template.,pam_unix(sshd:auth): check pass; user unknown,pam_unix(sshd:auth): check pass; user unknown
+378,Parse the input log to log template.,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=103.99.0.122,pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*>
+830,Parse the input log to log template.,Failed password for invalid user deploy from 187.141.143.180 port 38606 ssh2,Failed password for invalid user <*> from <*> port <*> ssh2
+1798,Parse the input log to log template.,Received disconnect from 183.62.140.253: 11: Bye Bye [preauth],Received disconnect from <*>: <*>: Bye Bye [preauth]
+1000,Parse the input log to log template.,Disconnecting: Too many authentication failures for admin [preauth],Disconnecting: Too many authentication failures for <*> [preauth]
+11,Parse the input log to log template.,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=ec2-52-80-34-196.cn-north-1.compute.amazonaws.com.cn,pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*>
+1361,Parse the input log to log template.,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=183.62.140.253  user=root,pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*> user=<*>
+1882,Parse the input log to log template.,Received disconnect from 183.62.140.253: 11: Bye Bye [preauth],Received disconnect from <*>: <*>: Bye Bye [preauth]
+532,Parse the input log to log template.,Received disconnect from 187.141.143.180: 11: Bye Bye [preauth],Received disconnect from <*>: <*>: Bye Bye [preauth]
+37,Parse the input log to log template.,Failed password for root from 112.95.230.3 port 47068 ssh2,Failed password for <*> from <*> port <*> ssh2
+1482,Parse the input log to log template.,Failed password for root from 183.62.140.253 port 34849 ssh2,Failed password for <*> from <*> port <*> ssh2
+524,Parse the input log to log template.,Invalid user api from 185.190.58.151,Invalid user <*> from <*>
+1462,Parse the input log to log template.,Received disconnect from 183.62.140.253: 11: Bye Bye [preauth],Received disconnect from <*>: <*>: Bye Bye [preauth]
+1889,Parse the input log to log template.,error: Received disconnect from 103.99.0.122: 14: No more user authentication methods available. [preauth],error: Received disconnect from <*>: <*>: No more user authentication methods available. [preauth]
+1425,Parse the input log to log template.,Failed password for root from 183.62.140.253 port 55577 ssh2,Failed password for <*> from <*> port <*> ssh2
+1245,Parse the input log to log template.,Failed password for root from 183.62.140.253 port 58556 ssh2,Failed password for <*> from <*> port <*> ssh2
+56,Parse the input log to log template.,Received disconnect from 112.95.230.3: 11: Bye Bye [preauth],Received disconnect from <*>: <*>: Bye Bye [preauth]
+1978,Parse the input log to log template.,Received disconnect from 183.62.140.253: 11: Bye Bye [preauth],Received disconnect from <*>: <*>: Bye Bye [preauth]
+1655,Parse the input log to log template.,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=183.62.140.253  user=root,pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*> user=<*>
+726,Parse the input log to log template.,Failed password for invalid user redhat from 187.141.143.180 port 49479 ssh2,Failed password for invalid user <*> from <*> port <*> ssh2
+1362,Parse the input log to log template.,Failed password for root from 183.62.140.253 port 46880 ssh2,Failed password for <*> from <*> port <*> ssh2
+862,Parse the input log to log template.,Failed password for invalid user oracle from 187.141.143.180 port 42342 ssh2,Failed password for invalid user <*> from <*> port <*> ssh2
+1672,Parse the input log to log template.,Received disconnect from 183.62.140.253: 11: Bye Bye [preauth],Received disconnect from <*>: <*>: Bye Bye [preauth]
+388,Parse the input log to log template.,Failed password for invalid user admin from 103.99.0.122 port 57750 ssh2,Failed password for invalid user <*> from <*> port <*> ssh2
+1988,Parse the input log to log template.,error: Received disconnect from 103.99.0.122: 14: No more user authentication methods available. [preauth],error: Received disconnect from <*>: <*>: No more user authentication methods available. [preauth]
+149,Parse the input log to log template.,Connection closed by 191.210.223.172 [preauth],Connection closed by <*> [preauth]
+1976,Parse the input log to log template.,error: Received disconnect from 103.99.0.122: 14: No more user authentication methods available. [preauth],error: Received disconnect from <*>: <*>: No more user authentication methods available. [preauth]
+573,Parse the input log to log template.,Failed password for root from 187.141.143.180 port 48339 ssh2,Failed password for <*> from <*> port <*> ssh2
+399,Parse the input log to log template.,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=103.99.0.122  user=sshd,pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*> user=<*>
+987,Parse the input log to log template.,pam_unix(sshd:auth): check pass; user unknown,pam_unix(sshd:auth): check pass; user unknown
+1893,Parse the input log to log template.,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=103.99.0.122,pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*>
+1309,Parse the input log to log template.,Received disconnect from 183.62.140.253: 11: Bye Bye [preauth],Received disconnect from <*>: <*>: Bye Bye [preauth]
+1714,Parse the input log to log template.,Received disconnect from 183.62.140.253: 11: Bye Bye [preauth],Received disconnect from <*>: <*>: Bye Bye [preauth]
+1320,Parse the input log to log template.,Failed password for root from 183.62.140.253 port 40993 ssh2,Failed password for <*> from <*> port <*> ssh2
+457,Parse the input log to log template.,error: Received disconnect from 103.99.0.122: 14: No more user authentication methods available. [preauth],error: Received disconnect from <*>: <*>: No more user authentication methods available. [preauth]
+1870,Parse the input log to log template.,Received disconnect from 183.62.140.253: 11: Bye Bye [preauth],Received disconnect from <*>: <*>: Bye Bye [preauth]
+1704,Parse the input log to log template.,Failed password for root from 183.62.140.253 port 33581 ssh2,Failed password for <*> from <*> port <*> ssh2
+214,Parse the input log to log template.,pam_unix(sshd:auth): check pass; user unknown,pam_unix(sshd:auth): check pass; user unknown
+1163,Parse the input log to log template.,Invalid user boot from 183.62.140.253,Invalid user <*> from <*>
+732,Parse the input log to log template.,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=187.141.143.180,pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*>
+106,Parse the input log to log template.,Failed password for root from 112.95.230.3 port 49133 ssh2,Failed password for <*> from <*> port <*> ssh2
+1721,Parse the input log to log template.,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=183.62.140.253  user=root,pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*> user=<*>
+1388,Parse the input log to log template.,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=183.62.140.253  user=root,pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*> user=<*>
+764,Parse the input log to log template.,Invalid user www from 187.141.143.180,Invalid user <*> from <*>
+1106,Parse the input log to log template.,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=183.62.140.253  user=root,pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*> user=<*>
+1673,Parse the input log to log template.,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=183.62.140.253  user=root,pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*> user=<*>
+1847,Parse the input log to log template.,error: Received disconnect from 103.99.0.122: 14: No more user authentication methods available. [preauth],error: Received disconnect from <*>: <*>: No more user authentication methods available. [preauth]
+1751,Parse the input log to log template.,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=183.62.140.253  user=root,pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*> user=<*>
+354,Parse the input log to log template.,Invalid user user from 103.99.0.122,Invalid user <*> from <*>
+555,Parse the input log to log template.,reverse mapping checking getaddrinfo for customer-187-141-143-180-sta.uninet-ide.com.mx [187.141.143.180] failed - POSSIBLE BREAK-IN ATTEMPT!,reverse mapping checking getaddrinfo for <*> [<*>] failed - POSSIBLE BREAK-IN ATTEMPT!
+1520,Parse the input log to log template.,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=183.62.140.253  user=root,pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*> user=<*>
+801,Parse the input log to log template.,Received disconnect from 187.141.143.180: 11: Bye Bye [preauth],Received disconnect from <*>: <*>: Bye Bye [preauth]
+225,Parse the input log to log template.,pam_unix(sshd:auth): check pass; user unknown,pam_unix(sshd:auth): check pass; user unknown
+1140,Parse the input log to log template.,Failed password for invalid user oracle from 183.62.140.253 port 47098 ssh2,Failed password for invalid user <*> from <*> port <*> ssh2
+1179,Parse the input log to log template.,Failed password for invalid user 123 from 183.62.140.253 port 49870 ssh2,Failed password for invalid user <*> from <*> port <*> ssh2
+172,Parse the input log to log template.,pam_unix(sshd:auth): check pass; user unknown,pam_unix(sshd:auth): check pass; user unknown
+1529,Parse the input log to log template.,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=183.62.140.253  user=root,pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*> user=<*>
+201,Parse the input log to log template.,Failed password for invalid user 1234 from 5.188.10.180 port 45541 ssh2,Failed password for invalid user <*> from <*> port <*> ssh2
+1210,Parse the input log to log template.,Received disconnect from 183.62.140.253: 11: Bye Bye [preauth],Received disconnect from <*>: <*>: Bye Bye [preauth]
+612,Parse the input log to log template.,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=187.141.143.180  user=root,pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*> user=<*>
+1817,Parse the input log to log template.,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=183.62.140.253  user=root,pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*> user=<*>
+1881,Parse the input log to log template.,Failed password for root from 183.62.140.253 port 55969 ssh2,Failed password for <*> from <*> port <*> ssh2
+1432,Parse the input log to log template.,Received disconnect from 183.62.140.253: 11: Bye Bye [preauth],Received disconnect from <*>: <*>: Bye Bye [preauth]
+404,Parse the input log to log template.,pam_unix(sshd:auth): check pass; user unknown,pam_unix(sshd:auth): check pass; user unknown
+978,Parse the input log to log template.,Received disconnect from 60.2.12.12: 11: Bye Bye [preauth],Received disconnect from <*>: <*>: Bye Bye [preauth]
+1367,Parse the input log to log template.,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=183.62.140.253  user=root,pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*> user=<*>
+1342,Parse the input log to log template.,Received disconnect from 183.62.140.253: 11: Bye Bye [preauth],Received disconnect from <*>: <*>: Bye Bye [preauth]
+187,Parse the input log to log template.,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=5.188.10.180,pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*>
+1750,Parse the input log to log template.,Received disconnect from 183.62.140.253: 11: Bye Bye [preauth],Received disconnect from <*>: <*>: Bye Bye [preauth]
+1803,Parse the input log to log template.,Failed password for root from 183.62.140.253 port 46953 ssh2,Failed password for <*> from <*> port <*> ssh2
+1028,Parse the input log to log template.,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=183.62.140.253,pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*>
+1911,Parse the input log to log template.,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=183.62.140.253  user=root,pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*> user=<*>
+1991,Parse the input log to log template.,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=183.62.140.253  user=root,pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*> user=<*>
+333,Parse the input log to log template.,input_userauth_request: invalid user admin [preauth],input_userauth_request: invalid user <*> [preauth]
+1102,Parse the input log to log template.,Received disconnect from 183.62.140.253: 11: Bye Bye [preauth],Received disconnect from <*>: <*>: Bye Bye [preauth]
+557,Parse the input log to log template.,Failed password for root from 187.141.143.180 port 43092 ssh2,Failed password for <*> from <*> port <*> ssh2
+1797,Parse the input log to log template.,Failed password for root from 183.62.140.253 port 46059 ssh2,Failed password for <*> from <*> port <*> ssh2
+348,Parse the input log to log template.,input_userauth_request: invalid user support [preauth],input_userauth_request: invalid user <*> [preauth]
+203,Parse the input log to log template.,Invalid user admin from 5.188.10.180,Invalid user <*> from <*>
+1291,Parse the input log to log template.,Received disconnect from 183.62.140.253: 11: Bye Bye [preauth],Received disconnect from <*>: <*>: Bye Bye [preauth]
+825,Parse the input log to log template.,input_userauth_request: invalid user deploy [preauth],input_userauth_request: invalid user <*> [preauth]
+845,Parse the input log to log template.,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=187.141.143.180,pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*>
+1880,Parse the input log to log template.,error: Received disconnect from 103.99.0.122: 14: No more user authentication methods available. [preauth],error: Received disconnect from <*>: <*>: No more user authentication methods available. [preauth]
+973,Parse the input log to log template.,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=60.2.12.12  user=root,pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*> user=<*>
+1083,Parse the input log to log template.,Failed password for root from 183.62.140.253 port 40631 ssh2,Failed password for <*> from <*> port <*> ssh2
+866,Parse the input log to log template.,input_userauth_request: invalid user nagios1 [preauth],input_userauth_request: invalid user <*> [preauth]
+1916,Parse the input log to log template.,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=183.62.140.253  user=root,pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*> user=<*>
+1234,Parse the input log to log template.,Received disconnect from 183.62.140.253: 11: Bye Bye [preauth],Received disconnect from <*>: <*>: Bye Bye [preauth]
+604,Parse the input log to log template.,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=187.141.143.180  user=root,pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*> user=<*>
+1121,Parse the input log to log template.,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=183.62.140.253  user=root,pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*> user=<*>
+288,Parse the input log to log template.,Invalid user matlab from 52.80.34.196,Invalid user <*> from <*>
+1517,Parse the input log to log template.,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=183.62.140.253  user=root,pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*> user=<*>
+1987,Parse the input log to log template.,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=183.62.140.253  user=root,pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*> user=<*>
+840,Parse the input log to log template.,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=103.207.39.16,pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*>
+70,Parse the input log to log template.,Failed password for root from 112.95.230.3 port 35113 ssh2,Failed password for <*> from <*> port <*> ssh2
+749,Parse the input log to log template.,reverse mapping checking getaddrinfo for customer-187-141-143-180-sta.uninet-ide.com.mx [187.141.143.180] failed - POSSIBLE BREAK-IN ATTEMPT!,reverse mapping checking getaddrinfo for <*> [<*>] failed - POSSIBLE BREAK-IN ATTEMPT!
+1064,Parse the input log to log template.,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=183.62.140.253  user=root,pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*> user=<*>
+985,Parse the input log to log template.,Invalid user admin from 119.4.203.64,Invalid user <*> from <*>
+1766,Parse the input log to log template.,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=183.62.140.253  user=root,pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*> user=<*>
+1713,Parse the input log to log template.,Failed password for root from 183.62.140.253 port 34695 ssh2,Failed password for <*> from <*> port <*> ssh2
+1207,Parse the input log to log template.,Received disconnect from 183.62.140.253: 11: Bye Bye [preauth],Received disconnect from <*>: <*>: Bye Bye [preauth]
+1488,Parse the input log to log template.,Failed password for root from 183.62.140.253 port 35525 ssh2,Failed password for <*> from <*> port <*> ssh2
+1275,Parse the input log to log template.,Failed password for root from 183.62.140.253 port 34711 ssh2,Failed password for <*> from <*> port <*> ssh2
+1038,Parse the input log to log template.,Failed password for root from 183.62.140.253 port 35013 ssh2,Failed password for <*> from <*> port <*> ssh2
+1898,Parse the input log to log template.,error: Received disconnect from 103.99.0.122: 14: No more user authentication methods available. [preauth],error: Received disconnect from <*>: <*>: No more user authentication methods available. [preauth]
+1679,Parse the input log to log template.,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=183.62.140.253  user=root,pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*> user=<*>
+21,Parse the input log to log template.,Invalid user chen from 202.100.179.208,Invalid user <*> from <*>
+1237,Parse the input log to log template.,Received disconnect from 183.62.140.253: 11: Bye Bye [preauth],Received disconnect from <*>: <*>: Bye Bye [preauth]
+284,Parse the input log to log template.,message repeated 5 times: [ Failed password for root from 106.5.5.195 port 50719 ssh2],message repeated <*> times: [ Failed password for <*> from <*> port <*>]
+1788,Parse the input log to log template.,Failed password for root from 183.62.140.253 port 44785 ssh2,Failed password for <*> from <*> port <*> ssh2
+1743,Parse the input log to log template.,Failed password for root from 183.62.140.253 port 38485 ssh2,Failed password for <*> from <*> port <*> ssh2
+295,Parse the input log to log template.,Invalid user 0 from 185.190.58.151,Invalid user <*> from <*>
+1115,Parse the input log to log template.,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=183.62.140.253  user=root,pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*> user=<*>
+222,Parse the input log to log template.,PAM service(sshd) ignoring max retries; 5 > 3,PAM service(sshd) ignoring max retries; <*> > <*>
+1609,Parse the input log to log template.,Received disconnect from 183.62.140.253: 11: Bye Bye [preauth],Received disconnect from <*>: <*>: Bye Bye [preauth]
+581,Parse the input log to log template.,Failed password for root from 187.141.143.180 port 50880 ssh2,Failed password for <*> from <*> port <*> ssh2
+1850,Parse the input log to log template.,Invalid user support from 103.99.0.122,Invalid user <*> from <*>
+1745,Parse the input log to log template.,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=183.62.140.253  user=root,pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*> user=<*>
+1415,Parse the input log to log template.,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=183.62.140.253  user=root,pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*> user=<*>
+1218,Parse the input log to log template.,Failed password for root from 183.62.140.253 port 54954 ssh2,Failed password for <*> from <*> port <*> ssh2
+1518,Parse the input log to log template.,Failed password for root from 183.62.140.253 port 39309 ssh2,Failed password for <*> from <*> port <*> ssh2
+1398,Parse the input log to log template.,Failed password for root from 183.62.140.253 port 51965 ssh2,Failed password for <*> from <*> port <*> ssh2
+1091,Parse the input log to log template.,Received disconnect from 183.62.140.253: 11: Bye Bye [preauth],Received disconnect from <*>: <*>: Bye Bye [preauth]
+1390,Parse the input log to log template.,Received disconnect from 183.62.140.253: 11: Bye Bye [preauth],Received disconnect from <*>: <*>: Bye Bye [preauth]
+783,Parse the input log to log template.,Received disconnect from 187.141.143.180: 11: Bye Bye [preauth],Received disconnect from <*>: <*>: Bye Bye [preauth]

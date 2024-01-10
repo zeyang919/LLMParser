@@ -1,0 +1,401 @@
+,instruction,Content,EventTemplate
+751,Parse the input log to log template.,"synchronized to 10.100.18.250, stratum 3","synchronized to <*>, stratum <*>"
+1545,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_B2] datasource,data_thread() got not answer from any [<*>] datasource
+881,Parse the input log to log template.,"synchronized to 10.100.16.250, stratum 3","synchronized to <*>, stratum <*>"
+396,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_A4] datasource,data_thread() got not answer from any [<*>] datasource
+509,Parse the input log to log template.,"synchronized to 10.100.20.250, stratum 3","synchronized to <*>, stratum <*>"
+1217,Parse the input log to log template.,PCI Interrupt Routing Table [\_SB_.PCI0.PALO._PRT],PCI Interrupt Routing Table [<*>]
+416,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_B8] datasource,data_thread() got not answer from any [<*>] datasource
+1701,Parse the input log to log template.,"synchronized to 10.100.20.250, stratum 3","synchronized to <*>, stratum <*>"
+1447,Parse the input log to log template.,Warning: we failed to resolve data source name dn270 dn271 dn272 dn273 dn274 dn275 dn276 dn277 dn278 dn279 dn280 dn281 dn282 dn283 dn284 dn285 dn286 dn287 dn288 dn289 dn290 dn291 dn292 dn293 dn294 dn295 dn296 dn297 dn298 dn299 dn300 dn301 dn302 dn303 dn304 dn305 dn306 dn307 dn308 dn309 dn310 dn311 dn312 dn313 dn314 dn315 dn316 dn317 dn318 dn319 dn320 dn321 dn322 dn323 dn324 dn325 dn326 dn327 dn328 dn329 dn330 dn331 dn332 dn333 dn334 dn335 dn336 dn337 dn338 dn339 dn340 dn341 dn342 dn343 dn344 dn345 dn346 dn347 dn348 dn349 dn350 dn351 dn352 dn353 dn354 dn355 dn356 dn357 dn358 dn359 dn360 dn361 dn362 dn363 dn364 dn365 dn366 dn367 dn368 dn369 dn370 dn371 dn372 dn373 dn374 dn375 dn376 dn377 dn378 dn379 dn380 dn381 dn382 dn383 dn384,Warning: we failed to resolve data source name <*>
+9,Parse the input log to log template.,session closed for user root,session closed for user <*>
+1371,Parse the input log to log template.,"connection from ""#28#""",connection from <*>
+335,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_B1] datasource,data_thread() got not answer from any [<*>] datasource
+541,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_B2] datasource,data_thread() got not answer from any [<*>] datasource
+1023,Parse the input log to log template.,"synchronized to 10.100.20.250, stratum 3","synchronized to <*>, stratum <*>"
+60,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_D5] datasource,data_thread() got not answer from any [<*>] datasource
+1610,Parse the input log to log template.,[ib_sm_sweep.c:1455]: No topology change,[ib_sm_sweep.c:<*>]: No topology change
+1878,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_D6] datasource,data_thread() got not answer from any [<*>] datasource
+314,Parse the input log to log template.,[ib_sm_sweep.c:1831]: ********************** NEW SWEEP ********************,[ib_sm_sweep.c:<*>]: ********************** NEW SWEEP ********************
+619,Parse the input log to log template.,[ib_sm_sweep.c:1482]: No configuration change required,[ib_sm_sweep.c:<*>]: No configuration change required
+296,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_C6] datasource,data_thread() got not answer from any [<*>] datasource
+1199,Parse the input log to log template.,LAPIC (acpi_id[0x04] lapic_id[0x07] enabled),LAPIC (acpi_id[<*>] lapic_id[<*>] enabled)
+1339,Parse the input log to log template.,Version 1.0.6 Starting,Version <*> Starting
+907,Parse the input log to log template.,"synchronized to 10.100.14.250, stratum 3","synchronized to <*>, stratum <*>"
+598,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_C6] datasource,data_thread() got not answer from any [<*>] datasource
+1205,Parse the input log to log template.,MADT (v001 DELL PE BKC 0x00000001 MSFT 0x0100000a) @ 0x00000000000fd724,<*> (v001 DELL PE BKC <*> MSFT <*>) @ <*>
+364,Parse the input log to log template.,"synchronized to 10.100.22.250, stratum 3","synchronized to <*>, stratum <*>"
+1419,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_B5] datasource,data_thread() got not answer from any [<*>] datasource
+846,Parse the input log to log template.,"synchronized to 10.100.20.250, stratum 3","synchronized to <*>, stratum <*>"
+642,Parse the input log to log template.,"synchronized to 10.100.20.250, stratum 3","synchronized to <*>, stratum <*>"
+1148,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_C5] datasource,data_thread() got not answer from any [<*>] datasource
+1727,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_D6] datasource,data_thread() got not answer from any [<*>] datasource
+1283,Parse the input log to log template.,Using configuration type 1,Using configuration type <*>
+760,Parse the input log to log template.,"synchronized to 10.100.12.250, stratum 3","synchronized to <*>, stratum <*>"
+134,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_B3] datasource,data_thread() got not answer from any [<*>] datasource
+260,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_A4] datasource,data_thread() got not answer from any [<*>] datasource
+556,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_C4] datasource,data_thread() got not answer from any [<*>] datasource
+1992,Parse the input log to log template.,"synchronized to 10.100.12.250, stratum 3","synchronized to <*>, stratum <*>"
+1906,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_D5] datasource,data_thread() got not answer from any [<*>] datasource
+1944,Parse the input log to log template.,[ib_sm_sweep.c:1482]: No configuration change required,[ib_sm_sweep.c:<*>]: No configuration change required
+1896,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_D7] datasource,data_thread() got not answer from any [<*>] datasource
+1454,Parse the input log to log template.,gmetad startup succeeded,gmetad startup succeeded
+649,Parse the input log to log template.,"synchronized to 10.100.22.250, stratum 3","synchronized to <*>, stratum <*>"
+1375,Parse the input log to log template.,"User #29#, coming from #30#, authenticated.","User <*>, coming from <*>, authenticated."
+1500,Parse the input log to log template.,Reading included configuration file: /etc/xinetd.d/time [file=/etc/xinetd.d/time] [line=18],Reading included configuration file: <*> [file=<*>] [line=<*>]
+1670,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_D6] datasource,data_thread() got not answer from any [<*>] datasource
+1761,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_C4] datasource,data_thread() got not answer from any [<*>] datasource
+1017,Parse the input log to log template.,"synchronized to 10.100.18.250, stratum 3","synchronized to <*>, stratum <*>"
+1560,Parse the input log to log template.,"synchronized to 10.100.20.250, stratum 3","synchronized to <*>, stratum <*>"
+285,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_A5] datasource,data_thread() got not answer from any [<*>] datasource
+1731,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_D5] datasource,data_thread() got not answer from any [<*>] datasource
+492,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_B6] datasource,data_thread() got not answer from any [<*>] datasource
+1413,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_A7] datasource,data_thread() got not answer from any [<*>] datasource
+50,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_A4] datasource,data_thread() got not answer from any [<*>] datasource
+1938,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_A4] datasource,data_thread() got not answer from any [<*>] datasource
+1789,Parse the input log to log template.,"synchronized to 10.100.20.250, stratum 3","synchronized to <*>, stratum <*>"
+1424,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_C2] datasource,data_thread() got not answer from any [<*>] datasource
+215,Parse the input log to log template.,DHCPDISCOVER from 00:11:43:e3:ba:c3 via eth1: network A_net: no free leases,DHCPDISCOVER from <*> via eth1: network A_net: no free leases
+956,Parse the input log to log template.,kernel time sync enabled 0001,kernel time sync enabled <*>
+1975,Parse the input log to log template.,"synchronized to 10.100.20.250, stratum 3","synchronized to <*>, stratum <*>"
+1428,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_C8] datasource,data_thread() got not answer from any [<*>] datasource
+1654,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_A6] datasource,data_thread() got not answer from any [<*>] datasource
+616,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_C4] datasource,data_thread() got not answer from any [<*>] datasource
+408,Parse the input log to log template.,"synchronized to 10.100.20.250, stratum 3","synchronized to <*>, stratum <*>"
+1446,Parse the input log to log template.,Warning: we failed to resolve data source name dn142 dn143 dn144 dn145 dn146 dn147 dn148 dn149 dn150 dn151 dn152 dn153 dn154 dn155 dn156 dn157 dn158 dn159 dn160 dn161 dn162 dn163 dn164 dn165 dn166 dn167 dn168 dn169 dn170 dn171 dn172 dn173 dn174 dn175 dn176 dn177 dn178 dn179 dn180 dn181 dn182 dn183 dn184 dn185 dn186 dn187 dn188 dn189 dn190 dn191 dn192 dn193 dn194 dn195 dn196 dn197 dn198 dn199 dn200 dn201 dn202 dn203 dn204 dn205 dn206 dn207 dn208 dn209 dn210 dn211 dn212 dn213 dn214 dn215 dn216 dn217 dn218 dn219 dn220 dn221 dn222 dn223 dn224 dn225 dn226 dn227 dn228 dn229 dn230 dn231 dn232 dn233 dn234 dn235 dn236 dn237 dn238 dn239 dn240 dn241 dn242 dn243 dn244 dn245 dn246 dn247 dn248 dn249 dn250 dn251 dn252 dn253 dn254 dn255 dn256,Warning: we failed to resolve data source name <*>
+547,Parse the input log to log template.,"synchronized to 10.100.18.250, stratum 3","synchronized to <*>, stratum <*>"
+1957,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_C6] datasource,data_thread() got not answer from any [<*>] datasource
+1216,Parse the input log to log template.,PCI Interrupt Routing Table [\_SB_.PCI0.PALO.DOBB._PRT],PCI Interrupt Routing Table [<*>]
+1379,Parse the input log to log template.,Now running on #29#'s privileges.,Now running on <*>'s privileges.
+1299,Parse the input log to log template.,passed.,passed.
+1273,Parse the input log to log template.,"root=LABEL=/ initrd=/x86_64/initrd-2.6.9-5.0.5.EL-lustre-1.4.2-perfctr-admin console=tty0 console=ttyS0,19200 fastboot BOOT_IMAGE=/x86_64/vmlinuz-2.6.9-5.0.5.EL-lustre-1.4.2-perfctr","<*>=LABEL=/ initrd=<*> console=<*> console=<*>,<*> fastboot BOOT_IMAGE=<*>"
+1181,Parse the input log to log template.,CentOS-4 (Kernel Module GPG key),CentOS-<*> (Kernel Module GPG key)
+1700,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_B6] datasource,data_thread() got not answer from any [<*>] datasource
+1902,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_A7] datasource,data_thread() got not answer from any [<*>] datasource
+993,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_A8] datasource,data_thread() got not answer from any [<*>] datasource
+781,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_A3] datasource,data_thread() got not answer from any [<*>] datasource
+286,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_B1] datasource,data_thread() got not answer from any [<*>] datasource
+1469,Parse the input log to log template.,Cannot open file /dev/logsurfer for writing (No such file or directory),Cannot open file <*> for writing (No such file or directory)
+280,Parse the input log to log template.,"synchronized to 10.100.20.250, stratum 3","synchronized to <*>, stratum <*>"
+852,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_B1] datasource,data_thread() got not answer from any [<*>] datasource
+833,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_A5] datasource,data_thread() got not answer from any [<*>] datasource
+798,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_B2] datasource,data_thread() got not answer from any [<*>] datasource
+1571,Parse the input log to log template.,unable to qualify my own domain name (eadmin1) -- using short name,unable to qualify my own domain name (<*>) -- using short name
+1012,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_D6] datasource,data_thread() got not answer from any [<*>] datasource
+1252,Parse the input log to log template.,L2 cache: 2048K,L2 cache: <*>
+1449,Parse the input log to log template.,Warning: we failed to resolve data source name dn526 dn527 dn528 dn529 dn530 dn531 dn532 dn533 dn534 dn535 dn536 dn537 dn538 dn539 dn540 dn541 dn542 dn543 dn544 dn545 dn546 dn547 dn548 dn549 dn550 dn551 dn552 dn553 dn554 dn555 dn556 dn557 dn558 dn559 dn560 dn561 dn562 dn563 dn564 dn565 dn566 dn567 dn568 dn569 dn570 dn571 dn572 dn573 dn574 dn575 dn576 dn577 dn578 dn579 dn580 dn581 dn582 dn583 dn584 dn585 dn586 dn587 dn588 dn589 dn590 dn591 dn592 dn593 dn594 dn595 dn596 dn597 dn598 dn599 dn600 dn601 dn602 dn603 dn604 dn605 dn606 dn607 dn608 dn609 dn610 dn611 dn612 dn613 dn614 dn615 dn616 dn617 dn618 dn619 dn620 dn621 dn622 dn623 dn624 dn625 dn626 dn627 dn628 dn629 dn630 dn631 dn632 dn633 dn634 dn635 dn636 dn637 dn638 dn639 dn640,Warning: we failed to resolve data source name <*>
+1566,Parse the input log to log template.,[ib_sm_sweep.c:1455]: No topology change,[ib_sm_sweep.c:<*>]: No topology change
+520,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_D6] datasource,data_thread() got not answer from any [<*>] datasource
+937,Parse the input log to log template.,"synchronized to 10.100.22.250, stratum 3","synchronized to <*>, stratum <*>"
+365,Parse the input log to log template.,"synchronized to 10.100.18.250, stratum 3","synchronized to <*>, stratum <*>"
+1923,Parse the input log to log template.,"synchronized to 10.100.18.250, stratum 3","synchronized to <*>, stratum <*>"
+1130,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_D6] datasource,data_thread() got not answer from any [<*>] datasource
+915,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_C6] datasource,data_thread() got not answer from any [<*>] datasource
+1460,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_D8] datasource,data_thread() got not answer from any [<*>] datasource
+916,Parse the input log to log template.,"synchronized to 10.100.16.250, stratum 3","synchronized to <*>, stratum <*>"
+377,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_C2] datasource,data_thread() got not answer from any [<*>] datasource
+1383,Parse the input log to log template.,Mounting other filesystems: failed,Mounting other filesystems: failed
+905,Parse the input log to log template.,"synchronized to 10.100.16.250, stratum 3","synchronized to <*>, stratum <*>"
+591,Parse the input log to log template.,[ib_sm_sweep.c:1455]: No topology change,[ib_sm_sweep.c:<*>]: No topology change
+922,Parse the input log to log template.,[ib_sm_sweep.c:1455]: No topology change,[ib_sm_sweep.c:<*>]: No topology change
+733,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_A5] datasource,data_thread() got not answer from any [<*>] datasource
+1421,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_B7] datasource,data_thread() got not answer from any [<*>] datasource
+310,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_B8] datasource,data_thread() got not answer from any [<*>] datasource
+1647,Parse the input log to log template.,"synchronized to 10.100.20.250, stratum 3","synchronized to <*>, stratum <*>"
+1328,Parse the input log to log template.,autorun ...,autorun ...
+1917,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_D4] datasource,data_thread() got not answer from any [<*>] datasource
+415,Parse the input log to log template.,[ib_sm_sweep.c:1482]: No configuration change required,[ib_sm_sweep.c:<*>]: No configuration change required
+669,Parse the input log to log template.,"synchronized to 10.100.26.250, stratum 3","synchronized to <*>, stratum <*>"
+817,Parse the input log to log template.,[ib_sm_sweep.c:1831]: ********************** NEW SWEEP ********************,[ib_sm_sweep.c:<*>]: ********************** NEW SWEEP ********************
+1452,Parse the input log to log template.,Warning: we failed to resolve data source name dn910 dn911 dn912 dn913 dn914 dn915 dn916 dn917 dn918 dn919 dn920 dn921 dn922 dn923 dn924 dn925 dn926 dn927 dn928 dn929 dn930 dn931 dn932 dn933 dn934 dn935 dn936 dn937 dn938 dn939 dn940 dn941 dn942 dn943 dn944 dn945 dn946 dn947 dn948 dn949 dn950 dn951 dn952 dn953 dn954 dn955 dn956 dn957 dn958 dn959 dn960 dn961 dn962 dn963 dn964 dn965 dn966 dn967 dn968 dn969 dn970 dn971 dn972 dn973 dn974 dn975 dn976 dn977 dn978 dn979 dn980 dn981 dn982 dn983 dn984 dn985 dn986 dn987 dn988 dn989 dn990 dn991 dn992 dn993 dn994 dn995 dn996 dn997 dn998 dn999 dn1000 dn1001 dn1002 dn1003 dn1004 dn1005 dn1006 dn1007 dn1008 dn1009 dn1010 dn1011 dn1012 dn1013 dn1014 dn1015 dn1016 dn1017 dn1018 dn1019 dn1020 dn1021 dn1022 dn1023 dn1024,Warning: we failed to resolve data source name <*>
+351,Parse the input log to log template.,"synchronized to 10.100.18.250, stratum 3","synchronized to <*>, stratum <*>"
+1229,Parse the input log to log template.,"PCI interrupt 0000:00:06.0[A] -> GSI 16 (level, low) -> IRQ 169","PCI interrupt <*> -> GSI <*> (level, low) -> IRQ <*>"
+1286,Parse the input log to log template.,Initializing.,Initializing.
+1030,Parse the input log to log template.,[ib_sm_sweep.c:1482]: No configuration change required,[ib_sm_sweep.c:<*>]: No configuration change required
+1005,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_B6] datasource,data_thread() got not answer from any [<*>] datasource
+491,Parse the input log to log template.,"synchronized to 10.100.22.250, stratum 3","synchronized to <*>, stratum <*>"
+664,Parse the input log to log template.,"synchronized to 10.100.16.250, stratum 3","synchronized to <*>, stratum <*>"
+112,Parse the input log to log template.,session closed for user root,session closed for user <*>
+539,Parse the input log to log template.,"synchronized to 10.100.20.250, stratum 3","synchronized to <*>, stratum <*>"
+522,Parse the input log to log template.,"synchronized to 10.100.22.250, stratum 3","synchronized to <*>, stratum <*>"
+1997,Parse the input log to log template.,"synchronized to 10.100.16.250, stratum 3","synchronized to <*>, stratum <*>"
+1215,Parse the input log to log template.,PCI Interrupt Routing Table [\_SB_.PCI0.PALO.DOBA._PRT],PCI Interrupt Routing Table [<*>]
+208,Parse the input log to log template.,DHCPOFFER on 10.100.4.251 to 00:11:43:e3:ba:c3 via eth1,DHCPOFFER on <*> to <*> via eth1
+85,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_D6] datasource,data_thread() got not answer from any [<*>] datasource
+1563,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_C2] datasource,data_thread() got not answer from any [<*>] datasource
+609,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_B6] datasource,data_thread() got not answer from any [<*>] datasource
+1214,Parse the input log to log template.,"PCI Interrupt Link [LNKH] (IRQs 3 4 5 6 7 10 11 12) *0, disabled.","PCI Interrupt Link [<*>] (IRQs <*> <*> <*> <*> <*> <*> <*> <*>) <*>, disabled."
+1728,Parse the input log to log template.,[ib_sm_sweep.c:1455]: No topology change,[ib_sm_sweep.c:<*>]: No topology change
+1660,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_C4] datasource,data_thread() got not answer from any [<*>] datasource
+1703,Parse the input log to log template.,"synchronized to 10.100.22.250, stratum 3","synchronized to <*>, stratum <*>"
+1662,Parse the input log to log template.,"synchronized to 10.100.16.250, stratum 3","synchronized to <*>, stratum <*>"
+206,Parse the input log to log template.,DHCPDISCOVER from 00:11:43:e3:ba:c3 via eth1,DHCPDISCOVER from <*> via eth1
+914,Parse the input log to log template.,[ib_sm_sweep.c:1831]: ********************** NEW SWEEP ********************,[ib_sm_sweep.c:<*>]: ********************** NEW SWEEP ********************
+241,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_D6] datasource,data_thread() got not answer from any [<*>] datasource
+1864,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_C1] datasource,data_thread() got not answer from any [<*>] datasource
+1532,Parse the input log to log template.,RRD_update (/var/lib/ganglia/rrds/D Nodes/dn731/pkts_out.rrd): illegal attempt to update using time 1131563473 when last update time is 1131563473 (minimum one second step),RRD_update (<*>): illegal attempt to update using time <*> when last update time is <*> (minimum one second step)
+127,Parse the input log to log template.,DHCPDISCOVER from 00:11:43:e3:ba:c3 via eth1,DHCPDISCOVER from <*> via eth1
+1096,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_A1] datasource,data_thread() got not answer from any [<*>] datasource
+758,Parse the input log to log template.,"synchronized to 10.100.20.250, stratum 3","synchronized to <*>, stratum <*>"
+653,Parse the input log to log template.,"synchronized to 10.100.18.250, stratum 3","synchronized to <*>, stratum <*>"
+340,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_D4] datasource,data_thread() got not answer from any [<*>] datasource
+979,Parse the input log to log template.,[ib_sm_sweep.c:1482]: No configuration change required,[ib_sm_sweep.c:<*>]: No configuration change required
+1515,Parse the input log to log template.,removing rsync,removing <*>
+1895,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_B6] datasource,data_thread() got not answer from any [<*>] datasource
+31,Parse the input log to log template.,session opened for user root by (uid=0),session opened for user <*> by (uid=<*>)
+1946,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_A8] datasource,data_thread() got not answer from any [<*>] datasource
+1534,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_A6] datasource,data_thread() got not answer from any [<*>] datasource
+566,Parse the input log to log template.,"synchronized to 10.100.30.250, stratum 3","synchronized to <*>, stratum <*>"
+1691,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_A1] datasource,data_thread() got not answer from any [<*>] datasource
+1933,Parse the input log to log template.,"synchronized to 10.100.18.250, stratum 3","synchronized to <*>, stratum <*>"
+647,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_B8] datasource,data_thread() got not answer from any [<*>] datasource
+1929,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_C4] datasource,data_thread() got not answer from any [<*>] datasource
+1590,Parse the input log to log template.,"synchronized to 10.100.20.250, stratum 3","synchronized to <*>, stratum <*>"
+1366,Parse the input log to log template.,"synchronized to 10.100.24.250, stratum 3","synchronized to <*>, stratum <*>"
+953,Parse the input log to log template.,"synchronized to LOCAL(0), stratum 10","synchronized to <*>, stratum <*>"
+25,Parse the input log to log template.,session opened for user root by (uid=0),session opened for user <*> by (uid=<*>)
+808,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_C6] datasource,data_thread() got not answer from any [<*>] datasource
+505,Parse the input log to log template.,"synchronized to 10.100.16.250, stratum 3","synchronized to <*>, stratum <*>"
+728,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_A3] datasource,data_thread() got not answer from any [<*>] datasource
+838,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_B6] datasource,data_thread() got not answer from any [<*>] datasource
+494,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_A6] datasource,data_thread() got not answer from any [<*>] datasource
+1972,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_D6] datasource,data_thread() got not answer from any [<*>] datasource
+944,Parse the input log to log template.,"synchronized to 10.100.22.250, stratum 3","synchronized to <*>, stratum <*>"
+1198,Parse the input log to log template.,LAPIC (acpi_id[0x03] lapic_id[0x01] enabled),LAPIC (acpi_id[<*>] lapic_id[<*>] enabled)
+643,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_C5] datasource,data_thread() got not answer from any [<*>] datasource
+940,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_B7] datasource,data_thread() got not answer from any [<*>] datasource
+1682,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_A2] datasource,data_thread() got not answer from any [<*>] datasource
+1687,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_C5] datasource,data_thread() got not answer from any [<*>] datasource
+1967,Parse the input log to log template.,"synchronized to 10.100.20.250, stratum 3","synchronized to <*>, stratum <*>"
+1021,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_B5] datasource,data_thread() got not answer from any [<*>] datasource
+427,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_A6] datasource,data_thread() got not answer from any [<*>] datasource
+1681,Parse the input log to log template.,"synchronized to 10.100.28.250, stratum 3","synchronized to <*>, stratum <*>"
+1010,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_C8] datasource,data_thread() got not answer from any [<*>] datasource
+1588,Parse the input log to log template.,"jA9JBXgf022479: to=root, ctladdr=root (0/0), delay=00:00:02, xdelay=00:00:00, mailer=relay, pri=1624553, relay=[127.0.0.1] [127.0.0.1], dsn=4.0.0, stat=Deferred: Connection refused by [127.0.0.1]","<*>: to=<*>, ctladdr=<*> (0/0), delay=<*>, xdelay=<*>, mailer=relay, pri=<*>, relay=[<*>] [<*>], dsn=<*>, stat=Deferred: Connection refused by [<*>]"
+1078,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_A2] datasource,data_thread() got not answer from any [<*>] datasource
+1336,Parse the input log to log template.,rpc.statd startup succeeded,rpc.statd startup succeeded
+1930,Parse the input log to log template.,"synchronized to 10.100.20.250, stratum 3","synchronized to <*>, stratum <*>"
+1,Parse the input log to log template.,session opened for user root by (uid=0),session opened for user <*> by (uid=<*>)
+482,Parse the input log to log template.,"synchronized to 10.100.22.250, stratum 3","synchronized to <*>, stratum <*>"
+1737,Parse the input log to log template.,"synchronized to 10.100.16.250, stratum 3","synchronized to <*>, stratum <*>"
+793,Parse the input log to log template.,[ib_sm_sweep.c:1831]: ********************** NEW SWEEP ********************,[ib_sm_sweep.c:<*>]: ********************** NEW SWEEP ********************
+442,Parse the input log to log template.,[ib_sm_sweep.c:1482]: No configuration change required,[ib_sm_sweep.c:<*>]: No configuration change required
+1831,Parse the input log to log template.,[ib_sm_sweep.c:1455]: No topology change,[ib_sm_sweep.c:<*>]: No topology change
+878,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_D5] datasource,data_thread() got not answer from any [<*>] datasource
+1863,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_B8] datasource,data_thread() got not answer from any [<*>] datasource
+900,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_C2] datasource,data_thread() got not answer from any [<*>] datasource
+608,Parse the input log to log template.,"synchronized to 10.100.20.250, stratum 3","synchronized to <*>, stratum <*>"
+1263,Parse the input log to log template.,colour VGA+ 80x25,colour VGA+ <*>
+859,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_D4] datasource,data_thread() got not answer from any [<*>] datasource
+868,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_D7] datasource,data_thread() got not answer from any [<*>] datasource
+1200,Parse the input log to log template.,LAPIC_NMI (acpi_id[0x01] high edge lint[0x1]),LAPIC_NMI (acpi_id[<*>] high edge lint[<*>])
+1899,Parse the input log to log template.,[ib_sm_sweep.c:1482]: No configuration change required,[ib_sm_sweep.c:<*>]: No configuration change required
+8,Parse the input log to log template.,(root) CMD (run-parts /etc/cron.hourly),(<*>) CMD (run-parts <*>)
+912,Parse the input log to log template.,"synchronized to 10.100.24.250, stratum 3","synchronized to <*>, stratum <*>"
+1317,Parse the input log to log template.,Unknown cmd fd(5) cmd(80081272){00} arg(ffffda44) on /dev/sda,Unknown cmd fd(<*>) cmd(<*>){<*>} arg(<*>) on <*>
+1640,Parse the input log to log template.,[ib_sm_sweep.c:1482]: No configuration change required,[ib_sm_sweep.c:<*>]: No configuration change required
+1561,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_A5] datasource,data_thread() got not answer from any [<*>] datasource
+1866,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_B7] datasource,data_thread() got not answer from any [<*>] datasource
+1920,Parse the input log to log template.,"synchronized to 10.100.18.250, stratum 3","synchronized to <*>, stratum <*>"
+1472,Parse the input log to log template.,"synchronized to 10.100.16.250, stratum 3","synchronized to <*>, stratum <*>"
+22,Parse the input log to log template.,session opened for user root by (uid=0),session opened for user <*> by (uid=<*>)
+632,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_A7] datasource,data_thread() got not answer from any [<*>] datasource
+1271,Parse the input log to log template.,"routing cache hash table of 65536 buckets, 1024Kbytes","routing cache hash table of <*> buckets, <*>"
+662,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_A2] datasource,data_thread() got not answer from any [<*>] datasource
+1583,Parse the input log to log template.,"jA9JBWEr014256: to=root, ctladdr=root (0/0), delay=00:00:02, xdelay=00:00:00, mailer=relay, pri=1623894, relay=[127.0.0.1] [127.0.0.1], dsn=4.0.0, stat=Deferred: Connection refused by [127.0.0.1]","<*>: to=<*>, ctladdr=<*> (0/0), delay=<*>, xdelay=<*>, mailer=relay, pri=<*>, relay=[<*>] [<*>], dsn=<*>, stat=Deferred: Connection refused by [<*>]"
+1711,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_B4] datasource,data_thread() got not answer from any [<*>] datasource
+79,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_C1] datasource,data_thread() got not answer from any [<*>] datasource
+319,Parse the input log to log template.,[ib_sm_sweep.c:1455]: No topology change,[ib_sm_sweep.c:<*>]: No topology change
+1274,Parse the input log to log template.,Registered protocol family 1,Registered protocol family <*>
+1178,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_C8] datasource,data_thread() got not answer from any [<*>] datasource
+559,Parse the input log to log template.,"synchronized to 10.100.16.250, stratum 3","synchronized to <*>, stratum <*>"
+717,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_A6] datasource,data_thread() got not answer from any [<*>] datasource
+1536,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_B4] datasource,data_thread() got not answer from any [<*>] datasource
+697,Parse the input log to log template.,[ib_sm_sweep.c:1482]: No configuration change required,[ib_sm_sweep.c:<*>]: No configuration change required
+29,Parse the input log to log template.,(root) CMD (run-parts /etc/cron.hourly),(<*>) CMD (run-parts <*>)
+242,Parse the input log to log template.,"synchronized to 10.100.30.250, stratum 3","synchronized to <*>, stratum <*>"
+1476,Parse the input log to log template.,[ib_sm_sweep.c:1831]: ********************** NEW SWEEP ********************,[ib_sm_sweep.c:<*>]: ********************** NEW SWEEP ********************
+930,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_A8] datasource,data_thread() got not answer from any [<*>] datasource
+483,Parse the input log to log template.,"synchronized to 10.100.18.250, stratum 3","synchronized to <*>, stratum <*>"
+48,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_B7] datasource,data_thread() got not answer from any [<*>] datasource
+1282,Parse the input log to log template.,Using MMCONFIG at e0000000,Using MMCONFIG at <*>
+1492,Parse the input log to log template.,Reading included configuration file: /etc/xinetd.d/eklogin [file=/etc/xinetd.d/eklogin] [line=15],Reading included configuration file: <*> [file=<*>] [line=<*>]
+1359,Parse the input log to log template.,probe of vesafb0 failed with error -6,probe of vesafb0 failed with error <*>
+15,Parse the input log to log template.,session closed for user root,session closed for user <*>
+259,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_C8] datasource,data_thread() got not answer from any [<*>] datasource
+1556,Parse the input log to log template.,"synchronized to 10.100.22.250, stratum 3","synchronized to <*>, stratum <*>"
+982,Parse the input log to log template.,"synchronized to 10.100.22.250, stratum 3","synchronized to <*>, stratum <*>"
+1499,Parse the input log to log template.,Reading included configuration file: /etc/xinetd.d/tftp [file=/etc/xinetd.d/tftp] [line=13],Reading included configuration file: <*> [file=<*>] [line=<*>]
+1395,Parse the input log to log template.,Warning: we failed to resolve data source name bn14 bn15 bn16 bn17 bn18 bn19 bn20 bn21 bn22 bn23 bn24 bn25 bn26 bn27 bn28 bn29 bn30 bn31 bn32 bn33 bn34 bn35 bn36 bn37 bn38 bn39 bn40 bn41 bn42 bn43 bn44 bn45 bn46 bn47 bn48 bn49 bn50 bn51 bn52 bn53 bn54 bn55 bn56 bn57 bn58 bn59 bn60 bn61 bn62 bn63 bn64 bn65 bn66 bn67 bn68 bn69 bn70 bn71 bn72 bn73 bn74 bn75 bn76 bn77 bn78 bn79 bn80 bn81 bn82 bn83 bn84 bn85 bn86 bn87 bn88 bn89 bn90 bn91 bn92 bn93 bn94 bn95 bn96 bn97 bn98 bn99 bn100 bn101 bn102 bn103 bn104 bn105 bn106 bn107 bn108 bn109 bn110 bn111 bn112 bn113 bn114 bn115 bn116 bn117 bn118 bn119 bn120 bn121 bn122 bn123 bn124 bn125 bn126 bn127 bn128,Warning: we failed to resolve data source name <*>
+737,Parse the input log to log template.,"synchronized to 10.100.18.250, stratum 3","synchronized to <*>, stratum <*>"
+923,Parse the input log to log template.,[ib_sm_sweep.c:1482]: No configuration change required,[ib_sm_sweep.c:<*>]: No configuration change required
+730,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_C2] datasource,data_thread() got not answer from any [<*>] datasource
+424,Parse the input log to log template.,"synchronized to 10.100.20.250, stratum 3","synchronized to <*>, stratum <*>"
+1622,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_B7] datasource,data_thread() got not answer from any [<*>] datasource
+35,Parse the input log to log template.,(root) CMD (run-parts /etc/cron.hourly),(<*>) CMD (run-parts <*>)
+945,Parse the input log to log template.,"synchronized to 10.100.20.250, stratum 3","synchronized to <*>, stratum <*>"
+1100,Parse the input log to log template.,(root) CMD (/projects/tbird/temps/get_temps a),(<*>) CMD (<*> <*>)
+1301,Parse the input log to log template.,allocating divert_blk for eth0,allocating divert_blk for <*>
+1771,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_C2] datasource,data_thread() got not answer from any [<*>] datasource
+193,Parse the input log to log template.,DHCPDISCOVER from 00:11:43:e3:ba:c3 via eth1: network A_net: no free leases,DHCPDISCOVER from <*> via eth1: network A_net: no free leases
+146,Parse the input log to log template.,"synchronized to 10.100.20.250, stratum 3","synchronized to <*>, stratum <*>"
+1231,Parse the input log to log template.,"PCI interrupt 0000:02:0e.0[A] -> GSI 46 (level, low) -> IRQ 177","PCI interrupt <*> -> GSI <*> (level, low) -> IRQ <*>"
+126,Parse the input log to log template.,session closed for user root,session closed for user <*>
+879,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_A3] datasource,data_thread() got not answer from any [<*>] datasource
+1004,Parse the input log to log template.,RRD_update (/var/lib/ganglia/rrds/D Nodes/dn731/pkts_out.rrd): illegal attempt to update using time 1131563349 when last update time is 1131563349 (minimum one second step),RRD_update (<*>): illegal attempt to update using time <*> when last update time is <*> (minimum one second step)
+1908,Parse the input log to log template.,"synchronized to 10.100.26.250, stratum 3","synchronized to <*>, stratum <*>"
+1294,Parse the input log to log template.,Mounted root (ext2 filesystem).,Mounted <*> (ext2 filesystem).
+1581,Parse the input log to log template.,session closed for user root,session closed for user <*>
+343,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_B2] datasource,data_thread() got not answer from any [<*>] datasource
+190,Parse the input log to log template.,DHCPOFFER on 10.100.4.251 to 00:11:43:e3:ba:c3 via eth1,DHCPOFFER on <*> to <*> via eth1
+1706,Parse the input log to log template.,"synchronized to 10.100.18.250, stratum 3","synchronized to <*>, stratum <*>"
+387,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_D6] datasource,data_thread() got not answer from any [<*>] datasource
+1964,Parse the input log to log template.,[ib_sm_sweep.c:1455]: No topology change,[ib_sm_sweep.c:<*>]: No topology change
+19,Parse the input log to log template.,session opened for user root by (uid=0),session opened for user <*> by (uid=<*>)
+1811,Parse the input log to log template.,"synchronized to 10.100.26.250, stratum 3","synchronized to <*>, stratum <*>"
+925,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_C5] datasource,data_thread() got not answer from any [<*>] datasource
+1579,Parse the input log to log template.,"jA9JBWxH019649: from=root, size=1596872, class=0, nrcpts=1, msgid=<200511091911.jA9JBWxH019649@aadmin1>, relay=#7#@localhost","<*>: from=<*>, size=<*>, class=<*>, nrcpts=<*>, msgid=<*>, relay=<*>@localhost"
+1159,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_A1] datasource,data_thread() got not answer from any [<*>] datasource
+667,Parse the input log to log template.,"synchronized to 10.100.20.250, stratum 3","synchronized to <*>, stratum <*>"
+1127,Parse the input log to log template.,"synchronized to 10.100.22.250, stratum 3","synchronized to <*>, stratum <*>"
+109,Parse the input log to log template.,"jA9J1Wd7019391: to=root, ctladdr=root (0/0), delay=00:00:02, xdelay=00:00:00, mailer=relay, pri=1624553, relay=[127.0.0.1] [127.0.0.1], dsn=4.0.0, stat=Deferred: Connection refused by [127.0.0.1]","<*>: to=<*>, ctladdr=<*> (0/0), delay=<*>, xdelay=<*>, mailer=relay, pri=<*>, relay=[<*>] [<*>], dsn=<*>, stat=Deferred: Connection refused by [<*>]"
+1802,Parse the input log to log template.,"synchronized to 10.100.24.250, stratum 3","synchronized to <*>, stratum <*>"
+540,Parse the input log to log template.,"synchronized to 10.100.20.250, stratum 3","synchronized to <*>, stratum <*>"
+1147,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_D7] datasource,data_thread() got not answer from any [<*>] datasource
+1049,Parse the input log to log template.,"synchronized to 10.100.16.250, stratum 3","synchronized to <*>, stratum <*>"
+1477,Parse the input log to log template.,"synchronized to 10.100.30.250, stratum 3","synchronized to <*>, stratum <*>"
+770,Parse the input log to log template.,"synchronized to 10.100.18.250, stratum 3","synchronized to <*>, stratum <*>"
+1820,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_A6] datasource,data_thread() got not answer from any [<*>] datasource
+1593,Parse the input log to log template.,"jA9JBXVI027337: to=root, ctladdr=root (0/0), delay=00:00:02, xdelay=00:00:00, mailer=relay, pri=1627080, relay=[127.0.0.1] [127.0.0.1], dsn=4.0.0, stat=Deferred: Connection refused by [127.0.0.1]","<*>: to=<*>, ctladdr=<*> (0/0), delay=<*>, xdelay=<*>, mailer=relay, pri=<*>, relay=[<*>] [<*>], dsn=<*>, stat=Deferred: Connection refused by [<*>]"
+1213,Parse the input log to log template.,"PCI Interrupt Link [LNKG] (IRQs 3 4 5 6 7 10 11 12) *0, disabled.","PCI Interrupt Link [<*>] (IRQs <*> <*> <*> <*> <*> <*> <*> <*>) <*>, disabled."
+1868,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_C6] datasource,data_thread() got not answer from any [<*>] datasource
+1600,Parse the input log to log template.,"synchronized to 10.100.28.250, stratum 3","synchronized to <*>, stratum <*>"
+81,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_D7] datasource,data_thread() got not answer from any [<*>] datasource
+1540,Parse the input log to log template.,"synchronized to 10.100.26.250, stratum 3","synchronized to <*>, stratum <*>"
+908,Parse the input log to log template.,"synchronized to 10.100.18.250, stratum 3","synchronized to <*>, stratum <*>"
+552,Parse the input log to log template.,"synchronized to 10.100.16.250, stratum 3","synchronized to <*>, stratum <*>"
+10,Parse the input log to log template.,session opened for user root by (uid=0),session opened for user <*> by (uid=<*>)
+378,Parse the input log to log template.,"synchronized to 10.100.20.250, stratum 3","synchronized to <*>, stratum <*>"
+830,Parse the input log to log template.,"synchronized to 10.100.22.250, stratum 3","synchronized to <*>, stratum <*>"
+1798,Parse the input log to log template.,"synchronized to 10.100.16.250, stratum 3","synchronized to <*>, stratum <*>"
+1000,Parse the input log to log template.,"synchronized to 10.100.20.250, stratum 3","synchronized to <*>, stratum <*>"
+11,Parse the input log to log template.,(root) CMD (run-parts /etc/cron.hourly),(<*>) CMD (run-parts <*>)
+1361,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_C1] datasource,data_thread() got not answer from any [<*>] datasource
+1882,Parse the input log to log template.,"synchronized to 10.100.20.250, stratum 3","synchronized to <*>, stratum <*>"
+532,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_A7] datasource,data_thread() got not answer from any [<*>] datasource
+37,Parse the input log to log template.,session opened for user root by (uid=0),session opened for user <*> by (uid=<*>)
+1482,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_A1] datasource,data_thread() got not answer from any [<*>] datasource
+524,Parse the input log to log template.,"synchronized to 10.100.22.250, stratum 3","synchronized to <*>, stratum <*>"
+1462,Parse the input log to log template.,not allocating divert_blk for non-ethernet device sit0,not allocating divert_blk for non-ethernet device <*>
+1889,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_C2] datasource,data_thread() got not answer from any [<*>] datasource
+1425,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_C4] datasource,data_thread() got not answer from any [<*>] datasource
+1245,Parse the input log to log template.,Subsystem revision 20040816,Subsystem revision <*>
+56,Parse the input log to log template.,"synchronized to 10.100.26.250, stratum 3","synchronized to <*>, stratum <*>"
+1978,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_A4] datasource,data_thread() got not answer from any [<*>] datasource
+1655,Parse the input log to log template.,"synchronized to 10.100.28.250, stratum 3","synchronized to <*>, stratum <*>"
+726,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_A1] datasource,data_thread() got not answer from any [<*>] datasource
+1362,Parse the input log to log template.,[ib_sm_sweep.c:1831]: ********************** NEW SWEEP ********************,[ib_sm_sweep.c:<*>]: ********************** NEW SWEEP ********************
+862,Parse the input log to log template.,"synchronized to 10.100.20.250, stratum 3","synchronized to <*>, stratum <*>"
+1672,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_B8] datasource,data_thread() got not answer from any [<*>] datasource
+388,Parse the input log to log template.,"synchronized to 10.100.18.250, stratum 3","synchronized to <*>, stratum <*>"
+1988,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_B6] datasource,data_thread() got not answer from any [<*>] datasource
+149,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_C4] datasource,data_thread() got not answer from any [<*>] datasource
+1976,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_A5] datasource,data_thread() got not answer from any [<*>] datasource
+573,Parse the input log to log template.,"synchronized to 10.100.22.250, stratum 3","synchronized to <*>, stratum <*>"
+399,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_A8] datasource,data_thread() got not answer from any [<*>] datasource
+987,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_A1] datasource,data_thread() got not answer from any [<*>] datasource
+1893,Parse the input log to log template.,[ib_sm_sweep.c:1831]: ********************** NEW SWEEP ********************,[ib_sm_sweep.c:<*>]: ********************** NEW SWEEP ********************
+1309,Parse the input log to log template.,RNG not detected,RNG not detected
+1714,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_C2] datasource,data_thread() got not answer from any [<*>] datasource
+1320,Parse the input log to log template.,(C) 2000-2002 Netfilter core team,(C) <*>-<*> Netfilter core team
+457,Parse the input log to log template.,"synchronized to 10.100.20.250, stratum 3","synchronized to <*>, stratum <*>"
+1870,Parse the input log to log template.,"synchronized to 10.100.18.250, stratum 3","synchronized to <*>, stratum <*>"
+1704,Parse the input log to log template.,[ib_sm_sweep.c:1455]: No topology change,[ib_sm_sweep.c:<*>]: No topology change
+214,Parse the input log to log template.,DHCPDISCOVER from 00:11:43:e3:ba:c3 via eth1: network A_net: no free leases,DHCPDISCOVER from <*> via eth1: network A_net: no free leases
+1163,Parse the input log to log template.,My unqualified host name (badmin1) unknown; sleeping for retry,My unqualified host name (<*>) unknown; sleeping for retry
+732,Parse the input log to log template.,"synchronized to 10.100.20.250, stratum 3","synchronized to <*>, stratum <*>"
+106,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_B7] datasource,data_thread() got not answer from any [<*>] datasource
+1721,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_B7] datasource,data_thread() got not answer from any [<*>] datasource
+1388,Parse the input log to log template.,Warning: we failed to resolve data source name an142 an143 an144 an145 an146 an147 an148 an149 an150 an151 an152 an153 an154 an155 an156 an157 an158 an159 an160 an161 an162 an163 an164 an165 an166 an167 an168 an169 an170 an171 an172 an173 an174 an175 an176 an177 an178 an179 an180 an181 an182 an183 an184 an185 an186 an187 an188 an189 an190 an191 an192 an193 an194 an195 an196 an197 an198 an199 an200 an201 an202 an203 an204 an205 an206 an207 an208 an209 an210 an211 an212 an213 an214 an215 an216 an217 an218 an219 an220 an221 an222 an223 an224 an225 an226 an227 an228 an229 an230 an231 an232 an233 an234 an235 an236 an237 an238 an239 an240 an241 an242 an243 an244 an245 an246 an247 an248 an249 an250 an251 an252 an253 an254 an255 an256,Warning: we failed to resolve data source name <*>
+764,Parse the input log to log template.,"synchronized to 10.100.20.250, stratum 3","synchronized to <*>, stratum <*>"
+1106,Parse the input log to log template.,(root) CMD (/projects/tbird/temps/get_temps d),(<*>) CMD (<*> <*>)
+1673,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_C6] datasource,data_thread() got not answer from any [<*>] datasource
+1847,Parse the input log to log template.,[ib_sm_sweep.c:1831]: ********************** NEW SWEEP ********************,[ib_sm_sweep.c:<*>]: ********************** NEW SWEEP ********************
+1751,Parse the input log to log template.,"synchronized to 10.100.20.250, stratum 3","synchronized to <*>, stratum <*>"
+354,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_B8] datasource,data_thread() got not answer from any [<*>] datasource
+555,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_A6] datasource,data_thread() got not answer from any [<*>] datasource
+1520,Parse the input log to log template.,"synchronized to 10.100.18.250, stratum 3","synchronized to <*>, stratum <*>"
+801,Parse the input log to log template.,[ib_sm_sweep.c:1482]: No configuration change required,[ib_sm_sweep.c:<*>]: No configuration change required
+225,Parse the input log to log template.,[ib_sm_sweep.c:1482]: No configuration change required,[ib_sm_sweep.c:<*>]: No configuration change required
+1140,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_B2] datasource,data_thread() got not answer from any [<*>] datasource
+1179,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_A6] datasource,data_thread() got not answer from any [<*>] datasource
+172,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_B8] datasource,data_thread() got not answer from any [<*>] datasource
+1529,Parse the input log to log template.,[ib_sm_sweep.c:1831]: ********************** NEW SWEEP ********************,[ib_sm_sweep.c:<*>]: ********************** NEW SWEEP ********************
+201,Parse the input log to log template.,DHCPREQUEST for 10.100.4.251 (10.100.0.250) from 00:11:43:e3:ba:c3 via eth1: unknown lease 10.100.4.251.,DHCPREQUEST for <*> (<*>) from <*> via eth1: unknown lease <*>.
+1210,Parse the input log to log template.,"PCI Interrupt Link [LNKD] (IRQs 3 4 5 6 7 10 11 12) *0, disabled.","PCI Interrupt Link [<*>] (IRQs <*> <*> <*> <*> <*> <*> <*> <*>) <*>, disabled."
+612,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_A6] datasource,data_thread() got not answer from any [<*>] datasource
+1817,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_C1] datasource,data_thread() got not answer from any [<*>] datasource
+1881,Parse the input log to log template.,"synchronized to 10.100.28.250, stratum 3","synchronized to <*>, stratum <*>"
+1432,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_D6] datasource,data_thread() got not answer from any [<*>] datasource
+404,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_A7] datasource,data_thread() got not answer from any [<*>] datasource
+978,Parse the input log to log template.,[ib_sm_sweep.c:1455]: No topology change,[ib_sm_sweep.c:<*>]: No topology change
+1367,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_A7] datasource,data_thread() got not answer from any [<*>] datasource
+1342,Parse the input log to log template.,scanning scsi channel 1 [virtual] for logical drives,scanning scsi channel <*> [virtual] for logical drives
+187,Parse the input log to log template.,DHCPACK on 10.100.4.251 to 00:11:43:e3:ba:c3 via eth1,DHCPACK on <*> to <*> via eth1
+1750,Parse the input log to log template.,"synchronized to 10.100.16.250, stratum 3","synchronized to <*>, stratum <*>"
+1803,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_A1] datasource,data_thread() got not answer from any [<*>] datasource
+1028,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_B1] datasource,data_thread() got not answer from any [<*>] datasource
+1911,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_B7] datasource,data_thread() got not answer from any [<*>] datasource
+1991,Parse the input log to log template.,[ib_sm_sweep.c:1482]: No configuration change required,[ib_sm_sweep.c:<*>]: No configuration change required
+333,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_B5] datasource,data_thread() got not answer from any [<*>] datasource
+1102,Parse the input log to log template.,(root) CMD (/projects/tbird/temps/get_temps b),(<*>) CMD (<*> <*>)
+557,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_D5] datasource,data_thread() got not answer from any [<*>] datasource
+1797,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_D7] datasource,data_thread() got not answer from any [<*>] datasource
+348,Parse the input log to log template.,"synchronized to 10.100.22.250, stratum 3","synchronized to <*>, stratum <*>"
+203,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_A8] datasource,data_thread() got not answer from any [<*>] datasource
+1291,Parse the input log to log template.,Direct-Access ANSI SCSI revision: 02,Direct-Access ANSI SCSI revision: <*>
+825,Parse the input log to log template.,"synchronized to 10.100.22.250, stratum 3","synchronized to <*>, stratum <*>"
+845,Parse the input log to log template.,"synchronized to 10.100.20.250, stratum 3","synchronized to <*>, stratum <*>"
+1880,Parse the input log to log template.,"synchronized to 10.100.28.250, stratum 3","synchronized to <*>, stratum <*>"
+973,Parse the input log to log template.,"synchronized to 10.100.18.250, stratum 3","synchronized to <*>, stratum <*>"
+1083,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_A7] datasource,data_thread() got not answer from any [<*>] datasource
+866,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_C5] datasource,data_thread() got not answer from any [<*>] datasource
+1916,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_D8] datasource,data_thread() got not answer from any [<*>] datasource
+1234,Parse the input log to log template.,"PCI interrupt 0000:07:08.0[A] -> GSI 65 (level, low) -> IRQ 193","PCI interrupt <*> -> GSI <*> (level, low) -> IRQ <*>"
+604,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_B7] datasource,data_thread() got not answer from any [<*>] datasource
+1121,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_C8] datasource,data_thread() got not answer from any [<*>] datasource
+288,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_C1] datasource,data_thread() got not answer from any [<*>] datasource
+1517,Parse the input log to log template.,removing time,removing <*>
+1987,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_B2] datasource,data_thread() got not answer from any [<*>] datasource
+840,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_D8] datasource,data_thread() got not answer from any [<*>] datasource
+70,Parse the input log to log template.,"synchronized to 10.100.22.250, stratum 3","synchronized to <*>, stratum <*>"
+749,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_A7] datasource,data_thread() got not answer from any [<*>] datasource
+1064,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_A5] datasource,data_thread() got not answer from any [<*>] datasource
+985,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_B8] datasource,data_thread() got not answer from any [<*>] datasource
+1766,Parse the input log to log template.,"synchronized to 10.100.20.250, stratum 3","synchronized to <*>, stratum <*>"
+1713,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_B8] datasource,data_thread() got not answer from any [<*>] datasource
+1207,Parse the input log to log template.,PCI Interrupt Link [LNKA] (IRQs 3 4 5 6 7 10 11 12) *14,PCI Interrupt Link [<*>] (IRQs <*> <*> <*> <*> <*> <*> <*> <*>) <*>
+1488,Parse the input log to log template.,Reading included configuration file: /etc/xinetd.d/daytime [file=/etc/xinetd.d/daytime] [line=11],Reading included configuration file: <*> [file=<*>] [line=<*>]
+1275,Parse the input log to log template.,Registered protocol family 16,Registered protocol family <*>
+1038,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_B8] datasource,data_thread() got not answer from any [<*>] datasource
+1898,Parse the input log to log template.,[ib_sm_sweep.c:1455]: No topology change,[ib_sm_sweep.c:<*>]: No topology change
+1679,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_D5] datasource,data_thread() got not answer from any [<*>] datasource
+21,Parse the input log to log template.,session closed for user root,session closed for user <*>
+1237,Parse the input log to log template.,Power Button (FF) [PWRF],Power Button (FF) [PWRF]
+284,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_A1] datasource,data_thread() got not answer from any [<*>] datasource
+1788,Parse the input log to log template.,"synchronized to 10.100.16.250, stratum 3","synchronized to <*>, stratum <*>"
+1743,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_B1] datasource,data_thread() got not answer from any [<*>] datasource
+295,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_B2] datasource,data_thread() got not answer from any [<*>] datasource
+1115,Parse the input log to log template.,"synchronized to 10.100.20.250, stratum 3","synchronized to <*>, stratum <*>"
+222,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_D5] datasource,data_thread() got not answer from any [<*>] datasource
+1609,Parse the input log to log template.,"synchronized to 10.100.26.250, stratum 3","synchronized to <*>, stratum <*>"
+581,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_D6] datasource,data_thread() got not answer from any [<*>] datasource
+1850,Parse the input log to log template.,"synchronized to 10.100.22.250, stratum 3","synchronized to <*>, stratum <*>"
+1745,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_C8] datasource,data_thread() got not answer from any [<*>] datasource
+1415,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_B1] datasource,data_thread() got not answer from any [<*>] datasource
+1218,Parse the input log to log template.,PCI Interrupt Routing Table [\_SB_.PCI0.PBHI.PXB1._PRT],PCI Interrupt Routing Table [<*>]
+1518,Parse the input log to log template.,removing time,removing <*>
+1398,Parse the input log to log template.,Warning: we failed to resolve data source name bn398 bn399 bn400 bn401 bn402 bn403 bn404 bn405 bn406 bn407 bn408 bn409 bn410 bn411 bn412 bn413 bn414 bn415 bn416 bn417 bn418 bn419 bn420 bn421 bn422 bn423 bn424 bn425 bn426 bn427 bn428 bn429 bn430 bn431 bn432 bn433 bn434 bn435 bn436 bn437 bn438 bn439 bn440 bn441 bn442 bn443 bn444 bn445 bn446 bn447 bn448 bn449 bn450 bn451 bn452 bn453 bn454 bn455 bn456 bn457 bn458 bn459 bn460 bn461 bn462 bn463 bn464 bn465 bn466 bn467 bn468 bn469 bn470 bn471 bn472 bn473 bn474 bn475 bn476 bn477 bn478 bn479 bn480 bn481 bn482 bn483 bn484 bn485 bn486 bn487 bn488 bn489 bn490 bn491 bn492 bn493 bn494 bn495 bn496 bn497 bn498 bn499 bn500 bn501 bn502 bn503 bn504 bn505 bn506 bn507 bn508 bn509 bn510 bn511 bn512,Warning: we failed to resolve data source name <*>
+1091,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_C6] datasource,data_thread() got not answer from any [<*>] datasource
+1390,Parse the input log to log template.,Warning: we failed to resolve data source name an398 an399 an400 an401 an402 an403 an404 an405 an406 an407 an408 an409 an410 an411 an412 an413 an414 an415 an416 an417 an418 an419 an420 an421 an422 an423 an424 an425 an426 an427 an428 an429 an430 an431 an432 an433 an434 an435 an436 an437 an438 an439 an440 an441 an442 an443 an444 an445 an446 an447 an448 an449 an450 an451 an452 an453 an454 an455 an456 an457 an458 an459 an460 an461 an462 an463 an464 an465 an466 an467 an468 an469 an470 an471 an472 an473 an474 an475 an476 an477 an478 an479 an480 an481 an482 an483 an484 an485 an486 an487 an488 an489 an490 an491 an492 an493 an494 an495 an496 an497 an498 an499 an500 an501 an502 an503 an504 an505 an506 an507 an508 an509 an510 an511 an512,Warning: we failed to resolve data source name <*>
+783,Parse the input log to log template.,data_thread() got not answer from any [Thunderbird_C8] datasource,data_thread() got not answer from any [<*>] datasource

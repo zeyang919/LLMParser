@@ -1,0 +1,401 @@
+,instruction,Content,EventTemplate
+751,Parse the input log to log template.,"proxy.cse.cuhk.edu.hk:5070 close, 2842 bytes (2.77 KB) sent, 282 bytes received, lifetime 00:02","<*> close, <*> sent, <*> received, lifetime <*>"
+1545,Parse the input log to log template.,lh3.googleusercontent.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+881,Parse the input log to log template.,"proxy.cse.cuhk.edu.hk:5070 close, 1054 bytes (1.02 KB) sent, 366 bytes received, lifetime <1 sec","<*> close, <*> sent, <*> received, lifetime <*>"
+396,Parse the input log to log template.,cgi.qqweb.qq.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+509,Parse the input log to log template.,"proxy.cse.cuhk.edu.hk:5070 close, 960 bytes sent, 8386 bytes (8.18 KB) received, lifetime 03:01","<*> close, <*> sent, <*> received, lifetime <*>"
+1217,Parse the input log to log template.,avatars3.githubusercontent.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+416,Parse the input log to log template.,"impservice.dictapp.youdao.com:80 close, 666 bytes sent, 709 bytes received, lifetime 00:10","<*> close, <*> sent, <*> received, lifetime <*>"
+1701,Parse the input log to log template.,r3---sn-i3b7kn7s.googlevideo.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+1447,Parse the input log to log template.,short.weixin.qq.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+9,Parse the input log to log template.,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+1371,Parse the input log to log template.,api.github.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+335,Parse the input log to log template.,"proxy.cse.cuhk.edu.hk:5070 close, 793 bytes sent, 180 bytes received, lifetime 00:20","<*> close, <*> sent, <*> received, lifetime <*>"
+541,Parse the input log to log template.,"proxy.cse.cuhk.edu.hk:5070 close, 409 bytes sent, 52645 bytes (51.4 KB) received, lifetime 00:01","<*> close, <*> sent, <*> received, lifetime <*>"
+1023,Parse the input log to log template.,t12.baidu.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+60,Parse the input log to log template.,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+1610,Parse the input log to log template.,fs-conn-doctor.qq.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+1878,Parse the input log to log template.,client-cf.dropbox.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+314,Parse the input log to log template.,"proxy.cse.cuhk.edu.hk:5070 close, 1457 bytes (1.42 KB) sent, 5146 bytes (5.02 KB) received, lifetime 00:10","<*> close, <*> sent, <*> received, lifetime <*>"
+619,Parse the input log to log template.,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+296,Parse the input log to log template.,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+1199,Parse the input log to log template.,long.open.weixin.qq.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+1339,Parse the input log to log template.,api.github.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+907,Parse the input log to log template.,"proxy.cse.cuhk.edu.hk:5070 close, 1237 bytes (1.20 KB) sent, 1164 bytes (1.13 KB) received, lifetime 04:00","<*> close, <*> sent, <*> received, lifetime <*>"
+598,Parse the input log to log template.,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+1205,Parse the input log to log template.,"update.googleapis.com:443 close, 298 bytes sent, 4250 bytes (4.15 KB) received, lifetime <1 sec","<*> close, <*> sent, <*> received, lifetime <*>"
+364,Parse the input log to log template.,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+1419,Parse the input log to log template.,"accounts.google.com:443 close, 2834 bytes (2.76 KB) sent, 1881 bytes (1.83 KB) received, lifetime 04:05","<*> close, <*> sent, <*> received, lifetime <*>"
+846,Parse the input log to log template.,"proxy.cse.cuhk.edu.hk:5070 close, 1576 bytes (1.53 KB) sent, 702 bytes received, lifetime 02:19","<*> close, <*> sent, <*> received, lifetime <*>"
+642,Parse the input log to log template.,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+1148,Parse the input log to log template.,t12.baidu.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+1727,Parse the input log to log template.,d.dropbox.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+1283,Parse the input log to log template.,csi.gstatic.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+760,Parse the input log to log template.,"proxy.cse.cuhk.edu.hk:5070 close, 2132 bytes (2.08 KB) sent, 822 bytes received, lifetime 00:29","<*> close, <*> sent, <*> received, lifetime <*>"
+134,Parse the input log to log template.,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+260,Parse the input log to log template.,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+556,Parse the input log to log template.,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+1992,Parse the input log to log template.,mhfm5.us.cdndm5.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+1906,Parse the input log to log template.,pv.mini.sohu.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+1944,Parse the input log to log template.,bolt.dropbox.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+1896,Parse the input log to log template.,"www.evernote.com:443 close, 0 bytes sent, 0 bytes received, lifetime 00:10","<*> close, <*> sent, <*> received, lifetime <*>"
+1454,Parse the input log to log template.,trello.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+649,Parse the input log to log template.,"proxy.cse.cuhk.edu.hk:5070 close, 1616 bytes (1.57 KB) sent, 42950 bytes (41.9 KB) received, lifetime 00:01","<*> close, <*> sent, <*> received, lifetime <*>"
+1375,Parse the input log to log template.,"drive-thirdparty.googleusercontent.com:443 close, 484 bytes sent, 4707 bytes (4.59 KB) received, lifetime 00:17","<*> close, <*> sent, <*> received, lifetime <*>"
+1500,Parse the input log to log template.,www.baidu.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+1670,Parse the input log to log template.,"www.google.com:443 close, 3218 bytes (3.14 KB) sent, 24541 bytes (23.9 KB) received, lifetime 10:42","<*> close, <*> sent, <*> received, lifetime <*>"
+1761,Parse the input log to log template.,"get.sogou.com:80 close, 671 bytes sent, 328 bytes received, lifetime <1 sec","<*> close, <*> sent, <*> received, lifetime <*>"
+1017,Parse the input log to log template.,odr.mookie1.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+1560,Parse the input log to log template.,"ogs.google.com:443 close, 2476 bytes (2.41 KB) sent, 2643 bytes (2.58 KB) received, lifetime 04:28","<*> close, <*> sent, <*> received, lifetime <*>"
+285,Parse the input log to log template.,"proxy.cse.cuhk.edu.hk:5070 close, 397 bytes sent, 3558 bytes (3.47 KB) received, lifetime 00:01","<*> close, <*> sent, <*> received, lifetime <*>"
+1731,Parse the input log to log template.,"d.dropbox.com:443 close, 6579 bytes (6.42 KB) sent, 5944 bytes (5.80 KB) received, lifetime 01:01","<*> close, <*> sent, <*> received, lifetime <*>"
+492,Parse the input log to log template.,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+1413,Parse the input log to log template.,"user-images.githubusercontent.com:443 close, 335 bytes sent, 4369 bytes (4.26 KB) received, lifetime 00:40","<*> close, <*> sent, <*> received, lifetime <*>"
+50,Parse the input log to log template.,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+1938,Parse the input log to log template.,r5---sn-i3b7kn7r.googlevideo.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+1789,Parse the input log to log template.,info.pinyin.sogou.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+1424,Parse the input log to log template.,"d.dropbox.com:443 close, 1337 bytes (1.30 KB) sent, 4946 bytes (4.83 KB) received, lifetime 01:00","<*> close, <*> sent, <*> received, lifetime <*>"
+215,Parse the input log to log template.,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+956,Parse the input log to log template.,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+1975,Parse the input log to log template.,s1.bdstatic.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+1428,Parse the input log to log template.,security.ie.sogou.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+1654,Parse the input log to log template.,"block.dropbox.com:443 close, 0 bytes sent, 0 bytes received, lifetime <1 sec","<*> close, <*> sent, <*> received, lifetime <*>"
+616,Parse the input log to log template.,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+408,Parse the input log to log template.,"proxy.cse.cuhk.edu.hk:5070 close, 1002 bytes sent, 12309 bytes (12.0 KB) received, lifetime 00:01","<*> close, <*> sent, <*> received, lifetime <*>"
+1446,Parse the input log to log template.,config.pinyin.sogou.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+547,Parse the input log to log template.,"proxy.cse.cuhk.edu.hk:5070 close, 513 bytes sent, 22162 bytes (21.6 KB) received, lifetime 00:01","<*> close, <*> sent, <*> received, lifetime <*>"
+1957,Parse the input log to log template.,yt3.ggpht.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+1216,Parse the input log to log template.,lh4.googleusercontent.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+1379,Parse the input log to log template.,www.google.com.hk:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+1299,Parse the input log to log template.,"d0.sina.com.cn:443 close, 328 bytes sent, 3654 bytes (3.56 KB) received, lifetime <1 sec","<*> close, <*> sent, <*> received, lifetime <*>"
+1273,Parse the input log to log template.,api.github.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+1181,Parse the input log to log template.,img.3367.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+1700,Parse the input log to log template.,"plus.google.com:443 close, 2130 bytes (2.08 KB) sent, 1035 bytes (1.01 KB) received, lifetime 05:41","<*> close, <*> sent, <*> received, lifetime <*>"
+1902,Parse the input log to log template.,"clients6.google.com:443 close, 2987 bytes (2.91 KB) sent, 5913 bytes (5.77 KB) received, lifetime 07:04","<*> close, <*> sent, <*> received, lifetime <*>"
+993,Parse the input log to log template.,"i9.baidu.com:80 close, 0 bytes sent, 0 bytes received, lifetime 00:27","<*> close, <*> sent, <*> received, lifetime <*>"
+781,Parse the input log to log template.,"proxy.cse.cuhk.edu.hk:5070 close, 0 bytes sent, 0 bytes received, lifetime 00:05","<*> close, <*> sent, <*> received, lifetime <*>"
+286,Parse the input log to log template.,"proxy.cse.cuhk.edu.hk:5070 close, 519 bytes sent, 313 bytes received, lifetime 00:01","<*> close, <*> sent, <*> received, lifetime <*>"
+1469,Parse the input log to log template.,c.baidu.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+280,Parse the input log to log template.,"proxy.cse.cuhk.edu.hk:5070 close, 2717 bytes (2.65 KB) sent, 1911 bytes (1.86 KB) received, lifetime 04:50","<*> close, <*> sent, <*> received, lifetime <*>"
+852,Parse the input log to log template.,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+833,Parse the input log to log template.,"proxy.cse.cuhk.edu.hk:5070 close, 0 bytes sent, 0 bytes received, lifetime 00:01","<*> close, <*> sent, <*> received, lifetime <*>"
+798,Parse the input log to log template.,"proxy.cse.cuhk.edu.hk:5070 close, 2532 bytes (2.47 KB) sent, 750 bytes received, lifetime 00:41","<*> close, <*> sent, <*> received, lifetime <*>"
+1571,Parse the input log to log template.,"www.google.com.hk:443 close, 734 bytes sent, 229 bytes received, lifetime 00:12","<*> close, <*> sent, <*> received, lifetime <*>"
+1012,Parse the input log to log template.,"clients6.google.com:443 close, 3216 bytes (3.14 KB) sent, 2391 bytes (2.33 KB) received, lifetime 05:04","<*> close, <*> sent, <*> received, lifetime <*>"
+1252,Parse the input log to log template.,3.client-channel.google.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+1449,Parse the input log to log template.,dict.youdao.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+1566,Parse the input log to log template.,c.trello.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+520,Parse the input log to log template.,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+937,Parse the input log to log template.,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+365,Parse the input log to log template.,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+1923,Parse the input log to log template.,"i2.itc.cn:80 error : Could not connect through proxy proxy.cse.cuhk.edu.hk:5070 - Proxy server cannot establish a connection with the target, status code 503","<*> error : Could not connect through proxy <*> - Proxy server cannot establish a connection with the target, status code <*>"
+1130,Parse the input log to log template.,"bdimg.share.baidu.com:80 close, 0 bytes sent, 0 bytes received, lifetime 00:19","<*> close, <*> sent, <*> received, lifetime <*>"
+915,Parse the input log to log template.,oimagec1.ydstatic.com:80 error : A connection request was canceled before the completion.,<*> error : A connection request was canceled before the completion.
+1460,Parse the input log to log template.,server26401.teamviewer.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+916,Parse the input log to log template.,oimageb5.ydstatic.com:80 error : A connection request was canceled before the completion.,<*> error : A connection request was canceled before the completion.
+377,Parse the input log to log template.,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+1383,Parse the input log to log template.,pixel.facebook.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+905,Parse the input log to log template.,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+591,Parse the input log to log template.,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+922,Parse the input log to log template.,oimageb4.ydstatic.com:80 error : A connection request was canceled before the completion.,<*> error : A connection request was canceled before the completion.
+733,Parse the input log to log template.,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+1421,Parse the input log to log template.,"clients4.google.com:443 close, 3547 bytes (3.46 KB) sent, 918 bytes received, lifetime 06:12","<*> close, <*> sent, <*> received, lifetime <*>"
+310,Parse the input log to log template.,"proxy.cse.cuhk.edu.hk:5070 close, 592 bytes sent, 4760 bytes (4.64 KB) received, lifetime 00:16","<*> close, <*> sent, <*> received, lifetime <*>"
+1647,Parse the input log to log template.,"qbwup.imtt.qq.com:80 close, 494 bytes sent, 208 bytes received, lifetime 00:37","<*> close, <*> sent, <*> received, lifetime <*>"
+1328,Parse the input log to log template.,"data.grammarly.com:443 close, 1277 bytes (1.24 KB) sent, 3833 bytes (3.74 KB) received, lifetime 00:11","<*> close, <*> sent, <*> received, lifetime <*>"
+1917,Parse the input log to log template.,"p.inte.sogou.com:80 close, 5061 bytes (4.94 KB) sent, 1248 bytes (1.21 KB) received, lifetime 00:15","<*> close, <*> sent, <*> received, lifetime <*>"
+415,Parse the input log to log template.,"proxy.cse.cuhk.edu.hk:5070 close, 2553 bytes (2.49 KB) sent, 2221 bytes (2.16 KB) received, lifetime 04:00","<*> close, <*> sent, <*> received, lifetime <*>"
+669,Parse the input log to log template.,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+817,Parse the input log to log template.,"proxy.cse.cuhk.edu.hk:5070 close, 4528 bytes (4.42 KB) sent, 648 bytes received, lifetime 01:03","<*> close, <*> sent, <*> received, lifetime <*>"
+1452,Parse the input log to log template.,c.trello.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+351,Parse the input log to log template.,"proxy.cse.cuhk.edu.hk:5070 close, 1714 bytes (1.67 KB) sent, 865 bytes received, lifetime 02:07","<*> close, <*> sent, <*> received, lifetime <*>"
+1229,Parse the input log to log template.,"www.google-analytics.com:443 close, 1770 bytes (1.72 KB) sent, 5146 bytes (5.02 KB) received, lifetime 04:02","<*> close, <*> sent, <*> received, lifetime <*>"
+1286,Parse the input log to log template.,tvax1.sinaimg.cn:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+1030,Parse the input log to log template.,"c.baidu.com:80 close, 1052 bytes (1.02 KB) sent, 113 bytes received, lifetime <1 sec","<*> close, <*> sent, <*> received, lifetime <*>"
+1005,Parse the input log to log template.,"dup.baidustatic.com:443 close, 814 bytes sent, 4145 bytes (4.04 KB) received, lifetime 01:00","<*> close, <*> sent, <*> received, lifetime <*>"
+491,Parse the input log to log template.,"proxy.cse.cuhk.edu.hk:5070 close, 1368 bytes (1.33 KB) sent, 20811 bytes (20.3 KB) received, lifetime 01:00","<*> close, <*> sent, <*> received, lifetime <*>"
+664,Parse the input log to log template.,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+112,Parse the input log to log template.,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+539,Parse the input log to log template.,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+522,Parse the input log to log template.,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+1997,Parse the input log to log template.,"t12.baidu.com:80 close, 0 bytes sent, 0 bytes received, lifetime 00:17","<*> close, <*> sent, <*> received, lifetime <*>"
+1215,Parse the input log to log template.,csi.gstatic.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+208,Parse the input log to log template.,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+85,Parse the input log to log template.,"proxy.cse.cuhk.edu.hk:5070 close, 1325 bytes (1.29 KB) sent, 514 bytes received, lifetime <1 sec","<*> close, <*> sent, <*> received, lifetime <*>"
+1563,Parse the input log to log template.,get.sogou.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+609,Parse the input log to log template.,"proxy.cse.cuhk.edu.hk:5070 close, 553 bytes sent, 28794 bytes (28.1 KB) received, lifetime <1 sec","<*> close, <*> sent, <*> received, lifetime <*>"
+1214,Parse the input log to log template.,"lh4.googleusercontent.com:443 close, 471 bytes sent, 4692 bytes (4.58 KB) received, lifetime 00:11","<*> close, <*> sent, <*> received, lifetime <*>"
+1728,Parse the input log to log template.,go.microsoft.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+1660,Parse the input log to log template.,"client-lb.dropbox.com:443 close, 0 bytes sent, 0 bytes received, lifetime <1 sec","<*> close, <*> sent, <*> received, lifetime <*>"
+1703,Parse the input log to log template.,mtalk.google.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+1662,Parse the input log to log template.,mtalk.google.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+206,Parse the input log to log template.,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+914,Parse the input log to log template.,oimagea3.ydstatic.com:80 error : A connection request was canceled before the completion.,<*> error : A connection request was canceled before the completion.
+241,Parse the input log to log template.,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+1864,Parse the input log to log template.,play.google.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+1532,Parse the input log to log template.,beacon.tingyun.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+127,Parse the input log to log template.,"proxy.cse.cuhk.edu.hk:5070 close, 2473 bytes (2.41 KB) sent, 1926 bytes (1.88 KB) received, lifetime 00:20","<*> close, <*> sent, <*> received, lifetime <*>"
+1096,Parse the input log to log template.,ssl.gstatic.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+758,Parse the input log to log template.,"proxy.cse.cuhk.edu.hk:5070 close, 0 bytes sent, 0 bytes received, lifetime 00:17","<*> close, <*> sent, <*> received, lifetime <*>"
+653,Parse the input log to log template.,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+340,Parse the input log to log template.,"proxy.cse.cuhk.edu.hk:5070 close, 0 bytes sent, 0 bytes received, lifetime 00:01","<*> close, <*> sent, <*> received, lifetime <*>"
+979,Parse the input log to log template.,"ss.bdimg.com:80 close, 0 bytes sent, 0 bytes received, lifetime 00:11","<*> close, <*> sent, <*> received, lifetime <*>"
+1515,Parse the input log to log template.,"f12.baidu.com:80 close, 3281 bytes (3.20 KB) sent, 102173 bytes (99.7 KB) received, lifetime 00:22","<*> close, <*> sent, <*> received, lifetime <*>"
+1895,Parse the input log to log template.,clients6.google.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+31,Parse the input log to log template.,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+1946,Parse the input log to log template.,"cidian.youdao.com:80 close, 923 bytes sent, 456 bytes received, lifetime 09:53","<*> close, <*> sent, <*> received, lifetime <*>"
+1534,Parse the input log to log template.,"static.blog.csdn.net:80 close, 2188 bytes (2.13 KB) sent, 41402 bytes (40.4 KB) received, lifetime 02:03","<*> close, <*> sent, <*> received, lifetime <*>"
+566,Parse the input log to log template.,oimagea5.ydstatic.com:80 error : A connection request was canceled before the completion.,<*> error : A connection request was canceled before the completion.
+1691,Parse the input log to log template.,"d.dropbox.com:443 close, 1021 bytes sent, 4906 bytes (4.79 KB) received, lifetime 01:01","<*> close, <*> sent, <*> received, lifetime <*>"
+1933,Parse the input log to log template.,r18---sn-vgqsenes.googlevideo.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+647,Parse the input log to log template.,"proxy.cse.cuhk.edu.hk:5070 close, 1584 bytes (1.54 KB) sent, 256548 bytes (250 KB) received, lifetime 00:01","<*> close, <*> sent, <*> received, lifetime <*>"
+1929,Parse the input log to log template.,s2.googleusercontent.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+1590,Parse the input log to log template.,"fonts.gstatic.com:443 close, 463 bytes sent, 4786 bytes (4.67 KB) received, lifetime 00:33","<*> close, <*> sent, <*> received, lifetime <*>"
+1366,Parse the input log to log template.,short.weixin.qq.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+953,Parse the input log to log template.,"proxy.cse.cuhk.edu.hk:5070 close, 1066 bytes (1.04 KB) sent, 3042 bytes (2.97 KB) received, lifetime 00:10","<*> close, <*> sent, <*> received, lifetime <*>"
+25,Parse the input log to log template.,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+808,Parse the input log to log template.,"proxy.cse.cuhk.edu.hk:5070 close, 942 bytes sent, 398 bytes received, lifetime <1 sec","<*> close, <*> sent, <*> received, lifetime <*>"
+505,Parse the input log to log template.,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+728,Parse the input log to log template.,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+838,Parse the input log to log template.,"proxy.cse.cuhk.edu.hk:5070 close, 0 bytes sent, 0 bytes received, lifetime 00:11","<*> close, <*> sent, <*> received, lifetime <*>"
+494,Parse the input log to log template.,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+1972,Parse the input log to log template.,"www.zhihu.com:443 close, 568 bytes sent, 152 bytes received, lifetime 00:18","<*> close, <*> sent, <*> received, lifetime <*>"
+944,Parse the input log to log template.,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+1198,Parse the input log to log template.,"long.open.weixin.qq.com:443 close, 1910 bytes (1.86 KB) sent, 276 bytes received, lifetime 00:27","<*> close, <*> sent, <*> received, lifetime <*>"
+643,Parse the input log to log template.,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+940,Parse the input log to log template.,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+1682,Parse the input log to log template.,"r2---sn-i3b7kne6.googlevideo.com:443 close, 17742 bytes (17.3 KB) sent, 11581393 bytes (11.0 MB) received, lifetime 01:08","<*> close, <*> sent, <*> received, lifetime <*>"
+1687,Parse the input log to log template.,"r17---sn-p5qlsn67.googlevideo.com:443 close, 1173 bytes (1.14 KB) sent, 11041 bytes (10.7 KB) received, lifetime 00:01","<*> close, <*> sent, <*> received, lifetime <*>"
+1967,Parse the input log to log template.,drive-thirdparty.googleusercontent.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+1021,Parse the input log to log template.,static.doubleclick.net:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+427,Parse the input log to log template.,oimagec7.ydstatic.com:80 error : A connection request was canceled before the completion.,<*> error : A connection request was canceled before the completion.
+1681,Parse the input log to log template.,r2---sn-i3b7kne6.googlevideo.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+1010,Parse the input log to log template.,"clients6.google.com:443 close, 1891 bytes (1.84 KB) sent, 811 bytes received, lifetime 04:00","<*> close, <*> sent, <*> received, lifetime <*>"
+1588,Parse the input log to log template.,"www.gstatic.com:443 close, 461 bytes sent, 4785 bytes (4.67 KB) received, lifetime 00:12","<*> close, <*> sent, <*> received, lifetime <*>"
+1078,Parse the input log to log template.,cidian.youdao.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+1336,Parse the input log to log template.,"assets-cdn.github.com:443 close, 1227 bytes (1.19 KB) sent, 4890 bytes (4.77 KB) received, lifetime 06:19","<*> close, <*> sent, <*> received, lifetime <*>"
+1930,Parse the input log to log template.,www.youtube.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+1,Parse the input log to log template.,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+482,Parse the input log to log template.,"proxy.cse.cuhk.edu.hk:5070 close, 983 bytes sent, 308385 bytes (301 KB) received, lifetime 01:57","<*> close, <*> sent, <*> received, lifetime <*>"
+1737,Parse the input log to log template.,"qd-update.qq.com:8080 error : Could not connect through proxy proxy.cse.cuhk.edu.hk:5070 - Proxy server cannot establish a connection with the target, status code 403","<*> error : Could not connect through proxy <*> - Proxy server cannot establish a connection with the target, status code <*>"
+793,Parse the input log to log template.,"proxy.cse.cuhk.edu.hk:5070 close, 0 bytes sent, 0 bytes received, lifetime 00:05","<*> close, <*> sent, <*> received, lifetime <*>"
+442,Parse the input log to log template.,"proxy.cse.cuhk.edu.hk:5070 close, 1212 bytes (1.18 KB) sent, 11440 bytes (11.1 KB) received, lifetime 00:59","<*> close, <*> sent, <*> received, lifetime <*>"
+1831,Parse the input log to log template.,client-cf.dropbox.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+878,Parse the input log to log template.,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+1863,Parse the input log to log template.,"d.dropbox.com:443 close, 2560 bytes (2.50 KB) sent, 4976 bytes (4.85 KB) received, lifetime 01:01","<*> close, <*> sent, <*> received, lifetime <*>"
+900,Parse the input log to log template.,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+608,Parse the input log to log template.,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+1263,Parse the input log to log template.,"pic4.zhimg.com:443 close, 330 bytes sent, 3763 bytes (3.67 KB) received, lifetime 00:11","<*> close, <*> sent, <*> received, lifetime <*>"
+859,Parse the input log to log template.,"proxy.cse.cuhk.edu.hk:5070 close, 435 bytes sent, 356 bytes received, lifetime <1 sec","<*> close, <*> sent, <*> received, lifetime <*>"
+868,Parse the input log to log template.,"proxy.cse.cuhk.edu.hk:5070 close, 0 bytes sent, 0 bytes received, lifetime 00:01","<*> close, <*> sent, <*> received, lifetime <*>"
+1200,Parse the input log to log template.,"long.open.weixin.qq.com:443 close, 1910 bytes (1.86 KB) sent, 276 bytes received, lifetime 00:27","<*> close, <*> sent, <*> received, lifetime <*>"
+1899,Parse the input log to log template.,block.dropbox.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+8,Parse the input log to log template.,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+912,Parse the input log to log template.,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+1317,Parse the input log to log template.,"www.weibo.com:80 close, 2741 bytes (2.67 KB) sent, 4016 bytes (3.92 KB) received, lifetime 00:08","<*> close, <*> sent, <*> received, lifetime <*>"
+1640,Parse the input log to log template.,"short.weixin.qq.com:80 close, 425 bytes sent, 161 bytes received, lifetime <1 sec","<*> close, <*> sent, <*> received, lifetime <*>"
+1561,Parse the input log to log template.,"sb.scorecardresearch.com:443 close, 3818 bytes (3.72 KB) sent, 6276 bytes (6.12 KB) received, lifetime 11:02","<*> close, <*> sent, <*> received, lifetime <*>"
+1866,Parse the input log to log template.,clients6.google.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+1920,Parse the input log to log template.,"cdn.e9377f.com:80 close, 575 bytes sent, 243 bytes received, lifetime 00:30","<*> close, <*> sent, <*> received, lifetime <*>"
+1472,Parse the input log to log template.,"t12.baidu.com:80 close, 0 bytes sent, 0 bytes received, lifetime 00:48","<*> close, <*> sent, <*> received, lifetime <*>"
+22,Parse the input log to log template.,"proxy.cse.cuhk.edu.hk:5070 close, 408 bytes sent, 421 bytes received, lifetime 00:03","<*> close, <*> sent, <*> received, lifetime <*>"
+632,Parse the input log to log template.,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+1271,Parse the input log to log template.,www.google-analytics.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+662,Parse the input log to log template.,"proxy.cse.cuhk.edu.hk:5070 close, 0 bytes sent, 0 bytes received, lifetime 00:02","<*> close, <*> sent, <*> received, lifetime <*>"
+1583,Parse the input log to log template.,info.pinyin.sogou.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+1711,Parse the input log to log template.,"scontent-hkg3-2.xx.fbcdn.net:443 close, 3732 bytes (3.64 KB) sent, 804155 bytes (785 KB) received, lifetime 01:10","<*> close, <*> sent, <*> received, lifetime <*>"
+79,Parse the input log to log template.,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+319,Parse the input log to log template.,"proxy.cse.cuhk.edu.hk:5070 close, 4567 bytes (4.45 KB) sent, 1432 bytes (1.39 KB) received, lifetime 00:29","<*> close, <*> sent, <*> received, lifetime <*>"
+1274,Parse the input log to log template.,"api.github.com:443 close, 328 bytes sent, 3642 bytes (3.55 KB) received, lifetime 00:16","<*> close, <*> sent, <*> received, lifetime <*>"
+1178,Parse the input log to log template.,"s1.bdstatic.com:80 close, 0 bytes sent, 0 bytes received, lifetime 00:13","<*> close, <*> sent, <*> received, lifetime <*>"
+559,Parse the input log to log template.,"proxy.cse.cuhk.edu.hk:5070 close, 0 bytes sent, 0 bytes received, lifetime 00:14","<*> close, <*> sent, <*> received, lifetime <*>"
+717,Parse the input log to log template.,"proxy.cse.cuhk.edu.hk:5070 close, 0 bytes sent, 0 bytes received, lifetime 00:13","<*> close, <*> sent, <*> received, lifetime <*>"
+1536,Parse the input log to log template.,"eclick.baidu.com:443 close, 338 bytes sent, 3597 bytes (3.51 KB) received, lifetime 00:50","<*> close, <*> sent, <*> received, lifetime <*>"
+697,Parse the input log to log template.,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+29,Parse the input log to log template.,"proxy.cse.cuhk.edu.hk:5070 close, 1118 bytes (1.09 KB) sent, 340 bytes received, lifetime <1 sec","<*> close, <*> sent, <*> received, lifetime <*>"
+242,Parse the input log to log template.,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+1476,Parse the input log to log template.,223.167.104.147:80 error : Could not connect to proxy proxy.cse.cuhk.edu.hk:5070 - Could not resolve proxy.cse.cuhk.edu.hk error 11001,<*> error : Could not connect to proxy <*> - Could not resolve <*> error <*>
+930,Parse the input log to log template.,"proxy.cse.cuhk.edu.hk:5070 close, 7685 bytes (7.50 KB) sent, 51839 bytes (50.6 KB) received, lifetime 09:54","<*> close, <*> sent, <*> received, lifetime <*>"
+483,Parse the input log to log template.,"proxy.cse.cuhk.edu.hk:5070 close, 983 bytes sent, 268665 bytes (262 KB) received, lifetime 01:57","<*> close, <*> sent, <*> received, lifetime <*>"
+48,Parse the input log to log template.,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+1282,Parse the input log to log template.,"lh6.googleusercontent.com:443 close, 471 bytes sent, 4693 bytes (4.58 KB) received, lifetime 00:12","<*> close, <*> sent, <*> received, lifetime <*>"
+1492,Parse the input log to log template.,"short.weixin.qq.com:80 close, 357 bytes sent, 468 bytes received, lifetime <1 sec","<*> close, <*> sent, <*> received, lifetime <*>"
+1359,Parse the input log to log template.,avatars3.githubusercontent.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+15,Parse the input log to log template.,"proxy.cse.cuhk.edu.hk:5070 close, 0 bytes sent, 0 bytes received, lifetime <1 sec","<*> close, <*> sent, <*> received, lifetime <*>"
+259,Parse the input log to log template.,"proxy.cse.cuhk.edu.hk:5070 close, 1237 bytes (1.20 KB) sent, 676064 bytes (660 KB) received, lifetime 00:07","<*> close, <*> sent, <*> received, lifetime <*>"
+1556,Parse the input log to log template.,"pubads.g.doubleclick.net:443 close, 476 bytes sent, 4417 bytes (4.31 KB) received, lifetime 00:23","<*> close, <*> sent, <*> received, lifetime <*>"
+982,Parse the input log to log template.,"ss.bdimg.com:80 close, 0 bytes sent, 0 bytes received, lifetime 00:11","<*> close, <*> sent, <*> received, lifetime <*>"
+1499,Parse the input log to log template.,clients6.google.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+1395,Parse the input log to log template.,clients6.google.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+737,Parse the input log to log template.,"proxy.cse.cuhk.edu.hk:5070 close, 0 bytes sent, 0 bytes received, lifetime 00:20","<*> close, <*> sent, <*> received, lifetime <*>"
+923,Parse the input log to log template.,oimagec7.ydstatic.com:80 error : A connection request was canceled before the completion.,<*> error : A connection request was canceled before the completion.
+730,Parse the input log to log template.,"proxy.cse.cuhk.edu.hk:5070 close, 0 bytes sent, 0 bytes received, lifetime 00:01","<*> close, <*> sent, <*> received, lifetime <*>"
+424,Parse the input log to log template.,"proxy.cse.cuhk.edu.hk:5070 close, 451 bytes sent, 353 bytes received, lifetime <1 sec","<*> close, <*> sent, <*> received, lifetime <*>"
+1622,Parse the input log to log template.,"puui.qpic.cn:80 close, 384 bytes sent, 8601 bytes (8.39 KB) received, lifetime 00:01","<*> close, <*> sent, <*> received, lifetime <*>"
+35,Parse the input log to log template.,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+945,Parse the input log to log template.,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+1100,Parse the input log to log template.,dict.youdao.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+1301,Parse the input log to log template.,strip.alicdn.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+1771,Parse the input log to log template.,"security.ie.sogou.com:80 close, 735 bytes sent, 184 bytes received, lifetime 00:01","<*> close, <*> sent, <*> received, lifetime <*>"
+193,Parse the input log to log template.,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+146,Parse the input log to log template.,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+1231,Parse the input log to log template.,api.github.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+126,Parse the input log to log template.,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+879,Parse the input log to log template.,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+1004,Parse the input log to log template.,"www.google.com:443 close, 1740 bytes (1.69 KB) sent, 21911 bytes (21.3 KB) received, lifetime 04:01","<*> close, <*> sent, <*> received, lifetime <*>"
+1908,Parse the input log to log template.,mini.cpc.sogou.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+1294,Parse the input log to log template.,mu1.sinaimg.cn:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+1581,Parse the input log to log template.,101.226.211.46:8080 error : Could not connect to proxy proxy.cse.cuhk.edu.hk:5070 - Could not resolve proxy.cse.cuhk.edu.hk error 11001,<*> error : Could not connect to proxy <*> - Could not resolve <*> error <*>
+343,Parse the input log to log template.,"proxy.cse.cuhk.edu.hk:5070 close, 1990 bytes (1.94 KB) sent, 23862 bytes (23.3 KB) received, lifetime 00:03","<*> close, <*> sent, <*> received, lifetime <*>"
+190,Parse the input log to log template.,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+1706,Parse the input log to log template.,"fonts.gstatic.com:443 close, 733 bytes sent, 229 bytes received, lifetime 00:17","<*> close, <*> sent, <*> received, lifetime <*>"
+387,Parse the input log to log template.,"tcpconn6.tencent.com:443 close, 0 bytes sent, 0 bytes received, lifetime <1 sec","<*> close, <*> sent, <*> received, lifetime <*>"
+1964,Parse the input log to log template.,f-log-extension.grammarly.io:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+19,Parse the input log to log template.,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+1811,Parse the input log to log template.,16.client-channel.google.com:443 error : Could not connect to proxy proxy.cse.cuhk.edu.hk:5070 - connection attempt failed with error 10061,<*> error : Could not connect to proxy <*> - connection attempt failed with error <*>
+925,Parse the input log to log template.,oimageb8.ydstatic.com:80 error : A connection request was canceled before the completion.,<*> error : A connection request was canceled before the completion.
+1579,Parse the input log to log template.,get.sogou.com:80 error : Could not connect to proxy proxy.cse.cuhk.edu.hk:5070 - Could not resolve proxy.cse.cuhk.edu.hk error 11001,<*> error : Could not connect to proxy <*> - Could not resolve <*> error <*>
+1159,Parse the input log to log template.,hpd.baidu.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+667,Parse the input log to log template.,"proxy.cse.cuhk.edu.hk:5070 close, 1808 bytes (1.76 KB) sent, 346 bytes received, lifetime <1 sec","<*> close, <*> sent, <*> received, lifetime <*>"
+1127,Parse the input log to log template.,xin.4399.cn:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+109,Parse the input log to log template.,"proxy.cse.cuhk.edu.hk:5070 close, 1257 bytes (1.22 KB) sent, 421 bytes received, lifetime <1 sec","<*> close, <*> sent, <*> received, lifetime <*>"
+1802,Parse the input log to log template.,13.client-channel.google.com:443 error : Could not connect to proxy proxy.cse.cuhk.edu.hk:5070 - connection attempt failed with error 10061,<*> error : Could not connect to proxy <*> - connection attempt failed with error <*>
+540,Parse the input log to log template.,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+1147,Parse the input log to log template.,t12.baidu.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+1049,Parse the input log to log template.,video.5054399.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+1477,Parse the input log to log template.,"mtalk.google.com:443 close, 696 bytes sent, 5005 bytes (4.88 KB) received, lifetime 00:07","<*> close, <*> sent, <*> received, lifetime <*>"
+770,Parse the input log to log template.,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+1820,Parse the input log to log template.,bolt.dropbox.com:443 error : Could not connect to proxy proxy.cse.cuhk.edu.hk:5070 - connection attempt failed with error 10061,<*> error : Could not connect to proxy <*> - connection attempt failed with error <*>
+1593,Parse the input log to log template.,fonts.gstatic.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+1213,Parse the input log to log template.,fonts.gstatic.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+1868,Parse the input log to log template.,client-lb.dropbox.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+1600,Parse the input log to log template.,203.205.151.204:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+81,Parse the input log to log template.,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+1540,Parse the input log to log template.,"csdnimg.cn:80 close, 1278 bytes (1.24 KB) sent, 6854 bytes (6.69 KB) received, lifetime 02:02","<*> close, <*> sent, <*> received, lifetime <*>"
+908,Parse the input log to log template.,"proxy.cse.cuhk.edu.hk:5070 close, 2001 bytes (1.95 KB) sent, 18018 bytes (17.5 KB) received, lifetime 04:00","<*> close, <*> sent, <*> received, lifetime <*>"
+552,Parse the input log to log template.,"proxy.cse.cuhk.edu.hk:5070 close, 534 bytes sent, 388 bytes received, lifetime 00:05","<*> close, <*> sent, <*> received, lifetime <*>"
+10,Parse the input log to log template.,"proxy.cse.cuhk.edu.hk:5070 close, 451 bytes sent, 18846 bytes (18.4 KB) received, lifetime <1 sec","<*> close, <*> sent, <*> received, lifetime <*>"
+378,Parse the input log to log template.,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+830,Parse the input log to log template.,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+1798,Parse the input log to log template.,"13.client-channel.google.com:443 close, 14267 bytes (13.9 KB) sent, 36698 bytes (35.8 KB) received, lifetime 48:06","<*> close, <*> sent, <*> received, lifetime <*>"
+1000,Parse the input log to log template.,api.share.baidu.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+11,Parse the input log to log template.,"proxy.cse.cuhk.edu.hk:5070 close, 445 bytes sent, 5174 bytes (5.05 KB) received, lifetime <1 sec","<*> close, <*> sent, <*> received, lifetime <*>"
+1361,Parse the input log to log template.,"collector.githubapp.com:443 close, 0 bytes sent, 0 bytes received, lifetime 01:01","<*> close, <*> sent, <*> received, lifetime <*>"
+1882,Parse the input log to log template.,"clients6.google.com:443 close, 7738 bytes (7.55 KB) sent, 8620 bytes (8.41 KB) received, lifetime 07:17","<*> close, <*> sent, <*> received, lifetime <*>"
+532,Parse the input log to log template.,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+37,Parse the input log to log template.,"proxy.cse.cuhk.edu.hk:5070 close, 0 bytes sent, 0 bytes received, lifetime <1 sec","<*> close, <*> sent, <*> received, lifetime <*>"
+1482,Parse the input log to log template.,c.baidu.com:80 error : Could not connect to proxy proxy.cse.cuhk.edu.hk:5070 - Could not resolve proxy.cse.cuhk.edu.hk error 11001,<*> error : Could not connect to proxy <*> - Could not resolve <*> error <*>
+524,Parse the input log to log template.,"proxy.cse.cuhk.edu.hk:5070 close, 576 bytes sent, 649 bytes received, lifetime 00:01","<*> close, <*> sent, <*> received, lifetime <*>"
+1462,Parse the input log to log template.,"clients6.google.com:443 close, 16089 bytes (15.7 KB) sent, 12420 bytes (12.1 KB) received, lifetime 20:10","<*> close, <*> sent, <*> received, lifetime <*>"
+1889,Parse the input log to log template.,cidian.youdao.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+1425,Parse the input log to log template.,clients4.google.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+1245,Parse the input log to log template.,"lh6.googleusercontent.com:443 close, 471 bytes sent, 4693 bytes (4.58 KB) received, lifetime 00:13","<*> close, <*> sent, <*> received, lifetime <*>"
+56,Parse the input log to log template.,"proxy.cse.cuhk.edu.hk:5070 close, 1327 bytes (1.29 KB) sent, 3250 bytes (3.17 KB) received, lifetime <1 sec","<*> close, <*> sent, <*> received, lifetime <*>"
+1978,Parse the input log to log template.,"www.baidu.com:80 close, 0 bytes sent, 0 bytes received, lifetime 00:06","<*> close, <*> sent, <*> received, lifetime <*>"
+1655,Parse the input log to log template.,tc.dl.pinyin.sogoucdn.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+726,Parse the input log to log template.,"proxy.cse.cuhk.edu.hk:5070 close, 0 bytes sent, 0 bytes received, lifetime 00:01","<*> close, <*> sent, <*> received, lifetime <*>"
+1362,Parse the input log to log template.,"assets-cdn.github.com:443 close, 335 bytes sent, 4369 bytes (4.26 KB) received, lifetime 02:24","<*> close, <*> sent, <*> received, lifetime <*>"
+862,Parse the input log to log template.,oimagea5.ydstatic.com:80 error : A connection request was canceled before the completion.,<*> error : A connection request was canceled before the completion.
+1672,Parse the input log to log template.,"www.googleapis.com:443 close, 1106 bytes (1.08 KB) sent, 1167 bytes (1.13 KB) received, lifetime 04:00","<*> close, <*> sent, <*> received, lifetime <*>"
+388,Parse the input log to log template.,tcpconn3.tencent.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+1988,Parse the input log to log template.,eclick.baidu.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+149,Parse the input log to log template.,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+1976,Parse the input log to log template.,t12.baidu.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+573,Parse the input log to log template.,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+399,Parse the input log to log template.,"qqmail.tencent.com:80 close, 336 bytes sent, 2854 bytes (2.78 KB) received, lifetime 00:01","<*> close, <*> sent, <*> received, lifetime <*>"
+987,Parse the input log to log template.,dup.baidustatic.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+1893,Parse the input log to log template.,"info.pinyin.sogou.com:80 close, 548 bytes sent, 166 bytes received, lifetime 00:30","<*> close, <*> sent, <*> received, lifetime <*>"
+1309,Parse the input log to log template.,rm.api.weibo.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+1714,Parse the input log to log template.,collector.githubapp.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+1320,Parse the input log to log template.,rm.api.weibo.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+457,Parse the input log to log template.,"proxy.cse.cuhk.edu.hk:5070 close, 388 bytes sent, 2501 bytes (2.44 KB) received, lifetime 00:01","<*> close, <*> sent, <*> received, lifetime <*>"
+1870,Parse the input log to log template.,client-cf.dropbox.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+1704,Parse the input log to log template.,static.zhihu.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+214,Parse the input log to log template.,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+1163,Parse the input log to log template.,"dj1.baidu.com:80 close, 1369 bytes (1.33 KB) sent, 289 bytes received, lifetime 00:30","<*> close, <*> sent, <*> received, lifetime <*>"
+732,Parse the input log to log template.,"proxy.cse.cuhk.edu.hk:5070 close, 941 bytes sent, 401 bytes received, lifetime 00:01","<*> close, <*> sent, <*> received, lifetime <*>"
+106,Parse the input log to log template.,"proxy.cse.cuhk.edu.hk:5070 close, 1119 bytes (1.09 KB) sent, 3210 bytes (3.13 KB) received, lifetime <1 sec","<*> close, <*> sent, <*> received, lifetime <*>"
+1721,Parse the input log to log template.,avatars0.githubusercontent.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+1388,Parse the input log to log template.,"www.google.com.hk:443 close, 3443 bytes (3.36 KB) sent, 67897 bytes (66.3 KB) received, lifetime 04:01","<*> close, <*> sent, <*> received, lifetime <*>"
+764,Parse the input log to log template.,"proxy.cse.cuhk.edu.hk:5070 close, 588 bytes sent, 215882 bytes (210 KB) received, lifetime 00:03","<*> close, <*> sent, <*> received, lifetime <*>"
+1106,Parse the input log to log template.,"cidian.youdao.com:80 close, 2369 bytes (2.31 KB) sent, 1583 bytes (1.54 KB) received, lifetime 02:59","<*> close, <*> sent, <*> received, lifetime <*>"
+1673,Parse the input log to log template.,"qbwup.imtt.qq.com:80 close, 494 bytes sent, 208 bytes received, lifetime 00:34","<*> close, <*> sent, <*> received, lifetime <*>"
+1847,Parse the input log to log template.,clients6.google.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+1751,Parse the input log to log template.,hangouts.google.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+354,Parse the input log to log template.,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+555,Parse the input log to log template.,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+1520,Parse the input log to log template.,"cpro.baidustatic.com:80 close, 0 bytes sent, 0 bytes received, lifetime 01:00","<*> close, <*> sent, <*> received, lifetime <*>"
+801,Parse the input log to log template.,"proxy.cse.cuhk.edu.hk:5070 close, 725 bytes sent, 310 bytes received, lifetime <1 sec","<*> close, <*> sent, <*> received, lifetime <*>"
+225,Parse the input log to log template.,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+1140,Parse the input log to log template.,"mtalk.google.com:5228 error : Could not connect through proxy proxy.cse.cuhk.edu.hk:5070 - Proxy server cannot establish a connection with the target, status code 403","<*> error : Could not connect through proxy <*> - Proxy server cannot establish a connection with the target, status code <*>"
+1179,Parse the input log to log template.,sclick.baidu.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+172,Parse the input log to log template.,"proxy.cse.cuhk.edu.hk:5070 close, 1325 bytes (1.29 KB) sent, 511 bytes received, lifetime <1 sec","<*> close, <*> sent, <*> received, lifetime <*>"
+1529,Parse the input log to log template.,csdnimg.cn:80 error : A connection request was canceled before the completion.,<*> error : A connection request was canceled before the completion.
+201,Parse the input log to log template.,"proxy.cse.cuhk.edu.hk:5070 close, 1292 bytes (1.26 KB) sent, 1500 bytes (1.46 KB) received, lifetime <1 sec","<*> close, <*> sent, <*> received, lifetime <*>"
+1210,Parse the input log to log template.,"long.open.weixin.qq.com:443 close, 1985 bytes (1.93 KB) sent, 4832 bytes (4.71 KB) received, lifetime 00:02","<*> close, <*> sent, <*> received, lifetime <*>"
+612,Parse the input log to log template.,"proxy.cse.cuhk.edu.hk:5070 close, 1536 bytes (1.50 KB) sent, 5325 bytes (5.20 KB) received, lifetime 00:01","<*> close, <*> sent, <*> received, lifetime <*>"
+1817,Parse the input log to log template.,16.client-channel.google.com:443 error : Could not connect to proxy proxy.cse.cuhk.edu.hk:5070 - connection attempt failed with error 10061,<*> error : Could not connect to proxy <*> - connection attempt failed with error <*>
+1881,Parse the input log to log template.,"play.google.com:443 close, 3874 bytes (3.78 KB) sent, 2186 bytes (2.13 KB) received, lifetime 08:13","<*> close, <*> sent, <*> received, lifetime <*>"
+1432,Parse the input log to log template.,api.github.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+404,Parse the input log to log template.,"2052.flash2-http.qq.com:80 close, 466 bytes sent, 125682 bytes (122 KB) received, lifetime <1 sec","<*> close, <*> sent, <*> received, lifetime <*>"
+978,Parse the input log to log template.,"get.sogou.com:80 close, 899 bytes sent, 348 bytes received, lifetime 00:03","<*> close, <*> sent, <*> received, lifetime <*>"
+1367,Parse the input log to log template.,"clients2.google.com:443 close, 154863 bytes (151 KB) sent, 321609 bytes (314 KB) received, lifetime 01:00:12","<*> close, <*> sent, <*> received, lifetime <*>"
+1342,Parse the input log to log template.,mmbiz.qpic.cn:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+187,Parse the input log to log template.,"proxy.cse.cuhk.edu.hk:5070 close, 1166 bytes (1.13 KB) sent, 363 bytes received, lifetime <1 sec","<*> close, <*> sent, <*> received, lifetime <*>"
+1750,Parse the input log to log template.,clients5.google.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+1803,Parse the input log to log template.,www.google.com:443 error : Could not connect to proxy proxy.cse.cuhk.edu.hk:5070 - connection attempt failed with error 10061,<*> error : Could not connect to proxy <*> - connection attempt failed with error <*>
+1028,Parse the input log to log template.,sclick.baidu.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+1911,Parse the input log to log template.,"txt.go.sohu.com:80 close, 606 bytes sent, 857 bytes received, lifetime 00:07","<*> close, <*> sent, <*> received, lifetime <*>"
+1991,Parse the input log to log template.,fclick.baidu.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+333,Parse the input log to log template.,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+1102,Parse the input log to log template.,"capi.grammarly.com:443 close, 4974 bytes (4.85 KB) sent, 8661 bytes (8.45 KB) received, lifetime 02:13","<*> close, <*> sent, <*> received, lifetime <*>"
+557,Parse the input log to log template.,"proxy.cse.cuhk.edu.hk:5070 close, 1010 bytes sent, 5219 bytes (5.09 KB) received, lifetime 04:00","<*> close, <*> sent, <*> received, lifetime <*>"
+1797,Parse the input log to log template.,"www.evernote.com:443 close, 2485 bytes (2.42 KB) sent, 2359 bytes (2.30 KB) received, lifetime 04:01","<*> close, <*> sent, <*> received, lifetime <*>"
+348,Parse the input log to log template.,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+203,Parse the input log to log template.,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+1291,Parse the input log to log template.,wx1.sinaimg.cn:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+825,Parse the input log to log template.,"proxy.cse.cuhk.edu.hk:5070 close, 0 bytes sent, 0 bytes received, lifetime 00:01","<*> close, <*> sent, <*> received, lifetime <*>"
+845,Parse the input log to log template.,"proxy.cse.cuhk.edu.hk:5070 close, 952 bytes sent, 782 bytes received, lifetime 00:10","<*> close, <*> sent, <*> received, lifetime <*>"
+1880,Parse the input log to log template.,"block.dropbox.com:443 close, 0 bytes sent, 0 bytes received, lifetime <1 sec","<*> close, <*> sent, <*> received, lifetime <*>"
+973,Parse the input log to log template.,www.baidu.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+1083,Parse the input log to log template.,client-cf.dropbox.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+866,Parse the input log to log template.,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+1916,Parse the input log to log template.,"css.sohu.com:80 close, 3549 bytes (3.46 KB) sent, 108371 bytes (105 KB) received, lifetime 00:21","<*> close, <*> sent, <*> received, lifetime <*>"
+1234,Parse the input log to log template.,"live.github.com:443 close, 1207 bytes (1.17 KB) sent, 452 bytes received, lifetime 00:01","<*> close, <*> sent, <*> received, lifetime <*>"
+604,Parse the input log to log template.,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+1121,Parse the input log to log template.,"ss.bdimg.com:80 close, 0 bytes sent, 0 bytes received, lifetime 00:11","<*> close, <*> sent, <*> received, lifetime <*>"
+288,Parse the input log to log template.,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+1517,Parse the input log to log template.,"avatar.csdn.net:80 close, 0 bytes sent, 0 bytes received, lifetime 00:30","<*> close, <*> sent, <*> received, lifetime <*>"
+1987,Parse the input log to log template.,tpc.googlesyndication.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+840,Parse the input log to log template.,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+70,Parse the input log to log template.,"proxy.cse.cuhk.edu.hk:5070 close, 1210 bytes (1.18 KB) sent, 366 bytes received, lifetime <1 sec","<*> close, <*> sent, <*> received, lifetime <*>"
+749,Parse the input log to log template.,"proxy.cse.cuhk.edu.hk:5070 close, 0 bytes sent, 0 bytes received, lifetime <1 sec","<*> close, <*> sent, <*> received, lifetime <*>"
+1064,Parse the input log to log template.,"w.cnzz.com:80 close, 570 bytes sent, 11519 bytes (11.2 KB) received, lifetime 02:00","<*> close, <*> sent, <*> received, lifetime <*>"
+985,Parse the input log to log template.,cbjs.baidu.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+1766,Parse the input log to log template.,mtalk.google.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+1713,Parse the input log to log template.,avatars0.githubusercontent.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+1207,Parse the input log to log template.,"dl-debug.dropbox.com:443 close, 163539 bytes (159 KB) sent, 4712 bytes (4.60 KB) received, lifetime 01:02","<*> close, <*> sent, <*> received, lifetime <*>"
+1488,Parse the input log to log template.,clients4.google.com:443 error : Could not connect to proxy proxy.cse.cuhk.edu.hk:5070 - Could not resolve proxy.cse.cuhk.edu.hk error 11001,<*> error : Could not connect to proxy <*> - Could not resolve <*> error <*>
+1275,Parse the input log to log template.,"clients1.google.com:443 close, 939 bytes sent, 5532 bytes (5.40 KB) received, lifetime 04:00","<*> close, <*> sent, <*> received, lifetime <*>"
+1038,Parse the input log to log template.,"pos.baidu.com:80 close, 3783 bytes (3.69 KB) sent, 38448 bytes (37.5 KB) received, lifetime 00:11","<*> close, <*> sent, <*> received, lifetime <*>"
+1898,Parse the input log to log template.,clients4.google.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+1679,Parse the input log to log template.,"ogs.google.com:443 close, 461 bytes sent, 4217 bytes (4.11 KB) received, lifetime 00:29","<*> close, <*> sent, <*> received, lifetime <*>"
+21,Parse the input log to log template.,"proxy.cse.cuhk.edu.hk:5070 close, 850 bytes sent, 10547 bytes (10.2 KB) received, lifetime 00:02","<*> close, <*> sent, <*> received, lifetime <*>"
+1237,Parse the input log to log template.,"www.googleapis.com:443 close, 1733 bytes (1.69 KB) sent, 1288 bytes (1.25 KB) received, lifetime 04:00","<*> close, <*> sent, <*> received, lifetime <*>"
+284,Parse the input log to log template.,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+1788,Parse the input log to log template.,"block.dropbox.com:443 close, 0 bytes sent, 0 bytes received, lifetime <1 sec","<*> close, <*> sent, <*> received, lifetime <*>"
+1743,Parse the input log to log template.,config.pinyin.sogou.com:80 error : Could not connect through proxy proxy.cse.cuhk.edu.hk:5070 - Proxy closed the connection unexpectedly.,<*> error : Could not connect through proxy <*> - Proxy closed the connection unexpectedly.
+295,Parse the input log to log template.,"proxy.cse.cuhk.edu.hk:5070 close, 811 bytes sent, 186 bytes received, lifetime 00:01","<*> close, <*> sent, <*> received, lifetime <*>"
+1115,Parse the input log to log template.,sestat.baidu.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+222,Parse the input log to log template.,"proxy.cse.cuhk.edu.hk:5070 close, 435 bytes sent, 353 bytes received, lifetime <1 sec","<*> close, <*> sent, <*> received, lifetime <*>"
+1609,Parse the input log to log template.,puui.qpic.cn:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+581,Parse the input log to log template.,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+1850,Parse the input log to log template.,get.sogou.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+1745,Parse the input log to log template.,client-cf.dropbox.com:443 error : A connection request was canceled before the completion.,<*> error : A connection request was canceled before the completion.
+1415,Parse the input log to log template.,"dblp.uni-trier.de:80 close, 0 bytes sent, 0 bytes received, lifetime 00:15","<*> close, <*> sent, <*> received, lifetime <*>"
+1218,Parse the input log to log template.,api.github.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+1518,Parse the input log to log template.,csdnimg.cn:80 error : A connection request was canceled before the completion.,<*> error : A connection request was canceled before the completion.
+1398,Parse the input log to log template.,github.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*> open through proxy <*> HTTPS
+1091,Parse the input log to log template.,"qbwup.imtt.qq.com:80 close, 494 bytes sent, 208 bytes received, lifetime 00:32","<*> close, <*> sent, <*> received, lifetime <*>"
+1390,Parse the input log to log template.,"proxy.cse.cuhk.edu.hk:5070 close, 999 bytes sent, 4582 bytes (4.47 KB) received, lifetime 00:02","<*> close, <*> sent, <*> received, lifetime <*>"
+783,Parse the input log to log template.,"proxy.cse.cuhk.edu.hk:5070 close, 3029 bytes (2.95 KB) sent, 65994 bytes (64.4 KB) received, lifetime 00:27","<*> close, <*> sent, <*> received, lifetime <*>"

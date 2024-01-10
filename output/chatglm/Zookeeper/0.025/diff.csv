@@ -1,0 +1,14 @@
+Server environment:user.dir=/,Server environment:user.dir=/,Server environment:<*>
+"Have smaller server identifier, so dropping the connection: (2, 1)","Have smaller server identifier, so dropping the connection: <*>, <*>","Have smaller server identifier, so dropping the connection: (<*>, <*>)"
+Server environment:host.name=mesos-master-1,Server environment:host.name=<mesos-master-1>,Server environment:<*>
+FOLLOWING - LEADER ELECTION TOOK - 49,FOLLOWING - LEADER ELECTION TOOK - 49,FOLLOWING - LEADER ELECTION TOOK - <*>
+FOLLOWING - LEADER ELECTION TOOK - 238,FOLLOWING - LEADER ELECTION TOOK - 238,FOLLOWING - LEADER ELECTION TOOK - <*>
+Server environment:java.vendor=Oracle Corporation,Server environment:<*>.vendor=Oracle Corporation,Server environment:<*>
+"Server environment:zookeeper.version=3.4.5--1, built on 06/10/2013 17:26 GMT","Server environment:zookeeper.version=<*>, built on <*>:<*> GMT",Server environment:<*>
+Server environment:user.name=zookeeper,Server environment:user.name=<zookeeper>,Server environment:<*>
+Server environment:os.name=Linux,Server environment:os.name=<Linux>,Server environment:<*>
+Server environment:java.vendor=Oracle Corporation,Server environment:<*>.vendor=Oracle Corporation,Server environment:<*>
+Server environment:java.class.path=/etc/zookeeper/conf:/usr/share/java/jline.jar:/usr/share/java/log4j-1.2.jar:/usr/share/java/xercesImpl.jar:/usr/share/java/xmlParserAPIs.jar:/usr/share/java/netty.jar:/usr/share/java/slf4j-api.jar:/usr/share/java/slf4j-log4j12.jar:/usr/share/java/zookeeper.jar,Server environment:java.class.path=/etc/zookeeper/conf:/usr/share/java/jline.jar:/usr/share/java/log4j-1.2.jar:/usr/share/java/xercesImpl.jar:/usr/share/java/xmlParserAPIs.jar:/usr/share/java/netty.jar:/usr/share/java/slf4j-api.jar:/usr/share/java/,Server environment:<*>
+Server environment:os.name=Linux,Server environment:os.name=<Linux>,Server environment:<*>
+Server environment:user.name=zookeeper,Server environment:user.name=<zookeeper>,Server environment:<*>
+Server environment:java.home=/usr/lib/jvm/java-7-openjdk-amd64/jre,Server environment:<*>/<*>,Server environment:<*>

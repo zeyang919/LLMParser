@@ -75,7 +75,7 @@ def prepare_data(project,precentage):
     raw_dataset.rename(columns=new_column_names, inplace=True)
     # validation
     dataset_path = (
-        "logs/" + project + "/validation/train.json"
+        "../logs/" + project + "/validation/train.json"
     )
     validation_dataset = pd.read_json(dataset_path)
     validation_dataset = validation_dataset.drop(columns=['instruction'])
@@ -87,7 +87,7 @@ def prepare_data(project,precentage):
     
     # test
     dataset_path = (
-        "logs/" + project + "/validation/train.json"
+        "../logs/" + project + "/validation/train.json"
     )
     test_dataset = pd.read_json(dataset_path)
     test_dataset = test_dataset.drop(columns=['instruction'])

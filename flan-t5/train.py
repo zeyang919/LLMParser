@@ -64,7 +64,7 @@ model_name2 = "{}_{}_400_2000_{}epoch_{}batch".format(
 def prepare_data(project,precentage):
     # project="Android"
     dataset_path = (
-        "logs/" + project + "/" + precentage + "/train.json"
+        "../logs/" + project + "/" + precentage + "/train.json"
     )
     raw_dataset = pd.read_json(dataset_path)
     raw_dataset = raw_dataset.drop(columns=['instruction'])

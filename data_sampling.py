@@ -16,7 +16,7 @@ args = parser.parse_args()
 
 project=args.project
 if args.shot!=0:
-    precentage=2000*float(args.shot)
+    precentage=float(args.shot/2000)
 else:
     precentage=args.precentage
 

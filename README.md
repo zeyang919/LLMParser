@@ -74,7 +74,7 @@ sh flan-t5-base.sh
 
 Sample 50 logs from Mac dataset
 ```shell
-python train.py --project "Mac" \
+python data_sampling --project "Mac" \
                 --shot 50
 ```
 

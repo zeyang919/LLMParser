@@ -40,7 +40,12 @@ args = parser.parse_args()
 
 
 os.environ["CUDA_VISIBLE_DEVICES"] = "0"
-use_cuda = True
+if torch.cuda.is_available():
+    use_cuda = True
+else:
+    use_cuda = False
+print(f"Using cuda: {use_cuda}")
+
 seed = 41
 random.seed(seed)
 batch_size = args.batch_size
@@ -51,7 +56,6 @@ if args.validation == "validation":
     validation = True
 else:
     validation = False
-    
 
 model_name = "t5"
 pretrainedmodel_path = "../LLMs/{}/".format(args.model)  # the path of the pre-trained model
@@ -68,7 +72,7 @@ def prepare_data(project,precentage):
     )
     raw_dataset = pd.read_json(dataset_path)
     raw_dataset = raw_dataset.drop(columns=['instruction'])
-    raw_dataset = raw_dataset.applymap(
+    raw_dataset = raw_dataset.map(
         str
     )  # must convert to string or else will hit error
     new_column_names = {'input': 'Content', 'output': 'EventTemplate'}
@@ -79,19 +83,20 @@ def prepare_data(project,precentage):
     )
     validation_dataset = pd.read_json(dataset_path)
     validation_dataset = validation_dataset.drop(columns=['instruction'])
-    validation_dataset = validation_dataset.applymap(
+    validation_dataset = validation_dataset.map(
         str
     )  # must convert to string or else will hit error
     new_column_names = {'input': 'Content', 'output': 'EventTemplate'}
     validation_dataset.rename(columns=new_column_names, inplace=True)
-    
+
     # test
     dataset_path = (
-        "../logs/" + project + "/validation/train.json"
+        # "../logs/" + project + "/validation/train.json"
+        "../logs/" + project + "/test/train.json"
     )
     test_dataset = pd.read_json(dataset_path)
     test_dataset = test_dataset.drop(columns=['instruction'])
-    test_dataset = test_dataset.applymap(
+    test_dataset = test_dataset.map(
         str
     )  # must convert to string or else will hit error
     new_column_names = {'input': 'Content', 'output': 'EventTemplate'}

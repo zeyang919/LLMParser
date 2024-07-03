@@ -21,11 +21,7 @@ args = parser.parse_args()
 project_list = args.systems.split(",")
 
 
-def evaluate(predic_file):
-    column_names = ["log", "Predict", "EventTemplate"]
-    df_parsedlog = pd.read_csv(
-        predic_file, index_col=False, header=None, names=column_names
-    )
+def evaluate(df_parsedlog):
     df_parsedlog["Predict_NoSpaces"] = df_parsedlog["Predict"].str.replace(
         "\s+", "", regex=True
     )
@@ -98,9 +94,10 @@ def get_accuracy(series_groundtruth, series_parsedlog, debug=False):
         for count in series_groundtruth_logId_valuecounts:
             if count > 1:
                 accurate_pairs += scipy.special.comb(count, 2)
-    precision = float(accurate_pairs) / parsed_pairs
-    recall = float(accurate_pairs) / real_pairs
-    f_measure = 2 * precision * recall / (precision + recall)
+
+    precision = float(accurate_pairs) / parsed_pairs if parsed_pairs > 0 else 0
+    recall = float(accurate_pairs) / real_pairs if real_pairs > 0 else 0
+    f_measure = 2 * precision * recall / (precision + recall) if (precision+recall) > 0 else 0
     accuracy = float(accurate_events) / series_groundtruth.size
     return precision, recall, f_measure, accuracy
 
@@ -112,20 +109,23 @@ def seen_template(project, precentage):
     return template_list
 
 
-def get_unseen_logs(project, precentage):
+def get_unseen_logs(model_name, project, precentage):
     template_list = seen_template(project, precentage)
+    logs = []
     predict_logs = []
     predict_log_template = []
-    prediction_file = "../output/{}/{}/{}/".format(
-        args.model, project, args.train_percentage
+    prediction_file = "../output/{}/{}/{}/prediction.csv".format(
+        model_name, project, precentage
     )
     with open(prediction_file) as f:
         f = csv.reader(f)
         for i in f:
             if i[2] not in template_list:
+                logs.append(i[0])
                 predict_logs.append(i[1])
                 predict_log_template.append(i[2])
-    df = pd.DataFrame(predict_logs, columns=["Predict"])
+    df = pd.DataFrame(logs, columns=["log"])
+    df["Predict"] = predict_logs
     df["EventTemplate"] = predict_log_template
     return df
 
@@ -150,17 +150,21 @@ def unseen_accuracy(model_name,project_list,precentages):
             f = csv.writer(f)
             f.writerow(ls_head)
             f.writerows(results)
-    return True
 
 
 model = args.model
+
 results = []
 for project in project_list:
-    file_path = "../output/{}/{}/{}/".format(args.model, project, args.train_percentage)
-    GA, PA, ED, ED_std = evaluate(file_path)
+    file_path = "../output/{}/{}/{}/prediction.csv".format(args.model, project, args.train_percentage)
+    column_names = ["log", "Predict", "EventTemplate"]
+    df_parsedlog = pd.read_csv(
+        file_path, index_col=False, header=None, names=column_names
+    )
+    GA, PA, ED, ED_std = evaluate(df_parsedlog)
     print(project, args.train_percentage, GA, PA, ED, ED_std)
     results.append([project, GA, PA, ED, ED_std])
-#
+
 ls_head = ["project", "GP", "PA", "ED", "ED_std"]
 file_path = "evaluation/" + model + "/" + args.train_percentage + "/"
 if not os.path.exists(file_path):
@@ -169,7 +173,6 @@ with open(file_path + "result.csv", "w") as f:
     f = csv.writer(f)
     f.writerow(ls_head)
     f.writerows(results)
+
 #unseen
-unseen_accuracy(model,project_list,args.train_percentage)
-
-
+# unseen_accuracy(model,project_list,[args.train_percentage])
